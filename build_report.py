@@ -160,7 +160,7 @@ def build(source, output, draft):
             story.extend([KeepTogether([table]) if table_height < 675 else table,Spacer(1,10)])
         i+=1
     output.parent.mkdir(parents=True,exist_ok=True)
-    doc=BaseDocTemplate(str(output),pagesize=(595.3,841.9),leftMargin=56,rightMargin=56,topMargin=56,bottomMargin=54,title='Vaani Research Lab - Speech Architecture and Hindi QA',author='Internship assignment')
+    doc=BaseDocTemplate(str(output),pagesize=(595.3,841.9),leftMargin=56,rightMargin=56,topMargin=56,bottomMargin=54,title='Vaani Research Lab - Speech Architecture and Hindi QA',author='Yash Kumar Sharma')
     def frame(c,d):
         from fontTools.ttLib import TTFont as OutlineFont
         from fontTools.pens.reportLabPen import ReportLabPen
@@ -193,7 +193,7 @@ def build(source, output, draft):
     canvas.save();overlay.seek(0); overlay_reader=PdfReader(overlay)
     for number,page in enumerate(reader.pages):
         page.merge_page(overlay_reader.pages[number]);writer.add_page(page)
-    writer.add_metadata({'/Title':'Vaani Research Lab - Speech Architecture and Hindi QA','/Author':'Anonymous internship assignment'})
+    writer.add_metadata({'/Title':'Vaani Research Lab - Speech Architecture and Hindi QA','/Author':'Yash Kumar Sharma'})
     with output.open('wb') as stream:writer.write(stream)
     print(output)
 

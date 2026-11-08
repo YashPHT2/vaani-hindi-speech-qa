@@ -69,7 +69,7 @@ def main():
     software = raw["software"]
     text = f"""# Speech architectures and Hindi speech-grounded QA
 
-Anonymous technical assignment for Vaani Research Lab. The submission combines a comparative speech-model architecture review with an implemented acoustic-memory investigation and a frozen final evaluation of a transcript cascade. The final evaluation covers 100 new source recordings in two acoustic conditions. The tested adapter interventions failed their generated-answer criteria. The final candidate was selected under that stopping rule before final inference.
+Yash Kumar Sharma | Speech AI Research Internship, Vaani Research Lab. The submission combines a comparative speech-model architecture review with an implemented acoustic-memory investigation and a frozen final evaluation of a transcript cascade. The final evaluation covers 100 new source recordings in two acoustic conditions. The tested adapter interventions failed their generated-answer criteria. The final candidate was selected under that stopping rule before final inference.
 
 {architecture}
 
@@ -143,7 +143,7 @@ The earlier 100-recording study compared automatic-language Whisper, a Hindi-lan
 
 The assignment's improvement requirement is addressed through implemented and evaluated interventions. The fallback improved access to candidate features and KL improved a likelihood measure. Robust generated-answer improvement was not demonstrated. The final report preserves that outcome. Architecture optimization stopped under the registered rule, and the transcript-only candidate was frozen before this final inference. The final 100-source results triggered no additional tuning or repeat experiments.
 
-The package includes code, editable diagrams, pretrained checkpoint revisions, frozen inputs, raw outputs, original and effective ratings, source-paired scoring, model/resource metadata and checksums. Run verify_submission.py, then the offline analysis command in README.md to reproduce the final metrics. Report.md is the editable source for the supplied anonymous PDF. Publication to GitHub and email submission remain separate user-controlled actions.
+The package includes code, editable diagrams, pretrained checkpoint revisions, frozen inputs, raw outputs, original and effective ratings, source-paired scoring, model/resource metadata and checksums. Run verify_submission.py, then the offline analysis command in README.txt to reproduce the final metrics. Report.md is the editable source for the report. Publication to GitHub and email submission remain separate user-controlled actions.
 """
     source = HERE / "submission_report.md"
     source.write_text(text, encoding="utf-8")
