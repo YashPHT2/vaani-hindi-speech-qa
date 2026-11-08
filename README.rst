@@ -10,6 +10,8 @@ On the clean GramVaani benchmark, Koyal and SraVaani each preserved 94 of 110 nu
 
 At the frozen threshold, the encoder score flagged 19 of 22 reference-labelled errors and 55 correct numerals. In the 26-question pilot, always substituting a second recognizer's value repaired one answer and introduced three errors. Only one question had a corrupted numeral in its evidence span.
 
+The baseline averages NeMo's decoder token-confidence scores over the emitted numeral span and evaluates that particular measure of confidence. The numeral results illustrate a `known limitation of WER <https://www.isca-archive.org/interspeech_2021/kim21e_interspeech.html>`_: recognizers with equal numeral accuracy differed in how often they substituted a value or omitted it.
+
 Reproducing the measurements
 ----------------------------
 

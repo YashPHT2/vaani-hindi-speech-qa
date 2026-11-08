@@ -2,7 +2,7 @@
   ".gitattributes": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",
   ".gitignore": "681665cf23e2b2d2ec8993cdf4fcfd7817c0150da7d4f59598b85ed0320ed7ac",
   "LICENSE-NOTICE.txt": "110a4fba59e70a1187a49931b3c1732615fb8d0a01ccfe9ed77da51d25587c3c",
-  "README.rst": "aa88c5dd90a7f6d3b537e2288835c682928cf362d634cc494b0a59cbb66e8fe7",
+  "README.rst": "b135641055f4ff373db6299db57ec868b18d12a144e39906e1f20bd730a0e0c8",
   "README.txt": "6522486aef9ca9e37778895e931735b4b0a41287f7f67ca57c239b0c9e7436e7",
   "acoustic_interface/alignment_analysis.py": "010e77ea13e3e00fbb72aee67bae5996e4328f8e75c1aea9a5d91c0a79327dcf",
   "acoustic_interface/alignment_objective.py": "77b629093e1eb8666fbb7cf631ceaf75afeee02bbcfc6ed67fdebdf355fc4748",
