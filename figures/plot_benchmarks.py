@@ -16,19 +16,19 @@ def render(vector=None, page_number=None):
     bench = read("bench-summary.json")["systems"]
     m1 = read("m1-report-values.json")["headconf_compare"]
     m5 = read("m5-report-values.json")["policies"]
-    navy, blue, teal, rust, grey = "#152e45", "#3c6aaf", "#007e78", "#bc5430", "#5d6d7c"
+    ink, blue, teal, rust, grey = "#000000", "#3c6aaf", "#007e78", "#bc5430", "#5d6d7c"
     plt.rcParams.update({"font.family":"DejaVu Sans","font.size":9,"axes.spines.top":False,
                          "axes.spines.right":False,"axes.spines.left":False,"axes.edgecolor":"#acb6bc",
-                         "axes.axisbelow":True,"text.color":navy,"xtick.color":grey,"ytick.color":navy,
+                         "axes.axisbelow":True,"text.color":ink,"xtick.color":ink,"ytick.color":ink,
                          "pdf.fonttype":42})
     fig = plt.figure(figsize=(595.3/72,841.9/72))
-    def caption(x,y,s,size=10,bold=False,color=navy):
+    def caption(x,y,s,size=10,bold=False,color=ink):
         fig.text(x,y,s,va="top",fontsize=size,color=color,weight="bold" if bold else "normal",linespacing=1.45)
     def bars(rect,values,labels,colors,limit,ticks,fmt,errors=None):
         ax = fig.add_axes(rect)
         ax.barh(range(len(values)), values, height=.55, color=colors)
         if errors:
-            ax.errorbar(values,range(len(values)),xerr=errors,fmt="none",ecolor=navy,capsize=3,lw=1.1)
+            ax.errorbar(values,range(len(values)),xerr=errors,fmt="none",ecolor=ink,capsize=3,lw=1.1)
         for i,value in enumerate(values):
             x = value + (errors[1][i] if errors else 0)
             ax.text(x+limit*.012,i,fmt(value),va="center",fontsize=8.6,weight="bold",clip_on=False)
@@ -37,9 +37,9 @@ def render(vector=None, page_number=None):
         ax.tick_params(axis="x",length=3,labelsize=8)
         return ax
     caption(.08,.955,"Hindi speech QA benchmarks",22,True)
-    caption(.08,.912,"Yash Kumar Sharma   /   GramVaani development experiments",10,False,grey)
-    caption(.08,.855,"1   Koyal and SraVaani preserve the same number of numerals",12,True)
-    ids=["koyal","sravaani","qwen","whisper"]; labels=["Koyal Hindi 120M","SraVaani 1.0","Qwen3-ASR 1.7B","Whisper large-v3"]
+    caption(.08,.912,"Yash Kumar Sharma   /   GramVaani development experiments",10,False,ink)
+    caption(.08,.855,"1   The Koyal and SraVaani models preserve the same number of numerals",12,True)
+    ids=["koyal","sravaani","qwen","whisper"]; labels=["Koyal Hindi 120M model","SraVaani 1.0 model","Qwen3-ASR 1.7B model","Whisper large-v3 model"]
     for k,(left,title) in enumerate([(.275,"Word error rate (%)"),(.655,"Correct numerals (of 110)")]):
         caption(left,.811,title,9,True)
         vals=[bench[i]["wer_published" if k==0 else "correct"] for i in ids]
@@ -55,7 +55,7 @@ def render(vector=None, page_number=None):
     keys=["CASCADE","ENC_b25","ALWAYS_qwen","ORACLE_qwen"]
     bars([.325,.105,.52,.128],[m5[k]["correct"] for k in keys],["Baseline cascade","Encoder router (25 listens)","Always substitute","Oracle (reference aided)"],[blue,teal,rust,grey],26,[0,5,10,15,20,26],lambda v:f"{v}/26")
     caption(.08,.062,"On 26 questions, always substituting repaired one answer and broke three. Only one\nquestion contained a corrupted numeral in its evidence span.",9)
-    if page_number: caption(.925,.035,str(page_number),8,color=grey)
+    if page_number: caption(.925,.035,str(page_number),8,color=ink)
     fig.savefig(ROOT/"figures"/"hindi-speech-benchmarks.png",dpi=180,facecolor="white")
     if vector: fig.savefig(vector,format="pdf",metadata={"Author":"Yash Kumar Sharma"})
     plt.close(fig)
