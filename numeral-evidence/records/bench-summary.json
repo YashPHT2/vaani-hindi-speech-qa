@@ -1,0 +1,188 @@
+{
+ "n_slots_accuracy_table": 110,
+ "n_slots_failure_table": 110,
+ "systems": {
+  "sravaani": {
+   "wer_published": 27.27,
+   "n_slots": 110,
+   "correct": 94,
+   "numeral_error_rate": 0.1454545454545455,
+   "ci95": [
+    0.7692307692307693,
+    0.9259259259259259
+   ],
+   "counts": {
+    "correct": 94,
+    "deleted": 14,
+    "corrupted": 2
+   }
+  },
+  "koyal": {
+   "wer_published": 22.63,
+   "n_slots": 110,
+   "correct": 94,
+   "numeral_error_rate": 0.1454545454545455,
+   "ci95": [
+    0.7830170396372679,
+    0.9172932330827067
+   ],
+   "counts": {
+    "correct": 94,
+    "deleted": 6,
+    "corrupted": 10
+   }
+  },
+  "qwen": {
+   "wer_published": 32.85,
+   "n_slots": 110,
+   "correct": 87,
+   "numeral_error_rate": 0.2090909090909091,
+   "ci95": [
+    0.7045454545454546,
+    0.8695652173913043
+   ],
+   "counts": {
+    "correct": 87,
+    "corrupted": 12,
+    "deleted": 11
+   }
+  },
+  "whisper": {
+   "wer_published": 52.42,
+   "n_slots": 110,
+   "correct": 75,
+   "numeral_error_rate": 0.31818181818181823,
+   "ci95": [
+    0.5508474576271186,
+    0.8
+   ],
+   "counts": {
+    "correct": 75,
+    "deleted": 27,
+    "corrupted": 8
+   }
+  }
+ },
+ "mcnemar": {
+  "koyal_vs_sravaani": {
+   "n_paired": 110,
+   "a_wrong_b_right": 13,
+   "a_right_b_wrong": 13,
+   "p_exact": 1.0
+  },
+  "koyal_vs_qwen": {
+   "n_paired": 110,
+   "a_wrong_b_right": 10,
+   "a_right_b_wrong": 17,
+   "p_exact": 0.24778856337070465
+  },
+  "koyal_vs_whisper": {
+   "n_paired": 110,
+   "a_wrong_b_right": 7,
+   "a_right_b_wrong": 26,
+   "p_exact": 0.0013187271542847157
+  },
+  "sravaani_vs_qwen": {
+   "n_paired": 110,
+   "a_wrong_b_right": 10,
+   "a_right_b_wrong": 17,
+   "p_exact": 0.24778856337070465
+  }
+ },
+ "association": {
+  "kendall_tau": 0.9128709291752769,
+  "kendall_p": 0.07095149242730563,
+  "spearman_rho": 0.9486832980505139,
+  "spearman_p": 0.05131670194948613,
+  "pearson_r": 0.9858638954937704,
+  "pearson_p": 0.014136104506229596
+ },
+ "failure_mode_mix": {
+  "sravaani": {
+   "n": 110,
+   "correct": 94,
+   "corrupted": 2,
+   "deleted": 14,
+   "corrupt_share_of_errors": 0.125
+  },
+  "koyal": {
+   "n": 110,
+   "correct": 94,
+   "corrupted": 10,
+   "deleted": 6,
+   "corrupt_share_of_errors": 0.625
+  },
+  "qwen": {
+   "n": 110,
+   "correct": 87,
+   "corrupted": 12,
+   "deleted": 11,
+   "corrupt_share_of_errors": 0.5217391304347826
+  },
+  "whisper": {
+   "n": 110,
+   "correct": 75,
+   "corrupted": 8,
+   "deleted": 27,
+   "corrupt_share_of_errors": 0.22857142857142856
+  }
+ },
+ "fisher": {
+  "koyal_vs_sravaani": {
+   "table": [
+    [
+     10,
+     6
+    ],
+    [
+     2,
+     14
+    ]
+   ],
+   "odds_ratio": 11.666666666666666,
+   "p": 0.00914703938353404
+  },
+  "koyal_vs_whisper": {
+   "table": [
+    [
+     10,
+     6
+    ],
+    [
+     8,
+     27
+    ]
+   ],
+   "odds_ratio": 5.625,
+   "p": 0.010685262668417609
+  },
+  "qwen_vs_sravaani": {
+   "table": [
+    [
+     12,
+     11
+    ],
+    [
+     2,
+     14
+    ]
+   ],
+   "odds_ratio": 7.636363636363637,
+   "p": 0.01726882283710132
+  },
+  "koyal_vs_qwen": {
+   "table": [
+    [
+     10,
+     6
+    ],
+    [
+     12,
+     11
+    ]
+   ],
+   "odds_ratio": 1.5277777777777777,
+   "p": 0.7434765132206735
+  }
+ }
+}

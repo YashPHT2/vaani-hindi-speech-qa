@@ -1,0 +1,135 @@
+{
+  "state": "prospectively_frozen",
+  "created_unix": 1793995803.5079327,
+  "config": {
+    "run_id": "readout-fallback-dev2-v1",
+    "seed": 17,
+    "max_new_tokens": 48,
+    "pilot_checkpoint_sha256": "8474698e8123d52e4ea96e310691062e49ce76f62d9e924d1976102ffbad2345",
+    "inputs": [
+      {
+        "id": "fleurs-hi-1806-clean",
+        "source_id": "fleurs-hi-1806",
+        "condition": "clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "8a068f7bc0713efad648be6a07cc665afa627e14258234977be845debaf64d5a",
+        "duration_s": 13.68,
+        "donor_id": "fleurs-hi-1868-clean",
+        "donor_file": "<PROJECT_ROOT>",
+        "donor_audio_sha256": "eca1702a92ac8c2205a3268acba54468a3aae8c6ef1a1fdd6320b0ddffbe65a4",
+        "donor_duration_s": 13.68,
+        "donor_duration_ratio": 1.0
+      },
+      {
+        "id": "fleurs-hi-1806-noise_10db",
+        "source_id": "fleurs-hi-1806",
+        "condition": "noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "1078b7cb2832f553333b9d2477ccec3c71d13f3e486d6736f2a906d65aa5b91f",
+        "duration_s": 13.68,
+        "donor_id": "fleurs-hi-1868-noise_10db",
+        "donor_file": "<PROJECT_ROOT>",
+        "donor_audio_sha256": "7d8ef93d7a2a96111eab481ea29f142d8092bda8272851b379fc5bdf0871014a",
+        "donor_duration_s": 13.68,
+        "donor_duration_ratio": 1.0
+      }
+    ],
+    "historical_manifest_sha256": "4872a984b9e19d317930263a2f1c1ce2c5c4d3c416e3284cfce99e0ec4d8db52",
+    "headroom_result_sha256": "2d4f049ab05d9b659ca74a8bd431319bb9cfdedcad51c1d5d63f3d632700d1a4",
+    "headroom_semantic_sha256": "e347b5af9326cd9b746e7f96bc23e993d2b932d62f07ebf7dc8f2ae47bc1674d",
+    "headroom_remote_lf_expected_sha256": "7225b3d4f76ea42b671467a78b21648a5e4c1b0cd03e45493cf1c40a70bd305a",
+    "reported_window_frame_bounds": [
+      145,
+      205
+    ],
+    "reported_bin_edges": [
+      145,
+      160,
+      175,
+      190,
+      205
+    ],
+    "full_phrase_extent_verified": false,
+    "fallback_window_frames": 20,
+    "fallback_only_when_empty": true,
+    "arms": [
+      "A_text",
+      "B_existing_DTW",
+      "C_reported_window",
+      "D_hybrid_fallback",
+      "E_oracle_mismatch",
+      "E_fallback_mismatch"
+    ],
+    "whisper": {
+      "model": "openai/whisper-small",
+      "revision": "973afd24965f72e36ca33b3055d56a652f456b4d",
+      "dtype": "float16",
+      "attention": "eager (as original feature extraction)"
+    },
+    "llm": {
+      "model": "Qwen/Qwen2.5-1.5B-Instruct",
+      "revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+      "dtype": "float16",
+      "attention": "sdpa"
+    },
+    "uncertainty_for_new_windows": "zeros_and_availability_false",
+    "generation_use_cache": true,
+    "resource_limits": {
+      "gpu": "A10",
+      "gpu_count": 1,
+      "cpu": 2,
+      "memory_gib": 16,
+      "function_s": 600,
+      "startup_s": 300,
+      "queue_s": 120,
+      "retries": 0
+    },
+    "reservation_usd": 1,
+    "worst_case_cost_usd": 0.63168344,
+    "independent_sources": 1,
+    "expected_rows": 12,
+    "training_updates": 0,
+    "fresh_test_loaded": false,
+    "source_sha256": {
+      "connector.py": "39803bc3e46f4db213a911dae6438a8eb8d908f95c2d2efc36238fedf24e68db",
+      "readout_candidates.py": "e8c8919f1b5fec820c72652c2c960c62955e7ad99458ff32b383da87e931b819",
+      "readout_worker.py": "ef1b43eea3dcc437e40e1ea3e4736137551ec1dc5b115dc94023ef6765400c70",
+      "readout_runner.py": "946651ba1029f6f74f860dda958f97017d23486e3fbb56e6acf719705f36979c",
+      "prepare_readout.py": "e4c00e639ab3380b9445393f23cdbc8a355dd2dac77960d50389f72fe06cbc92",
+      "readout_protocol_draft.md": "2b45988dc9279595c776988e70f299fa5655006409a9fe91d0211ed388670d8a",
+      "readout_scientific_decision.md": "d340393968056908872d7d35581686d55282239e9d4ed7504d6404bfdd2dfa96",
+      "artifacts/readout-scientific-decision.json": "a2fa0abfa92c47e474cab6cad602764356f0b3aac3e2fc8f854d1e47eefb43eb",
+      "artifacts/localization-boundaries-validated.json": "d0144d376d26377fb447f8f71bac272b8cc6247e11053b94643eea91fde13784",
+      "artifacts/omission-freeze-v1.json": "4bc513334857af11240ce893ef0bbfafc45d11c66efb3db90e84ded286c139ba",
+      "readout_analysis.py": "73d26253d49695baba9c93967a9d617f84c7bd36bf4c53e6621e82d48a75a4cf"
+    }
+  },
+  "scientific_decision": {
+    "decision": "conditional go: one historical inference-only readout",
+    "sources": 1,
+    "views": 2,
+    "arms": 6,
+    "expected_rows": 12,
+    "checkpoint_sha256": "8474698e8123d52e4ea96e310691062e49ce76f62d9e924d1976102ffbad2345",
+    "training_updates": 0,
+    "primary_availability": "noisy D 35 valid grid blocks/684frames/4slots vs B zero",
+    "primary_utility": "noisy D supported correct while A,B and D-matched donor wrong; ambiguous judgments remain ambiguous",
+    "privileged_secondary": "C supported correct while A,B and C-matched donor wrong; each view separately",
+    "wrong_audio": "donor1868 condition-matched and recipient geometry/U/masks/scaffold/question retained; donor frames may alter selected membership",
+    "clean_guard": "D equals B; noisy B equals A; A,B reproduce archived headroom outputs",
+    "stopping": "one attempt, stop after integrity+blinded semantic review; eligible rescue permits only planning historical replication",
+    "reservation_usd": 1,
+    "conservative_bound_usd": 0.63168344,
+    "fresh_test": "sealed",
+    "decision_sha256": "d340393968056908872d7d35581686d55282239e9d4ed7504d6404bfdd2dfa96"
+  },
+  "primary_availability": "noisy D 35 valid grid blocks/684frames/4slots vs B zero",
+  "primary_utility": "noisy D supported correct while A,B and D-matched donor wrong; ambiguous judgments remain ambiguous",
+  "stopping": "one attempt, stop after integrity+blinded semantic review; eligible rescue permits only planning historical replication",
+  "scoring_policy": "Generate first without answer; separate gold-answer CE afterward, no teacher target cache reused",
+  "label_policy": "Independent model semantic review; preserve ambiguities and old case hashes; no human-QA claim",
+  "audit_scope": "224 historical IDs: missing remains missing, no fresh or unallowlisted cache inspection, no re-ASR or training",
+  "review_status": "static_review_passed",
+  "frozen_unix": 1793995856.7807348,
+  "technical_review_sha256": "297778b78df64fa42414c6e2d9ea4de530d5586f0d7bb3bf5f3b2efa065f1e88"
+}

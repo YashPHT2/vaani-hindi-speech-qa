@@ -1,0 +1,3798 @@
+[
+  {
+    "id": "fresh-hi-1674-clean",
+    "source_id": 1674,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "कुछ क्षेत्रों में पानी को एक मिनट के लिए उबालना काफी होता है अन्य क्षेत्रों में कई मिनट तक उबलाने की आवश्यकता होती है",
+    "question": "कुछ क्षेत्रों में पानी कितनी देर उबालना पर्याप्त है?",
+    "answers": [
+      "एक मिनट",
+      "1 मिनट"
+    ],
+    "answerable": true,
+    "audio_sha256": "522982e64e4be0ad6bdbfdedc0449903ed54e61fd0bbc164f8d25b0dcc9cb0c0",
+    "seconds_audio": 7.2,
+    "shared_gain": 1.0,
+    "noise_seed": 3731575539883939956,
+    "sample_count": 115200,
+    "canonical_source_audio_sha256": "85e80f402c306f8de841a3b086365e1929b49e4951c3a6531b0a273a694ba8e1"
+  },
+  {
+    "id": "fresh-hi-1674-noise_10db",
+    "source_id": 1674,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "कुछ क्षेत्रों में पानी को एक मिनट के लिए उबालना काफी होता है अन्य क्षेत्रों में कई मिनट तक उबलाने की आवश्यकता होती है",
+    "question": "कुछ क्षेत्रों में पानी कितनी देर उबालना पर्याप्त है?",
+    "answers": [
+      "एक मिनट",
+      "1 मिनट"
+    ],
+    "answerable": true,
+    "audio_sha256": "7e1b134261ecbbd5379dbcb841ba1f31e139a964b733dfa48bc3730620e2381f",
+    "seconds_audio": 7.2,
+    "shared_gain": 1.0,
+    "noise_seed": 3731575539883939956,
+    "sample_count": 115200,
+    "canonical_source_audio_sha256": "85e80f402c306f8de841a3b086365e1929b49e4951c3a6531b0a273a694ba8e1"
+  },
+  {
+    "id": "fresh-hi-1881-clean",
+    "source_id": 1881,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "असल में फील्ड ट्रिप साझा करना यात्रा पर विचार करने और भविष्य की कक्षाओं के साथ अनुभव करने का एक शानदार तरीका है",
+    "question": "भविष्य की कक्षाओं के साथ यात्रा का अनुभव बाँटने के लिए क्या साझा करने की बात है?",
+    "answers": [
+      "फील्ड ट्रिप",
+      "फ़ील्ड ट्रिप"
+    ],
+    "answerable": true,
+    "audio_sha256": "60f4060bd77b9d1dbe2a6e4f654fa377a9b79b466316b8cbcccbb289767f5f15",
+    "seconds_audio": 9.9,
+    "shared_gain": 1.0,
+    "noise_seed": 6794630300058676736,
+    "sample_count": 158400,
+    "canonical_source_audio_sha256": "0061104fb01db6b01eb9a9f2ca33a4d79a86af7f58b5c55827e4a21ed10a98cd"
+  },
+  {
+    "id": "fresh-hi-1881-noise_10db",
+    "source_id": 1881,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "असल में फील्ड ट्रिप साझा करना यात्रा पर विचार करने और भविष्य की कक्षाओं के साथ अनुभव करने का एक शानदार तरीका है",
+    "question": "भविष्य की कक्षाओं के साथ यात्रा का अनुभव बाँटने के लिए क्या साझा करने की बात है?",
+    "answers": [
+      "फील्ड ट्रिप",
+      "फ़ील्ड ट्रिप"
+    ],
+    "answerable": true,
+    "audio_sha256": "5894476e235e3b9757e82af71e9d51efb094fbdba4aa0cc074ed69335f842630",
+    "seconds_audio": 9.9,
+    "shared_gain": 1.0,
+    "noise_seed": 6794630300058676736,
+    "sample_count": 158400,
+    "canonical_source_audio_sha256": "0061104fb01db6b01eb9a9f2ca33a4d79a86af7f58b5c55827e4a21ed10a98cd"
+  },
+  {
+    "id": "fresh-hi-1951-clean",
+    "source_id": 1951,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "2002 में गोमा को न्यिरगोंगो ज्वालामुखी ने लावा द्वारा नष्ट कर दिया गया था जिसने शहर की अधिकांश सड़कों विशेष रूप से शहर के बीच के भाग को दफन कर दिया था",
+    "question": "किस वर्ष लावा ने गोमा की सड़कों को दफन किया था?",
+    "answers": [
+      "2002",
+      "२००२"
+    ],
+    "answerable": true,
+    "audio_sha256": "468813f2d9af6fedd10992087272bd71ea910d85f10d474962c6479ef86ce7d7",
+    "seconds_audio": 14.04,
+    "shared_gain": 1.0,
+    "noise_seed": 5372694677203221515,
+    "sample_count": 224640,
+    "canonical_source_audio_sha256": "b4b49ea52856cf707f603f17aed01670b6471973a8aae5ea1e2f6c48d3761d24"
+  },
+  {
+    "id": "fresh-hi-1951-noise_10db",
+    "source_id": 1951,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "2002 में गोमा को न्यिरगोंगो ज्वालामुखी ने लावा द्वारा नष्ट कर दिया गया था जिसने शहर की अधिकांश सड़कों विशेष रूप से शहर के बीच के भाग को दफन कर दिया था",
+    "question": "किस वर्ष लावा ने गोमा की सड़कों को दफन किया था?",
+    "answers": [
+      "2002",
+      "२००२"
+    ],
+    "answerable": true,
+    "audio_sha256": "8c9d88be9a9e10cbc2ba8d38fcfe728f9d44feee4b6767f7ff891e89c33f19da",
+    "seconds_audio": 14.04,
+    "shared_gain": 1.0,
+    "noise_seed": 5372694677203221515,
+    "sample_count": 224640,
+    "canonical_source_audio_sha256": "b4b49ea52856cf707f603f17aed01670b6471973a8aae5ea1e2f6c48d3761d24"
+  },
+  {
+    "id": "fresh-hi-1845-clean",
+    "source_id": 1845,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "महाराजा और महारानी के ख़िलाफ़ चीखते-चिल्लाते लोगों की भीड़ से घिरी एक गाड़ी में सफर करते हुए वे लोग पेरिस वापस आए",
+    "question": "घिरी हुई गाड़ी में सफर करके वे किस शहर में वापस आए?",
+    "answers": [
+      "पेरिस"
+    ],
+    "answerable": true,
+    "audio_sha256": "a466932618d145db71708a196163380d2d89601182298f6e78d34b54d7a556fe",
+    "seconds_audio": 13.32,
+    "shared_gain": 1.0,
+    "noise_seed": 3897003328804157014,
+    "sample_count": 213120,
+    "canonical_source_audio_sha256": "896e1636b9918f5362393104b25cdd38693cd839415f1c99b2486dd3b93c79d8"
+  },
+  {
+    "id": "fresh-hi-1845-noise_10db",
+    "source_id": 1845,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "महाराजा और महारानी के ख़िलाफ़ चीखते-चिल्लाते लोगों की भीड़ से घिरी एक गाड़ी में सफर करते हुए वे लोग पेरिस वापस आए",
+    "question": "घिरी हुई गाड़ी में सफर करके वे किस शहर में वापस आए?",
+    "answers": [
+      "पेरिस"
+    ],
+    "answerable": true,
+    "audio_sha256": "b72c726c5148fb689e0270351a7fe71fa2fff4eb406b26c121c1b85aa63280fb",
+    "seconds_audio": 13.32,
+    "shared_gain": 1.0,
+    "noise_seed": 3897003328804157014,
+    "sample_count": 213120,
+    "canonical_source_audio_sha256": "896e1636b9918f5362393104b25cdd38693cd839415f1c99b2486dd3b93c79d8"
+  },
+  {
+    "id": "fresh-hi-1665-clean",
+    "source_id": 1665,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "लीक के अनुसार दस्तावेज़ सीमा विवाद को संदर्भित करेगा जो फ़िलिस्तीन 1967 के मध्यपूर्व युद्ध से पहले सीमाओं के आधार पर चाहता है",
+    "question": "सीमा विवाद वाले दस्तावेज़ पर हस्ताक्षर किस शहर में होने थे?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "11da3bbee61851fb28cc6efbf92e94d12ac2e1bee89d3fb5ba037daa7d84e4fb",
+    "seconds_audio": 10.62,
+    "shared_gain": 1.0,
+    "noise_seed": 938451534030159259,
+    "sample_count": 169920,
+    "canonical_source_audio_sha256": "fdb61061029b664a316c945f76c05d870031676ca833ecbc4fe8bbb62e2905f0"
+  },
+  {
+    "id": "fresh-hi-1665-noise_10db",
+    "source_id": 1665,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "लीक के अनुसार दस्तावेज़ सीमा विवाद को संदर्भित करेगा जो फ़िलिस्तीन 1967 के मध्यपूर्व युद्ध से पहले सीमाओं के आधार पर चाहता है",
+    "question": "सीमा विवाद वाले दस्तावेज़ पर हस्ताक्षर किस शहर में होने थे?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "5a753d24b606742400bf4a5b68a304d3646e758cf6d6c0079e527c2e1d702dc1",
+    "seconds_audio": 10.62,
+    "shared_gain": 1.0,
+    "noise_seed": 938451534030159259,
+    "sample_count": 169920,
+    "canonical_source_audio_sha256": "fdb61061029b664a316c945f76c05d870031676ca833ecbc4fe8bbb62e2905f0"
+  },
+  {
+    "id": "fresh-hi-1679-clean",
+    "source_id": 1679,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "एरोस्मिथ ने अपने दौरे के अपने शेष संगीत कार्यक्रमों को रद्द कर दिया है",
+    "question": "अपने दौरे के बाकी संगीत कार्यक्रम किसने रद्द किए?",
+    "answers": [
+      "एरोस्मिथ"
+    ],
+    "answerable": true,
+    "audio_sha256": "9aedf5dfb2337266a33ed39498ec7c57bf931e54b29e49a11d425b91a93b49b2",
+    "seconds_audio": 7.38,
+    "shared_gain": 1.0,
+    "noise_seed": 8188975705014394056,
+    "sample_count": 118080,
+    "canonical_source_audio_sha256": "1c9407ac41beebfab4a6ca5d755d9379e920d4f75b3f2f444afbca0544eb9b58"
+  },
+  {
+    "id": "fresh-hi-1679-noise_10db",
+    "source_id": 1679,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "एरोस्मिथ ने अपने दौरे के अपने शेष संगीत कार्यक्रमों को रद्द कर दिया है",
+    "question": "अपने दौरे के बाकी संगीत कार्यक्रम किसने रद्द किए?",
+    "answers": [
+      "एरोस्मिथ"
+    ],
+    "answerable": true,
+    "audio_sha256": "cd2a754fbf4e910ce2691885fd40d8c88cfa19054b3ecc78ce99e73f20009af3",
+    "seconds_audio": 7.38,
+    "shared_gain": 1.0,
+    "noise_seed": 8188975705014394056,
+    "sample_count": 118080,
+    "canonical_source_audio_sha256": "1c9407ac41beebfab4a6ca5d755d9379e920d4f75b3f2f444afbca0544eb9b58"
+  },
+  {
+    "id": "fresh-hi-1983-clean",
+    "source_id": 1983,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "सभ्यता शब्द लैटिन सिविलिस से आया है जिसका अर्थ है नागरिक लैटिन सिविस से संबंधित है जिसका अर्थ है नागरिक और सिवितास जिसका अर्थ है शहर या शहर-राज्य और वह एक तरह से समाज के आकार को भी परिभाषित करता है",
+    "question": "सिविलिस शब्द पहली बार किस ग्रंथ में इस्तेमाल हुआ था?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "c3b5de472eafdfe893d1d9cbf62d3c9467abfbc8fecb6605af3faa25f94c6c18",
+    "seconds_audio": 17.1,
+    "shared_gain": 1.0,
+    "noise_seed": 193788050295797733,
+    "sample_count": 273600,
+    "canonical_source_audio_sha256": "04a1b271dd37c5843ad3dd21f5e8c2884df011f10256888e24d3fc3c23fe6144"
+  },
+  {
+    "id": "fresh-hi-1983-noise_10db",
+    "source_id": 1983,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "सभ्यता शब्द लैटिन सिविलिस से आया है जिसका अर्थ है नागरिक लैटिन सिविस से संबंधित है जिसका अर्थ है नागरिक और सिवितास जिसका अर्थ है शहर या शहर-राज्य और वह एक तरह से समाज के आकार को भी परिभाषित करता है",
+    "question": "सिविलिस शब्द पहली बार किस ग्रंथ में इस्तेमाल हुआ था?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "bd8437c530c4b2d91ee75ac3360459a9d6d331552a18fd490f736ed6353c3057",
+    "seconds_audio": 17.1,
+    "shared_gain": 1.0,
+    "noise_seed": 193788050295797733,
+    "sample_count": 273600,
+    "canonical_source_audio_sha256": "04a1b271dd37c5843ad3dd21f5e8c2884df011f10256888e24d3fc3c23fe6144"
+  },
+  {
+    "id": "fresh-hi-1766-clean",
+    "source_id": 1766,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "कुछ अणुओं में अस्थिर केंद्रक होता है जिसका मतलब यह है कि उनमें थोड़े या बिना किसी झटके से टूटने की प्रवृत्ति होती है",
+    "question": "किस रासायनिक तत्व को अस्थिर केंद्रक के उदाहरण के रूप में लिया गया?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "76b74e65b9bbd42843fa1cb00c235e8c8e01b948b3d1808d5b4cca88b507de3e",
+    "seconds_audio": 9.12,
+    "shared_gain": 1.0,
+    "noise_seed": 16742672378033891588,
+    "sample_count": 145920,
+    "canonical_source_audio_sha256": "b677657ea6adb9d603a97858ac9c2010bcc75b9a6a51fac55dd049109c3b89a6"
+  },
+  {
+    "id": "fresh-hi-1766-noise_10db",
+    "source_id": 1766,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "कुछ अणुओं में अस्थिर केंद्रक होता है जिसका मतलब यह है कि उनमें थोड़े या बिना किसी झटके से टूटने की प्रवृत्ति होती है",
+    "question": "किस रासायनिक तत्व को अस्थिर केंद्रक के उदाहरण के रूप में लिया गया?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "4f4126b91dbd025520a5dde480b152a952cfc936f97904b18c8a25c7819de0d9",
+    "seconds_audio": 9.12,
+    "shared_gain": 1.0,
+    "noise_seed": 16742672378033891588,
+    "sample_count": 145920,
+    "canonical_source_audio_sha256": "b677657ea6adb9d603a97858ac9c2010bcc75b9a6a51fac55dd049109c3b89a6"
+  },
+  {
+    "id": "fresh-hi-1685-clean",
+    "source_id": 1685,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "उदाहरण के लिए दुनिया में सबसे ज़्यादा इस्तेमाल होने वाला फ़ोटोग्राफ़ी फ़ॉर्मेट 35mm है यह एनालॉग फिल्म दौर के आखिर में काफी प्रचलित था",
+    "question": "एनालॉग फ़िल्म के दौर के अंत में कौन सा फ़ोटोग्राफ़ी फ़ॉर्मेट प्रचलित था?",
+    "answers": [
+      "35mm",
+      "35 mm",
+      "35 मिलीमीटर",
+      "35 मिमी"
+    ],
+    "answerable": true,
+    "audio_sha256": "5e39eb3bc54bcf6ee179463271e98af9e1e9ad0dbf28e26fa616a11560768987",
+    "seconds_audio": 15.36,
+    "shared_gain": 1.0,
+    "noise_seed": 8125750036379953928,
+    "sample_count": 245760,
+    "canonical_source_audio_sha256": "337cc60ae34b656863f37fa64e75489cce5e09bf42b2885f67c15ba7c2edf32f"
+  },
+  {
+    "id": "fresh-hi-1685-noise_10db",
+    "source_id": 1685,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "उदाहरण के लिए दुनिया में सबसे ज़्यादा इस्तेमाल होने वाला फ़ोटोग्राफ़ी फ़ॉर्मेट 35mm है यह एनालॉग फिल्म दौर के आखिर में काफी प्रचलित था",
+    "question": "एनालॉग फ़िल्म के दौर के अंत में कौन सा फ़ोटोग्राफ़ी फ़ॉर्मेट प्रचलित था?",
+    "answers": [
+      "35mm",
+      "35 mm",
+      "35 मिलीमीटर",
+      "35 मिमी"
+    ],
+    "answerable": true,
+    "audio_sha256": "58dbbcff52885e5ba5735a49828d5a82e6a113b739c421c9ef4209676307948a",
+    "seconds_audio": 15.36,
+    "shared_gain": 1.0,
+    "noise_seed": 8125750036379953928,
+    "sample_count": 245760,
+    "canonical_source_audio_sha256": "337cc60ae34b656863f37fa64e75489cce5e09bf42b2885f67c15ba7c2edf32f"
+  },
+  {
+    "id": "fresh-hi-1810-clean",
+    "source_id": 1810,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "कैलिफोर्निया के गवर्नर अर्नोल्ड श्वार्ज़नेगर ने कानून में एक बिल पर हस्ताक्षर किए जो नाबालिगों को हिंसक वीडियो गेम उन्हें बेचने या किराए पर देने से प्रतिबंध लगाता है",
+    "question": "वीडियो गेम वाला बिल किस तारीख को कानून बना?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "e09d40680fd0bf86de1013c5ac4837d276e6e3598189ac6bf18c4453dcff3e7f",
+    "seconds_audio": 23.28,
+    "shared_gain": 1.0,
+    "noise_seed": 8019254527186296610,
+    "sample_count": 372480,
+    "canonical_source_audio_sha256": "d807acfa3caaea7730e93a748eb78ee9ad29c387abab4f3e35f483d511d101f8"
+  },
+  {
+    "id": "fresh-hi-1810-noise_10db",
+    "source_id": 1810,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "कैलिफोर्निया के गवर्नर अर्नोल्ड श्वार्ज़नेगर ने कानून में एक बिल पर हस्ताक्षर किए जो नाबालिगों को हिंसक वीडियो गेम उन्हें बेचने या किराए पर देने से प्रतिबंध लगाता है",
+    "question": "वीडियो गेम वाला बिल किस तारीख को कानून बना?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "984e548fcef9fe0206acf4e4ed13806bf551ea6124e0c184c930fe81a4c78337",
+    "seconds_audio": 23.28,
+    "shared_gain": 1.0,
+    "noise_seed": 8019254527186296610,
+    "sample_count": 372480,
+    "canonical_source_audio_sha256": "d807acfa3caaea7730e93a748eb78ee9ad29c387abab4f3e35f483d511d101f8"
+  },
+  {
+    "id": "fresh-hi-1966-clean",
+    "source_id": 1966,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "अक्टूबर में शुरू हुए व्यापक शासन विरोधी प्रदर्शनों के लिए आयोग का गठन मार्टेली की प्रतिक्रिया स्वरूप हुआ था",
+    "question": "शासन विरोधी प्रदर्शन किस महीने शुरू हुए?",
+    "answers": [
+      "अक्टूबर"
+    ],
+    "answerable": true,
+    "audio_sha256": "a07dd4b0ee50040a7c3c85c1fd1d13badedf84f800d71cb8322cf3462823b9bf",
+    "seconds_audio": 9.66,
+    "shared_gain": 1.0,
+    "noise_seed": 17970402150573347480,
+    "sample_count": 154560,
+    "canonical_source_audio_sha256": "b8033811237c0db83b6c6b18ccbf0cc8611d686ea1af2c8a2e19dd402ed7a57d"
+  },
+  {
+    "id": "fresh-hi-1966-noise_10db",
+    "source_id": 1966,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "अक्टूबर में शुरू हुए व्यापक शासन विरोधी प्रदर्शनों के लिए आयोग का गठन मार्टेली की प्रतिक्रिया स्वरूप हुआ था",
+    "question": "शासन विरोधी प्रदर्शन किस महीने शुरू हुए?",
+    "answers": [
+      "अक्टूबर"
+    ],
+    "answerable": true,
+    "audio_sha256": "126221c156bf3fc8063eb9f96493d8e78cb9a796d9e1722186638322a75ede46",
+    "seconds_audio": 9.66,
+    "shared_gain": 1.0,
+    "noise_seed": 17970402150573347480,
+    "sample_count": 154560,
+    "canonical_source_audio_sha256": "b8033811237c0db83b6c6b18ccbf0cc8611d686ea1af2c8a2e19dd402ed7a57d"
+  },
+  {
+    "id": "fresh-hi-1925-clean",
+    "source_id": 1925,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "किया गया अधिकांश काम सैद्धांतिक था लेकिन सैजिटेरियस गैलेक्सी से बने ऑब्ज़र्वेशन को सिम्युलेट करने के लिए प्रोग्राम को लिखा गया था",
+    "question": "सैजिटेरियस गैलेक्सी के ऑब्ज़र्वेशन के लिए प्रोग्राम किस भाषा में लिखा गया?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "c04ac692353680c0d0cea6e358c124767714d58ba4544dbc79f9ab5fbdcabfd5",
+    "seconds_audio": 9.96,
+    "shared_gain": 1.0,
+    "noise_seed": 6929517217377259864,
+    "sample_count": 159360,
+    "canonical_source_audio_sha256": "c16871b3b7282293c314ecb0c068f3d8d3e3dee6e2a38905870b7a040571c955"
+  },
+  {
+    "id": "fresh-hi-1925-noise_10db",
+    "source_id": 1925,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "किया गया अधिकांश काम सैद्धांतिक था लेकिन सैजिटेरियस गैलेक्सी से बने ऑब्ज़र्वेशन को सिम्युलेट करने के लिए प्रोग्राम को लिखा गया था",
+    "question": "सैजिटेरियस गैलेक्सी के ऑब्ज़र्वेशन के लिए प्रोग्राम किस भाषा में लिखा गया?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "2177ebb674a9786c4469bc5d650c9795ae9f2bf63b9974bdcfc6386c447e14c2",
+    "seconds_audio": 9.96,
+    "shared_gain": 1.0,
+    "noise_seed": 6929517217377259864,
+    "sample_count": 159360,
+    "canonical_source_audio_sha256": "c16871b3b7282293c314ecb0c068f3d8d3e3dee6e2a38905870b7a040571c955"
+  },
+  {
+    "id": "fresh-hi-1827-clean",
+    "source_id": 1827,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "सबसे नज़दीकी सिरे पर क्रस्ट की मोटाई करीब 70 किलोमीटर है और सबसे दूर के सिरे पर यह 100 किलोमीटर है",
+    "question": "सबसे दूर के सिरे पर क्रस्ट कितना मोटा है?",
+    "answers": [
+      "100 किलोमीटर",
+      "100 किमी",
+      "सौ किलोमीटर"
+    ],
+    "answerable": true,
+    "audio_sha256": "67b179399606e7fc7557416c81d1181d51e420ca54a6503162280b92bfa13aba",
+    "seconds_audio": 7.8,
+    "shared_gain": 1.0,
+    "noise_seed": 17549511976823677473,
+    "sample_count": 124800,
+    "canonical_source_audio_sha256": "c52c4432ea7473786bc164847eaa2bdec4d014a8c9a0338f7c51caf257640324"
+  },
+  {
+    "id": "fresh-hi-1827-noise_10db",
+    "source_id": 1827,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "सबसे नज़दीकी सिरे पर क्रस्ट की मोटाई करीब 70 किलोमीटर है और सबसे दूर के सिरे पर यह 100 किलोमीटर है",
+    "question": "सबसे दूर के सिरे पर क्रस्ट कितना मोटा है?",
+    "answers": [
+      "100 किलोमीटर",
+      "100 किमी",
+      "सौ किलोमीटर"
+    ],
+    "answerable": true,
+    "audio_sha256": "f4b7f6a45ccad9740f7d64cfffe3acdb43195990b47ea72090468c5637b129df",
+    "seconds_audio": 7.8,
+    "shared_gain": 1.0,
+    "noise_seed": 17549511976823677473,
+    "sample_count": 124800,
+    "canonical_source_audio_sha256": "c52c4432ea7473786bc164847eaa2bdec4d014a8c9a0338f7c51caf257640324"
+  },
+  {
+    "id": "fresh-hi-1763-clean",
+    "source_id": 1763,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "जैसे चांद पृथ्वी पर एक खिंचाव पैदा कर ज्वार-भाटे का कारण बनता है वैसे ही मिल्की वे भी धनु आकाशगंगा पर एक बल लगाता है",
+    "question": "मिल्की वे किस आकाशगंगा पर बल लगाता है?",
+    "answers": [
+      "धनु आकाशगंगा",
+      "धनु"
+    ],
+    "answerable": true,
+    "audio_sha256": "eba27d4d2e04461a3846948bee6782782f7ba3441c4cce6b64fc69c8bb1f94aa",
+    "seconds_audio": 9.72,
+    "shared_gain": 1.0,
+    "noise_seed": 7246102092924821166,
+    "sample_count": 155520,
+    "canonical_source_audio_sha256": "f8705a642cc1d141bcc5175c7b43b48a15e3bff94cb1b7f662e27b4a4f1d3d99"
+  },
+  {
+    "id": "fresh-hi-1763-noise_10db",
+    "source_id": 1763,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "जैसे चांद पृथ्वी पर एक खिंचाव पैदा कर ज्वार-भाटे का कारण बनता है वैसे ही मिल्की वे भी धनु आकाशगंगा पर एक बल लगाता है",
+    "question": "मिल्की वे किस आकाशगंगा पर बल लगाता है?",
+    "answers": [
+      "धनु आकाशगंगा",
+      "धनु"
+    ],
+    "answerable": true,
+    "audio_sha256": "7ba1d48144d26553d45d5f5ed6f18517cb121b63763d8347f1062994f50f612f",
+    "seconds_audio": 9.72,
+    "shared_gain": 1.0,
+    "noise_seed": 7246102092924821166,
+    "sample_count": 155520,
+    "canonical_source_audio_sha256": "f8705a642cc1d141bcc5175c7b43b48a15e3bff94cb1b7f662e27b4a4f1d3d99"
+  },
+  {
+    "id": "fresh-hi-1717-clean",
+    "source_id": 1717,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "अंडरवॉटर टोपोलॉजी के कारण कुछ गहरे सेक्शन्स में रिटर्न फ़्लो सांद्र होता है और यहां से गहरे पानी में तेज़ प्रवाह हो सकता है",
+    "question": "गहरे सेक्शन्स में रिटर्न फ़्लो किस कारण एक जगह केंद्रित होता है?",
+    "answers": [
+      "अंडरवॉटर टोपोलॉजी",
+      "पानी के नीचे की स्थलाकृति"
+    ],
+    "answerable": true,
+    "audio_sha256": "1314d7bc7e2a10a6259252443a8b97dfe7e6e8a0ac0f01381db826b2dcc03088",
+    "seconds_audio": 13.2,
+    "shared_gain": 1.0,
+    "noise_seed": 18331474295587748708,
+    "sample_count": 211200,
+    "canonical_source_audio_sha256": "f762b86625a9c7fc7840ea105477ef3cf8065443e9e3237533c0ea85e9de32e3"
+  },
+  {
+    "id": "fresh-hi-1717-noise_10db",
+    "source_id": 1717,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "अंडरवॉटर टोपोलॉजी के कारण कुछ गहरे सेक्शन्स में रिटर्न फ़्लो सांद्र होता है और यहां से गहरे पानी में तेज़ प्रवाह हो सकता है",
+    "question": "गहरे सेक्शन्स में रिटर्न फ़्लो किस कारण एक जगह केंद्रित होता है?",
+    "answers": [
+      "अंडरवॉटर टोपोलॉजी",
+      "पानी के नीचे की स्थलाकृति"
+    ],
+    "answerable": true,
+    "audio_sha256": "3e05f090ba9f3e3761ee14cb69ce34e268412efe9934532d91c1b3fd24c75683",
+    "seconds_audio": 13.2,
+    "shared_gain": 1.0,
+    "noise_seed": 18331474295587748708,
+    "sample_count": 211200,
+    "canonical_source_audio_sha256": "f762b86625a9c7fc7840ea105477ef3cf8065443e9e3237533c0ea85e9de32e3"
+  },
+  {
+    "id": "fresh-hi-1940-clean",
+    "source_id": 1940,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "अगर हमारे अपने पूर्वजों ने अपनी प्रोटीन की समस्या को कुछ हद तक उसी तरह सुलझाया तो हमें आश्चर्यचकित नहीं होना चाहिए जैसे कि आज के समय में चिंपाजी करते हैं",
+    "question": "पूर्वजों की प्रोटीन समस्या सुलझाने के ढंग की तुलना किस जीव से की गई है?",
+    "answers": [
+      "चिंपाजी",
+      "चिंपांज़ी",
+      "चिंपांजी"
+    ],
+    "answerable": true,
+    "audio_sha256": "ed79392ca3e78e008167ea27d1dfaca352ee8e2bc030dd007af28ea982a0220d",
+    "seconds_audio": 10.8,
+    "shared_gain": 1.0,
+    "noise_seed": 2711705755995015418,
+    "sample_count": 172800,
+    "canonical_source_audio_sha256": "747e3f6c55d4789add8c4553597b2e82502dffa3e6844fcb9b9c3c550d2c3175"
+  },
+  {
+    "id": "fresh-hi-1940-noise_10db",
+    "source_id": 1940,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "अगर हमारे अपने पूर्वजों ने अपनी प्रोटीन की समस्या को कुछ हद तक उसी तरह सुलझाया तो हमें आश्चर्यचकित नहीं होना चाहिए जैसे कि आज के समय में चिंपाजी करते हैं",
+    "question": "पूर्वजों की प्रोटीन समस्या सुलझाने के ढंग की तुलना किस जीव से की गई है?",
+    "answers": [
+      "चिंपाजी",
+      "चिंपांज़ी",
+      "चिंपांजी"
+    ],
+    "answerable": true,
+    "audio_sha256": "9eded9b8326b2b7208fb4b8a9b3d05e092e2c78284074c95b03f3a8534519d51",
+    "seconds_audio": 10.8,
+    "shared_gain": 1.0,
+    "noise_seed": 2711705755995015418,
+    "sample_count": 172800,
+    "canonical_source_audio_sha256": "747e3f6c55d4789add8c4553597b2e82502dffa3e6844fcb9b9c3c550d2c3175"
+  },
+  {
+    "id": "fresh-hi-1802-clean",
+    "source_id": 1802,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "इंटरनेट लोगों और अंतर-परस्पर संचार दोनों के तत्वों को मिलाता है",
+    "question": "लोगों और अंतर-परस्पर संचार के तत्वों को कौन मिलाता है?",
+    "answers": [
+      "इंटरनेट"
+    ],
+    "answerable": true,
+    "audio_sha256": "abbbe243c5244f439ca78d9e099e43edb511cd71c4e890d863fb43ad73d1313c",
+    "seconds_audio": 5.46,
+    "shared_gain": 1.0,
+    "noise_seed": 3709663924602845820,
+    "sample_count": 87360,
+    "canonical_source_audio_sha256": "beca7781aab5d7bc66be86a30ac997e082e7ad8621925787ee49b8119470d8c0"
+  },
+  {
+    "id": "fresh-hi-1802-noise_10db",
+    "source_id": 1802,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "इंटरनेट लोगों और अंतर-परस्पर संचार दोनों के तत्वों को मिलाता है",
+    "question": "लोगों और अंतर-परस्पर संचार के तत्वों को कौन मिलाता है?",
+    "answers": [
+      "इंटरनेट"
+    ],
+    "answerable": true,
+    "audio_sha256": "5a5f42e86c803efcceb0f00e013fa1a826b7034c91547d47b4ff4f8a3e69b142",
+    "seconds_audio": 5.46,
+    "shared_gain": 1.0,
+    "noise_seed": 3709663924602845820,
+    "sample_count": 87360,
+    "canonical_source_audio_sha256": "beca7781aab5d7bc66be86a30ac997e082e7ad8621925787ee49b8119470d8c0"
+  },
+  {
+    "id": "fresh-hi-1945-clean",
+    "source_id": 1945,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "कैसाब्लांका मोरक्को में खरीदारी करने के लिए सबसे कम दिलचस्प स्थानों में से एक है",
+    "question": "मोरक्को में खरीदारी के लिए किस स्थान को कम दिलचस्प बताया गया है?",
+    "answers": [
+      "कैसाब्लांका",
+      "कासाब्लांका"
+    ],
+    "answerable": true,
+    "audio_sha256": "b82374b8ce8c7f5713b3dc1af41d8d4bec05cfd8d4d67d66f5bcde7f8e3b38e8",
+    "seconds_audio": 5.94,
+    "shared_gain": 1.0,
+    "noise_seed": 11710659004419996374,
+    "sample_count": 95040,
+    "canonical_source_audio_sha256": "913fa79b419c4ab1083fd89d5a11565144c52a4187649918fc8fea63ef1af6d3"
+  },
+  {
+    "id": "fresh-hi-1945-noise_10db",
+    "source_id": 1945,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "कैसाब्लांका मोरक्को में खरीदारी करने के लिए सबसे कम दिलचस्प स्थानों में से एक है",
+    "question": "मोरक्को में खरीदारी के लिए किस स्थान को कम दिलचस्प बताया गया है?",
+    "answers": [
+      "कैसाब्लांका",
+      "कासाब्लांका"
+    ],
+    "answerable": true,
+    "audio_sha256": "ef8ae5e0442994edfbdaf939f893120fa14c205b1e2c809429d1171118118960",
+    "seconds_audio": 5.94,
+    "shared_gain": 1.0,
+    "noise_seed": 11710659004419996374,
+    "sample_count": 95040,
+    "canonical_source_audio_sha256": "913fa79b419c4ab1083fd89d5a11565144c52a4187649918fc8fea63ef1af6d3"
+  },
+  {
+    "id": "fresh-hi-1785-clean",
+    "source_id": 1785,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "स्कैफ़ोल्डिंग सीखने की एक विधि नहीं है बल्कि ऐसे लोगों को मददगार होती है जो किसी नई चीज़ को सीख रहे हों जैसे नया कंप्यूटर प्रोग्राम चलना या एक नया प्रोजेक्ट शुरू करना",
+    "question": "नए कंप्यूटर प्रोग्राम का अभ्यास कितने दिनों तक चलता है?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "2fae7e14b91aa0b0c57cb26e19439be9fee05e9ed23f328aae5384c5e0a4079f",
+    "seconds_audio": 14.1,
+    "shared_gain": 1.0,
+    "noise_seed": 741471476725115931,
+    "sample_count": 225600,
+    "canonical_source_audio_sha256": "d79ee476fdb2615a4f0519ae7ed03f3ee97bc2f6b0286158cd0c31545d23c02d"
+  },
+  {
+    "id": "fresh-hi-1785-noise_10db",
+    "source_id": 1785,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "स्कैफ़ोल्डिंग सीखने की एक विधि नहीं है बल्कि ऐसे लोगों को मददगार होती है जो किसी नई चीज़ को सीख रहे हों जैसे नया कंप्यूटर प्रोग्राम चलना या एक नया प्रोजेक्ट शुरू करना",
+    "question": "नए कंप्यूटर प्रोग्राम का अभ्यास कितने दिनों तक चलता है?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "ef23d4b86ede88cff806d81b75e20f5806246cf134e2828ca4489fb2c40e97f7",
+    "seconds_audio": 14.1,
+    "shared_gain": 1.0,
+    "noise_seed": 741471476725115931,
+    "sample_count": 225600,
+    "canonical_source_audio_sha256": "d79ee476fdb2615a4f0519ae7ed03f3ee97bc2f6b0286158cd0c31545d23c02d"
+  },
+  {
+    "id": "fresh-hi-1833-clean",
+    "source_id": 1833,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "अरस्तू एक दार्शनिक ने सिद्ध किया कि सब कुछ एक या चार तत्वों के मिश्रण से बना है वे पृथ्वी जल वायु और अग्नि थे",
+    "question": "चार तत्वों के मिश्रण का विचार किस दार्शनिक से जोड़ा गया है?",
+    "answers": [
+      "अरस्तू"
+    ],
+    "answerable": true,
+    "audio_sha256": "b10032d294c1d2e04a9c2093c07c7faf35efa5ce0687c7b397048a83fc2bf09b",
+    "seconds_audio": 10.38,
+    "shared_gain": 1.0,
+    "noise_seed": 12184671201283007158,
+    "sample_count": 166080,
+    "canonical_source_audio_sha256": "cc628b3fdb03d63c9e34262677312e2761e628deeb31702d138cf2e337a5bcde"
+  },
+  {
+    "id": "fresh-hi-1833-noise_10db",
+    "source_id": 1833,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "अरस्तू एक दार्शनिक ने सिद्ध किया कि सब कुछ एक या चार तत्वों के मिश्रण से बना है वे पृथ्वी जल वायु और अग्नि थे",
+    "question": "चार तत्वों के मिश्रण का विचार किस दार्शनिक से जोड़ा गया है?",
+    "answers": [
+      "अरस्तू"
+    ],
+    "answerable": true,
+    "audio_sha256": "36bd75f906c33e9b8447b190a9cce4782ed788500489c98ef32a919f63f654be",
+    "seconds_audio": 10.38,
+    "shared_gain": 1.0,
+    "noise_seed": 12184671201283007158,
+    "sample_count": 166080,
+    "canonical_source_audio_sha256": "cc628b3fdb03d63c9e34262677312e2761e628deeb31702d138cf2e337a5bcde"
+  },
+  {
+    "id": "fresh-hi-1701-clean",
+    "source_id": 1701,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "माना जाता है कि ईरान की ज़ाग्रोस पहाड़ियों में 10,000 साल पहले बकरी पालन की शुरुआत हुई थी",
+    "question": "बकरी पालन की शुरुआत ईरान की किन पहाड़ियों में मानी जाती है?",
+    "answers": [
+      "ज़ाग्रोस पहाड़ियों",
+      "जाग्रोस पहाड़ियों",
+      "ज़ाग्रोस",
+      "जाग्रोस"
+    ],
+    "answerable": true,
+    "audio_sha256": "d920ddaffb3a468ad12db8a8042fbda39a1e845d1c732a3d878075421df0aaff",
+    "seconds_audio": 12.24,
+    "shared_gain": 1.0,
+    "noise_seed": 1762953369412741662,
+    "sample_count": 195840,
+    "canonical_source_audio_sha256": "27e1026b41d88a00257222b29cbb54d0e2b3ae191aa995274909ff2d3bded832"
+  },
+  {
+    "id": "fresh-hi-1701-noise_10db",
+    "source_id": 1701,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "माना जाता है कि ईरान की ज़ाग्रोस पहाड़ियों में 10,000 साल पहले बकरी पालन की शुरुआत हुई थी",
+    "question": "बकरी पालन की शुरुआत ईरान की किन पहाड़ियों में मानी जाती है?",
+    "answers": [
+      "ज़ाग्रोस पहाड़ियों",
+      "जाग्रोस पहाड़ियों",
+      "ज़ाग्रोस",
+      "जाग्रोस"
+    ],
+    "answerable": true,
+    "audio_sha256": "f741644764940aff54a5778f773965d9012ec5f5d1e90b11c8bf40bc758fc9d8",
+    "seconds_audio": 12.24,
+    "shared_gain": 1.0,
+    "noise_seed": 1762953369412741662,
+    "sample_count": 195840,
+    "canonical_source_audio_sha256": "27e1026b41d88a00257222b29cbb54d0e2b3ae191aa995274909ff2d3bded832"
+  },
+  {
+    "id": "fresh-hi-1891-clean",
+    "source_id": 1891,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "लक्खा सिंह ने छप्पन भोग भजन भी प्रस्तुत किया गायक राजू खंडेलवाल उनके साथ थे",
+    "question": "छप्पन भोग भजन की प्रस्तुति में लक्खा सिंह के साथ कौन गायक थे?",
+    "answers": [
+      "राजू खंडेलवाल"
+    ],
+    "answerable": true,
+    "audio_sha256": "d1d0c2bb7e33ef3edce2f2725cc16ba51b378d6cbad435be2607194d1abe2b7f",
+    "seconds_audio": 7.44,
+    "shared_gain": 1.0,
+    "noise_seed": 7967483973092487477,
+    "sample_count": 119040,
+    "canonical_source_audio_sha256": "16dbfa60524efd44829c0d1ae8a0a58c87fcb77ffea22667ecb25833a2595a23"
+  },
+  {
+    "id": "fresh-hi-1891-noise_10db",
+    "source_id": 1891,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "लक्खा सिंह ने छप्पन भोग भजन भी प्रस्तुत किया गायक राजू खंडेलवाल उनके साथ थे",
+    "question": "छप्पन भोग भजन की प्रस्तुति में लक्खा सिंह के साथ कौन गायक थे?",
+    "answers": [
+      "राजू खंडेलवाल"
+    ],
+    "answerable": true,
+    "audio_sha256": "068db5e0f5d9224b26d862ba852eb963829ce60dd39a6c089b56991166b4ffdf",
+    "seconds_audio": 7.44,
+    "shared_gain": 1.0,
+    "noise_seed": 7967483973092487477,
+    "sample_count": 119040,
+    "canonical_source_audio_sha256": "16dbfa60524efd44829c0d1ae8a0a58c87fcb77ffea22667ecb25833a2595a23"
+  },
+  {
+    "id": "fresh-hi-1907-clean",
+    "source_id": 1907,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "शत्रुता फैलाने के तुरंत बाद ब्रिटेन ने जर्मनी की समुद्री घेराबंदी शुरू कर दी थी",
+    "question": "ब्रिटेन ने किस देश की समुद्री घेराबंदी शुरू की थी?",
+    "answers": [
+      "जर्मनी"
+    ],
+    "answerable": true,
+    "audio_sha256": "d8770383026817f587bb5184d9fd9b6165cfa793302afd1ce6cf01fec9204b10",
+    "seconds_audio": 7.08,
+    "shared_gain": 1.0,
+    "noise_seed": 5192761330251955753,
+    "sample_count": 113280,
+    "canonical_source_audio_sha256": "93faab41016c66c98dc49069634069fe55b47075d540b65e86aa0b090b76d28c"
+  },
+  {
+    "id": "fresh-hi-1907-noise_10db",
+    "source_id": 1907,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "शत्रुता फैलाने के तुरंत बाद ब्रिटेन ने जर्मनी की समुद्री घेराबंदी शुरू कर दी थी",
+    "question": "ब्रिटेन ने किस देश की समुद्री घेराबंदी शुरू की थी?",
+    "answers": [
+      "जर्मनी"
+    ],
+    "answerable": true,
+    "audio_sha256": "2a643a3ae280440ddd0670efa9d326b490fc18acc49c61086d3be8ad94007a61",
+    "seconds_audio": 7.08,
+    "shared_gain": 1.0,
+    "noise_seed": 5192761330251955753,
+    "sample_count": 113280,
+    "canonical_source_audio_sha256": "93faab41016c66c98dc49069634069fe55b47075d540b65e86aa0b090b76d28c"
+  },
+  {
+    "id": "fresh-hi-1872-clean",
+    "source_id": 1872,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "माऊ आंदोलन द्वारा स्वतंत्रता के लिए आयोजित संघर्ष के दौरान नगर में एक शांतिपूर्ण सभा में प्रमुख तापुआ तामासेसे सेलोफ़ी तृतीय की हत्या हो गई",
+    "question": "शांतिपूर्ण सभा में किस प्रमुख की हत्या हुई?",
+    "answers": [
+      "तापुआ तामासेसे सेलोफ़ी तृतीय",
+      "तापुआ तामासेसे सेलोफी तृतीय"
+    ],
+    "answerable": true,
+    "audio_sha256": "852d3891339b3e50dca77b55623615c67629c8ad3c49fde11df10d9b3fc8b14b",
+    "seconds_audio": 15.0,
+    "shared_gain": 0.9004356026918579,
+    "noise_seed": 479447458447857584,
+    "sample_count": 240000,
+    "canonical_source_audio_sha256": "8749e1918765f23262a10add35ce8bd24eb0b3cc578aa21b359162b7a31ae793"
+  },
+  {
+    "id": "fresh-hi-1872-noise_10db",
+    "source_id": 1872,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "माऊ आंदोलन द्वारा स्वतंत्रता के लिए आयोजित संघर्ष के दौरान नगर में एक शांतिपूर्ण सभा में प्रमुख तापुआ तामासेसे सेलोफ़ी तृतीय की हत्या हो गई",
+    "question": "शांतिपूर्ण सभा में किस प्रमुख की हत्या हुई?",
+    "answers": [
+      "तापुआ तामासेसे सेलोफ़ी तृतीय",
+      "तापुआ तामासेसे सेलोफी तृतीय"
+    ],
+    "answerable": true,
+    "audio_sha256": "82cbad69f2c52a235d435ddb1e6cf78b908eb2202c9f12d23c192b1d03984264",
+    "seconds_audio": 15.0,
+    "shared_gain": 0.9004356026918579,
+    "noise_seed": 479447458447857584,
+    "sample_count": 240000,
+    "canonical_source_audio_sha256": "8749e1918765f23262a10add35ce8bd24eb0b3cc578aa21b359162b7a31ae793"
+  },
+  {
+    "id": "fresh-hi-1748-clean",
+    "source_id": 1748,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "11:35 बजे अग्नि बचाव दल ने अंततः आग बुझा दी थी",
+    "question": "बचाव दल ने आग कितने बजे बुझाई?",
+    "answers": [
+      "11:35",
+      "11:35 बजे",
+      "ग्यारह बजकर पैंतीस मिनट"
+    ],
+    "answerable": true,
+    "audio_sha256": "e5069502387eda4520bff6be47fb241add35af3dc1e91103ec6f9e84dbc29721",
+    "seconds_audio": 9.0,
+    "shared_gain": 1.0,
+    "noise_seed": 7043897523569887801,
+    "sample_count": 144000,
+    "canonical_source_audio_sha256": "47777ff9eb89c9b27558dfa8d4727b1fd664ec3d9493d5ecf53ba3ee85e174ca"
+  },
+  {
+    "id": "fresh-hi-1748-noise_10db",
+    "source_id": 1748,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "11:35 बजे अग्नि बचाव दल ने अंततः आग बुझा दी थी",
+    "question": "बचाव दल ने आग कितने बजे बुझाई?",
+    "answers": [
+      "11:35",
+      "11:35 बजे",
+      "ग्यारह बजकर पैंतीस मिनट"
+    ],
+    "answerable": true,
+    "audio_sha256": "11a8a2d8f7b8d12824c8f0af3f931f271cdeadc638371f7380df0ca3ec4edbf9",
+    "seconds_audio": 9.0,
+    "shared_gain": 1.0,
+    "noise_seed": 7043897523569887801,
+    "sample_count": 144000,
+    "canonical_source_audio_sha256": "47777ff9eb89c9b27558dfa8d4727b1fd664ec3d9493d5ecf53ba3ee85e174ca"
+  },
+  {
+    "id": "fresh-hi-1901-clean",
+    "source_id": 1901,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "हालांकि एआई में विज्ञान कथाओं का एक मज़बूत अर्थ होता है लेकिन एआई कंप्यूटर विज्ञान की एक बहुत ही अहम शाखा बनाता है जिसमें बर्ताव से निपटना किसी मशीन में सीखना और बुद्धिमान अनुकूलन शामिल है",
+    "question": "मशीन को सीखना सिखाने के लिए कौन सा सॉफ़्टवेयर इस्तेमाल हुआ?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "65b7fe6ebb4dda7d3cb25d1c0bab169b7cdcac0f8034b96ed31231410c08fb09",
+    "seconds_audio": 17.16,
+    "shared_gain": 1.0,
+    "noise_seed": 8025581756440355992,
+    "sample_count": 274560,
+    "canonical_source_audio_sha256": "9031c19f655ba6daac5d21bf0aedd42bec3879c2f14e44b66bfc3ceefa60777f"
+  },
+  {
+    "id": "fresh-hi-1901-noise_10db",
+    "source_id": 1901,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "हालांकि एआई में विज्ञान कथाओं का एक मज़बूत अर्थ होता है लेकिन एआई कंप्यूटर विज्ञान की एक बहुत ही अहम शाखा बनाता है जिसमें बर्ताव से निपटना किसी मशीन में सीखना और बुद्धिमान अनुकूलन शामिल है",
+    "question": "मशीन को सीखना सिखाने के लिए कौन सा सॉफ़्टवेयर इस्तेमाल हुआ?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "99d3d9cb90c8d13dbf247932092d65b11daf2ab575fb4caf17e7b2e32a1074ff",
+    "seconds_audio": 17.16,
+    "shared_gain": 1.0,
+    "noise_seed": 8025581756440355992,
+    "sample_count": 274560,
+    "canonical_source_audio_sha256": "9031c19f655ba6daac5d21bf0aedd42bec3879c2f14e44b66bfc3ceefa60777f"
+  },
+  {
+    "id": "fresh-hi-2000-clean",
+    "source_id": 2000,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "अगर आप सर्दियों में उत्तरी बाटलिक को पार करते हैं तो आपको केबिन स्थान की जांच करनी होगी  क्योंकि क्योंकि जो लोग ज्यादा प्रभावित है उन्हें बर्फ से गुजरने पर काफी भयानक शोर महसूस होगा ।",
+    "question": "बर्फ से गुज़रते समय जहाज़ किस बंदरगाह की ओर जा रहा था?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "ae64effc6d619a3a1912a81a00227b2663e35d8e342556403ed96746c3f2457e",
+    "seconds_audio": 12.78,
+    "shared_gain": 1.0,
+    "noise_seed": 14786293788690567115,
+    "sample_count": 204480,
+    "canonical_source_audio_sha256": "1e851a691fa80343da57f1a4ec05809ab31a674f73918f5ed08f8c2ef7c89118"
+  },
+  {
+    "id": "fresh-hi-2000-noise_10db",
+    "source_id": 2000,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "अगर आप सर्दियों में उत्तरी बाटलिक को पार करते हैं तो आपको केबिन स्थान की जांच करनी होगी  क्योंकि क्योंकि जो लोग ज्यादा प्रभावित है उन्हें बर्फ से गुजरने पर काफी भयानक शोर महसूस होगा ।",
+    "question": "बर्फ से गुज़रते समय जहाज़ किस बंदरगाह की ओर जा रहा था?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "ce9456cabc2af935404f7bed97039ac51903f29844835c6f6ab549432be2a600",
+    "seconds_audio": 12.78,
+    "shared_gain": 1.0,
+    "noise_seed": 14786293788690567115,
+    "sample_count": 204480,
+    "canonical_source_audio_sha256": "1e851a691fa80343da57f1a4ec05809ab31a674f73918f5ed08f8c2ef7c89118"
+  },
+  {
+    "id": "fresh-hi-1896-clean",
+    "source_id": 1896,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "यूएसए जिमनास्टिक्स और यूएसओसी का एक ही लक्ष्य है एथलीटों को सुरक्षित सकारात्मक और सशक्त वातावरण में अपने सपनों का अनुसरण करने के लिए जिमनास्टिक्स और अन्य लोगों के खेल को जितना संभव हो सके उतना सुरक्षित बनाना",
+    "question": "सुरक्षित खेलों के लक्ष्य में यूएसए जिमनास्टिक्स के साथ कौन सा संगठन शामिल है?",
+    "answers": [
+      "यूएसओसी",
+      "यूएस ओसी",
+      "USOC"
+    ],
+    "answerable": true,
+    "audio_sha256": "1b17576375ee8a638a42c21334876954eec0445a47dbe899e586ad619cced3c1",
+    "seconds_audio": 19.44,
+    "shared_gain": 1.0,
+    "noise_seed": 11499324987221260348,
+    "sample_count": 311040,
+    "canonical_source_audio_sha256": "908cd1edee46659c77d55e050a261340c17db8c699dfbd4b4aa283917b57115f"
+  },
+  {
+    "id": "fresh-hi-1896-noise_10db",
+    "source_id": 1896,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "यूएसए जिमनास्टिक्स और यूएसओसी का एक ही लक्ष्य है एथलीटों को सुरक्षित सकारात्मक और सशक्त वातावरण में अपने सपनों का अनुसरण करने के लिए जिमनास्टिक्स और अन्य लोगों के खेल को जितना संभव हो सके उतना सुरक्षित बनाना",
+    "question": "सुरक्षित खेलों के लक्ष्य में यूएसए जिमनास्टिक्स के साथ कौन सा संगठन शामिल है?",
+    "answers": [
+      "यूएसओसी",
+      "यूएस ओसी",
+      "USOC"
+    ],
+    "answerable": true,
+    "audio_sha256": "092e412c9a447007f319808055066ae36c83e92d983b70f96ec670e871a25fce",
+    "seconds_audio": 19.44,
+    "shared_gain": 1.0,
+    "noise_seed": 11499324987221260348,
+    "sample_count": 311040,
+    "canonical_source_audio_sha256": "908cd1edee46659c77d55e050a261340c17db8c699dfbd4b4aa283917b57115f"
+  },
+  {
+    "id": "fresh-hi-1780-clean",
+    "source_id": 1780,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "कुंडलिनी योग के द्वारा कुंडलिनी ऊर्जा ज्ञान ऊर्जा को योग मुद्राओं श्वास अभ्यास मंत्रों और मानसदर्शन के माध्यम से जागृत किया जाता है।",
+    "question": "योग मुद्राओं और श्वास अभ्यास से किस ऊर्जा को जागृत करने की बात है?",
+    "answers": [
+      "कुंडलिनी ऊर्जा",
+      "कुंडलिनी"
+    ],
+    "answerable": true,
+    "audio_sha256": "38b10fc6a34bf78cc3bcfffd6f8f0e0320562901953f4e564cfe0e2744c77614",
+    "seconds_audio": 11.1,
+    "shared_gain": 1.0,
+    "noise_seed": 17972866709411952633,
+    "sample_count": 177600,
+    "canonical_source_audio_sha256": "80c966cd4a1fd1d39dfe26a50112b718a16ab6a44f80d9d7d9bdd24c795fc38c"
+  },
+  {
+    "id": "fresh-hi-1780-noise_10db",
+    "source_id": 1780,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "कुंडलिनी योग के द्वारा कुंडलिनी ऊर्जा ज्ञान ऊर्जा को योग मुद्राओं श्वास अभ्यास मंत्रों और मानसदर्शन के माध्यम से जागृत किया जाता है।",
+    "question": "योग मुद्राओं और श्वास अभ्यास से किस ऊर्जा को जागृत करने की बात है?",
+    "answers": [
+      "कुंडलिनी ऊर्जा",
+      "कुंडलिनी"
+    ],
+    "answerable": true,
+    "audio_sha256": "6bc6b82d311f7bac0e8809f634c1808cf299ab0fa639413f9c18eb189c1b3ec0",
+    "seconds_audio": 11.1,
+    "shared_gain": 1.0,
+    "noise_seed": 17972866709411952633,
+    "sample_count": 177600,
+    "canonical_source_audio_sha256": "80c966cd4a1fd1d39dfe26a50112b718a16ab6a44f80d9d7d9bdd24c795fc38c"
+  },
+  {
+    "id": "fresh-hi-1808-clean",
+    "source_id": 1808,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "लड़ाई के आख़िरी दो सालों में पहले के साथी अब दुश्मन बन गए थे और शीत युद्ध की शुरुआत हो चुकी थी",
+    "question": "पुराने साथियों ने किस संधि पर हस्ताक्षर किए थे?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "2fdc25213833d6ca26f8ed141df12ad87c6ffa93e0b42f4cbcbe848bc9e71c40",
+    "seconds_audio": 8.76,
+    "shared_gain": 1.0,
+    "noise_seed": 3956454484645296202,
+    "sample_count": 140160,
+    "canonical_source_audio_sha256": "1f40d1c166573a45b40e2bca390e201fe0be678d5bfa2b5b7f422fb1cc64c6a7"
+  },
+  {
+    "id": "fresh-hi-1808-noise_10db",
+    "source_id": 1808,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "लड़ाई के आख़िरी दो सालों में पहले के साथी अब दुश्मन बन गए थे और शीत युद्ध की शुरुआत हो चुकी थी",
+    "question": "पुराने साथियों ने किस संधि पर हस्ताक्षर किए थे?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "13a2130e87a0d2678e4d8ab5e3e53e25e141c08a8b370e1f5e369a0e11ef53c1",
+    "seconds_audio": 8.76,
+    "shared_gain": 1.0,
+    "noise_seed": 3956454484645296202,
+    "sample_count": 140160,
+    "canonical_source_audio_sha256": "1f40d1c166573a45b40e2bca390e201fe0be678d5bfa2b5b7f422fb1cc64c6a7"
+  },
+  {
+    "id": "fresh-hi-1747-clean",
+    "source_id": 1747,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "लूना को साथी पहलवानों ने भी श्रद्धांजलि दी",
+    "question": "लूना को किस पेशे के उनके साथियों ने श्रद्धांजलि दी?",
+    "answers": [
+      "पहलवान",
+      "पहलवानों"
+    ],
+    "answerable": true,
+    "audio_sha256": "3f8953c1813a311440974f8651fd89bd821edbf19b4cf21b719eead47586f163",
+    "seconds_audio": 4.74,
+    "shared_gain": 1.0,
+    "noise_seed": 13457356864778725496,
+    "sample_count": 75840,
+    "canonical_source_audio_sha256": "ff5890c62e35a349a14cd7655456fecd4843071bc66b15a2b4d81e2cbef62bb0"
+  },
+  {
+    "id": "fresh-hi-1747-noise_10db",
+    "source_id": 1747,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "लूना को साथी पहलवानों ने भी श्रद्धांजलि दी",
+    "question": "लूना को किस पेशे के उनके साथियों ने श्रद्धांजलि दी?",
+    "answers": [
+      "पहलवान",
+      "पहलवानों"
+    ],
+    "answerable": true,
+    "audio_sha256": "4c48a03d7abc4e1147d33f453d315a27cfd6cf7063d9d2478d19df6eafdaaf55",
+    "seconds_audio": 4.74,
+    "shared_gain": 1.0,
+    "noise_seed": 13457356864778725496,
+    "sample_count": 75840,
+    "canonical_source_audio_sha256": "ff5890c62e35a349a14cd7655456fecd4843071bc66b15a2b4d81e2cbef62bb0"
+  },
+  {
+    "id": "fresh-hi-1746-clean",
+    "source_id": 1746,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "पौधे फ़ोटोसिंथेसिस द्वारा सूर्य से अपना भोजन बनाते हैं वह छाया भी देते हैं",
+    "question": "पौधे सूर्य से भोजन किस प्रक्रिया से बनाते हैं?",
+    "answers": [
+      "फ़ोटोसिंथेसिस",
+      "फोटोसिंथेसिस",
+      "प्रकाश संश्लेषण"
+    ],
+    "answerable": true,
+    "audio_sha256": "ceb0f3f98d2325069293fd2e1b30f217dda1912ca81d7214959e3438a9892f67",
+    "seconds_audio": 5.76,
+    "shared_gain": 1.0,
+    "noise_seed": 14614550661066579799,
+    "sample_count": 92160,
+    "canonical_source_audio_sha256": "f07f4d2c94b0b75a7468dd8650cdce7101b282f359b254f6ff0e3b1b2a30f6cc"
+  },
+  {
+    "id": "fresh-hi-1746-noise_10db",
+    "source_id": 1746,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "पौधे फ़ोटोसिंथेसिस द्वारा सूर्य से अपना भोजन बनाते हैं वह छाया भी देते हैं",
+    "question": "पौधे सूर्य से भोजन किस प्रक्रिया से बनाते हैं?",
+    "answers": [
+      "फ़ोटोसिंथेसिस",
+      "फोटोसिंथेसिस",
+      "प्रकाश संश्लेषण"
+    ],
+    "answerable": true,
+    "audio_sha256": "8475d890200a4b3b1965f48553117d13c74f8d4ea37e1bfb0f90d40f97880c12",
+    "seconds_audio": 5.76,
+    "shared_gain": 1.0,
+    "noise_seed": 14614550661066579799,
+    "sample_count": 92160,
+    "canonical_source_audio_sha256": "f07f4d2c94b0b75a7468dd8650cdce7101b282f359b254f6ff0e3b1b2a30f6cc"
+  },
+  {
+    "id": "fresh-hi-2005-clean",
+    "source_id": 2005,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "लेकिन उन पक्षियों के बारे में बहुत सी चीजें हैं जो अभी भी डायनासोर जैसे दिखते हैं",
+    "question": "डायनासोर से मिलते-जुलते पक्षियों की कौन सी प्रजाति का नाम लिया गया?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "45d31901c581585edaeb6cca11bd9b1c2fa3b36a1cc84c64dfaf21b4b334ef35",
+    "seconds_audio": 6.54,
+    "shared_gain": 1.0,
+    "noise_seed": 422211425047365579,
+    "sample_count": 104640,
+    "canonical_source_audio_sha256": "ab988b55c2d183937e857ac93b59552fd4f1d62952fef79b7ccf7df061323fbc"
+  },
+  {
+    "id": "fresh-hi-2005-noise_10db",
+    "source_id": 2005,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "लेकिन उन पक्षियों के बारे में बहुत सी चीजें हैं जो अभी भी डायनासोर जैसे दिखते हैं",
+    "question": "डायनासोर से मिलते-जुलते पक्षियों की कौन सी प्रजाति का नाम लिया गया?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "fca190f710194036007a9089a0b7565580b3384a8c2f382d047caf5fbda07749",
+    "seconds_audio": 6.54,
+    "shared_gain": 1.0,
+    "noise_seed": 422211425047365579,
+    "sample_count": 104640,
+    "canonical_source_audio_sha256": "ab988b55c2d183937e857ac93b59552fd4f1d62952fef79b7ccf7df061323fbc"
+  },
+  {
+    "id": "fresh-hi-1918-clean",
+    "source_id": 1918,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "सुंदरबन को यूनेस्को द्वारा विश्व धरोहर घोषित किया है जंगल का वह हिस्सा जो भारत में है उसको सुंदरबन नेशनल पार्क कहा जाता है",
+    "question": "भारत में मौजूद सुंदरबन के हिस्से को क्या कहा जाता है?",
+    "answers": [
+      "सुंदरबन नेशनल पार्क",
+      "सुंदरबन राष्ट्रीय उद्यान"
+    ],
+    "answerable": true,
+    "audio_sha256": "5ccb032748b0874081ed53e7769d74d8de94ac701801434e12f8d6a781b34b4d",
+    "seconds_audio": 8.88,
+    "shared_gain": 1.0,
+    "noise_seed": 16642426266338831234,
+    "sample_count": 142080,
+    "canonical_source_audio_sha256": "87597f9b1a2a5b4c916d6f20f9b507b8d31078dc1f9ddb2c19e323dc658a4b16"
+  },
+  {
+    "id": "fresh-hi-1918-noise_10db",
+    "source_id": 1918,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "सुंदरबन को यूनेस्को द्वारा विश्व धरोहर घोषित किया है जंगल का वह हिस्सा जो भारत में है उसको सुंदरबन नेशनल पार्क कहा जाता है",
+    "question": "भारत में मौजूद सुंदरबन के हिस्से को क्या कहा जाता है?",
+    "answers": [
+      "सुंदरबन नेशनल पार्क",
+      "सुंदरबन राष्ट्रीय उद्यान"
+    ],
+    "answerable": true,
+    "audio_sha256": "c9b6776d8013f25e46b6efa0f6b545100e6a7deef351991efefaea6c733f6b8f",
+    "seconds_audio": 8.88,
+    "shared_gain": 1.0,
+    "noise_seed": 16642426266338831234,
+    "sample_count": 142080,
+    "canonical_source_audio_sha256": "87597f9b1a2a5b4c916d6f20f9b507b8d31078dc1f9ddb2c19e323dc658a4b16"
+  },
+  {
+    "id": "fresh-hi-1742-clean",
+    "source_id": 1742,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "हांगकांग द्वीप हांगकांग के क्षेत्र को उसका नाम देता है और यह वह स्थान है जिसे कई पर्यटक मुख्य केंद्र बिंदु मानते हैं",
+    "question": "उस द्वीप का क्षेत्रफल कितने वर्ग किलोमीटर है?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "4f1361e6edf2d866ccd89d995be2d41fb013abb88738cb70de5744ce2fcf0712",
+    "seconds_audio": 11.16,
+    "shared_gain": 1.0,
+    "noise_seed": 12718500592869501347,
+    "sample_count": 178560,
+    "canonical_source_audio_sha256": "f1d716d2092bf3e4bd2243173e47d1e8ca2a0fc097c33b014b1104dd66ff7425"
+  },
+  {
+    "id": "fresh-hi-1742-noise_10db",
+    "source_id": 1742,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "हांगकांग द्वीप हांगकांग के क्षेत्र को उसका नाम देता है और यह वह स्थान है जिसे कई पर्यटक मुख्य केंद्र बिंदु मानते हैं",
+    "question": "उस द्वीप का क्षेत्रफल कितने वर्ग किलोमीटर है?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "7a181d04ceb8ecff68ba2f4ba943436ccb56c83a9a883a8fe3be24c1a67f2cb4",
+    "seconds_audio": 11.16,
+    "shared_gain": 1.0,
+    "noise_seed": 12718500592869501347,
+    "sample_count": 178560,
+    "canonical_source_audio_sha256": "f1d716d2092bf3e4bd2243173e47d1e8ca2a0fc097c33b014b1104dd66ff7425"
+  },
+  {
+    "id": "fresh-hi-1668-clean",
+    "source_id": 1668,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "वाइल्ड कार्ड खरीद लेना फ़ायदेमंद भी हो सकता है क्योंकि इससे आप दक्षिण अफ़्रीका के चुनिंदा पार्क या सभी दक्षिण अफ़्रीकी नेशनल पार्क देख सकते हैं",
+    "question": "दक्षिण अफ़्रीकी पार्कों को देखने के लिए कौन सा कार्ड खरीदना फ़ायदेमंद हो सकता है?",
+    "answers": [
+      "वाइल्ड कार्ड",
+      "वाइल्डकार्ड"
+    ],
+    "answerable": true,
+    "audio_sha256": "320b1494105128f33eb12021f598ff363935721979ffac8be5851014bc1ac292",
+    "seconds_audio": 11.46,
+    "shared_gain": 1.0,
+    "noise_seed": 10465535364157653514,
+    "sample_count": 183360,
+    "canonical_source_audio_sha256": "25dfc8d29f4df7d32dffecbd3e1faa70f97642e714be07d33bc9f38017fc2491"
+  },
+  {
+    "id": "fresh-hi-1668-noise_10db",
+    "source_id": 1668,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "वाइल्ड कार्ड खरीद लेना फ़ायदेमंद भी हो सकता है क्योंकि इससे आप दक्षिण अफ़्रीका के चुनिंदा पार्क या सभी दक्षिण अफ़्रीकी नेशनल पार्क देख सकते हैं",
+    "question": "दक्षिण अफ़्रीकी पार्कों को देखने के लिए कौन सा कार्ड खरीदना फ़ायदेमंद हो सकता है?",
+    "answers": [
+      "वाइल्ड कार्ड",
+      "वाइल्डकार्ड"
+    ],
+    "answerable": true,
+    "audio_sha256": "b7842fdb47e983885d3be192f91d4cbba304cb08ce3c8dda01aeeabb1bfe0179",
+    "seconds_audio": 11.46,
+    "shared_gain": 1.0,
+    "noise_seed": 10465535364157653514,
+    "sample_count": 183360,
+    "canonical_source_audio_sha256": "25dfc8d29f4df7d32dffecbd3e1faa70f97642e714be07d33bc9f38017fc2491"
+  },
+  {
+    "id": "fresh-hi-1714-clean",
+    "source_id": 1714,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "उपग्रह को एक रॉकेट से अंतरिक्ष में भेजा गया था वैज्ञानिक अंतरिक्ष में दूरबीनों का उपयोग करते हैं क्योंकि पृथ्वी का वायुमंडल हमारे कुछ प्रकाश और दृश्य को अशुद्ध करता है",
+    "question": "उपग्रह को किस साधन से अंतरिक्ष में भेजा गया?",
+    "answers": [
+      "रॉकेट",
+      "राकेट"
+    ],
+    "answerable": true,
+    "audio_sha256": "acbcc45aa2c394e484be97240a0ea8e0c730e2f11b8bd14a01609f0a51e7ed43",
+    "seconds_audio": 12.12,
+    "shared_gain": 1.0,
+    "noise_seed": 3198914349405199023,
+    "sample_count": 193920,
+    "canonical_source_audio_sha256": "346bb776540dba03b81a4e030e676c8ab1014d32cfd130665d34c195dd8a0a85"
+  },
+  {
+    "id": "fresh-hi-1714-noise_10db",
+    "source_id": 1714,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "उपग्रह को एक रॉकेट से अंतरिक्ष में भेजा गया था वैज्ञानिक अंतरिक्ष में दूरबीनों का उपयोग करते हैं क्योंकि पृथ्वी का वायुमंडल हमारे कुछ प्रकाश और दृश्य को अशुद्ध करता है",
+    "question": "उपग्रह को किस साधन से अंतरिक्ष में भेजा गया?",
+    "answers": [
+      "रॉकेट",
+      "राकेट"
+    ],
+    "answerable": true,
+    "audio_sha256": "ab995954a22b65ad97f8f22620c5aff9e29bb2a262f767f0ca4264888ae199ab",
+    "seconds_audio": 12.12,
+    "shared_gain": 1.0,
+    "noise_seed": 3198914349405199023,
+    "sample_count": 193920,
+    "canonical_source_audio_sha256": "346bb776540dba03b81a4e030e676c8ab1014d32cfd130665d34c195dd8a0a85"
+  },
+  {
+    "id": "fresh-hi-1683-clean",
+    "source_id": 1683,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "यहूदी और गैर-यहूदी की तरह अभी भी ऐसे कई पुरुष और महिलाएं जीवित हैं जो उस समय बचने में सफल रहे और कई जिनके प्रियजनों को मार दिया गया या उनके मरने तक उनसे काम करवाया गया",
+    "question": "उस समय बचने में सफल लोगों के किन दो समुदायों का ज़िक्र है?",
+    "answers": [
+      "यहूदी और गैर-यहूदी",
+      "यहूदी और गैर यहूदी"
+    ],
+    "answerable": true,
+    "audio_sha256": "270ccdff52637a96c9e5eca758ba7af92a601af5a9d95e2256ab413977093ccc",
+    "seconds_audio": 14.94,
+    "shared_gain": 1.0,
+    "noise_seed": 11956956727226092656,
+    "sample_count": 239040,
+    "canonical_source_audio_sha256": "ded6bd3d65481b5d7269d8813c72bb2523859577683e8a1777ac294a56e83f35"
+  },
+  {
+    "id": "fresh-hi-1683-noise_10db",
+    "source_id": 1683,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "यहूदी और गैर-यहूदी की तरह अभी भी ऐसे कई पुरुष और महिलाएं जीवित हैं जो उस समय बचने में सफल रहे और कई जिनके प्रियजनों को मार दिया गया या उनके मरने तक उनसे काम करवाया गया",
+    "question": "उस समय बचने में सफल लोगों के किन दो समुदायों का ज़िक्र है?",
+    "answers": [
+      "यहूदी और गैर-यहूदी",
+      "यहूदी और गैर यहूदी"
+    ],
+    "answerable": true,
+    "audio_sha256": "b2f952ff06405ecce0f08605080ec93109ef0f52a03f27c6c786399ffeb77e18",
+    "seconds_audio": 14.94,
+    "shared_gain": 1.0,
+    "noise_seed": 11956956727226092656,
+    "sample_count": 239040,
+    "canonical_source_audio_sha256": "ded6bd3d65481b5d7269d8813c72bb2523859577683e8a1777ac294a56e83f35"
+  },
+  {
+    "id": "fresh-hi-1771-clean",
+    "source_id": 1771,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "याद रखें कि मुख्य स्टेज पर म्यूज़िक बंद हो जाने के बाद भी फ़ेस्टिवल के कुछ हिस्से ऐसे होंगे जो देर रात तक संगीत बजाते रहेंगे",
+    "question": "मुख्य स्टेज पर आख़िरी प्रस्तुति किस बैंड ने दी?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "3c14b7651080533fab109936bb25d0a2f583eeab633346e4fafd63495632a5dd",
+    "seconds_audio": 13.32,
+    "shared_gain": 1.0,
+    "noise_seed": 11844098585439637393,
+    "sample_count": 213120,
+    "canonical_source_audio_sha256": "812124a9635e3ae69f54c69ad11fe72ffa58c766e0826e08e7b05af00dfd6e0d"
+  },
+  {
+    "id": "fresh-hi-1771-noise_10db",
+    "source_id": 1771,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "याद रखें कि मुख्य स्टेज पर म्यूज़िक बंद हो जाने के बाद भी फ़ेस्टिवल के कुछ हिस्से ऐसे होंगे जो देर रात तक संगीत बजाते रहेंगे",
+    "question": "मुख्य स्टेज पर आख़िरी प्रस्तुति किस बैंड ने दी?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "d790a6972154231fbd2494346b1bdb1c99483c3293b4d9aae8731283e55ae679",
+    "seconds_audio": 13.32,
+    "shared_gain": 1.0,
+    "noise_seed": 11844098585439637393,
+    "sample_count": 213120,
+    "canonical_source_audio_sha256": "812124a9635e3ae69f54c69ad11fe72ffa58c766e0826e08e7b05af00dfd6e0d"
+  },
+  {
+    "id": "fresh-hi-1992-clean",
+    "source_id": 1992,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "विशेष रूप से सवाना पर बेहतरीन अफ़्रीकी वन्य जीवन को संपूर्ण रूप से देखने के लिए आमतौर पर सफ़ारी शब्द का उपयोग किया जाता है",
+    "question": "सवाना में अफ़्रीकी वन्य जीवन देखने के लिए किस शब्द का उपयोग होता है?",
+    "answers": [
+      "सफ़ारी",
+      "सफारी"
+    ],
+    "answerable": true,
+    "audio_sha256": "c6248a3a992af704bbd046fae5ca3fb668ec30ca87dc5119f0ec26fd827abf41",
+    "seconds_audio": 8.88,
+    "shared_gain": 1.0,
+    "noise_seed": 4695151204076147601,
+    "sample_count": 142080,
+    "canonical_source_audio_sha256": "f99841aa3cdf8a464dc8a4ceafc7af23677cd686d49fb370bb8cbce1a0816da3"
+  },
+  {
+    "id": "fresh-hi-1992-noise_10db",
+    "source_id": 1992,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "विशेष रूप से सवाना पर बेहतरीन अफ़्रीकी वन्य जीवन को संपूर्ण रूप से देखने के लिए आमतौर पर सफ़ारी शब्द का उपयोग किया जाता है",
+    "question": "सवाना में अफ़्रीकी वन्य जीवन देखने के लिए किस शब्द का उपयोग होता है?",
+    "answers": [
+      "सफ़ारी",
+      "सफारी"
+    ],
+    "answerable": true,
+    "audio_sha256": "38dd7eb9e9ec6c274003a5b30ed7758edb2a53af67c2a7e8ac9ec4c4bdde96b4",
+    "seconds_audio": 8.88,
+    "shared_gain": 1.0,
+    "noise_seed": 4695151204076147601,
+    "sample_count": 142080,
+    "canonical_source_audio_sha256": "f99841aa3cdf8a464dc8a4ceafc7af23677cd686d49fb370bb8cbce1a0816da3"
+  },
+  {
+    "id": "fresh-hi-1791-clean",
+    "source_id": 1791,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "चीज़ों पर कुछ बनाकर या खरोंच कर इस जगह को नुक़सान न पहुंचाएं",
+    "question": "चीज़ों पर कुछ बनाने के अलावा किस काम से जगह को नुकसान पहुँच सकता है?",
+    "answers": [
+      "खरोंचने से",
+      "खरोंच करना",
+      "खरोंचना"
+    ],
+    "answerable": true,
+    "audio_sha256": "63b16eebf37c179e33198c06bedac1a7861650fe24ad3b8fedabb45ee274af07",
+    "seconds_audio": 5.82,
+    "shared_gain": 1.0,
+    "noise_seed": 5046069801818585821,
+    "sample_count": 93120,
+    "canonical_source_audio_sha256": "18a5ae9565bb03eb3d959d0b91f9b1d029f1c0aeff3e100a301e4471a75e4c0b"
+  },
+  {
+    "id": "fresh-hi-1791-noise_10db",
+    "source_id": 1791,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "चीज़ों पर कुछ बनाकर या खरोंच कर इस जगह को नुक़सान न पहुंचाएं",
+    "question": "चीज़ों पर कुछ बनाने के अलावा किस काम से जगह को नुकसान पहुँच सकता है?",
+    "answers": [
+      "खरोंचने से",
+      "खरोंच करना",
+      "खरोंचना"
+    ],
+    "answerable": true,
+    "audio_sha256": "171a991254668837b9477cebdc99c322d0d8341a0376370e077941da0f2f9d1e",
+    "seconds_audio": 5.82,
+    "shared_gain": 1.0,
+    "noise_seed": 5046069801818585821,
+    "sample_count": 93120,
+    "canonical_source_audio_sha256": "18a5ae9565bb03eb3d959d0b91f9b1d029f1c0aeff3e100a301e4471a75e4c0b"
+  },
+  {
+    "id": "fresh-hi-1820-clean",
+    "source_id": 1820,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "लोग अब कंप्यूटर स्क्रीन पर संदेश लिखते हैं शार्पनर का उपयोग करने की आवश्यकता नहीं पड़ती",
+    "question": "कंप्यूटर स्क्रीन पर संदेश लिखने से किस चीज़ की ज़रूरत नहीं पड़ती?",
+    "answers": [
+      "शार्पनर",
+      "पेंसिल शार्पनर"
+    ],
+    "answerable": true,
+    "audio_sha256": "2f4b41e7d34e9f79fbfbe13f906af7869b6d33864898d4bca6a3d499d158cd92",
+    "seconds_audio": 6.72,
+    "shared_gain": 1.0,
+    "noise_seed": 12276475454286260058,
+    "sample_count": 107520,
+    "canonical_source_audio_sha256": "3c1c6c64869ad2b2458bd2fac2301f44581f8d6b868641351da28115e763d765"
+  },
+  {
+    "id": "fresh-hi-1820-noise_10db",
+    "source_id": 1820,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "लोग अब कंप्यूटर स्क्रीन पर संदेश लिखते हैं शार्पनर का उपयोग करने की आवश्यकता नहीं पड़ती",
+    "question": "कंप्यूटर स्क्रीन पर संदेश लिखने से किस चीज़ की ज़रूरत नहीं पड़ती?",
+    "answers": [
+      "शार्पनर",
+      "पेंसिल शार्पनर"
+    ],
+    "answerable": true,
+    "audio_sha256": "026cbb4775016454efd6ccaa8a79cb64c43af4e7da77c4988e35d6d5c6e578b2",
+    "seconds_audio": 6.72,
+    "shared_gain": 1.0,
+    "noise_seed": 12276475454286260058,
+    "sample_count": 107520,
+    "canonical_source_audio_sha256": "3c1c6c64869ad2b2458bd2fac2301f44581f8d6b868641351da28115e763d765"
+  },
+  {
+    "id": "fresh-hi-1909-clean",
+    "source_id": 1909,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "वर्चुअल टीमों को भी परंपरागत टीमों की तरह ही उत्कृष्टता के समान मानकों पर रखा जाता है लेकिन उनमें बारीक अंतर होते हैं",
+    "question": "वर्चुअल टीमों की उत्कृष्टता के मानकों की तुलना किन टीमों से है?",
+    "answers": [
+      "परंपरागत टीमों",
+      "पारंपरिक टीमों",
+      "परंपरागत टीमें"
+    ],
+    "answerable": true,
+    "audio_sha256": "fa852b6a12948a4392d1274eaced54e4811a48745e7617e7327ea592946d3af3",
+    "seconds_audio": 14.04,
+    "shared_gain": 1.0,
+    "noise_seed": 16146611062198417803,
+    "sample_count": 224640,
+    "canonical_source_audio_sha256": "7637cd47acd0a331c6f66488aa5a08647b062c10d032757b7bba374f0148e09d"
+  },
+  {
+    "id": "fresh-hi-1909-noise_10db",
+    "source_id": 1909,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "वर्चुअल टीमों को भी परंपरागत टीमों की तरह ही उत्कृष्टता के समान मानकों पर रखा जाता है लेकिन उनमें बारीक अंतर होते हैं",
+    "question": "वर्चुअल टीमों की उत्कृष्टता के मानकों की तुलना किन टीमों से है?",
+    "answers": [
+      "परंपरागत टीमों",
+      "पारंपरिक टीमों",
+      "परंपरागत टीमें"
+    ],
+    "answerable": true,
+    "audio_sha256": "a42ad06d0d37e343d15c1e577425a01f557e0d4d00f855d512cf51cced20a9df",
+    "seconds_audio": 14.04,
+    "shared_gain": 1.0,
+    "noise_seed": 16146611062198417803,
+    "sample_count": 224640,
+    "canonical_source_audio_sha256": "7637cd47acd0a331c6f66488aa5a08647b062c10d032757b7bba374f0148e09d"
+  },
+  {
+    "id": "fresh-hi-1938-clean",
+    "source_id": 1938,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "अस्पताल ने संक्रमण नियंत्रण के लिए नियमों का पालन किया है इन नियमों में दूसरों के संभावित संक्रमण को रोकने के लिए रोगी को दूसरों से अलग करना शामिल है",
+    "question": "संक्रमण फैलने से रोकने के लिए अस्पताल ने रोगी को कहाँ रखा?",
+    "answers": [
+      "दूसरों से अलग",
+      "अलग",
+      "दूसरे लोगों से अलग"
+    ],
+    "answerable": true,
+    "audio_sha256": "8d7e52b8ebccb7062a1e5fdcf1c448ca7f719f2aab02087b5980d5c4a301d3cd",
+    "seconds_audio": 15.72,
+    "shared_gain": 1.0,
+    "noise_seed": 7275315314731935867,
+    "sample_count": 251520,
+    "canonical_source_audio_sha256": "3f46dbf2b13eed1c95d7ee5679bb57063707ba3518c679757f08144b00de9dcb"
+  },
+  {
+    "id": "fresh-hi-1938-noise_10db",
+    "source_id": 1938,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "अस्पताल ने संक्रमण नियंत्रण के लिए नियमों का पालन किया है इन नियमों में दूसरों के संभावित संक्रमण को रोकने के लिए रोगी को दूसरों से अलग करना शामिल है",
+    "question": "संक्रमण फैलने से रोकने के लिए अस्पताल ने रोगी को कहाँ रखा?",
+    "answers": [
+      "दूसरों से अलग",
+      "अलग",
+      "दूसरे लोगों से अलग"
+    ],
+    "answerable": true,
+    "audio_sha256": "341d31901af6ba5c415e7b5fab101436ed5e320839b12d1de063caaea7dd9aba",
+    "seconds_audio": 15.72,
+    "shared_gain": 1.0,
+    "noise_seed": 7275315314731935867,
+    "sample_count": 251520,
+    "canonical_source_audio_sha256": "3f46dbf2b13eed1c95d7ee5679bb57063707ba3518c679757f08144b00de9dcb"
+  },
+  {
+    "id": "fresh-hi-1974-clean",
+    "source_id": 1974,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "इसी तरह पुरुषों के लिए घुटनों को ढंकने वाले ट्राउज़र पहनना ज़रूरी है",
+    "question": "पुरुषों के ट्राउज़र से शरीर का कौन सा हिस्सा ढका होना चाहिए?",
+    "answers": [
+      "घुटने",
+      "घुटनों"
+    ],
+    "answerable": true,
+    "audio_sha256": "6f78db47ff2f45443961742c9981f4b8858d445e651ff7547c9ba34ffbe7ba2b",
+    "seconds_audio": 5.82,
+    "shared_gain": 1.0,
+    "noise_seed": 2505082747408937307,
+    "sample_count": 93120,
+    "canonical_source_audio_sha256": "2a7dd33ba0e4c5970d173802ba18e7e457e3bd1747c5c40df3f6a436707b2921"
+  },
+  {
+    "id": "fresh-hi-1974-noise_10db",
+    "source_id": 1974,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "इसी तरह पुरुषों के लिए घुटनों को ढंकने वाले ट्राउज़र पहनना ज़रूरी है",
+    "question": "पुरुषों के ट्राउज़र से शरीर का कौन सा हिस्सा ढका होना चाहिए?",
+    "answers": [
+      "घुटने",
+      "घुटनों"
+    ],
+    "answerable": true,
+    "audio_sha256": "07a4a9a238751b4d10fda5d2fefd355e27a95fd658f94cf5b788d54b01d89ec2",
+    "seconds_audio": 5.82,
+    "shared_gain": 1.0,
+    "noise_seed": 2505082747408937307,
+    "sample_count": 93120,
+    "canonical_source_audio_sha256": "2a7dd33ba0e4c5970d173802ba18e7e457e3bd1747c5c40df3f6a436707b2921"
+  },
+  {
+    "id": "fresh-hi-1988-clean",
+    "source_id": 1988,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "1920 के दशक के दौरान ज़्यादातर नागरिकों और देशों में शांतिवाद और अलगाव का नज़रिया प्रचलित था",
+    "question": "शांतिवाद और अलगाव का नज़रिया किस दशक में प्रचलित था?",
+    "answers": [
+      "1920 का दशक",
+      "1920 के दशक",
+      "1920"
+    ],
+    "answerable": true,
+    "audio_sha256": "0a91d3ec63e3f0badc4e1a3c7e5a9ae5aa983fc98b6344eb635bb0264955747a",
+    "seconds_audio": 9.9,
+    "shared_gain": 1.0,
+    "noise_seed": 14255078113924628914,
+    "sample_count": 158400,
+    "canonical_source_audio_sha256": "262a01abc36b27cd8e653953e9f221101ac16bd3d289851cda8fb2ed835eae78"
+  },
+  {
+    "id": "fresh-hi-1988-noise_10db",
+    "source_id": 1988,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "1920 के दशक के दौरान ज़्यादातर नागरिकों और देशों में शांतिवाद और अलगाव का नज़रिया प्रचलित था",
+    "question": "शांतिवाद और अलगाव का नज़रिया किस दशक में प्रचलित था?",
+    "answers": [
+      "1920 का दशक",
+      "1920 के दशक",
+      "1920"
+    ],
+    "answerable": true,
+    "audio_sha256": "cafe5d8c67a66ad6ae969731049724fa99b2fa34dcae1eac922855e8bd51a0fa",
+    "seconds_audio": 9.9,
+    "shared_gain": 1.0,
+    "noise_seed": 14255078113924628914,
+    "sample_count": 158400,
+    "canonical_source_audio_sha256": "262a01abc36b27cd8e653953e9f221101ac16bd3d289851cda8fb2ed835eae78"
+  },
+  {
+    "id": "fresh-hi-1673-clean",
+    "source_id": 1673,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "कंफेडेरशन के अनुच्छेद के तहत क्रांतिकारी युद्ध के दौरान तेरह राज्यों ने पहली बार एक कमजोर केंद्रीय सरकार का गठन किया जिसमें कांग्रेस इसका एकमात्र घटक थी",
+    "question": "कमज़ोर केंद्रीय सरकार का एकमात्र घटक कौन था?",
+    "answers": [
+      "कांग्रेस"
+    ],
+    "answerable": true,
+    "audio_sha256": "13fb99aa4bc83da6daf356dc86966ba218f08a6b7bb17b707dd6acc09a29c0c9",
+    "seconds_audio": 14.04,
+    "shared_gain": 1.0,
+    "noise_seed": 16146999778898970869,
+    "sample_count": 224640,
+    "canonical_source_audio_sha256": "a6f32d62253d3c9acb217c0596b5788d02acc20cf819877566c41f2e574c6e88"
+  },
+  {
+    "id": "fresh-hi-1673-noise_10db",
+    "source_id": 1673,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "कंफेडेरशन के अनुच्छेद के तहत क्रांतिकारी युद्ध के दौरान तेरह राज्यों ने पहली बार एक कमजोर केंद्रीय सरकार का गठन किया जिसमें कांग्रेस इसका एकमात्र घटक थी",
+    "question": "कमज़ोर केंद्रीय सरकार का एकमात्र घटक कौन था?",
+    "answers": [
+      "कांग्रेस"
+    ],
+    "answerable": true,
+    "audio_sha256": "14a17068974262b8c4bcd6cfe0122de02b8f4513ea255105e13b6628c96f7734",
+    "seconds_audio": 14.04,
+    "shared_gain": 1.0,
+    "noise_seed": 16146999778898970869,
+    "sample_count": 224640,
+    "canonical_source_audio_sha256": "a6f32d62253d3c9acb217c0596b5788d02acc20cf819877566c41f2e574c6e88"
+  },
+  {
+    "id": "fresh-hi-1667-clean",
+    "source_id": 1667,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "आम शब्दों में जब प्रबंधक अपने पूर्व सहयोगियों का नेतृत्व करना शुरू करते हैं तो दो तरह के बर्ताव सामने आते हैं. स्पेक्ट्रम का एक सिरा  उन लड़कों में से एक” या लड़कियों में से एक बने रहने की कोशिश कर रहा है",
+    "question": "अपने पुराने सहयोगियों का नेतृत्व करते हुए प्रबंधकों में कितने तरह के बर्ताव सामने आते हैं?",
+    "answers": [
+      "दो",
+      "2",
+      "दो तरह"
+    ],
+    "answerable": true,
+    "audio_sha256": "24ff1137728312e3d35f0503de1bf03e788ca4da9ee6d65de35c9dd75ad4a60d",
+    "seconds_audio": 14.4,
+    "shared_gain": 1.0,
+    "noise_seed": 6125923351139275594,
+    "sample_count": 230400,
+    "canonical_source_audio_sha256": "d0b16b5ec081261587037ffbf30964f7d96e9c0fd864c443274debb199b94b75"
+  },
+  {
+    "id": "fresh-hi-1667-noise_10db",
+    "source_id": 1667,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "आम शब्दों में जब प्रबंधक अपने पूर्व सहयोगियों का नेतृत्व करना शुरू करते हैं तो दो तरह के बर्ताव सामने आते हैं. स्पेक्ट्रम का एक सिरा  उन लड़कों में से एक” या लड़कियों में से एक बने रहने की कोशिश कर रहा है",
+    "question": "अपने पुराने सहयोगियों का नेतृत्व करते हुए प्रबंधकों में कितने तरह के बर्ताव सामने आते हैं?",
+    "answers": [
+      "दो",
+      "2",
+      "दो तरह"
+    ],
+    "answerable": true,
+    "audio_sha256": "1bf55374b19729ff99120783aba98a8ae80527c93529361334d87614fa4dab82",
+    "seconds_audio": 14.4,
+    "shared_gain": 1.0,
+    "noise_seed": 6125923351139275594,
+    "sample_count": 230400,
+    "canonical_source_audio_sha256": "d0b16b5ec081261587037ffbf30964f7d96e9c0fd864c443274debb199b94b75"
+  },
+  {
+    "id": "fresh-hi-1760-clean",
+    "source_id": 1760,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "मोसासौरस अपने समय का सबसे बड़ा शिकारी था इसलिए उसे अन्य मोसासौरस के अलावा किसी का भय नहीं था",
+    "question": "मोसासौरस को किससे भय हो सकता था?",
+    "answers": [
+      "अन्य मोसासौरस",
+      "दूसरे मोसासौरस"
+    ],
+    "answerable": true,
+    "audio_sha256": "0be924a77fe6fc1e57abf0fd632ed926a9065d6e7f9f841f572c5a68a5dce754",
+    "seconds_audio": 11.76,
+    "shared_gain": 1.0,
+    "noise_seed": 8606974276754405073,
+    "sample_count": 188160,
+    "canonical_source_audio_sha256": "31a98bbab9aaa1375953a5c2190cd612f3282f3a1368ec3190259e100488e49a"
+  },
+  {
+    "id": "fresh-hi-1760-noise_10db",
+    "source_id": 1760,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "मोसासौरस अपने समय का सबसे बड़ा शिकारी था इसलिए उसे अन्य मोसासौरस के अलावा किसी का भय नहीं था",
+    "question": "मोसासौरस को किससे भय हो सकता था?",
+    "answers": [
+      "अन्य मोसासौरस",
+      "दूसरे मोसासौरस"
+    ],
+    "answerable": true,
+    "audio_sha256": "86473cb86f95ec04333bbade6c3fc236f37435416c50569b4d5d21733b44d98d",
+    "seconds_audio": 11.76,
+    "shared_gain": 1.0,
+    "noise_seed": 8606974276754405073,
+    "sample_count": 188160,
+    "canonical_source_audio_sha256": "31a98bbab9aaa1375953a5c2190cd612f3282f3a1368ec3190259e100488e49a"
+  },
+  {
+    "id": "fresh-hi-1784-clean",
+    "source_id": 1784,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "ग्रीनलैंड को बहुत कम जगह बसाया गया था नॉर्स सगास में वे कहते हैं कि एरिक रेड हत्या के लिए आइसलैंड से निर्वासित किया गया था और आगे पश्चिम की यात्रा करते समय ग्रीनलैंड मिला जिसे ग्रीनलैंड नाम दिया गया",
+    "question": "एरिक रेड किस वर्ष ग्रीनलैंड पहुँचा?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "94cb419879f5734ae67744d60dccccd6f3b343f956cf1c1daf717388b3d56371",
+    "seconds_audio": 13.8,
+    "shared_gain": 1.0,
+    "noise_seed": 1166763317469967393,
+    "sample_count": 220800,
+    "canonical_source_audio_sha256": "581e6ab90280db5f6e390410d530b4a36523e3569eaa9999a0bcca1656794e91"
+  },
+  {
+    "id": "fresh-hi-1784-noise_10db",
+    "source_id": 1784,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "ग्रीनलैंड को बहुत कम जगह बसाया गया था नॉर्स सगास में वे कहते हैं कि एरिक रेड हत्या के लिए आइसलैंड से निर्वासित किया गया था और आगे पश्चिम की यात्रा करते समय ग्रीनलैंड मिला जिसे ग्रीनलैंड नाम दिया गया",
+    "question": "एरिक रेड किस वर्ष ग्रीनलैंड पहुँचा?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "c361d5028f5578db3bbd9f0bc62d62ccfa45f8320d63701a5774244939e70e85",
+    "seconds_audio": 13.8,
+    "shared_gain": 1.0,
+    "noise_seed": 1166763317469967393,
+    "sample_count": 220800,
+    "canonical_source_audio_sha256": "581e6ab90280db5f6e390410d530b4a36523e3569eaa9999a0bcca1656794e91"
+  },
+  {
+    "id": "fresh-hi-1899-clean",
+    "source_id": 1899,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "मोहम्मद इस सांसारिक जीवन से परे मामलों में गहरी रुचि रखते थे। वे अक्सर चिंतन के लिए एक गुफा का उपयोग करते थे जिसे  नूर” प्रकाश के पर्वत पर  हीरा” के रूप में जाना जाता है।",
+    "question": "चिंतन के लिए इस्तेमाल की जाने वाली गुफा को क्या नाम दिया गया है?",
+    "answers": [
+      "हीरा",
+      "हिरा"
+    ],
+    "answerable": true,
+    "audio_sha256": "a213240dca435d0eb2027d17dbafc887597e49364cc9d99d18c2c5ec99e4376a",
+    "seconds_audio": 16.92,
+    "shared_gain": 1.0,
+    "noise_seed": 4287414120589194796,
+    "sample_count": 270720,
+    "canonical_source_audio_sha256": "f8581077425ccfc89db3a62b15dcfa30a97631e84e31fcacf3c4d5ca039a4c1e"
+  },
+  {
+    "id": "fresh-hi-1899-noise_10db",
+    "source_id": 1899,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "मोहम्मद इस सांसारिक जीवन से परे मामलों में गहरी रुचि रखते थे। वे अक्सर चिंतन के लिए एक गुफा का उपयोग करते थे जिसे  नूर” प्रकाश के पर्वत पर  हीरा” के रूप में जाना जाता है।",
+    "question": "चिंतन के लिए इस्तेमाल की जाने वाली गुफा को क्या नाम दिया गया है?",
+    "answers": [
+      "हीरा",
+      "हिरा"
+    ],
+    "answerable": true,
+    "audio_sha256": "f0145579e54b53694c9899e89c7d9885c3b121ce313597b29da7d458e14ea0e6",
+    "seconds_audio": 16.92,
+    "shared_gain": 1.0,
+    "noise_seed": 4287414120589194796,
+    "sample_count": 270720,
+    "canonical_source_audio_sha256": "f8581077425ccfc89db3a62b15dcfa30a97631e84e31fcacf3c4d5ca039a4c1e"
+  },
+  {
+    "id": "fresh-hi-1984-clean",
+    "source_id": 1984,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "सड़कों पर ज़्यादा दुर्घटना की वजह बहुत ज़्यादा कार ओनरशिप है जिससे शरीर में हुई टूट-फूट को सुधारने के लिए हेल्थकेयर में नई तकनीकों के आविष्कार को बढ़ावा मिला है",
+    "question": "सड़क दुर्घटनाओं की अधिकता का कारण किस चीज़ की अधिकता को माना गया?",
+    "answers": [
+      "कार ओनरशिप",
+      "कार स्वामित्व",
+      "कारों का स्वामित्व"
+    ],
+    "answerable": true,
+    "audio_sha256": "afd5698194f2ab437c13cf5f68cc8ce8abc450025f3f08de0b91bac8e827f2d7",
+    "seconds_audio": 15.54,
+    "shared_gain": 1.0,
+    "noise_seed": 12801676609109399802,
+    "sample_count": 248640,
+    "canonical_source_audio_sha256": "a8ee351bda0ff96149653d9c3d35630c36e249939e36e245881a14389f801c45"
+  },
+  {
+    "id": "fresh-hi-1984-noise_10db",
+    "source_id": 1984,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "सड़कों पर ज़्यादा दुर्घटना की वजह बहुत ज़्यादा कार ओनरशिप है जिससे शरीर में हुई टूट-फूट को सुधारने के लिए हेल्थकेयर में नई तकनीकों के आविष्कार को बढ़ावा मिला है",
+    "question": "सड़क दुर्घटनाओं की अधिकता का कारण किस चीज़ की अधिकता को माना गया?",
+    "answers": [
+      "कार ओनरशिप",
+      "कार स्वामित्व",
+      "कारों का स्वामित्व"
+    ],
+    "answerable": true,
+    "audio_sha256": "540e5fd1d57f710109a242a7438bdec9eebb146fd99f4ecb9474831dedc8fc71",
+    "seconds_audio": 15.54,
+    "shared_gain": 1.0,
+    "noise_seed": 12801676609109399802,
+    "sample_count": 248640,
+    "canonical_source_audio_sha256": "a8ee351bda0ff96149653d9c3d35630c36e249939e36e245881a14389f801c45"
+  },
+  {
+    "id": "fresh-hi-1706-clean",
+    "source_id": 1706,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "ज़्यादा परंपरागत चर्चों में ईस्टर सप्ताहांत में शनिवार रात को ईस्टर विजिल का आयोजन किया जाता है जिसमें लोग क्रिस के पुनर्जन्म का उत्सव मनाने के लिए आधी रात के समय उत्सव मनाना शुरू करते हैं",
+    "question": "ईस्टर विजिल का आयोजन किस दिन की रात को होता है?",
+    "answers": [
+      "शनिवार",
+      "शनिवार रात"
+    ],
+    "answerable": true,
+    "audio_sha256": "e5d018ec0f3cc69b76c34e54f36872d2e488091a3a39f5c886d487218f344f43",
+    "seconds_audio": 14.64,
+    "shared_gain": 1.0,
+    "noise_seed": 7829461892709302810,
+    "sample_count": 234240,
+    "canonical_source_audio_sha256": "adbf04d4a0921b1898e9822a63f2a28a9057aa22c7bcfa48c7e52d4a73648587"
+  },
+  {
+    "id": "fresh-hi-1706-noise_10db",
+    "source_id": 1706,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "ज़्यादा परंपरागत चर्चों में ईस्टर सप्ताहांत में शनिवार रात को ईस्टर विजिल का आयोजन किया जाता है जिसमें लोग क्रिस के पुनर्जन्म का उत्सव मनाने के लिए आधी रात के समय उत्सव मनाना शुरू करते हैं",
+    "question": "ईस्टर विजिल का आयोजन किस दिन की रात को होता है?",
+    "answers": [
+      "शनिवार",
+      "शनिवार रात"
+    ],
+    "answerable": true,
+    "audio_sha256": "86d2c646c640ca3ba17de3bb8ae2c7c105e24ac8b66fcbe3c221e4b7f46750d2",
+    "seconds_audio": 14.64,
+    "shared_gain": 1.0,
+    "noise_seed": 7829461892709302810,
+    "sample_count": 234240,
+    "canonical_source_audio_sha256": "adbf04d4a0921b1898e9822a63f2a28a9057aa22c7bcfa48c7e52d4a73648587"
+  },
+  {
+    "id": "fresh-hi-1954-clean",
+    "source_id": 1954,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "उनकी अनुशासित रक्षा गेंदबाजी की कला और टीम के अच्छे काम ने उन्हें बाहर खड़ा कर दिया और अब यह साफ हो गया था की ये टीम टक्कर देगी",
+    "question": "टीम के कप्तान का नाम क्या था?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "bded3a9a31609011bd4590f05a34e64c7cd25a3a0c9c3becfb53585d62ce15f7",
+    "seconds_audio": 12.54,
+    "shared_gain": 1.0,
+    "noise_seed": 16457904316592783479,
+    "sample_count": 200640,
+    "canonical_source_audio_sha256": "1b7efb9a1c56b48bca223c78498502deb5c0fdb236b0da3d4b5eb409b3021d76"
+  },
+  {
+    "id": "fresh-hi-1954-noise_10db",
+    "source_id": 1954,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "उनकी अनुशासित रक्षा गेंदबाजी की कला और टीम के अच्छे काम ने उन्हें बाहर खड़ा कर दिया और अब यह साफ हो गया था की ये टीम टक्कर देगी",
+    "question": "टीम के कप्तान का नाम क्या था?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "04ba08170708f015dd20795a7290f784eda47f71c35a7904e2926c1cbbb3dd7e",
+    "seconds_audio": 12.54,
+    "shared_gain": 1.0,
+    "noise_seed": 16457904316592783479,
+    "sample_count": 200640,
+    "canonical_source_audio_sha256": "1b7efb9a1c56b48bca223c78498502deb5c0fdb236b0da3d4b5eb409b3021d76"
+  },
+  {
+    "id": "fresh-hi-2004-clean",
+    "source_id": 2004,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "उसी महीने एक अन्य विमान मशहद के एक रनवे से आगे निकल गया और एक दीवार से टकरा गया जिसमें सत्रह की मौत हो गई",
+    "question": "मशहद में विमान रनवे से आगे जाकर किससे टकराया?",
+    "answers": [
+      "एक दीवार",
+      "दीवार"
+    ],
+    "answerable": true,
+    "audio_sha256": "d9abee3a9a0601deb89f28acf04ab17ca98cc7bf2f7a4c52e82c0491426825c5",
+    "seconds_audio": 12.78,
+    "shared_gain": 1.0,
+    "noise_seed": 499253623998294989,
+    "sample_count": 204480,
+    "canonical_source_audio_sha256": "265af07971cd44125fbe0452f999a479b6a3056f18b3a33fd12c4875d2be2a58"
+  },
+  {
+    "id": "fresh-hi-2004-noise_10db",
+    "source_id": 2004,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "उसी महीने एक अन्य विमान मशहद के एक रनवे से आगे निकल गया और एक दीवार से टकरा गया जिसमें सत्रह की मौत हो गई",
+    "question": "मशहद में विमान रनवे से आगे जाकर किससे टकराया?",
+    "answers": [
+      "एक दीवार",
+      "दीवार"
+    ],
+    "answerable": true,
+    "audio_sha256": "0411b53e346abe636980413f922aec2e725495f9ecf57dfbc904f0809d3d3288",
+    "seconds_audio": 12.78,
+    "shared_gain": 1.0,
+    "noise_seed": 499253623998294989,
+    "sample_count": 204480,
+    "canonical_source_audio_sha256": "265af07971cd44125fbe0452f999a479b6a3056f18b3a33fd12c4875d2be2a58"
+  },
+  {
+    "id": "fresh-hi-1837-clean",
+    "source_id": 1837,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "पुनर्निर्माण की कोशिश की स्पष्ट आलोचना वॉशिंगटन के कथित घनिष्ट लोगों को पुनर्निर्माण के ठेके दिए जाने पर केंद्रित रही है",
+    "question": "पुनर्निर्माण के ठेके किसके कथित घनिष्ठ लोगों को दिए गए?",
+    "answers": [
+      "वॉशिंगटन",
+      "वॉशिंगटन के",
+      "वाशिंगटन"
+    ],
+    "answerable": true,
+    "audio_sha256": "a51c212b23138df428e049f64d9dd572b38f1f25bf2c0776964572e1c7404b0b",
+    "seconds_audio": 10.92,
+    "shared_gain": 0.9085545781068148,
+    "noise_seed": 13977632996685652279,
+    "sample_count": 174720,
+    "canonical_source_audio_sha256": "4c906d1e33e39e254d94cc911554154b573fecaf4015fbfc7f686b7feb67c14b"
+  },
+  {
+    "id": "fresh-hi-1837-noise_10db",
+    "source_id": 1837,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "पुनर्निर्माण की कोशिश की स्पष्ट आलोचना वॉशिंगटन के कथित घनिष्ट लोगों को पुनर्निर्माण के ठेके दिए जाने पर केंद्रित रही है",
+    "question": "पुनर्निर्माण के ठेके किसके कथित घनिष्ठ लोगों को दिए गए?",
+    "answers": [
+      "वॉशिंगटन",
+      "वॉशिंगटन के",
+      "वाशिंगटन"
+    ],
+    "answerable": true,
+    "audio_sha256": "4374736bd779ed08a08a5be7766db2a1ac9599c9e78d5d977c26b290fb3d6c42",
+    "seconds_audio": 10.92,
+    "shared_gain": 0.9085545781068148,
+    "noise_seed": 13977632996685652279,
+    "sample_count": 174720,
+    "canonical_source_audio_sha256": "4c906d1e33e39e254d94cc911554154b573fecaf4015fbfc7f686b7feb67c14b"
+  },
+  {
+    "id": "fresh-hi-1739-clean",
+    "source_id": 1739,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "मक्का के उत्तर में स्थित पहाड़ों में से एक के शीर्ष पर स्थित गुफा दुनिया के बाकी हिस्सों से पूरी तरह कटी हुई है",
+    "question": "मक्का के किस तरफ के पहाड़ों में वह गुफा है?",
+    "answers": [
+      "उत्तर",
+      "उत्तर में"
+    ],
+    "answerable": true,
+    "audio_sha256": "cb4fa2e89277963d505890bed6130f1e39e88f8ce08612eccc9209c5111c058b",
+    "seconds_audio": 9.06,
+    "shared_gain": 0.9727557370700762,
+    "noise_seed": 9176231959962081355,
+    "sample_count": 144960,
+    "canonical_source_audio_sha256": "16ea2eccfae4acc6072b72795a2b503efa06cab8f2ec72b1176f4be8226dba6e"
+  },
+  {
+    "id": "fresh-hi-1739-noise_10db",
+    "source_id": 1739,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "मक्का के उत्तर में स्थित पहाड़ों में से एक के शीर्ष पर स्थित गुफा दुनिया के बाकी हिस्सों से पूरी तरह कटी हुई है",
+    "question": "मक्का के किस तरफ के पहाड़ों में वह गुफा है?",
+    "answers": [
+      "उत्तर",
+      "उत्तर में"
+    ],
+    "answerable": true,
+    "audio_sha256": "209278ddf9c9d010c48d7ac24549491bad1b47f061150f8ea3853257bcfbf2bc",
+    "seconds_audio": 9.06,
+    "shared_gain": 0.9727557370700762,
+    "noise_seed": 9176231959962081355,
+    "sample_count": 144960,
+    "canonical_source_audio_sha256": "16ea2eccfae4acc6072b72795a2b503efa06cab8f2ec72b1176f4be8226dba6e"
+  },
+  {
+    "id": "fresh-hi-1886-clean",
+    "source_id": 1886,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "प्राचीन संस्कृतियों और जनजातियों ने दूध बाल मांस और चमड़े को अपनी आसान पहुंच में बनाए रखना शुरू कर दिया",
+    "question": "दूध और चमड़े को सुलभ रखने वाली किस जनजाति का नाम लिया गया है?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "83b0d5603ace3f51ba2ca8eeb79129f804f6bf73a7801c1c5a89a58f77ad8d9d",
+    "seconds_audio": 13.32,
+    "shared_gain": 1.0,
+    "noise_seed": 5940024850760994781,
+    "sample_count": 213120,
+    "canonical_source_audio_sha256": "d8112091b23f5359726e1595fe0b60f40cdb11ea6033e8b53853dadbb40aa5f8"
+  },
+  {
+    "id": "fresh-hi-1886-noise_10db",
+    "source_id": 1886,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "प्राचीन संस्कृतियों और जनजातियों ने दूध बाल मांस और चमड़े को अपनी आसान पहुंच में बनाए रखना शुरू कर दिया",
+    "question": "दूध और चमड़े को सुलभ रखने वाली किस जनजाति का नाम लिया गया है?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "03a844ae18c880a283bc81bf6454a0d90ca45d5c9e44e8cace77de38762428ac",
+    "seconds_audio": 13.32,
+    "shared_gain": 1.0,
+    "noise_seed": 5940024850760994781,
+    "sample_count": 213120,
+    "canonical_source_audio_sha256": "d8112091b23f5359726e1595fe0b60f40cdb11ea6033e8b53853dadbb40aa5f8"
+  },
+  {
+    "id": "fresh-hi-1842-clean",
+    "source_id": 1842,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "हालांकि डायनासोर के पंखों के शाफ्ट पूरी तरह से विकसित नहीं होते हैं और उन्हें रैचिस कहा जाता है लेकिन उनके पंखों में बार्ब्स और बार्बुल्स जैसी अन्य खूबियां होती हैं शोधकर्ताओं ने अनुमान लगाया है कि डायनासोर की अन्य खूबियों की तरह शायद रैचिस भी बाद में विकसित हुए होंगे",
+    "question": "डायनासोर के पंखों के शाफ्ट को क्या कहा जाता है?",
+    "answers": [
+      "रैचिस"
+    ],
+    "answerable": true,
+    "audio_sha256": "73a70eccb130d27fcd38aef83f374528cc3b814e4cb1419a0f6521436fc880d2",
+    "seconds_audio": 24.48,
+    "shared_gain": 1.0,
+    "noise_seed": 11945559267742093452,
+    "sample_count": 391680,
+    "canonical_source_audio_sha256": "bfe9f4ff34c95475361b483945fc7b0f4287fb8c395992bf0c8be55ce0836785"
+  },
+  {
+    "id": "fresh-hi-1842-noise_10db",
+    "source_id": 1842,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "हालांकि डायनासोर के पंखों के शाफ्ट पूरी तरह से विकसित नहीं होते हैं और उन्हें रैचिस कहा जाता है लेकिन उनके पंखों में बार्ब्स और बार्बुल्स जैसी अन्य खूबियां होती हैं शोधकर्ताओं ने अनुमान लगाया है कि डायनासोर की अन्य खूबियों की तरह शायद रैचिस भी बाद में विकसित हुए होंगे",
+    "question": "डायनासोर के पंखों के शाफ्ट को क्या कहा जाता है?",
+    "answers": [
+      "रैचिस"
+    ],
+    "answerable": true,
+    "audio_sha256": "16279def77e4be5046da642e364ae461d14c4ab8c39f1d6755afe523aafbb8b2",
+    "seconds_audio": 24.48,
+    "shared_gain": 1.0,
+    "noise_seed": 11945559267742093452,
+    "sample_count": 391680,
+    "canonical_source_audio_sha256": "bfe9f4ff34c95475361b483945fc7b0f4287fb8c395992bf0c8be55ce0836785"
+  },
+  {
+    "id": "fresh-hi-1799-clean",
+    "source_id": 1799,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "बुधवार के आयोजन के बाद कारपानेडो ने चैंपियनशिप में दो इंडिविज़ुअल रेस में हिस्सा लिया",
+    "question": "कारपानेडो ने चैंपियनशिप में कितनी इंडिविज़ुअल रेस में हिस्सा लिया?",
+    "answers": [
+      "दो",
+      "2",
+      "दो रेस"
+    ],
+    "answerable": true,
+    "audio_sha256": "392d565f699d7f942e9cd97acf6bd92f0634eacd9897340b7302a97a14882541",
+    "seconds_audio": 9.84,
+    "shared_gain": 1.0,
+    "noise_seed": 4338653614924156491,
+    "sample_count": 157440,
+    "canonical_source_audio_sha256": "e35de565fa90678df674cabcae33893fb055b1f471e3752c36e70bdd4ae470e3"
+  },
+  {
+    "id": "fresh-hi-1799-noise_10db",
+    "source_id": 1799,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "बुधवार के आयोजन के बाद कारपानेडो ने चैंपियनशिप में दो इंडिविज़ुअल रेस में हिस्सा लिया",
+    "question": "कारपानेडो ने चैंपियनशिप में कितनी इंडिविज़ुअल रेस में हिस्सा लिया?",
+    "answers": [
+      "दो",
+      "2",
+      "दो रेस"
+    ],
+    "answerable": true,
+    "audio_sha256": "625c70b1310da995751346fcf51f50a0315b7d9c013fd6bab2190122a5ad6379",
+    "seconds_audio": 9.84,
+    "shared_gain": 1.0,
+    "noise_seed": 4338653614924156491,
+    "sample_count": 157440,
+    "canonical_source_audio_sha256": "e35de565fa90678df674cabcae33893fb055b1f471e3752c36e70bdd4ae470e3"
+  },
+  {
+    "id": "fresh-hi-1818-clean",
+    "source_id": 1818,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "लोग यह अनुमान नहीं लगा सकते हैं कि घर लौटने वाले यात्रियों के लिए धैर्य और समझ भी आवश्यक है",
+    "question": "घर लौटने वाले यात्रियों के लिए समझ के अलावा किस गुण की ज़रूरत है?",
+    "answers": [
+      "धैर्य"
+    ],
+    "answerable": true,
+    "audio_sha256": "efe02b792fcd813a85c0e86b4a51586e1dccd694a8fad6210912d4bb165e70cd",
+    "seconds_audio": 7.74,
+    "shared_gain": 1.0,
+    "noise_seed": 15515641633668949696,
+    "sample_count": 123840,
+    "canonical_source_audio_sha256": "c5a2d032556c1a124f01dec4e88c06995664a9af641768b105e95b133cfdd851"
+  },
+  {
+    "id": "fresh-hi-1818-noise_10db",
+    "source_id": 1818,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "लोग यह अनुमान नहीं लगा सकते हैं कि घर लौटने वाले यात्रियों के लिए धैर्य और समझ भी आवश्यक है",
+    "question": "घर लौटने वाले यात्रियों के लिए समझ के अलावा किस गुण की ज़रूरत है?",
+    "answers": [
+      "धैर्य"
+    ],
+    "answerable": true,
+    "audio_sha256": "a50955daee50296e0bd7ba63279594d8e43b4d185e5ba9c65ff4701eda7d2281",
+    "seconds_audio": 7.74,
+    "shared_gain": 1.0,
+    "noise_seed": 15515641633668949696,
+    "sample_count": 123840,
+    "canonical_source_audio_sha256": "c5a2d032556c1a124f01dec4e88c06995664a9af641768b105e95b133cfdd851"
+  },
+  {
+    "id": "fresh-hi-1843-clean",
+    "source_id": 1843,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "यूनिवर्सिटी ऑफ़ डंडी के प्रोफ़ेसर पामेला फ़र्ग्यूसन लिखते हैं अगर संदिग्धों के फ़ोटो आदि प्रकाशित होते हैं तो पत्रकारों को यह ख़तरनाक मार्ग पर चलना लगता है",
+    "question": "संदिग्धों की तस्वीरें प्रकाशित करने पर लिखने वाली प्रोफ़ेसर किस विश्वविद्यालय से हैं?",
+    "answers": [
+      "यूनिवर्सिटी ऑफ़ डंडी",
+      "डंडी विश्वविद्यालय",
+      "डंडी"
+    ],
+    "answerable": true,
+    "audio_sha256": "7fa6e6164879dc2578e82dbf2b9bbecc274232c245582bb2b5d4d412c32ba552",
+    "seconds_audio": 12.36,
+    "shared_gain": 1.0,
+    "noise_seed": 18371300499720586747,
+    "sample_count": 197760,
+    "canonical_source_audio_sha256": "a15e674823e4b2d2dcf64677a0ceb113438f00c32f33eaee58ce297236021309"
+  },
+  {
+    "id": "fresh-hi-1843-noise_10db",
+    "source_id": 1843,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "यूनिवर्सिटी ऑफ़ डंडी के प्रोफ़ेसर पामेला फ़र्ग्यूसन लिखते हैं अगर संदिग्धों के फ़ोटो आदि प्रकाशित होते हैं तो पत्रकारों को यह ख़तरनाक मार्ग पर चलना लगता है",
+    "question": "संदिग्धों की तस्वीरें प्रकाशित करने पर लिखने वाली प्रोफ़ेसर किस विश्वविद्यालय से हैं?",
+    "answers": [
+      "यूनिवर्सिटी ऑफ़ डंडी",
+      "डंडी विश्वविद्यालय",
+      "डंडी"
+    ],
+    "answerable": true,
+    "audio_sha256": "106d39f3320a9e327b283f15256a5fd8e9c3582e5da0e7d033a254bac09b507a",
+    "seconds_audio": 12.36,
+    "shared_gain": 1.0,
+    "noise_seed": 18371300499720586747,
+    "sample_count": 197760,
+    "canonical_source_audio_sha256": "a15e674823e4b2d2dcf64677a0ceb113438f00c32f33eaee58ce297236021309"
+  },
+  {
+    "id": "fresh-hi-1687-clean",
+    "source_id": 1687,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "अलगाव और पुनर्संयोजन भिन्नता प्रत्येक पीढ़ी के साथ दो पूलों के बीच आगे-पीछे होती रहती है",
+    "question": "हर पीढ़ी के साथ भिन्नता कितने पूलों के बीच आगे-पीछे होती है?",
+    "answers": [
+      "दो",
+      "2",
+      "दो पूलों"
+    ],
+    "answerable": true,
+    "audio_sha256": "dddc2174370da38f1d1c28d0b236190bd9dd76d2c9a907369ec432d7870b764b",
+    "seconds_audio": 10.08,
+    "shared_gain": 1.0,
+    "noise_seed": 11235613856050256765,
+    "sample_count": 161280,
+    "canonical_source_audio_sha256": "6b03662a4c7c7aa696a2ba4f7be121191eda0d8a1506cad95c18e79fcac9f4c6"
+  },
+  {
+    "id": "fresh-hi-1687-noise_10db",
+    "source_id": 1687,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "अलगाव और पुनर्संयोजन भिन्नता प्रत्येक पीढ़ी के साथ दो पूलों के बीच आगे-पीछे होती रहती है",
+    "question": "हर पीढ़ी के साथ भिन्नता कितने पूलों के बीच आगे-पीछे होती है?",
+    "answers": [
+      "दो",
+      "2",
+      "दो पूलों"
+    ],
+    "answerable": true,
+    "audio_sha256": "a9b2f4749eb04dd184dcd8a3cdc460f3ffa1cd5d3163db7b9d5655a96d39ce83",
+    "seconds_audio": 10.08,
+    "shared_gain": 1.0,
+    "noise_seed": 11235613856050256765,
+    "sample_count": 161280,
+    "canonical_source_audio_sha256": "6b03662a4c7c7aa696a2ba4f7be121191eda0d8a1506cad95c18e79fcac9f4c6"
+  },
+  {
+    "id": "fresh-hi-2008-clean",
+    "source_id": 2008,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "बाली में इस एजेंडे के अन्य विषयों में दुनिया के बचे हुए जंगलों को बचाने और ऐसी तकनीकों का आदान प्रदान करना का विषय शामिल है जिससे कि विकासशील देशों को कम प्रदूषणकारी तरीकों से आगे बढ़ने में मदद मिले",
+    "question": "बाली के एजेंडे में दुनिया के किस बचे हुए प्राकृतिक संसाधन को बचाने की बात थी?",
+    "answers": [
+      "जंगल",
+      "जंगलों",
+      "वन"
+    ],
+    "answerable": true,
+    "audio_sha256": "3699df3d90b2fc35c13f25bdc5e6e2f0d358ca8e42f7b394fb21403de4a8cb8e",
+    "seconds_audio": 18.6,
+    "shared_gain": 1.0,
+    "noise_seed": 2799636443502236337,
+    "sample_count": 297600,
+    "canonical_source_audio_sha256": "aee2045232354ce901c2b41a638d5bd18bfb6aed18ffdc96041211edfd3fd56a"
+  },
+  {
+    "id": "fresh-hi-2008-noise_10db",
+    "source_id": 2008,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "बाली में इस एजेंडे के अन्य विषयों में दुनिया के बचे हुए जंगलों को बचाने और ऐसी तकनीकों का आदान प्रदान करना का विषय शामिल है जिससे कि विकासशील देशों को कम प्रदूषणकारी तरीकों से आगे बढ़ने में मदद मिले",
+    "question": "बाली के एजेंडे में दुनिया के किस बचे हुए प्राकृतिक संसाधन को बचाने की बात थी?",
+    "answers": [
+      "जंगल",
+      "जंगलों",
+      "वन"
+    ],
+    "answerable": true,
+    "audio_sha256": "d1db9be582d2045b62b96f647dde2d7dfea84d5cf4693320f572f20d8d76de58",
+    "seconds_audio": 18.6,
+    "shared_gain": 1.0,
+    "noise_seed": 2799636443502236337,
+    "sample_count": 297600,
+    "canonical_source_audio_sha256": "aee2045232354ce901c2b41a638d5bd18bfb6aed18ffdc96041211edfd3fd56a"
+  },
+  {
+    "id": "fresh-hi-1939-clean",
+    "source_id": 1939,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "तथा क्रांति के बाद व्यवसाय सभी पुरुष आवेदकों के लिए खुले थे जिसमें सबसे महत्त्वाकांक्षी और सफल होने वाले सफल हो सकते थे",
+    "question": "क्रांति के बाद व्यवसाय किन आवेदकों के लिए खुल गए थे?",
+    "answers": [
+      "सभी पुरुष आवेदक",
+      "सभी पुरुष आवेदकों",
+      "पुरुष आवेदक"
+    ],
+    "answerable": true,
+    "audio_sha256": "e161a1d649ba4f9b91d8fdda7231e9aa42effe0136e4f47f975b15731c634475",
+    "seconds_audio": 7.56,
+    "shared_gain": 1.0,
+    "noise_seed": 8323911723910049872,
+    "sample_count": 120960,
+    "canonical_source_audio_sha256": "424b71e9678e65ac385380801874f08efcd22779f1ba57054b1bd7a58895910f"
+  },
+  {
+    "id": "fresh-hi-1939-noise_10db",
+    "source_id": 1939,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "तथा क्रांति के बाद व्यवसाय सभी पुरुष आवेदकों के लिए खुले थे जिसमें सबसे महत्त्वाकांक्षी और सफल होने वाले सफल हो सकते थे",
+    "question": "क्रांति के बाद व्यवसाय किन आवेदकों के लिए खुल गए थे?",
+    "answers": [
+      "सभी पुरुष आवेदक",
+      "सभी पुरुष आवेदकों",
+      "पुरुष आवेदक"
+    ],
+    "answerable": true,
+    "audio_sha256": "c585f91bf397a600e74cf51b7c6d95bf4c58477c17369354e78478334c854711",
+    "seconds_audio": 7.56,
+    "shared_gain": 1.0,
+    "noise_seed": 8323911723910049872,
+    "sample_count": 120960,
+    "canonical_source_audio_sha256": "424b71e9678e65ac385380801874f08efcd22779f1ba57054b1bd7a58895910f"
+  },
+  {
+    "id": "fresh-hi-1728-clean",
+    "source_id": 1728,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "गोभी का जूस अम्लीय या आधारभूत क्षारीय रसायन के आधार पर रंग बदलता है",
+    "question": "अम्लीय या क्षारीय रसायन के संपर्क में गोभी के जूस की कौन सी विशेषता बदलती है?",
+    "answers": [
+      "रंग"
+    ],
+    "answerable": true,
+    "audio_sha256": "ebf0d13d35bf3e73d2c942a58750525e706ed8cc2fee960f12d0bb06d9e47438",
+    "seconds_audio": 9.72,
+    "shared_gain": 1.0,
+    "noise_seed": 511860535056646904,
+    "sample_count": 155520,
+    "canonical_source_audio_sha256": "b9ca1ed0ab3529913115c5ff079bf6cee8e98e6a6a65d98c152725f1ce775f5d"
+  },
+  {
+    "id": "fresh-hi-1728-noise_10db",
+    "source_id": 1728,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "गोभी का जूस अम्लीय या आधारभूत क्षारीय रसायन के आधार पर रंग बदलता है",
+    "question": "अम्लीय या क्षारीय रसायन के संपर्क में गोभी के जूस की कौन सी विशेषता बदलती है?",
+    "answers": [
+      "रंग"
+    ],
+    "answerable": true,
+    "audio_sha256": "fd622dc82d9b7546b2f5a44539f0f3e4cc4516b233d7ca5867f267ad10b32ecb",
+    "seconds_audio": 9.72,
+    "shared_gain": 1.0,
+    "noise_seed": 511860535056646904,
+    "sample_count": 155520,
+    "canonical_source_audio_sha256": "b9ca1ed0ab3529913115c5ff079bf6cee8e98e6a6a65d98c152725f1ce775f5d"
+  },
+  {
+    "id": "fresh-hi-1792-clean",
+    "source_id": 1792,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "इसे केमिकल का ph कहा जाता है आप लाल गोभी के जूस का इस्तेमाल करके एक संकेतक बना सकते हैं",
+    "question": "लाल गोभी के जूस से बने संकेतक की जाँच किस अम्ल पर की गई?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "dd09d0633a53178ab9ae9a44876d4c0d2386680f39008f24cb47c52ae42c33b2",
+    "seconds_audio": 8.22,
+    "shared_gain": 1.0,
+    "noise_seed": 9837767008952733560,
+    "sample_count": 131520,
+    "canonical_source_audio_sha256": "a8c6aafa7d302b11c783026e922479c4a063f38ab7030520d9111dd587985021"
+  },
+  {
+    "id": "fresh-hi-1792-noise_10db",
+    "source_id": 1792,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "इसे केमिकल का ph कहा जाता है आप लाल गोभी के जूस का इस्तेमाल करके एक संकेतक बना सकते हैं",
+    "question": "लाल गोभी के जूस से बने संकेतक की जाँच किस अम्ल पर की गई?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "c3627eafa7b81a8d74608b70527e5155571d44d293dadf266ae5519505058208",
+    "seconds_audio": 8.22,
+    "shared_gain": 1.0,
+    "noise_seed": 9837767008952733560,
+    "sample_count": 131520,
+    "canonical_source_audio_sha256": "a8c6aafa7d302b11c783026e922479c4a063f38ab7030520d9111dd587985021"
+  },
+  {
+    "id": "fresh-hi-1758-clean",
+    "source_id": 1758,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "द्वीप-समूह पेनिनसुला की उत्तर दिशा में 120 किमी दूर स्थित है विलास लास एस्ट्रेलास जैसे रिहायशी इलाके के साथ किंग ज़ॉर्ज सबसे बड़ा आइलैंड है",
+    "question": "रिहायशी इलाके वाला सबसे बड़ा आइलैंड कौन सा है?",
+    "answers": [
+      "किंग ज़ॉर्ज",
+      "किंग जॉर्ज",
+      "किंग जार्ज"
+    ],
+    "answerable": true,
+    "audio_sha256": "340872f49603ac6898f31544747bad126eee86661f784af57a3dbd96f84bc5a9",
+    "seconds_audio": 13.44,
+    "shared_gain": 1.0,
+    "noise_seed": 18306751458820463506,
+    "sample_count": 215040,
+    "canonical_source_audio_sha256": "f94f901cd03fbb26e49cc530d9ee4bd720cbd2e235d70e22712cc3ad738d8c01"
+  },
+  {
+    "id": "fresh-hi-1758-noise_10db",
+    "source_id": 1758,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "द्वीप-समूह पेनिनसुला की उत्तर दिशा में 120 किमी दूर स्थित है विलास लास एस्ट्रेलास जैसे रिहायशी इलाके के साथ किंग ज़ॉर्ज सबसे बड़ा आइलैंड है",
+    "question": "रिहायशी इलाके वाला सबसे बड़ा आइलैंड कौन सा है?",
+    "answers": [
+      "किंग ज़ॉर्ज",
+      "किंग जॉर्ज",
+      "किंग जार्ज"
+    ],
+    "answerable": true,
+    "audio_sha256": "8fea0540f9df0dea48f61f7337338fd17c5e4c1202b5bcacdebd9f1f0d0d5c33",
+    "seconds_audio": 13.44,
+    "shared_gain": 1.0,
+    "noise_seed": 18306751458820463506,
+    "sample_count": 215040,
+    "canonical_source_audio_sha256": "f94f901cd03fbb26e49cc530d9ee4bd720cbd2e235d70e22712cc3ad738d8c01"
+  },
+  {
+    "id": "fresh-hi-1765-clean",
+    "source_id": 1765,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "1537 में असूनचिओन की स्थापना के बाद से पैराग्वे अपने स्वदेशी चरित्र और पहचान को बनाए रखने में कामयाब रहा है",
+    "question": "आसूनचिओन की स्थापना किस वर्ष हुई?",
+    "answers": [
+      "1537",
+      "१५३७"
+    ],
+    "answerable": true,
+    "audio_sha256": "011ac4b429c0dfcea15187b896c1fc630491434813e22fa08c0cf96814d932fa",
+    "seconds_audio": 9.72,
+    "shared_gain": 1.0,
+    "noise_seed": 8149967298891969350,
+    "sample_count": 155520,
+    "canonical_source_audio_sha256": "3747e6b5e8ff1666c2da57dfb35944647cd53f0b58672a485dbe9c44b3e254ea"
+  },
+  {
+    "id": "fresh-hi-1765-noise_10db",
+    "source_id": 1765,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "1537 में असूनचिओन की स्थापना के बाद से पैराग्वे अपने स्वदेशी चरित्र और पहचान को बनाए रखने में कामयाब रहा है",
+    "question": "आसूनचिओन की स्थापना किस वर्ष हुई?",
+    "answers": [
+      "1537",
+      "१५३७"
+    ],
+    "answerable": true,
+    "audio_sha256": "a2cb7d94f2f32d22a5354fdac9f1d864b4957abe3f522cde91ac33c9ada2faf1",
+    "seconds_audio": 9.72,
+    "shared_gain": 1.0,
+    "noise_seed": 8149967298891969350,
+    "sample_count": 155520,
+    "canonical_source_audio_sha256": "3747e6b5e8ff1666c2da57dfb35944647cd53f0b58672a485dbe9c44b3e254ea"
+  },
+  {
+    "id": "fresh-hi-1928-clean",
+    "source_id": 1928,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "सन 1976 तक माचू पिचू के तीस प्रतिशत हिस्से का जीर्णोद्धार कर दिया गया था और जीर्णोद्धार का कार्य आज तक जारी है",
+    "question": "1976 तक माचू पिचू के कितने प्रतिशत हिस्से का जीर्णोद्धार हुआ था?",
+    "answers": [
+      "तीस प्रतिशत",
+      "30 प्रतिशत",
+      "30%",
+      "30"
+    ],
+    "answerable": true,
+    "audio_sha256": "799225e16c7fca74bbb3d71ec248208d494c19746c408305f25aacc3132f2235",
+    "seconds_audio": 10.2,
+    "shared_gain": 1.0,
+    "noise_seed": 6555859357127776134,
+    "sample_count": 163200,
+    "canonical_source_audio_sha256": "d8315dd31b6eacebe5738f5f9d58a5f33618ac2d050fbbda399cf56566d64f9d"
+  },
+  {
+    "id": "fresh-hi-1928-noise_10db",
+    "source_id": 1928,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "सन 1976 तक माचू पिचू के तीस प्रतिशत हिस्से का जीर्णोद्धार कर दिया गया था और जीर्णोद्धार का कार्य आज तक जारी है",
+    "question": "1976 तक माचू पिचू के कितने प्रतिशत हिस्से का जीर्णोद्धार हुआ था?",
+    "answers": [
+      "तीस प्रतिशत",
+      "30 प्रतिशत",
+      "30%",
+      "30"
+    ],
+    "answerable": true,
+    "audio_sha256": "b975a99496dd0de856434e460c3851effea21431ca9b314aab4249f22c73584b",
+    "seconds_audio": 10.2,
+    "shared_gain": 1.0,
+    "noise_seed": 6555859357127776134,
+    "sample_count": 163200,
+    "canonical_source_audio_sha256": "d8315dd31b6eacebe5738f5f9d58a5f33618ac2d050fbbda399cf56566d64f9d"
+  },
+  {
+    "id": "fresh-hi-1897-clean",
+    "source_id": 1897,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "उत्तर में यह क्षेत्र साहेल और दक्षिण और पश्चिम में अटलांटिक महासागर से घिरा है",
+    "question": "क्षेत्र के दक्षिण और पश्चिम में कौन सा महासागर है?",
+    "answers": [
+      "अटलांटिक महासागर",
+      "अटलांटिक"
+    ],
+    "answerable": true,
+    "audio_sha256": "3fcb3dc0f29ba7bb8664bbe29b6dc14f80261a632767cdbab42740d326003cc8",
+    "seconds_audio": 7.2,
+    "shared_gain": 1.0,
+    "noise_seed": 15475774903414251895,
+    "sample_count": 115200,
+    "canonical_source_audio_sha256": "94079e36649a364023e95be53e994dac754d7dcb1dc1836c4a1e46f35be986d7"
+  },
+  {
+    "id": "fresh-hi-1897-noise_10db",
+    "source_id": 1897,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "उत्तर में यह क्षेत्र साहेल और दक्षिण और पश्चिम में अटलांटिक महासागर से घिरा है",
+    "question": "क्षेत्र के दक्षिण और पश्चिम में कौन सा महासागर है?",
+    "answers": [
+      "अटलांटिक महासागर",
+      "अटलांटिक"
+    ],
+    "answerable": true,
+    "audio_sha256": "be7acd16905633918c0d558eb3eb7a0aff88ed12ae7181b6891e5a9c215417b6",
+    "seconds_audio": 7.2,
+    "shared_gain": 1.0,
+    "noise_seed": 15475774903414251895,
+    "sample_count": 115200,
+    "canonical_source_audio_sha256": "94079e36649a364023e95be53e994dac754d7dcb1dc1836c4a1e46f35be986d7"
+  },
+  {
+    "id": "fresh-hi-1932-clean",
+    "source_id": 1932,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "प्रदर्शन चालू होने के पाँच मिनट में हवा शुरू हो जाती है लगभग एक मिनट बाद हवा 70 किमी/घंटा तक पहुँच रही है... फिर बारिश आती है लेकिन इतनी तेज़ और इतनी बड़ी बूँदें कि यह आपकी त्वचा को सुई की तरह चुभती है फिर आकाश से ओले गिरते हैं लोग घबराते हैं चिल्लाते हैं और अफरातफरी मच जाती है।",
+    "question": "बारिश के बाद आकाश से क्या गिरता है?",
+    "answers": [
+      "ओले"
+    ],
+    "answerable": true,
+    "audio_sha256": "a5c0527f11c53db0aa2aa5ab488a6514bf927fe7474be1b54ac7c81323731f3f",
+    "seconds_audio": 20.76,
+    "shared_gain": 1.0,
+    "noise_seed": 15328509152010665341,
+    "sample_count": 332160,
+    "canonical_source_audio_sha256": "b4d8fcfa975f600bffb5dedf40d72870df5214744289cf2c1c5813c52a1046d0"
+  },
+  {
+    "id": "fresh-hi-1932-noise_10db",
+    "source_id": 1932,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "प्रदर्शन चालू होने के पाँच मिनट में हवा शुरू हो जाती है लगभग एक मिनट बाद हवा 70 किमी/घंटा तक पहुँच रही है... फिर बारिश आती है लेकिन इतनी तेज़ और इतनी बड़ी बूँदें कि यह आपकी त्वचा को सुई की तरह चुभती है फिर आकाश से ओले गिरते हैं लोग घबराते हैं चिल्लाते हैं और अफरातफरी मच जाती है।",
+    "question": "बारिश के बाद आकाश से क्या गिरता है?",
+    "answers": [
+      "ओले"
+    ],
+    "answerable": true,
+    "audio_sha256": "8b3c1a00281f4295029d6a40c34eaa794e284d2b77a0bc96d0d2713beeab7142",
+    "seconds_audio": 20.76,
+    "shared_gain": 1.0,
+    "noise_seed": 15328509152010665341,
+    "sample_count": 332160,
+    "canonical_source_audio_sha256": "b4d8fcfa975f600bffb5dedf40d72870df5214744289cf2c1c5813c52a1046d0"
+  },
+  {
+    "id": "fresh-hi-1869-clean",
+    "source_id": 1869,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "इसके मुंह के तालु में एक अतिरिक्त सेट के साथ ही 70 से ज़्यादा रेजर की तरह नुकीले दांतों से भरे इसके लंबे जबड़े थे जिसका अर्थ है कि उसके रास्ते से गुज़रने वाली किसी भी चीज़ के लिए कोई बचाव नहीं था",
+    "question": "नुकीले दाँतों वाले उस जीव का जबड़ा कितने सेंटीमीटर लंबा था?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "06353a0c27bd79d7e5a1e050d36e97e8bc8b92520c3e0ab2bb0c1cbbbfc5081a",
+    "seconds_audio": 17.46,
+    "shared_gain": 1.0,
+    "noise_seed": 14129625260585577284,
+    "sample_count": 279360,
+    "canonical_source_audio_sha256": "c1f5674a103339ee37c1a9fa680fcc42074b4f7b7fbc22ad744a12fc408753a0"
+  },
+  {
+    "id": "fresh-hi-1869-noise_10db",
+    "source_id": 1869,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "इसके मुंह के तालु में एक अतिरिक्त सेट के साथ ही 70 से ज़्यादा रेजर की तरह नुकीले दांतों से भरे इसके लंबे जबड़े थे जिसका अर्थ है कि उसके रास्ते से गुज़रने वाली किसी भी चीज़ के लिए कोई बचाव नहीं था",
+    "question": "नुकीले दाँतों वाले उस जीव का जबड़ा कितने सेंटीमीटर लंबा था?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "55647bac9dadda665ef0586412e9fd9643431b1a768caf9d60af0c03790c10c0",
+    "seconds_audio": 17.46,
+    "shared_gain": 1.0,
+    "noise_seed": 14129625260585577284,
+    "sample_count": 279360,
+    "canonical_source_audio_sha256": "c1f5674a103339ee37c1a9fa680fcc42074b4f7b7fbc22ad744a12fc408753a0"
+  },
+  {
+    "id": "fresh-hi-1959-clean",
+    "source_id": 1959,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "अभी भी प्राधिकारियों से सलाह लें सभी संकेतों का पालन करें और सुरक्षा चेतावनियों पर पूरा ध्यान दें",
+    "question": "सुरक्षा चेतावनियों पर ध्यान देने के साथ किससे सलाह लेने को कहा गया है?",
+    "answers": [
+      "प्राधिकारियों",
+      "अधिकारियों",
+      "प्राधिकारी"
+    ],
+    "answerable": true,
+    "audio_sha256": "39bcdc24d397c97299b016cdeb27be9b1c86dc1028b5b34cd5b8ef804f01de5f",
+    "seconds_audio": 6.6,
+    "shared_gain": 1.0,
+    "noise_seed": 17871294999040388194,
+    "sample_count": 105600,
+    "canonical_source_audio_sha256": "19bbe67803154a2fba9df805eb0fe4016030084198f179be29d2f0f9e71c1cca"
+  },
+  {
+    "id": "fresh-hi-1959-noise_10db",
+    "source_id": 1959,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "अभी भी प्राधिकारियों से सलाह लें सभी संकेतों का पालन करें और सुरक्षा चेतावनियों पर पूरा ध्यान दें",
+    "question": "सुरक्षा चेतावनियों पर ध्यान देने के साथ किससे सलाह लेने को कहा गया है?",
+    "answers": [
+      "प्राधिकारियों",
+      "अधिकारियों",
+      "प्राधिकारी"
+    ],
+    "answerable": true,
+    "audio_sha256": "a6b6bf5742f8293e1688bce93249b1c43497065f05649ce2a3ed6d2971e64a75",
+    "seconds_audio": 6.6,
+    "shared_gain": 1.0,
+    "noise_seed": 17871294999040388194,
+    "sample_count": 105600,
+    "canonical_source_audio_sha256": "19bbe67803154a2fba9df805eb0fe4016030084198f179be29d2f0f9e71c1cca"
+  },
+  {
+    "id": "fresh-hi-1709-clean",
+    "source_id": 1709,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "यह रिपोर्ट इराक के प्रति प्रशासन की वर्तमान नीति के लगभग सभी पहलुओं के प्रति बेहद आलोचनात्मक है और यह इसकी दिशा में तत्काल परिवर्तन का आग्रह करती है",
+    "question": "रिपोर्ट किस देश के प्रति प्रशासन की नीति में तत्काल परिवर्तन चाहती है?",
+    "answers": [
+      "इराक",
+      "इराक़"
+    ],
+    "answerable": true,
+    "audio_sha256": "bf5263316360afc53d2b4871ebcc49b3684a8e83d4a378188a6500609e84f1e7",
+    "seconds_audio": 10.86,
+    "shared_gain": 1.0,
+    "noise_seed": 10199203186153036877,
+    "sample_count": 173760,
+    "canonical_source_audio_sha256": "4b49f4a046e84e6ecadfe8615a68d6d00cde9b1226a73fe738c8400f85ccfd4a"
+  },
+  {
+    "id": "fresh-hi-1709-noise_10db",
+    "source_id": 1709,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "यह रिपोर्ट इराक के प्रति प्रशासन की वर्तमान नीति के लगभग सभी पहलुओं के प्रति बेहद आलोचनात्मक है और यह इसकी दिशा में तत्काल परिवर्तन का आग्रह करती है",
+    "question": "रिपोर्ट किस देश के प्रति प्रशासन की नीति में तत्काल परिवर्तन चाहती है?",
+    "answers": [
+      "इराक",
+      "इराक़"
+    ],
+    "answerable": true,
+    "audio_sha256": "46bc5a2aa41bfc69ed46f9e4b010ea3774a1dd6adb78cf312219a8ade2a31ee7",
+    "seconds_audio": 10.86,
+    "shared_gain": 1.0,
+    "noise_seed": 10199203186153036877,
+    "sample_count": 173760,
+    "canonical_source_audio_sha256": "4b49f4a046e84e6ecadfe8615a68d6d00cde9b1226a73fe738c8400f85ccfd4a"
+  },
+  {
+    "id": "fresh-hi-1745-clean",
+    "source_id": 1745,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "प्राकृतिक वातावरण में पौधे सबसे अच्छे दिखते हैं इसलिए सिर्फ एक नमूने को भी हटाने के प्रलोभन को रोकें",
+    "question": "प्राकृतिक वातावरण में नमूनों की देखभाल कौन करता है?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "c138edccb065ab1588309a05be1d47f2eeb56816b588f59d9d817e50d0b14f43",
+    "seconds_audio": 7.68,
+    "shared_gain": 1.0,
+    "noise_seed": 38995942847693263,
+    "sample_count": 122880,
+    "canonical_source_audio_sha256": "c3c4d58f83a36f67fe5a5c1358dbe842f1960fbca936288c9b3b4d0b4711eb14"
+  },
+  {
+    "id": "fresh-hi-1745-noise_10db",
+    "source_id": 1745,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "प्राकृतिक वातावरण में पौधे सबसे अच्छे दिखते हैं इसलिए सिर्फ एक नमूने को भी हटाने के प्रलोभन को रोकें",
+    "question": "प्राकृतिक वातावरण में नमूनों की देखभाल कौन करता है?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "777f96a8d72247062f41f8dbeee8a83a7621a7452d86efd02e9e6b00c9ca9340",
+    "seconds_audio": 7.68,
+    "shared_gain": 1.0,
+    "noise_seed": 38995942847693263,
+    "sample_count": 122880,
+    "canonical_source_audio_sha256": "c3c4d58f83a36f67fe5a5c1358dbe842f1960fbca936288c9b3b4d0b4711eb14"
+  },
+  {
+    "id": "fresh-hi-1885-clean",
+    "source_id": 1885,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "10 00-11 00 बजे एमडीटी के बीच यार्ड में कैदियों द्वारा आग लगा दी गई थी",
+    "question": "यार्ड में आग किसने लगाई थी?",
+    "answers": [
+      "कैदियों ने",
+      "कैदियों",
+      "कैदी"
+    ],
+    "answerable": true,
+    "audio_sha256": "14f65d99fab195a3f3b41a5d1dbe6c448f9b0f572122e5f9d72a3bac0dda4048",
+    "seconds_audio": 6.24,
+    "shared_gain": 1.0,
+    "noise_seed": 7548077860713378146,
+    "sample_count": 99840,
+    "canonical_source_audio_sha256": "b3f1fb26e85544d541e85f0a566740b2c38f98f60cfd4e59d0d1b12eb9197338"
+  },
+  {
+    "id": "fresh-hi-1885-noise_10db",
+    "source_id": 1885,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "10 00-11 00 बजे एमडीटी के बीच यार्ड में कैदियों द्वारा आग लगा दी गई थी",
+    "question": "यार्ड में आग किसने लगाई थी?",
+    "answers": [
+      "कैदियों ने",
+      "कैदियों",
+      "कैदी"
+    ],
+    "answerable": true,
+    "audio_sha256": "c1d4d22510bcea7d8acf5c7e57f544ed6a0ba2995836521f5856fd283519f048",
+    "seconds_audio": 6.24,
+    "shared_gain": 1.0,
+    "noise_seed": 7548077860713378146,
+    "sample_count": 99840,
+    "canonical_source_audio_sha256": "b3f1fb26e85544d541e85f0a566740b2c38f98f60cfd4e59d0d1b12eb9197338"
+  },
+  {
+    "id": "fresh-hi-1870-clean",
+    "source_id": 1870,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "पिरामिडों पर दृश्य प्रदर्शित किए जाते हैं और विभिन्न पिरामिड दिखाए जाते हैं",
+    "question": "दृश्य किन संरचनाओं पर प्रदर्शित किए जाते हैं?",
+    "answers": [
+      "पिरामिडों",
+      "पिरामिड"
+    ],
+    "answerable": true,
+    "audio_sha256": "0216cae280e30d739614100c36f2c625815cbc3c45b1103cc77866f591fc5880",
+    "seconds_audio": 6.72,
+    "shared_gain": 1.0,
+    "noise_seed": 12661548363926763528,
+    "sample_count": 107520,
+    "canonical_source_audio_sha256": "11794ab67d0fa13f6ce81f163058eb35b6dfb24a227c7bdb7222feabd34ce5cb"
+  },
+  {
+    "id": "fresh-hi-1870-noise_10db",
+    "source_id": 1870,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "पिरामिडों पर दृश्य प्रदर्शित किए जाते हैं और विभिन्न पिरामिड दिखाए जाते हैं",
+    "question": "दृश्य किन संरचनाओं पर प्रदर्शित किए जाते हैं?",
+    "answers": [
+      "पिरामिडों",
+      "पिरामिड"
+    ],
+    "answerable": true,
+    "audio_sha256": "6dc0af6edbac307c6b671ef622c734d6e9037f83659b59fccd2518bc22fccaad",
+    "seconds_audio": 6.72,
+    "shared_gain": 1.0,
+    "noise_seed": 12661548363926763528,
+    "sample_count": 107520,
+    "canonical_source_audio_sha256": "11794ab67d0fa13f6ce81f163058eb35b6dfb24a227c7bdb7222feabd34ce5cb"
+  },
+  {
+    "id": "fresh-hi-1904-clean",
+    "source_id": 1904,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "हालांकि धीमे कम्युनिकेशन चैनल की वजह से पश्चिम का रहन-सहन 25-30 साल पीछे जा सकता है",
+    "question": "धीमे कम्युनिकेशन चैनल से पश्चिम का रहन-सहन कितने साल पीछे जा सकता है?",
+    "answers": [
+      "25-30 साल",
+      "25 से 30 साल",
+      "पच्चीस से तीस साल"
+    ],
+    "answerable": true,
+    "audio_sha256": "86ade2f8df48f7b193c24db6fb28434a274fd7c878e760426bf63d80dff5fd97",
+    "seconds_audio": 7.14,
+    "shared_gain": 1.0,
+    "noise_seed": 3062766881035492610,
+    "sample_count": 114240,
+    "canonical_source_audio_sha256": "7fd36c4733a8739319b81d20209fab15b57e5491976a0eaea23463cf09834679"
+  },
+  {
+    "id": "fresh-hi-1904-noise_10db",
+    "source_id": 1904,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "हालांकि धीमे कम्युनिकेशन चैनल की वजह से पश्चिम का रहन-सहन 25-30 साल पीछे जा सकता है",
+    "question": "धीमे कम्युनिकेशन चैनल से पश्चिम का रहन-सहन कितने साल पीछे जा सकता है?",
+    "answers": [
+      "25-30 साल",
+      "25 से 30 साल",
+      "पच्चीस से तीस साल"
+    ],
+    "answerable": true,
+    "audio_sha256": "e8cd7df95acf7d875588b8c3e021fdbebe00312f95e1b8e0fd68483ac5f90d70",
+    "seconds_audio": 7.14,
+    "shared_gain": 1.0,
+    "noise_seed": 3062766881035492610,
+    "sample_count": 114240,
+    "canonical_source_audio_sha256": "7fd36c4733a8739319b81d20209fab15b57e5491976a0eaea23463cf09834679"
+  },
+  {
+    "id": "fresh-hi-1914-clean",
+    "source_id": 1914,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "बीसवीं सदी के शोध से पता चला है कि आनुवंशिक भिन्नता के दो पूल हैं छुपा हुआ और अभिव्यक्त",
+    "question": "आनुवंशिक भिन्नता के दो पूलों में छुपे हुए पूल के अलावा दूसरा कौन सा है?",
+    "answers": [
+      "अभिव्यक्त",
+      "अभिव्यक्त पूल"
+    ],
+    "answerable": true,
+    "audio_sha256": "0b7413f4c9af19d89dae7a0be3fcfc9e6839c723ef6cfb6241f5f11a21f3514b",
+    "seconds_audio": 13.02,
+    "shared_gain": 1.0,
+    "noise_seed": 4283805037255243148,
+    "sample_count": 208320,
+    "canonical_source_audio_sha256": "f4a946c7e90af354d8fc07bbb57a73dfcfae784e8e6c4cd1fd200111c8c56456"
+  },
+  {
+    "id": "fresh-hi-1914-noise_10db",
+    "source_id": 1914,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "बीसवीं सदी के शोध से पता चला है कि आनुवंशिक भिन्नता के दो पूल हैं छुपा हुआ और अभिव्यक्त",
+    "question": "आनुवंशिक भिन्नता के दो पूलों में छुपे हुए पूल के अलावा दूसरा कौन सा है?",
+    "answers": [
+      "अभिव्यक्त",
+      "अभिव्यक्त पूल"
+    ],
+    "answerable": true,
+    "audio_sha256": "1582ef168e3eb039565bf73e5877aafb4cda0cae9216cd63b51c1e925ffd2062",
+    "seconds_audio": 13.02,
+    "shared_gain": 1.0,
+    "noise_seed": 4283805037255243148,
+    "sample_count": 208320,
+    "canonical_source_audio_sha256": "f4a946c7e90af354d8fc07bbb57a73dfcfae784e8e6c4cd1fd200111c8c56456"
+  },
+  {
+    "id": "fresh-hi-1661-clean",
+    "source_id": 1661,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "यह कहते हुए कि वे चीन के आर्थिक उत्पादन के आधार पर बनाए जाएंगे उन्होंने कटौती के लिए कोई आंकड़ा निर्धारित नहीं किया",
+    "question": "कटौती के लिए किस देश के आर्थिक उत्पादन को आधार बनाया जाना था?",
+    "answers": [
+      "चीन"
+    ],
+    "answerable": true,
+    "audio_sha256": "3476cec48d4a21d823b746fc39e9c88c13c3bedfbdd6a950ac8503e6c2d90641",
+    "seconds_audio": 10.44,
+    "shared_gain": 1.0,
+    "noise_seed": 9001988271576976872,
+    "sample_count": 167040,
+    "canonical_source_audio_sha256": "abb96f773495bfb6e5f169e9ee650e3497c0164ba8e6309fe711ef213d736ed3"
+  },
+  {
+    "id": "fresh-hi-1661-noise_10db",
+    "source_id": 1661,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "यह कहते हुए कि वे चीन के आर्थिक उत्पादन के आधार पर बनाए जाएंगे उन्होंने कटौती के लिए कोई आंकड़ा निर्धारित नहीं किया",
+    "question": "कटौती के लिए किस देश के आर्थिक उत्पादन को आधार बनाया जाना था?",
+    "answers": [
+      "चीन"
+    ],
+    "answerable": true,
+    "audio_sha256": "a08d12a3435da38eea65f4082f148cac3fb10e7fc6366b1c10873fe7dcbdd216",
+    "seconds_audio": 10.44,
+    "shared_gain": 1.0,
+    "noise_seed": 9001988271576976872,
+    "sample_count": 167040,
+    "canonical_source_audio_sha256": "abb96f773495bfb6e5f169e9ee650e3497c0164ba8e6309fe711ef213d736ed3"
+  },
+  {
+    "id": "fresh-hi-1947-clean",
+    "source_id": 1947,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "टुकड़ियों के पहुंचने से पहले 1800 के दशक से हैती का कभी-भी बीमारियों से जुड़ी समस्याओं से सामना नहीं हुआ था",
+    "question": "टुकड़ियों के पहुँचने से पहले किस देश को उन बीमारियों की समस्याओं का सामना नहीं हुआ था?",
+    "answers": [
+      "हैती"
+    ],
+    "answerable": true,
+    "audio_sha256": "87b2fefac123f4ef878665f25294fa342a8f2166c65673064a977b9d956955a0",
+    "seconds_audio": 9.9,
+    "shared_gain": 1.0,
+    "noise_seed": 16943533783901846960,
+    "sample_count": 158400,
+    "canonical_source_audio_sha256": "b5cdf46d04e5ab39c540ee04e9e5c25e26e93bbb04d738bd79f5b3cb0bd864fd"
+  },
+  {
+    "id": "fresh-hi-1947-noise_10db",
+    "source_id": 1947,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "टुकड़ियों के पहुंचने से पहले 1800 के दशक से हैती का कभी-भी बीमारियों से जुड़ी समस्याओं से सामना नहीं हुआ था",
+    "question": "टुकड़ियों के पहुँचने से पहले किस देश को उन बीमारियों की समस्याओं का सामना नहीं हुआ था?",
+    "answers": [
+      "हैती"
+    ],
+    "answerable": true,
+    "audio_sha256": "6b8c244f1b74df4e7bc0d0e687bfcd52b8143b4fc6fd99d3df7fd3ef2d2f2000",
+    "seconds_audio": 9.9,
+    "shared_gain": 1.0,
+    "noise_seed": 16943533783901846960,
+    "sample_count": 158400,
+    "canonical_source_audio_sha256": "b5cdf46d04e5ab39c540ee04e9e5c25e26e93bbb04d738bd79f5b3cb0bd864fd"
+  },
+  {
+    "id": "fresh-hi-1692-clean",
+    "source_id": 1692,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "जापान की परमाणु एजेंसी के अनुसार प्लांट में रेडियोधर्मी सीज़ियम और आयोडीन की पहचान की गई है",
+    "question": "रेडियोधर्मी तत्वों की पहचान किस शहर के प्लांट में हुई?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "e97eb16363f655a5c767d434e87b1ed937a746f0ef1ca91a6475e0ce1916f42e",
+    "seconds_audio": 8.52,
+    "shared_gain": 1.0,
+    "noise_seed": 10316525671581672091,
+    "sample_count": 136320,
+    "canonical_source_audio_sha256": "83b08183d2ab5bc9da46ddb7075f326c852386d1e64e6cac12a13463576f0ec9"
+  },
+  {
+    "id": "fresh-hi-1692-noise_10db",
+    "source_id": 1692,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "जापान की परमाणु एजेंसी के अनुसार प्लांट में रेडियोधर्मी सीज़ियम और आयोडीन की पहचान की गई है",
+    "question": "रेडियोधर्मी तत्वों की पहचान किस शहर के प्लांट में हुई?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "560e8cbfe38f26a1df2bbf3efb878eec468001c048ab9cc4df213e7cd44b9be1",
+    "seconds_audio": 8.52,
+    "shared_gain": 1.0,
+    "noise_seed": 10316525671581672091,
+    "sample_count": 136320,
+    "canonical_source_audio_sha256": "83b08183d2ab5bc9da46ddb7075f326c852386d1e64e6cac12a13463576f0ec9"
+  },
+  {
+    "id": "fresh-hi-1832-clean",
+    "source_id": 1832,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "लोकप्रिय खेलों में फ़ुटबॉल बास्केटबॉल वॉलीबॉल वाटर पोलो तलवारबाज़ी रग्बी साइकिलिंग आइस हॉकी रोलर हॉकी और एफ़ 1 मोटर रेसिंग शामिल हैं",
+    "question": "सूची में आइस हॉकी के बाद हॉकी का कौन सा रूप गिनाया गया है?",
+    "answers": [
+      "रोलर हॉकी"
+    ],
+    "answerable": true,
+    "audio_sha256": "a06f4d4e252db1456090b4beeaf2c658e9a61048710abc2c88f7fad9a80a7ba1",
+    "seconds_audio": 15.72,
+    "shared_gain": 1.0,
+    "noise_seed": 256318289573382186,
+    "sample_count": 251520,
+    "canonical_source_audio_sha256": "89300268c68dfc68c2e2a523cc405c068332c7150d596f17f231c178070cf05f"
+  },
+  {
+    "id": "fresh-hi-1832-noise_10db",
+    "source_id": 1832,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "लोकप्रिय खेलों में फ़ुटबॉल बास्केटबॉल वॉलीबॉल वाटर पोलो तलवारबाज़ी रग्बी साइकिलिंग आइस हॉकी रोलर हॉकी और एफ़ 1 मोटर रेसिंग शामिल हैं",
+    "question": "सूची में आइस हॉकी के बाद हॉकी का कौन सा रूप गिनाया गया है?",
+    "answers": [
+      "रोलर हॉकी"
+    ],
+    "answerable": true,
+    "audio_sha256": "edaebf7dbfda0e8ee079db2c18b0cda61803e01008114cf57b7e78a0ae2b8961",
+    "seconds_audio": 15.72,
+    "shared_gain": 1.0,
+    "noise_seed": 256318289573382186,
+    "sample_count": 251520,
+    "canonical_source_audio_sha256": "89300268c68dfc68c2e2a523cc405c068332c7150d596f17f231c178070cf05f"
+  },
+  {
+    "id": "fresh-hi-1817-clean",
+    "source_id": 1817,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "हालांकि शेंगेन ज़ोन इस मामले में कुछ हद तक एक देश की तरह काम करता है",
+    "question": "शेंगेन ज़ोन की तुलना किस राजनीतिक इकाई से की गई है?",
+    "answers": [
+      "एक देश",
+      "देश"
+    ],
+    "answerable": true,
+    "audio_sha256": "449076af5ab485c9447b5709f2fda1be43169168801bf35823c7be2447610b8e",
+    "seconds_audio": 6.42,
+    "shared_gain": 1.0,
+    "noise_seed": 6785817640764275185,
+    "sample_count": 102720,
+    "canonical_source_audio_sha256": "832577446839f254c625706a53c17abe7db3f42d7fbcce7fd0e9fa7402d24075"
+  },
+  {
+    "id": "fresh-hi-1817-noise_10db",
+    "source_id": 1817,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "हालांकि शेंगेन ज़ोन इस मामले में कुछ हद तक एक देश की तरह काम करता है",
+    "question": "शेंगेन ज़ोन की तुलना किस राजनीतिक इकाई से की गई है?",
+    "answers": [
+      "एक देश",
+      "देश"
+    ],
+    "answerable": true,
+    "audio_sha256": "8e9b4286fbbb74c57993a052c6f9adebbf392504d6e19fa6a1beb0c3cf17cfac",
+    "seconds_audio": 6.42,
+    "shared_gain": 1.0,
+    "noise_seed": 6785817640764275185,
+    "sample_count": 102720,
+    "canonical_source_audio_sha256": "832577446839f254c625706a53c17abe7db3f42d7fbcce7fd0e9fa7402d24075"
+  },
+  {
+    "id": "fresh-hi-1816-clean",
+    "source_id": 1816,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "डुवैल जो विवाहित है और उसके दो वयस्क बच्चे हैं उसने मिलर पर बड़ा असर नहीं किया जिस से कहानी संबंधित है",
+    "question": "डुवैल के कितने वयस्क बच्चे हैं?",
+    "answers": [
+      "दो",
+      "2"
+    ],
+    "answerable": true,
+    "audio_sha256": "720d58478aa2682d62953176833a0acbec6288c9a8dea7bf5a132c6168647868",
+    "seconds_audio": 13.62,
+    "shared_gain": 1.0,
+    "noise_seed": 14578205606388538791,
+    "sample_count": 217920,
+    "canonical_source_audio_sha256": "bbbb3f8829ee0460d9034901b00062b7f77f4629ac0f6ab73f8f4df50b650ef8"
+  },
+  {
+    "id": "fresh-hi-1816-noise_10db",
+    "source_id": 1816,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "डुवैल जो विवाहित है और उसके दो वयस्क बच्चे हैं उसने मिलर पर बड़ा असर नहीं किया जिस से कहानी संबंधित है",
+    "question": "डुवैल के कितने वयस्क बच्चे हैं?",
+    "answers": [
+      "दो",
+      "2"
+    ],
+    "answerable": true,
+    "audio_sha256": "4e07b4f4124c7e6f80db6bf96f48e0bb8caa10a4cbccd486f64d3245597955a8",
+    "seconds_audio": 13.62,
+    "shared_gain": 1.0,
+    "noise_seed": 14578205606388538791,
+    "sample_count": 217920,
+    "canonical_source_audio_sha256": "bbbb3f8829ee0460d9034901b00062b7f77f4629ac0f6ab73f8f4df50b650ef8"
+  },
+  {
+    "id": "fresh-hi-1830-clean",
+    "source_id": 1830,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "सत्ताधारी दल साउथ वेस्ट अफ्रीका पीपल आर्गेनाइजेशन स्वापो ने संसदीय चुनाव में बहुमत पाया",
+    "question": "संसदीय चुनाव में किस दल ने बहुमत पाया?",
+    "answers": [
+      "स्वापो",
+      "साउथ वेस्ट अफ्रीका पीपल आर्गेनाइजेशन",
+      "साउथ वेस्ट अफ्रीका पीपल ऑर्गेनाइजेशन"
+    ],
+    "answerable": true,
+    "audio_sha256": "f746b043ff4de789550cf1c16cafab8194e0ac1daeaa09e5c24e81e60b8a69de",
+    "seconds_audio": 8.16,
+    "shared_gain": 1.0,
+    "noise_seed": 12909995566792717541,
+    "sample_count": 130560,
+    "canonical_source_audio_sha256": "6dc21b30fc58ed88168f046240d15d398e762089624cc62d3affa125fcd4ff78"
+  },
+  {
+    "id": "fresh-hi-1830-noise_10db",
+    "source_id": 1830,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "सत्ताधारी दल साउथ वेस्ट अफ्रीका पीपल आर्गेनाइजेशन स्वापो ने संसदीय चुनाव में बहुमत पाया",
+    "question": "संसदीय चुनाव में किस दल ने बहुमत पाया?",
+    "answers": [
+      "स्वापो",
+      "साउथ वेस्ट अफ्रीका पीपल आर्गेनाइजेशन",
+      "साउथ वेस्ट अफ्रीका पीपल ऑर्गेनाइजेशन"
+    ],
+    "answerable": true,
+    "audio_sha256": "6016713f354af096919daad2760f3c7c600c2fd60212406b369473cbc57d0537",
+    "seconds_audio": 8.16,
+    "shared_gain": 1.0,
+    "noise_seed": 12909995566792717541,
+    "sample_count": 130560,
+    "canonical_source_audio_sha256": "6dc21b30fc58ed88168f046240d15d398e762089624cc62d3affa125fcd4ff78"
+  },
+  {
+    "id": "fresh-hi-1779-clean",
+    "source_id": 1779,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "तुर्की के राष्ट्रपति रजब तैयब इरदुगान के साथ ट्रंप की फ़ोन पर चर्चा होने के बाद घोषणा की गई थी",
+    "question": "घोषणा से पहले ट्रंप ने किस देश के राष्ट्रपति से फ़ोन पर बात की?",
+    "answers": [
+      "तुर्की"
+    ],
+    "answerable": true,
+    "audio_sha256": "3005d7ced980ea392412a0275360b70592fce3c9bebee675a0bd83dc376a9cc4",
+    "seconds_audio": 10.62,
+    "shared_gain": 1.0,
+    "noise_seed": 2566980199258954188,
+    "sample_count": 169920,
+    "canonical_source_audio_sha256": "399fd8bf94e23071101152d53c596d723ec0c46f547e63beba215ea73bcb031d"
+  },
+  {
+    "id": "fresh-hi-1779-noise_10db",
+    "source_id": 1779,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "तुर्की के राष्ट्रपति रजब तैयब इरदुगान के साथ ट्रंप की फ़ोन पर चर्चा होने के बाद घोषणा की गई थी",
+    "question": "घोषणा से पहले ट्रंप ने किस देश के राष्ट्रपति से फ़ोन पर बात की?",
+    "answers": [
+      "तुर्की"
+    ],
+    "answerable": true,
+    "audio_sha256": "783b1f80c7a5159373ecf4dc9aea1c22c0e160cef18c4ca07554c1786e0726aa",
+    "seconds_audio": 10.62,
+    "shared_gain": 1.0,
+    "noise_seed": 2566980199258954188,
+    "sample_count": 169920,
+    "canonical_source_audio_sha256": "399fd8bf94e23071101152d53c596d723ec0c46f547e63beba215ea73bcb031d"
+  },
+  {
+    "id": "fresh-hi-1919-clean",
+    "source_id": 1919,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "यह शहर अफ़्रीका के कुछ सबसे सस्ते पहाड़ी गोरिल्ला ट्रेकिंग के साथ ही नायरागोंगो ज्वालामुखी की चढ़ाई करने का बेस भी है",
+    "question": "शहर किस ज्वालामुखी की चढ़ाई का बेस है?",
+    "answers": [
+      "नायरागोंगो",
+      "नायरागोंगो ज्वालामुखी"
+    ],
+    "answerable": true,
+    "audio_sha256": "e8efb01fa09edd0582584cbf7306ae1e83c73bc3b94c7bbe2bcf1dedc7b63230",
+    "seconds_audio": 10.2,
+    "shared_gain": 1.0,
+    "noise_seed": 8522577608830732150,
+    "sample_count": 163200,
+    "canonical_source_audio_sha256": "39e26c0177091d28e3f1e0bc54d8f0fd1006b133e9c40655324f662cf3a11f8b"
+  },
+  {
+    "id": "fresh-hi-1919-noise_10db",
+    "source_id": 1919,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "यह शहर अफ़्रीका के कुछ सबसे सस्ते पहाड़ी गोरिल्ला ट्रेकिंग के साथ ही नायरागोंगो ज्वालामुखी की चढ़ाई करने का बेस भी है",
+    "question": "शहर किस ज्वालामुखी की चढ़ाई का बेस है?",
+    "answers": [
+      "नायरागोंगो",
+      "नायरागोंगो ज्वालामुखी"
+    ],
+    "answerable": true,
+    "audio_sha256": "24bbb17622d81cafb3e32cd99db9102fc3f15412ffab0a71d1760efa55fba188",
+    "seconds_audio": 10.2,
+    "shared_gain": 1.0,
+    "noise_seed": 8522577608830732150,
+    "sample_count": 163200,
+    "canonical_source_audio_sha256": "39e26c0177091d28e3f1e0bc54d8f0fd1006b133e9c40655324f662cf3a11f8b"
+  },
+  {
+    "id": "fresh-hi-1875-clean",
+    "source_id": 1875,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "हमारे ग्रह की नदियों से महासागरों में जाने वाले पानी का 20% हिस्सा अमेज़न से आता है",
+    "question": "नदियों से महासागरों में जाने वाले पानी का कितना प्रतिशत अमेज़न से आता है?",
+    "answers": [
+      "20 प्रतिशत",
+      "बीस प्रतिशत",
+      "20%",
+      "20"
+    ],
+    "answerable": true,
+    "audio_sha256": "22033a85ca7469c93a44eb73face6c59f8c3cc6f4f01a53e66fbd901bac32667",
+    "seconds_audio": 8.4,
+    "shared_gain": 1.0,
+    "noise_seed": 5643612827985333665,
+    "sample_count": 134400,
+    "canonical_source_audio_sha256": "734a38fe63e9f178cc614d0f569a9bd12e6b0e7e1baf3ec848a7604ada98c5b5"
+  },
+  {
+    "id": "fresh-hi-1875-noise_10db",
+    "source_id": 1875,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "हमारे ग्रह की नदियों से महासागरों में जाने वाले पानी का 20% हिस्सा अमेज़न से आता है",
+    "question": "नदियों से महासागरों में जाने वाले पानी का कितना प्रतिशत अमेज़न से आता है?",
+    "answers": [
+      "20 प्रतिशत",
+      "बीस प्रतिशत",
+      "20%",
+      "20"
+    ],
+    "answerable": true,
+    "audio_sha256": "c5e32fca698670123b7b58e3fd1378c5f8e5168ac0047b24539f55d601060c68",
+    "seconds_audio": 8.4,
+    "shared_gain": 1.0,
+    "noise_seed": 5643612827985333665,
+    "sample_count": 134400,
+    "canonical_source_audio_sha256": "734a38fe63e9f178cc614d0f569a9bd12e6b0e7e1baf3ec848a7604ada98c5b5"
+  },
+  {
+    "id": "fresh-hi-1798-clean",
+    "source_id": 1798,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "इसके शुरुआती दिनों में इस शो को केवल लंबे समय तक चलने वाली इंटरनेट रेडियो साइट toginet रेडियो टॉक रेडियो पर केंद्रित एक साइट पर फ़ीचर किया गया था",
+    "question": "शुरुआत में शो को किस इंटरनेट रेडियो साइट पर फ़ीचर किया गया था?",
+    "answers": [
+      "toginet रेडियो",
+      "toginet",
+      "टॉगिनेट रेडियो"
+    ],
+    "answerable": true,
+    "audio_sha256": "148e61e619c9ec0c0978da7eb9ac37f1cead557393eb4933bb482aad868b4a7c",
+    "seconds_audio": 19.74,
+    "shared_gain": 1.0,
+    "noise_seed": 14807679665204370076,
+    "sample_count": 315840,
+    "canonical_source_audio_sha256": "4f7c0efc9192a701fe291cc9b0e21493a8288ce661b67db5e61bacdb4f8f5312"
+  },
+  {
+    "id": "fresh-hi-1798-noise_10db",
+    "source_id": 1798,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "इसके शुरुआती दिनों में इस शो को केवल लंबे समय तक चलने वाली इंटरनेट रेडियो साइट toginet रेडियो टॉक रेडियो पर केंद्रित एक साइट पर फ़ीचर किया गया था",
+    "question": "शुरुआत में शो को किस इंटरनेट रेडियो साइट पर फ़ीचर किया गया था?",
+    "answers": [
+      "toginet रेडियो",
+      "toginet",
+      "टॉगिनेट रेडियो"
+    ],
+    "answerable": true,
+    "audio_sha256": "c433af32f85a9b95c8c22fefddecf3053d89af6bda0356790d34893947c98ff6",
+    "seconds_audio": 19.74,
+    "shared_gain": 1.0,
+    "noise_seed": 14807679665204370076,
+    "sample_count": 315840,
+    "canonical_source_audio_sha256": "4f7c0efc9192a701fe291cc9b0e21493a8288ce661b67db5e61bacdb4f8f5312"
+  },
+  {
+    "id": "fresh-hi-2002-clean",
+    "source_id": 2002,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "यह डिवाइस को हवा में मूव करके खिलाड़ियों को एक्शन और मूवमेंट कंट्रोल करने की अनुमति देगा",
+    "question": "खिलाड़ियों को एक्शन और मूवमेंट कंट्रोल करने के लिए डिवाइस को कहाँ हिलाना होगा?",
+    "answers": [
+      "हवा में"
+    ],
+    "answerable": true,
+    "audio_sha256": "a98fac7a0106ae0caf88afac0eca0331dd098d57f69e1a4f56fb11a232b0f92a",
+    "seconds_audio": 7.56,
+    "shared_gain": 1.0,
+    "noise_seed": 15940893062603185981,
+    "sample_count": 120960,
+    "canonical_source_audio_sha256": "8151cc2d7317567e4b464b4b4028cfcedc0bd9e6d1f5a5dbd350523d0a298e5c"
+  },
+  {
+    "id": "fresh-hi-2002-noise_10db",
+    "source_id": 2002,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "यह डिवाइस को हवा में मूव करके खिलाड़ियों को एक्शन और मूवमेंट कंट्रोल करने की अनुमति देगा",
+    "question": "खिलाड़ियों को एक्शन और मूवमेंट कंट्रोल करने के लिए डिवाइस को कहाँ हिलाना होगा?",
+    "answers": [
+      "हवा में"
+    ],
+    "answerable": true,
+    "audio_sha256": "be2b3a05d1be60209ff5e2f5b72563f7b335da42823a94579e5f04d5b3673108",
+    "seconds_audio": 7.56,
+    "shared_gain": 1.0,
+    "noise_seed": 15940893062603185981,
+    "sample_count": 120960,
+    "canonical_source_audio_sha256": "8151cc2d7317567e4b464b4b4028cfcedc0bd9e6d1f5a5dbd350523d0a298e5c"
+  },
+  {
+    "id": "fresh-hi-1778-clean",
+    "source_id": 1778,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "टेलीविजन रिपोर्टों में प्लांट से निकलने वाला सफेद धुआं दिखाया गया है",
+    "question": "प्लांट से उठता धुआँ कितनी देर तक दिखाई दिया?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "2a92e243c33a78cfd340458bfb837108913a7741e1d7bd634e9b637d73d979ae",
+    "seconds_audio": 5.1,
+    "shared_gain": 1.0,
+    "noise_seed": 8920950767125522180,
+    "sample_count": 81600,
+    "canonical_source_audio_sha256": "5be144ab7c102160d415db5c537ea272c9419780d3ca30fb3847403bfc5a9b55"
+  },
+  {
+    "id": "fresh-hi-1778-noise_10db",
+    "source_id": 1778,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "टेलीविजन रिपोर्टों में प्लांट से निकलने वाला सफेद धुआं दिखाया गया है",
+    "question": "प्लांट से उठता धुआँ कितनी देर तक दिखाई दिया?",
+    "answers": [
+      "अज्ञात"
+    ],
+    "answerable": false,
+    "audio_sha256": "25551cb9726506c206865c8e250e976e7e7392c0ecb90100ba814719abe668e1",
+    "seconds_audio": 5.1,
+    "shared_gain": 1.0,
+    "noise_seed": 8920950767125522180,
+    "sample_count": 81600,
+    "canonical_source_audio_sha256": "5be144ab7c102160d415db5c537ea272c9419780d3ca30fb3847403bfc5a9b55"
+  },
+  {
+    "id": "fresh-hi-1774-clean",
+    "source_id": 1774,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "बाहरी द्वीपों पर क्रेडिट कार्ड शायद स्वीकार नहीं किए जाएंगे हालांकि ब्रिटिश और संयुक्त राज्य की मुद्रा स्वीकार्य होगी यह निर्धारित करने के लिए कि स्वीकार्य भुगतान विधि क्या है मालिकों से पहले ही पूछ लें",
+    "question": "बाहरी द्वीपों पर भुगतान की स्वीकार्य विधि जानने के लिए पहले किससे पूछना चाहिए?",
+    "answers": [
+      "मालिकों से",
+      "मालिकों",
+      "मालिक"
+    ],
+    "answerable": true,
+    "audio_sha256": "63ac413b750c368b79be23a3a1e01b155859ddbbd8e461483dd7b4736584153f",
+    "seconds_audio": 18.18,
+    "shared_gain": 0.9701183726219609,
+    "noise_seed": 17937976941740692657,
+    "sample_count": 290880,
+    "canonical_source_audio_sha256": "6bd343b3cfd89626c0ef7ef05051dfba852a994c794887ee13977d8814e431ee"
+  },
+  {
+    "id": "fresh-hi-1774-noise_10db",
+    "source_id": 1774,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "बाहरी द्वीपों पर क्रेडिट कार्ड शायद स्वीकार नहीं किए जाएंगे हालांकि ब्रिटिश और संयुक्त राज्य की मुद्रा स्वीकार्य होगी यह निर्धारित करने के लिए कि स्वीकार्य भुगतान विधि क्या है मालिकों से पहले ही पूछ लें",
+    "question": "बाहरी द्वीपों पर भुगतान की स्वीकार्य विधि जानने के लिए पहले किससे पूछना चाहिए?",
+    "answers": [
+      "मालिकों से",
+      "मालिकों",
+      "मालिक"
+    ],
+    "answerable": true,
+    "audio_sha256": "8ead16b02c14b7ef445920fd54b21b5655258de61cc3bace283fc4d3163180ef",
+    "seconds_audio": 18.18,
+    "shared_gain": 0.9701183726219609,
+    "noise_seed": 17937976941740692657,
+    "sample_count": 290880,
+    "canonical_source_audio_sha256": "6bd343b3cfd89626c0ef7ef05051dfba852a994c794887ee13977d8814e431ee"
+  },
+  {
+    "id": "fresh-hi-1996-clean",
+    "source_id": 1996,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "पुरुषों के स्टैंडिंग सुपर-जी में ऑस्ट्रेलिया के मिशेल गौरले ग्यारहवें स्थान पर रहे चेक प्रतियोगी ओल्डरिच जेलिनेक पुरुषों के सिटिंग सुपर-जी में सोलहवें स्थान पर रहे",
+    "question": "ऑस्ट्रेलिया के मिशेल गौरले पुरुषों के स्टैंडिंग सुपर-जी में किस स्थान पर रहे?",
+    "answers": [
+      "ग्यारहवें",
+      "11वें",
+      "ग्यारहवें स्थान"
+    ],
+    "answerable": true,
+    "audio_sha256": "0816f6148729565c4ff85772f6be27ee36a092aeadff4d539260bff83fc018ef",
+    "seconds_audio": 14.28,
+    "shared_gain": 1.0,
+    "noise_seed": 14686789340639527560,
+    "sample_count": 228480,
+    "canonical_source_audio_sha256": "8175b546f96a2824aeec93128d3256aa19d1cfecb9fdc624d66c62e2922cb180"
+  },
+  {
+    "id": "fresh-hi-1996-noise_10db",
+    "source_id": 1996,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "पुरुषों के स्टैंडिंग सुपर-जी में ऑस्ट्रेलिया के मिशेल गौरले ग्यारहवें स्थान पर रहे चेक प्रतियोगी ओल्डरिच जेलिनेक पुरुषों के सिटिंग सुपर-जी में सोलहवें स्थान पर रहे",
+    "question": "ऑस्ट्रेलिया के मिशेल गौरले पुरुषों के स्टैंडिंग सुपर-जी में किस स्थान पर रहे?",
+    "answers": [
+      "ग्यारहवें",
+      "11वें",
+      "ग्यारहवें स्थान"
+    ],
+    "answerable": true,
+    "audio_sha256": "a211debfa16771338c3cdc67d2263bcac861d00aca1a332401cb12af528708b4",
+    "seconds_audio": 14.28,
+    "shared_gain": 1.0,
+    "noise_seed": 14686789340639527560,
+    "sample_count": 228480,
+    "canonical_source_audio_sha256": "8175b546f96a2824aeec93128d3256aa19d1cfecb9fdc624d66c62e2922cb180"
+  },
+  {
+    "id": "fresh-hi-1732-clean",
+    "source_id": 1732,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "जिस समय घटनाएँ हुई उसके युग को सामान्य रूप से यूरोप के इतिहास में 11वीं 12वीं और 13वीं सदी ad 1000-1300 में यूरोपियन इतिहास के उच्च मध्य युग की अवधि के रूप में बताया जाता है",
+    "question": "इन घटनाओं को यूरोप के इतिहास के किस युग में रखा गया है?",
+    "answers": [
+      "उच्च मध्य युग",
+      "उच्च मध्ययुग"
+    ],
+    "answerable": true,
+    "audio_sha256": "cb42b20f6977a79d45af0f16dbe64b992224e879e0513d9a295b81626911bec5",
+    "seconds_audio": 17.76,
+    "shared_gain": 1.0,
+    "noise_seed": 3885484236230299804,
+    "sample_count": 284160,
+    "canonical_source_audio_sha256": "6241c235cf07d30eaed506d4d09d004508a903483748772c28c2ef6199239a62"
+  },
+  {
+    "id": "fresh-hi-1732-noise_10db",
+    "source_id": 1732,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "जिस समय घटनाएँ हुई उसके युग को सामान्य रूप से यूरोप के इतिहास में 11वीं 12वीं और 13वीं सदी ad 1000-1300 में यूरोपियन इतिहास के उच्च मध्य युग की अवधि के रूप में बताया जाता है",
+    "question": "इन घटनाओं को यूरोप के इतिहास के किस युग में रखा गया है?",
+    "answers": [
+      "उच्च मध्य युग",
+      "उच्च मध्ययुग"
+    ],
+    "answerable": true,
+    "audio_sha256": "865736d5e5a50f855489b31269e6505ce380aff1214984e044113bff671c0fa9",
+    "seconds_audio": 17.76,
+    "shared_gain": 1.0,
+    "noise_seed": 3885484236230299804,
+    "sample_count": 284160,
+    "canonical_source_audio_sha256": "6241c235cf07d30eaed506d4d09d004508a903483748772c28c2ef6199239a62"
+  },
+  {
+    "id": "fresh-hi-1841-clean",
+    "source_id": 1841,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "ऊपर साफ़ वातावरण सुंदर आसमान और आस-पास के कई पहाड़ों के अलावा और कुछ भी नहीं नज़र आता है इसलिए इस गुफ़ा के अंदर से दुनिया का छोटा सा हिस्सा ही देखा या सुना जा सकता है",
+    "question": "गुफ़ा के अंदर से दुनिया का कितना हिस्सा देखा या सुना जा सकता है?",
+    "answers": [
+      "छोटा सा हिस्सा",
+      "दुनिया का छोटा सा हिस्सा",
+      "एक छोटा हिस्सा"
+    ],
+    "answerable": true,
+    "audio_sha256": "e6b0ea5ca7de5367464a34558a202aa26ed64f3a421820ebf3dfa6235801c5cd",
+    "seconds_audio": 14.04,
+    "shared_gain": 0.9830166862672063,
+    "noise_seed": 10628836831756370806,
+    "sample_count": 224640,
+    "canonical_source_audio_sha256": "92bcaa76197e4d24c90371a7b540f3e5c99a77c440e0ed014fdd4940e0a20f73"
+  },
+  {
+    "id": "fresh-hi-1841-noise_10db",
+    "source_id": 1841,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "ऊपर साफ़ वातावरण सुंदर आसमान और आस-पास के कई पहाड़ों के अलावा और कुछ भी नहीं नज़र आता है इसलिए इस गुफ़ा के अंदर से दुनिया का छोटा सा हिस्सा ही देखा या सुना जा सकता है",
+    "question": "गुफ़ा के अंदर से दुनिया का कितना हिस्सा देखा या सुना जा सकता है?",
+    "answers": [
+      "छोटा सा हिस्सा",
+      "दुनिया का छोटा सा हिस्सा",
+      "एक छोटा हिस्सा"
+    ],
+    "answerable": true,
+    "audio_sha256": "719e350bd5804a32391c33a26a47b20f8a940672b258b3d4d5872906da1c8ddc",
+    "seconds_audio": 14.04,
+    "shared_gain": 0.9830166862672063,
+    "noise_seed": 10628836831756370806,
+    "sample_count": 224640,
+    "canonical_source_audio_sha256": "92bcaa76197e4d24c90371a7b540f3e5c99a77c440e0ed014fdd4940e0a20f73"
+  },
+  {
+    "id": "fresh-hi-1860-clean",
+    "source_id": 1860,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "राज्यपाल के कार्यालय ने बताया कि घायलों में से उन्नीस पुलिस अधिकारी थे",
+    "question": "घायलों में कितने पुलिस अधिकारी थे?",
+    "answers": [
+      "उन्नीस",
+      "19",
+      "उन्नीस पुलिस अधिकारी"
+    ],
+    "answerable": true,
+    "audio_sha256": "9cff552c469d6d06b56007101e43839e199c3d21a64f1116a01e8edf063a27da",
+    "seconds_audio": 8.52,
+    "shared_gain": 1.0,
+    "noise_seed": 17831150646727967447,
+    "sample_count": 136320,
+    "canonical_source_audio_sha256": "d142aceb1bf12c30d4ca2a84a024531eca8cc7c36c04b4e1923178aad90acab2"
+  },
+  {
+    "id": "fresh-hi-1860-noise_10db",
+    "source_id": 1860,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "राज्यपाल के कार्यालय ने बताया कि घायलों में से उन्नीस पुलिस अधिकारी थे",
+    "question": "घायलों में कितने पुलिस अधिकारी थे?",
+    "answers": [
+      "उन्नीस",
+      "19",
+      "उन्नीस पुलिस अधिकारी"
+    ],
+    "answerable": true,
+    "audio_sha256": "1111554f7eaf72783264d9506768ba49e273c2e0e3fd7ebfb55725a386083241",
+    "seconds_audio": 8.52,
+    "shared_gain": 1.0,
+    "noise_seed": 17831150646727967447,
+    "sample_count": 136320,
+    "canonical_source_audio_sha256": "d142aceb1bf12c30d4ca2a84a024531eca8cc7c36c04b4e1923178aad90acab2"
+  },
+  {
+    "id": "fresh-hi-1694-clean",
+    "source_id": 1694,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "बच्चों को कई वजहों से फ़ॉस्टर केयर में रखा जाता है जिनमें अनदेखी करना बुरा बर्ताव करना और यहां तक कि ज़बरदस्ती वसूली करना भी शामिल है",
+    "question": "अनदेखी और बुरे बर्ताव के अलावा फ़ॉस्टर केयर की किस वजह का ज़िक्र है?",
+    "answers": [
+      "ज़बरदस्ती वसूली",
+      "जबरदस्ती वसूली"
+    ],
+    "answerable": true,
+    "audio_sha256": "53a94fc3ee34056dc680138561f9a21f84e7e7894cf33c97af10cbc2e2f2bcd0",
+    "seconds_audio": 11.88,
+    "shared_gain": 1.0,
+    "noise_seed": 359332781055352270,
+    "sample_count": 190080,
+    "canonical_source_audio_sha256": "5ae55505034c56e812b4c1583c00d506c79c90980a23225a9d8dd7ec3dc7e347"
+  },
+  {
+    "id": "fresh-hi-1694-noise_10db",
+    "source_id": 1694,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "बच्चों को कई वजहों से फ़ॉस्टर केयर में रखा जाता है जिनमें अनदेखी करना बुरा बर्ताव करना और यहां तक कि ज़बरदस्ती वसूली करना भी शामिल है",
+    "question": "अनदेखी और बुरे बर्ताव के अलावा फ़ॉस्टर केयर की किस वजह का ज़िक्र है?",
+    "answers": [
+      "ज़बरदस्ती वसूली",
+      "जबरदस्ती वसूली"
+    ],
+    "answerable": true,
+    "audio_sha256": "466c1df92e099ff27896d0b6e2c699a13196a87aae2ba25aa238981ac847e013",
+    "seconds_audio": 11.88,
+    "shared_gain": 1.0,
+    "noise_seed": 359332781055352270,
+    "sample_count": 190080,
+    "canonical_source_audio_sha256": "5ae55505034c56e812b4c1583c00d506c79c90980a23225a9d8dd7ec3dc7e347"
+  },
+  {
+    "id": "fresh-hi-1958-clean",
+    "source_id": 1958,
+    "condition": "clean",
+    "split": "test",
+    "transcript": "यह शहर देश के बाकी शहरों से अलग है क्योंकि यह किसी अफ्रीकी शहर की बजाय अरब शहर लगता है",
+    "question": "इस शहर का स्वरूप किस तरह के शहर जैसा लगता है?",
+    "answers": [
+      "अरब शहर",
+      "अरब शहर जैसा"
+    ],
+    "answerable": true,
+    "audio_sha256": "3283fe85129ea65a36aa0d4667a7d27aeef66df830d236fa9c74566a6671b894",
+    "seconds_audio": 8.82,
+    "shared_gain": 1.0,
+    "noise_seed": 3192125499103650366,
+    "sample_count": 141120,
+    "canonical_source_audio_sha256": "52447f0a9ee1ae5610f37dc0adb6ab776071dfe6818891a552a6ffa3c87934e4"
+  },
+  {
+    "id": "fresh-hi-1958-noise_10db",
+    "source_id": 1958,
+    "condition": "noise_10db",
+    "split": "test",
+    "transcript": "यह शहर देश के बाकी शहरों से अलग है क्योंकि यह किसी अफ्रीकी शहर की बजाय अरब शहर लगता है",
+    "question": "इस शहर का स्वरूप किस तरह के शहर जैसा लगता है?",
+    "answers": [
+      "अरब शहर",
+      "अरब शहर जैसा"
+    ],
+    "answerable": true,
+    "audio_sha256": "2cd4ab7217d519b9b471f77cf592e62101091e270dbcd8243a0870729d169bbd",
+    "seconds_audio": 8.82,
+    "shared_gain": 1.0,
+    "noise_seed": 3192125499103650366,
+    "sample_count": 141120,
+    "canonical_source_audio_sha256": "52447f0a9ee1ae5610f37dc0adb6ab776071dfe6818891a552a6ffa3c87934e4"
+  }
+]

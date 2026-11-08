@@ -1,0 +1,99 @@
+{
+  "source_file": "artifacts\\pilot-result.json",
+  "source_sha256": "e8ac333d7410e05b0753a3e7900794b1a1e43b9cfd0d5349b71e93658bc0644e",
+  "scope": "Historical 12-source development set, 24 paired views; no fresh inference",
+  "metric_limitations": "EM is diagnostic, not adjudicated correctness or hallucination. No human ratings.",
+  "arms": {
+    "full/correct": {
+      "views": 24,
+      "raw_exact": 3,
+      "normalized_exact": 3
+    },
+    "full/wrong_audio": {
+      "views": 24,
+      "raw_exact": 4,
+      "normalized_exact": 4
+    },
+    "full/text": {
+      "views": 24,
+      "raw_exact": 4,
+      "normalized_exact": 4
+    },
+    "no_uncertainty/correct": {
+      "views": 24,
+      "raw_exact": 4,
+      "normalized_exact": 4
+    }
+  },
+  "full_vs_text_raw_em": {
+    "n": 24,
+    "rescued": 0,
+    "regressed": 1,
+    "unchanged_correct": 3,
+    "unchanged_incorrect": 20,
+    "net_corrected": -1,
+    "accuracy_delta_pp": -4.166666666666667,
+    "rescued_ids": [],
+    "regressed_ids": [
+      "fleurs-hi-1949-clean"
+    ]
+  },
+  "full_vs_text_normalized_em": {
+    "n": 24,
+    "rescued": 0,
+    "regressed": 1,
+    "unchanged_correct": 3,
+    "unchanged_incorrect": 20,
+    "net_corrected": -1,
+    "accuracy_delta_pp": -4.166666666666667,
+    "rescued_ids": [],
+    "regressed_ids": [
+      "fleurs-hi-1949-clean"
+    ]
+  },
+  "per_condition": {
+    "clean": {
+      "n": 12,
+      "rescued": 0,
+      "regressed": 1,
+      "unchanged_correct": 1,
+      "unchanged_incorrect": 10,
+      "net_corrected": -1,
+      "accuracy_delta_pp": -8.333333333333334,
+      "rescued_ids": [],
+      "regressed_ids": [
+        "fleurs-hi-1949-clean"
+      ]
+    },
+    "noise_10db": {
+      "n": 12,
+      "rescued": 0,
+      "regressed": 0,
+      "unchanged_correct": 2,
+      "unchanged_incorrect": 10,
+      "net_corrected": 0,
+      "accuracy_delta_pp": 0.0,
+      "rescued_ids": [],
+      "regressed_ids": []
+    }
+  },
+  "asr_attributable_recovery": {
+    "status": "not measurable from this pilot",
+    "reason": "Pilot has no matched gold-transcript control. Historical oracle has different prompt/decoding and cannot be joined as if matched."
+  },
+  "parameter_count": {
+    "actual_gpu_smoke_numel": 305281,
+    "independent_source_shape_count": 305281,
+    "buffers": "uncertainty_mean and uncertainty_std are buffers, not trainable parameters",
+    "qualification": "Runtime count and explicit layer shape calculation agree. This audit does not reload pretrained models or checkpoints."
+  },
+  "input_and_objective_audit": {
+    "question": "Separately supplied written Hindi question about factual speech, not a gold transcription of a spoken question",
+    "question_embedding": "Masked mean of frozen Qwen input-token embeddings; word-order information is lost",
+    "audio_features": "Frozen Whisper encoder, predicted-token DTW blocks, not reference-aligned test spans",
+    "training": "Answer-token CE only, no KD/alignment warmup in completed pilot",
+    "gate": "Already implemented sigmoid gate and fixed acoustic prefix insertion; zero-logit gate is 0.5, not a near-zero corrective initialization",
+    "candidate_coverage": "Dependent on emitted tokens; deletion/degenerate-alignment regions may be unrepresented",
+    "budget": "Trained K=4; K=8 unsupported by current constructor. Any new budget experiment requires versioned implementation/protocol and matched training."
+  }
+}

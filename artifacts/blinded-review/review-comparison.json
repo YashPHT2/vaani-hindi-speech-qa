@@ -1,0 +1,56 @@
+{
+  "primary_cases": 286,
+  "secondary_cases": 20,
+  "correct_disagreements": 2,
+  "hallucination_disagreements": 1,
+  "both_labels_agree": 18,
+  "reviewers": "Two native model reviewers, no human ratings",
+  "adjudicator": "Research director after both label files were frozen",
+  "resolutions": [
+    {
+      "case": "01abd2f5abfb9b80",
+      "primary": {
+        "case": "01abd2f5abfb9b80",
+        "correct": true,
+        "hallucinated": false,
+        "reason": "Thin soles is an explicit supported description of the kind of boots worn."
+      },
+      "secondary": {
+        "case": "01abd2f5abfb9b80",
+        "correct": false,
+        "hallucinated": false,
+        "reason": "Thin soles are supported but the fragment omits the requested riding-boot type; partial attribute only."
+      },
+      "final": {
+        "case": "01abd2f5abfb9b80",
+        "correct": true,
+        "hallucinated": false,
+        "reason": "Thin soles is an explicit supported description of the kind of boots worn."
+      },
+      "adjudication": "Accept primary. The question asks what kind of boots, and thin-soled is an explicit supported descriptor. Requiring the canonical category name would over-penalize this answer."
+    },
+    {
+      "case": "02fb727835664436",
+      "primary": {
+        "case": "02fb727835664436",
+        "correct": true,
+        "hallucinated": false,
+        "reason": "The answer identifies mosquitoes as the transmission route; the malformed prefix adds no clear factual claim."
+      },
+      "secondary": {
+        "case": "02fb727835664436",
+        "correct": false,
+        "hallucinated": true,
+        "reason": "Mentions mosquitoes but adds an unsupported location in hair; fails the strict whole-answer criterion."
+      },
+      "final": {
+        "case": "02fb727835664436",
+        "correct": false,
+        "hallucinated": true,
+        "reason": "Mentions mosquitoes but adds an unsupported location in hair; fails the strict whole-answer criterion."
+      },
+      "adjudication": "Accept the stricter secondary judgment. The literal output adds in-hair wording to the transmission answer. The rubric requires the whole answer to remain supported. Whether this malformed phrase is a factual assertion is ambiguous; retain both original judgments for sensitivity analysis."
+    }
+  ],
+  "adjudicated_sha256": "655c9ec7d17585babed76b1b11bb93db1fcc925d234af3b14ae121cc52f011e2"
+}

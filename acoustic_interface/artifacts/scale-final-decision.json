@@ -1,0 +1,51 @@
+{
+  "decision": "stop scale branch",
+  "preflight_gate_passed": true,
+  "logprob_sensitive_sources": 4,
+  "generation_variable_preflight_sources": 3,
+  "preflight_sources": 4,
+  "fitted_alpha": 0.9816494584083557,
+  "updates": 32,
+  "utility_gate_passed": false,
+  "primary_sources": 11,
+  "primary_views": 22,
+  "actual_answer_changes": 0,
+  "donor_answer_changes": 0,
+  "actual_specific_positive_sources": 0,
+  "reconciled_counts": {
+    "text": 6,
+    "actual_one": 5,
+    "actual_fitted": 5,
+    "donor_one": 5,
+    "donor_fitted": 5
+  },
+  "strict_counts": {
+    "text": 4,
+    "actual_one": 3,
+    "actual_fitted": 3,
+    "donor_one": 4,
+    "donor_fitted": 4
+  },
+  "calibration_nll": {
+    "one": 1.1820227715943474,
+    "fitted": 1.1796287040924653
+  },
+  "primary_nll": {
+    "text": 1.7242764661257917,
+    "real_one": 1.4544991204007105,
+    "real_fitted": 1.4585812743753195,
+    "wrong_one": 1.50086710348048,
+    "wrong_fitted": 1.505616338754242
+  },
+  "baseline_guards": 48,
+  "alignment_cause_established": false,
+  "future_hypothesis": "speech-text representation alignment with separately reviewed matched CE-only control",
+  "additional_execution_authorized": false,
+  "fresh_test_go": false,
+  "raw_result_sha256": "a6573c9b5395325639f00a5c40a763aef186da8a4c897e426b4ee13749ed4872",
+  "analysis_sha256": "010a0ecbb7445469533099c79449a676875f973c9f0070e143d84445eb7f09ef",
+  "protocol_sha256": "157065b41e4993d542dd4f82ef226ec263f04fc8a17f0763585e673adc748e29",
+  "decision_sha256": "5a0568a892809266c85df45928069f5347bcba772711de57e66757ad4279d1a5",
+  "independent_postrun_review_sha256": "61326100ea05799262a4c4f32afa18ecf445b03195e0ce2579aca4cbd888f332",
+  "independent_postrun_status": "passed; Adam replay max alpha deviation1.09e-7; output invariance confirmed"
+}

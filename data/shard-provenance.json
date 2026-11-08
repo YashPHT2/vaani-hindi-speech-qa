@@ -1,0 +1,9 @@
+{
+  "dataset": "google/fleurs",
+  "config": "hi_in",
+  "split": "test",
+  "url": "https://huggingface.co/datasets/google/fleurs/resolve/refs%2Fconvert%2Fparquet/hi_in/test/0000.parquet",
+  "bytes": 305903369,
+  "sha256": "8a0be26c5584c1478233a6f47fb90275c713f72565327ea1da76c9f1cd5dd38b",
+  "license": "CC-BY-4.0"
+}

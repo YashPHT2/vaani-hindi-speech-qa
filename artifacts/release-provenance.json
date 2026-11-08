@@ -1,0 +1,80 @@
+{
+  "note": "Sanitized scientific run provenance; controller, credentials, transport/server identifiers and local environment paths omitted. Original source snapshots and result bytes retained.",
+  "runs": [
+    {
+      "run": "vaani-v2-dev-20261103",
+      "python": "3.13.14 | packaged by conda-forge | (main, Jun 12 2026, 09:50:25) [GCC 14.3.0]",
+      "started_unix": 1793702071.64052,
+      "code_sha256": {
+        "run.py": "46e8951b9c9538b82358a64c5cc838da3cea8b6b6f75a30bd5af9af3c7940276",
+        "score.py": "e0734875a834647dd462fe05ba032c42362338aa8bd7b909c2471571bb8b01da",
+        "gpu_batch.py": "95f74153289b934ccb21c9ebb1014227204d6d80cc54a70ffb17f36f8fba9c8c",
+        "gpu_supervisor.py": "ede7a96a165b56fc1ba79c8e71ae9dbb278f138e1d2fab8712bfa33c46ac14e2"
+      },
+      "manifest_sha256": "4872a984b9e19d317930263a2f1c1ce2c5c4d3c416e3284cfce99e0ec4d8db52",
+      "exit": {
+        "exit": 0,
+        "elapsed_s": 1024.9563093185425
+      }
+    },
+    {
+      "run": "vaani-v2-test-auto-20261103",
+      "python": "3.13.14 | packaged by conda-forge | (main, Jun 12 2026, 09:50:25) [GCC 14.3.0]",
+      "started_unix": 1793703365.3262017,
+      "code_sha256": {
+        "run.py": "46e8951b9c9538b82358a64c5cc838da3cea8b6b6f75a30bd5af9af3c7940276",
+        "score.py": "e0734875a834647dd462fe05ba032c42362338aa8bd7b909c2471571bb8b01da",
+        "gpu_batch.py": "6da50ffd1771322db5ec3f82a317970f4e1176068e2f593673b05bb6d904e29b",
+        "gpu_supervisor.py": "ede7a96a165b56fc1ba79c8e71ae9dbb278f138e1d2fab8712bfa33c46ac14e2"
+      },
+      "manifest_sha256": "4872a984b9e19d317930263a2f1c1ce2c5c4d3c416e3284cfce99e0ec4d8db52",
+      "exit": {
+        "exit": 0,
+        "elapsed_s": 587.3593099117279
+      }
+    },
+    {
+      "run": "vaani-v2-test-hint-20261103",
+      "python": "3.13.14 | packaged by conda-forge | (main, Jun 12 2026, 09:50:25) [GCC 14.3.0]",
+      "started_unix": 1793704086.9762032,
+      "code_sha256": {
+        "run.py": "46e8951b9c9538b82358a64c5cc838da3cea8b6b6f75a30bd5af9af3c7940276",
+        "score.py": "e0734875a834647dd462fe05ba032c42362338aa8bd7b909c2471571bb8b01da",
+        "gpu_batch.py": "a6d70b5ec681aedce1da337ad2b5e7b881f282aaac3faa714628f156d70eccd5",
+        "gpu_supervisor.py": "ede7a96a165b56fc1ba79c8e71ae9dbb278f138e1d2fab8712bfa33c46ac14e2"
+      },
+      "manifest_sha256": "4872a984b9e19d317930263a2f1c1ce2c5c4d3c416e3284cfce99e0ec4d8db52",
+      "exit": {
+        "exit": 0,
+        "elapsed_s": 599.5455996990204
+      }
+    },
+    {
+      "run": "vaani-v2-test-oracle-20261103",
+      "python": "3.13.14 | packaged by conda-forge | (main, Jun 12 2026, 09:50:25) [GCC 14.3.0]",
+      "started_unix": 1793712741.755544,
+      "code_sha256": {
+        "run.py": "46e8951b9c9538b82358a64c5cc838da3cea8b6b6f75a30bd5af9af3c7940276",
+        "score.py": "e0734875a834647dd462fe05ba032c42362338aa8bd7b909c2471571bb8b01da",
+        "gpu_batch.py": "50f167ab0995766983a1d05cb7d11531bed4070278ffe24324880d8071af37b7",
+        "gpu_supervisor.py": "ede7a96a165b56fc1ba79c8e71ae9dbb278f138e1d2fab8712bfa33c46ac14e2"
+      },
+      "manifest_sha256": "4872a984b9e19d317930263a2f1c1ce2c5c4d3c416e3284cfce99e0ec4d8db52",
+      "exit": {
+        "exit": 0,
+        "elapsed_s": 194.09464263916016
+      }
+    }
+  ],
+  "earlier_failures": [
+    {
+      "stage": "borrowed-session preflight",
+      "outcome": "Declined session with notebook/compute activity; no work was launched there."
+    },
+    {
+      "stage": "dependency preflight",
+      "outcome": "Failed before inference after incompatible NumPy 1.26.4 shadowed the Python 3.13 image stack; import of GenerationMixin failed. Corrected batch reused the image NumPy/SciPy/Torch and installed only isolated no-dependency transformer pins."
+    }
+  ],
+  "transport_recovery": "Hindi-hint completed job recovered after connection reset, preserving original 200 outputs; no duplicate test inference."
+}

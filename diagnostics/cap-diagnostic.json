@@ -1,0 +1,54 @@
+{
+  "views": 200,
+  "sources": 100,
+  "derived_capped_views": 30,
+  "frozen_flag_true": 0,
+  "derived_by_condition": {
+    "clean": 12,
+    "noise_10db": 18
+  },
+  "capped_distinct_sources": 23,
+  "capped_both_conditions": 7,
+  "wer_capped": 1.261610898987965,
+  "wer_uncapped": 0.6218630893148237,
+  "median_audio_s_capped": 14.1,
+  "median_audio_s_uncapped": 10.2,
+  "correct_rate_capped": 0.23333333333333334,
+  "correct_rate_uncapped": 0.3176470588235294,
+  "hallucination_rate_capped": 0.0,
+  "hallucination_rate_uncapped": 0.03529411764705882,
+  "abstention_rate_capped": 0.9333333333333333,
+  "abstention_rate_uncapped": 0.5529411764705883,
+  "capped_hyp_over_ref_chars_median": 1.1204819277108433,
+  "capped_hyp_shorter_than_ref": 10,
+  "capped_views_with_eos": 0,
+  "per_condition": {
+    "clean": {
+      "capped_n": 12,
+      "capped_wer": 1.4229506315298843,
+      "uncapped_wer": 0.5532473780170455,
+      "capped_correct": 0.16666666666666666,
+      "uncapped_correct": 0.3977272727272727,
+      "capped_median_ref_words": 29,
+      "uncapped_median_ref_words": 22
+    },
+    "noise_10db": {
+      "capped_n": 18,
+      "capped_wer": 1.1540510772933523,
+      "uncapped_wer": 0.6954994624148783,
+      "capped_correct": 0.2777777777777778,
+      "uncapped_correct": 0.23170731707317074,
+      "capped_median_ref_words": 33,
+      "uncapped_median_ref_words": 22
+    }
+  },
+  "wer_delta_capped_minus_uncapped": {
+    "estimate": 0.6397478096731414,
+    "lower": 0.37190623000030176,
+    "upper": 1.0260066038984426,
+    "replicates": 2000
+  },
+  "capped_answerable": 23,
+  "capped_unanswerable": 7,
+  "flag_defect_confirmed": true
+}

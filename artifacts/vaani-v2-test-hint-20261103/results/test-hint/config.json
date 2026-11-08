@@ -1,0 +1,30 @@
+{
+  "asr": [
+    "openai/whisper-small",
+    "973afd24965f72e36ca33b3055d56a652f456b4d"
+  ],
+  "llm": [
+    "Qwen/Qwen2.5-1.5B-Instruct",
+    "989aa7980e4cf806f80c7fef2b1adb7bc71aa306"
+  ],
+  "mode": "hint",
+  "split": "test",
+  "device": "cuda",
+  "dtype": "torch.float16",
+  "seed": 17,
+  "system_prompt": "Answer the user's spoken question briefly in the same language. If a passage is supplied, answer only from that passage. If the supplied information is insufficient, say UNKNOWN. Give only the answer.",
+  "llm_token_cap": 64,
+  "manifest_sha256": "4872a984b9e19d317930263a2f1c1ce2c5c4d3c416e3284cfce99e0ec4d8db52",
+  "runner_sha256": "46e8951b9c9538b82358a64c5cc838da3cea8b6b6f75a30bd5af9af3c7940276",
+  "python": "3.13.14",
+  "packages": {
+    "torch": "2.11.0+cu128",
+    "transformers": "4.57.2",
+    "numpy": "2.4.6"
+  },
+  "device_name": "NVIDIA H200 MIG 1g.18gb",
+  "cuda": "12.8",
+  "load_seconds": 4.882737888023257,
+  "peak_gpu_allocated_bytes": 3719866880,
+  "completed_rows": 200
+}

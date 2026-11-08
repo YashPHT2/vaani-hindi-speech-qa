@@ -1,0 +1,87 @@
+{
+  "result_sha256": "4642033c56524c0fd2d9dda462f285ade2446f5e31c051c2d604c2e8f32bd58d",
+  "views": 24,
+  "sources": 12,
+  "old_cap_hit_ids": [
+    "fleurs-hi-1806-clean",
+    "fleurs-hi-1806-noise_10db",
+    "fleurs-hi-1911-clean",
+    "fleurs-hi-1911-noise_10db",
+    "fleurs-hi-1737-clean",
+    "fleurs-hi-1737-noise_10db"
+  ],
+  "old_cap_hit_sources": [
+    "fleurs-hi-1737",
+    "fleurs-hi-1806",
+    "fleurs-hi-1911"
+  ],
+  "new_cap_hit_ids": [
+    "fleurs-hi-1806-clean",
+    "fleurs-hi-1806-noise_10db"
+  ],
+  "changed_responses": [
+    "fleurs-hi-1806-clean",
+    "fleurs-hi-1806-noise_10db",
+    "fleurs-hi-1911-clean",
+    "fleurs-hi-1911-noise_10db"
+  ],
+  "new_distinct_review_cases": 2,
+  "all_first48_prefixes_match": true,
+  "normalized_em": {
+    "old_correct": 8,
+    "new_correct": 8,
+    "views": 24,
+    "rescued": [],
+    "regressed": [],
+    "rescued_sources": [],
+    "net_accuracy_delta_pp": 0.0,
+    "source_clustered_bootstrap_95ci_delta_pp": [
+      0.0,
+      0.0
+    ],
+    "bootstrap": {
+      "seed": 17,
+      "replicates": 10000,
+      "unit": "12 source recordings, paired views retained"
+    }
+  },
+  "limitations": [
+    "Historical dev only, no fresh test",
+    "Only C128 run; other arms remain C48-matched, not C128-matched",
+    "Any semantic labels are model judgments, not human/audio validation",
+    "Intervals with12sources are exploratory; two acoustic views are not independent"
+  ],
+  "semantic": {
+    "old_correct": 14,
+    "new_correct": 14,
+    "views": 24,
+    "rescued": [],
+    "regressed": [],
+    "rescued_sources": [],
+    "net_accuracy_delta_pp": 0.0,
+    "source_clustered_bootstrap_95ci_delta_pp": [
+      0.0,
+      0.0
+    ],
+    "bootstrap": {
+      "seed": 17,
+      "replicates": 10000,
+      "unit": "12 source recordings, paired views retained"
+    },
+    "old_hallucinated": 4,
+    "new_hallucinated": 4,
+    "rescued_previously_capped_sources": [],
+    "prospective_material_truncation_gate_pass": false,
+    "answerable": {
+      "48": {
+        "correct": 10,
+        "views": 20
+      },
+      "128": {
+        "correct": 10,
+        "views": 20
+      }
+    },
+    "labels_sha256": "0ee8ce97212508ac94682c8dc72bc0f9c6dee6509e74f05595116dcca7ffc85c"
+  }
+}

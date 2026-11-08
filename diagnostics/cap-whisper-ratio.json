@@ -1,0 +1,1222 @@
+{
+  "definition": "len(utf8 bytes) / len(zlib.compress(bytes)), OpenAI whisper convention",
+  "whisper_default_threshold": 2.4,
+  "capped_ratio_mean": 7.727506889811438,
+  "capped_ratio_median": 5.896103896103896,
+  "capped_ratio_min": 2.2333333333333334,
+  "capped_ratio_max": 20.03846153846154,
+  "uncapped_ratio_mean": 1.853782599939579,
+  "uncapped_ratio_median": 1.8300653594771241,
+  "uncapped_ratio_max": 2.661290322580645,
+  "capped_above_threshold": 29,
+  "uncapped_above_threshold": 2,
+  "separation": {
+    "threshold": 2.4,
+    "capped_detected": 29,
+    "capped_total": 30,
+    "uncapped_flagged_false_positive": 2,
+    "uncapped_total": 170
+  },
+  "cases": [
+    {
+      "id": "fresh-hi-1791-clean",
+      "capped": true,
+      "ratio": 20.038,
+      "chars": 223
+    },
+    {
+      "id": "fresh-hi-1932-noise_10db",
+      "capped": true,
+      "ratio": 18.583,
+      "chars": 178
+    },
+    {
+      "id": "fresh-hi-1785-clean",
+      "capped": true,
+      "ratio": 17.926,
+      "chars": 186
+    },
+    {
+      "id": "fresh-hi-1785-noise_10db",
+      "capped": true,
+      "ratio": 17.926,
+      "chars": 186
+    },
+    {
+      "id": "fresh-hi-1928-clean",
+      "capped": true,
+      "ratio": 16.484,
+      "chars": 191
+    },
+    {
+      "id": "fresh-hi-1899-noise_10db",
+      "capped": true,
+      "ratio": 13.906,
+      "chars": 177
+    },
+    {
+      "id": "fresh-hi-1732-noise_10db",
+      "capped": true,
+      "ratio": 13.0,
+      "chars": 222
+    },
+    {
+      "id": "fresh-hi-1845-noise_10db",
+      "capped": true,
+      "ratio": 12.838,
+      "chars": 195
+    },
+    {
+      "id": "fresh-hi-1673-noise_10db",
+      "capped": true,
+      "ratio": 11.923,
+      "chars": 167
+    },
+    {
+      "id": "fresh-hi-1983-noise_10db",
+      "capped": true,
+      "ratio": 7.982,
+      "chars": 153
+    },
+    {
+      "id": "fresh-hi-1820-clean",
+      "capped": true,
+      "ratio": 7.911,
+      "chars": 167
+    },
+    {
+      "id": "fresh-hi-1901-noise_10db",
+      "capped": true,
+      "ratio": 7.745,
+      "chars": 158
+    },
+    {
+      "id": "fresh-hi-1674-noise_10db",
+      "capped": true,
+      "ratio": 6.824,
+      "chars": 158
+    },
+    {
+      "id": "fresh-hi-1827-noise_10db",
+      "capped": true,
+      "ratio": 6.565,
+      "chars": 153
+    },
+    {
+      "id": "fresh-hi-1928-noise_10db",
+      "capped": true,
+      "ratio": 5.896,
+      "chars": 154
+    },
+    {
+      "id": "fresh-hi-1758-clean",
+      "capped": true,
+      "ratio": 4.865,
+      "chars": 161
+    },
+    {
+      "id": "fresh-hi-1954-noise_10db",
+      "capped": true,
+      "ratio": 4.087,
+      "chars": 136
+    },
+    {
+      "id": "fresh-hi-1984-noise_10db",
+      "capped": true,
+      "ratio": 3.519,
+      "chars": 166
+    },
+    {
+      "id": "fresh-hi-1896-noise_10db",
+      "capped": true,
+      "ratio": 3.401,
+      "chars": 176
+    },
+    {
+      "id": "fresh-hi-1939-clean",
+      "capped": true,
+      "ratio": 3.283,
+      "chars": 175
+    },
+    {
+      "id": "fresh-hi-1954-clean",
+      "capped": true,
+      "ratio": 3.08,
+      "chars": 154
+    },
+    {
+      "id": "fresh-hi-1918-noise_10db",
+      "capped": true,
+      "ratio": 3.079,
+      "chars": 171
+    },
+    {
+      "id": "fresh-hi-1939-noise_10db",
+      "capped": true,
+      "ratio": 2.993,
+      "chars": 165
+    },
+    {
+      "id": "fresh-hi-1774-clean",
+      "capped": true,
+      "ratio": 2.764,
+      "chars": 161
+    },
+    {
+      "id": "fresh-hi-1842-noise_10db",
+      "capped": true,
+      "ratio": 2.67,
+      "chars": 180
+    },
+    {
+      "id": "fresh-hi-1983-clean",
+      "capped": false,
+      "ratio": 2.661,
+      "chars": 191
+    },
+    {
+      "id": "fresh-hi-1798-clean",
+      "capped": true,
+      "ratio": 2.628,
+      "chars": 198
+    },
+    {
+      "id": "fresh-hi-1842-clean",
+      "capped": true,
+      "ratio": 2.602,
+      "chars": 219
+    },
+    {
+      "id": "fresh-hi-1784-noise_10db",
+      "capped": true,
+      "ratio": 2.575,
+      "chars": 185
+    },
+    {
+      "id": "fresh-hi-1896-clean",
+      "capped": true,
+      "ratio": 2.498,
+      "chars": 204
+    },
+    {
+      "id": "fresh-hi-1996-clean",
+      "capped": false,
+      "ratio": 2.405,
+      "chars": 158
+    },
+    {
+      "id": "fresh-hi-1667-clean",
+      "capped": false,
+      "ratio": 2.388,
+      "chars": 199
+    },
+    {
+      "id": "fresh-hi-1667-noise_10db",
+      "capped": false,
+      "ratio": 2.355,
+      "chars": 204
+    },
+    {
+      "id": "fresh-hi-1996-noise_10db",
+      "capped": false,
+      "ratio": 2.347,
+      "chars": 151
+    },
+    {
+      "id": "fresh-hi-1843-noise_10db",
+      "capped": false,
+      "ratio": 2.313,
+      "chars": 122
+    },
+    {
+      "id": "fresh-hi-1784-clean",
+      "capped": false,
+      "ratio": 2.297,
+      "chars": 198
+    },
+    {
+      "id": "fresh-hi-2008-noise_10db",
+      "capped": false,
+      "ratio": 2.288,
+      "chars": 199
+    },
+    {
+      "id": "fresh-hi-2008-clean",
+      "capped": false,
+      "ratio": 2.281,
+      "chars": 203
+    },
+    {
+      "id": "fresh-hi-1706-clean",
+      "capped": false,
+      "ratio": 2.267,
+      "chars": 181
+    },
+    {
+      "id": "fresh-hi-1932-clean",
+      "capped": true,
+      "ratio": 2.233,
+      "chars": 208
+    },
+    {
+      "id": "fresh-hi-1706-noise_10db",
+      "capped": false,
+      "ratio": 2.231,
+      "chars": 183
+    },
+    {
+      "id": "fresh-hi-1869-noise_10db",
+      "capped": false,
+      "ratio": 2.195,
+      "chars": 187
+    },
+    {
+      "id": "fresh-hi-1938-clean",
+      "capped": false,
+      "ratio": 2.192,
+      "chars": 150
+    },
+    {
+      "id": "fresh-hi-1872-noise_10db",
+      "capped": false,
+      "ratio": 2.192,
+      "chars": 157
+    },
+    {
+      "id": "fresh-hi-1774-noise_10db",
+      "capped": false,
+      "ratio": 2.191,
+      "chars": 189
+    },
+    {
+      "id": "fresh-hi-1869-clean",
+      "capped": false,
+      "ratio": 2.189,
+      "chars": 190
+    },
+    {
+      "id": "fresh-hi-1683-clean",
+      "capped": false,
+      "ratio": 2.184,
+      "chars": 171
+    },
+    {
+      "id": "fresh-hi-1798-noise_10db",
+      "capped": false,
+      "ratio": 2.172,
+      "chars": 154
+    },
+    {
+      "id": "fresh-hi-1951-noise_10db",
+      "capped": false,
+      "ratio": 2.168,
+      "chars": 149
+    },
+    {
+      "id": "fresh-hi-1714-clean",
+      "capped": false,
+      "ratio": 2.153,
+      "chars": 167
+    },
+    {
+      "id": "fresh-hi-1901-clean",
+      "capped": false,
+      "ratio": 2.152,
+      "chars": 186
+    },
+    {
+      "id": "fresh-hi-1732-clean",
+      "capped": false,
+      "ratio": 2.143,
+      "chars": 162
+    },
+    {
+      "id": "fresh-hi-1841-clean",
+      "capped": false,
+      "ratio": 2.119,
+      "chars": 170
+    },
+    {
+      "id": "fresh-hi-2000-clean",
+      "capped": false,
+      "ratio": 2.103,
+      "chars": 165
+    },
+    {
+      "id": "fresh-hi-1709-noise_10db",
+      "capped": false,
+      "ratio": 2.1,
+      "chars": 153
+    },
+    {
+      "id": "fresh-hi-1872-clean",
+      "capped": false,
+      "ratio": 2.098,
+      "chars": 153
+    },
+    {
+      "id": "fresh-hi-1984-clean",
+      "capped": false,
+      "ratio": 2.093,
+      "chars": 165
+    },
+    {
+      "id": "fresh-hi-1714-noise_10db",
+      "capped": false,
+      "ratio": 2.086,
+      "chars": 155
+    },
+    {
+      "id": "fresh-hi-2000-noise_10db",
+      "capped": false,
+      "ratio": 2.083,
+      "chars": 167
+    },
+    {
+      "id": "fresh-hi-1673-clean",
+      "capped": false,
+      "ratio": 2.076,
+      "chars": 157
+    },
+    {
+      "id": "fresh-hi-1832-clean",
+      "capped": false,
+      "ratio": 2.071,
+      "chars": 142
+    },
+    {
+      "id": "fresh-hi-1841-noise_10db",
+      "capped": false,
+      "ratio": 2.064,
+      "chars": 165
+    },
+    {
+      "id": "fresh-hi-1837-clean",
+      "capped": false,
+      "ratio": 2.064,
+      "chars": 111
+    },
+    {
+      "id": "fresh-hi-1938-noise_10db",
+      "capped": false,
+      "ratio": 2.057,
+      "chars": 138
+    },
+    {
+      "id": "fresh-hi-1951-clean",
+      "capped": false,
+      "ratio": 2.056,
+      "chars": 146
+    },
+    {
+      "id": "fresh-hi-1694-clean",
+      "capped": false,
+      "ratio": 2.054,
+      "chars": 133
+    },
+    {
+      "id": "fresh-hi-1940-noise_10db",
+      "capped": false,
+      "ratio": 2.052,
+      "chars": 150
+    },
+    {
+      "id": "fresh-hi-1925-clean",
+      "capped": false,
+      "ratio": 2.05,
+      "chars": 124
+    },
+    {
+      "id": "fresh-hi-1810-noise_10db",
+      "capped": false,
+      "ratio": 2.049,
+      "chars": 158
+    },
+    {
+      "id": "fresh-hi-1668-noise_10db",
+      "capped": false,
+      "ratio": 2.047,
+      "chars": 134
+    },
+    {
+      "id": "fresh-hi-1918-clean",
+      "capped": false,
+      "ratio": 2.045,
+      "chars": 121
+    },
+    {
+      "id": "fresh-hi-1668-clean",
+      "capped": false,
+      "ratio": 2.043,
+      "chars": 127
+    },
+    {
+      "id": "fresh-hi-1940-clean",
+      "capped": false,
+      "ratio": 2.043,
+      "chars": 146
+    },
+    {
+      "id": "fresh-hi-1717-clean",
+      "capped": false,
+      "ratio": 2.042,
+      "chars": 131
+    },
+    {
+      "id": "fresh-hi-1832-noise_10db",
+      "capped": false,
+      "ratio": 2.035,
+      "chars": 138
+    },
+    {
+      "id": "fresh-hi-1709-clean",
+      "capped": false,
+      "ratio": 2.027,
+      "chars": 145
+    },
+    {
+      "id": "fresh-hi-1843-clean",
+      "capped": false,
+      "ratio": 2.023,
+      "chars": 134
+    },
+    {
+      "id": "fresh-hi-1758-noise_10db",
+      "capped": false,
+      "ratio": 2.017,
+      "chars": 137
+    },
+    {
+      "id": "fresh-hi-1810-clean",
+      "capped": false,
+      "ratio": 2.015,
+      "chars": 157
+    },
+    {
+      "id": "fresh-hi-1694-noise_10db",
+      "capped": false,
+      "ratio": 2.012,
+      "chars": 132
+    },
+    {
+      "id": "fresh-hi-1837-noise_10db",
+      "capped": false,
+      "ratio": 2.007,
+      "chars": 111
+    },
+    {
+      "id": "fresh-hi-1717-noise_10db",
+      "capped": false,
+      "ratio": 1.987,
+      "chars": 120
+    },
+    {
+      "id": "fresh-hi-1683-noise_10db",
+      "capped": false,
+      "ratio": 1.987,
+      "chars": 175
+    },
+    {
+      "id": "fresh-hi-1685-clean",
+      "capped": false,
+      "ratio": 1.978,
+      "chars": 138
+    },
+    {
+      "id": "fresh-hi-1665-clean",
+      "capped": false,
+      "ratio": 1.978,
+      "chars": 134
+    },
+    {
+      "id": "fresh-hi-1685-noise_10db",
+      "capped": false,
+      "ratio": 1.973,
+      "chars": 139
+    },
+    {
+      "id": "fresh-hi-1665-noise_10db",
+      "capped": false,
+      "ratio": 1.972,
+      "chars": 131
+    },
+    {
+      "id": "fresh-hi-1827-clean",
+      "capped": false,
+      "ratio": 1.969,
+      "chars": 96
+    },
+    {
+      "id": "fresh-hi-1909-clean",
+      "capped": false,
+      "ratio": 1.951,
+      "chars": 122
+    },
+    {
+      "id": "fresh-hi-1833-noise_10db",
+      "capped": false,
+      "ratio": 1.95,
+      "chars": 118
+    },
+    {
+      "id": "fresh-hi-1780-noise_10db",
+      "capped": false,
+      "ratio": 1.933,
+      "chars": 121
+    },
+    {
+      "id": "fresh-hi-1766-noise_10db",
+      "capped": false,
+      "ratio": 1.928,
+      "chars": 113
+    },
+    {
+      "id": "fresh-hi-1909-noise_10db",
+      "capped": false,
+      "ratio": 1.919,
+      "chars": 119
+    },
+    {
+      "id": "fresh-hi-1766-clean",
+      "capped": false,
+      "ratio": 1.916,
+      "chars": 115
+    },
+    {
+      "id": "fresh-hi-1992-noise_10db",
+      "capped": false,
+      "ratio": 1.912,
+      "chars": 116
+    },
+    {
+      "id": "fresh-hi-1780-clean",
+      "capped": false,
+      "ratio": 1.902,
+      "chars": 120
+    },
+    {
+      "id": "fresh-hi-1771-noise_10db",
+      "capped": false,
+      "ratio": 1.892,
+      "chars": 122
+    },
+    {
+      "id": "fresh-hi-1763-noise_10db",
+      "capped": false,
+      "ratio": 1.885,
+      "chars": 112
+    },
+    {
+      "id": "fresh-hi-1992-clean",
+      "capped": false,
+      "ratio": 1.883,
+      "chars": 119
+    },
+    {
+      "id": "fresh-hi-1881-clean",
+      "capped": false,
+      "ratio": 1.882,
+      "chars": 110
+    },
+    {
+      "id": "fresh-hi-1765-noise_10db",
+      "capped": false,
+      "ratio": 1.881,
+      "chars": 115
+    },
+    {
+      "id": "fresh-hi-1763-clean",
+      "capped": false,
+      "ratio": 1.879,
+      "chars": 115
+    },
+    {
+      "id": "fresh-hi-2004-clean",
+      "capped": false,
+      "ratio": 1.874,
+      "chars": 111
+    },
+    {
+      "id": "fresh-hi-1771-clean",
+      "capped": false,
+      "ratio": 1.868,
+      "chars": 122
+    },
+    {
+      "id": "fresh-hi-1845-clean",
+      "capped": false,
+      "ratio": 1.865,
+      "chars": 106
+    },
+    {
+      "id": "fresh-hi-1742-clean",
+      "capped": false,
+      "ratio": 1.853,
+      "chars": 113
+    },
+    {
+      "id": "fresh-hi-1745-clean",
+      "capped": false,
+      "ratio": 1.851,
+      "chars": 104
+    },
+    {
+      "id": "fresh-hi-1760-noise_10db",
+      "capped": false,
+      "ratio": 1.844,
+      "chars": 97
+    },
+    {
+      "id": "fresh-hi-1779-clean",
+      "capped": false,
+      "ratio": 1.841,
+      "chars": 95
+    },
+    {
+      "id": "fresh-hi-1833-clean",
+      "capped": false,
+      "ratio": 1.839,
+      "chars": 111
+    },
+    {
+      "id": "fresh-hi-1919-noise_10db",
+      "capped": false,
+      "ratio": 1.838,
+      "chars": 109
+    },
+    {
+      "id": "fresh-hi-1765-clean",
+      "capped": false,
+      "ratio": 1.834,
+      "chars": 109
+    },
+    {
+      "id": "fresh-hi-1966-noise_10db",
+      "capped": false,
+      "ratio": 1.834,
+      "chars": 105
+    },
+    {
+      "id": "fresh-hi-1886-noise_10db",
+      "capped": false,
+      "ratio": 1.833,
+      "chars": 110
+    },
+    {
+      "id": "fresh-hi-1919-clean",
+      "capped": false,
+      "ratio": 1.83,
+      "chars": 108
+    },
+    {
+      "id": "fresh-hi-1925-noise_10db",
+      "capped": false,
+      "ratio": 1.829,
+      "chars": 122
+    },
+    {
+      "id": "fresh-hi-1881-noise_10db",
+      "capped": false,
+      "ratio": 1.824,
+      "chars": 94
+    },
+    {
+      "id": "fresh-hi-1875-noise_10db",
+      "capped": false,
+      "ratio": 1.817,
+      "chars": 83
+    },
+    {
+      "id": "fresh-hi-1947-clean",
+      "capped": false,
+      "ratio": 1.816,
+      "chars": 107
+    },
+    {
+      "id": "fresh-hi-2004-noise_10db",
+      "capped": false,
+      "ratio": 1.813,
+      "chars": 106
+    },
+    {
+      "id": "fresh-hi-1742-noise_10db",
+      "capped": false,
+      "ratio": 1.812,
+      "chars": 104
+    },
+    {
+      "id": "fresh-hi-1739-clean",
+      "capped": false,
+      "ratio": 1.811,
+      "chars": 101
+    },
+    {
+      "id": "fresh-hi-1661-clean",
+      "capped": false,
+      "ratio": 1.808,
+      "chars": 105
+    },
+    {
+      "id": "fresh-hi-1792-clean",
+      "capped": false,
+      "ratio": 1.806,
+      "chars": 88
+    },
+    {
+      "id": "fresh-hi-1945-noise_10db",
+      "capped": false,
+      "ratio": 1.806,
+      "chars": 86
+    },
+    {
+      "id": "fresh-hi-1739-noise_10db",
+      "capped": false,
+      "ratio": 1.804,
+      "chars": 100
+    },
+    {
+      "id": "fresh-hi-1899-clean",
+      "capped": false,
+      "ratio": 1.789,
+      "chars": 100
+    },
+    {
+      "id": "fresh-hi-1830-noise_10db",
+      "capped": false,
+      "ratio": 1.788,
+      "chars": 86
+    },
+    {
+      "id": "fresh-hi-1947-noise_10db",
+      "capped": false,
+      "ratio": 1.785,
+      "chars": 106
+    },
+    {
+      "id": "fresh-hi-1745-noise_10db",
+      "capped": false,
+      "ratio": 1.785,
+      "chars": 91
+    },
+    {
+      "id": "fresh-hi-1870-clean",
+      "capped": false,
+      "ratio": 1.785,
+      "chars": 71
+    },
+    {
+      "id": "fresh-hi-1914-clean",
+      "capped": false,
+      "ratio": 1.782,
+      "chars": 91
+    },
+    {
+      "id": "fresh-hi-1966-clean",
+      "capped": false,
+      "ratio": 1.781,
+      "chars": 101
+    },
+    {
+      "id": "fresh-hi-1820-noise_10db",
+      "capped": false,
+      "ratio": 1.78,
+      "chars": 87
+    },
+    {
+      "id": "fresh-hi-1907-clean",
+      "capped": false,
+      "ratio": 1.77,
+      "chars": 82
+    },
+    {
+      "id": "fresh-hi-1886-clean",
+      "capped": false,
+      "ratio": 1.769,
+      "chars": 107
+    },
+    {
+      "id": "fresh-hi-1959-clean",
+      "capped": false,
+      "ratio": 1.763,
+      "chars": 92
+    },
+    {
+      "id": "fresh-hi-1959-noise_10db",
+      "capped": false,
+      "ratio": 1.762,
+      "chars": 87
+    },
+    {
+      "id": "fresh-hi-1799-noise_10db",
+      "capped": false,
+      "ratio": 1.758,
+      "chars": 85
+    },
+    {
+      "id": "fresh-hi-1904-clean",
+      "capped": false,
+      "ratio": 1.752,
+      "chars": 86
+    },
+    {
+      "id": "fresh-hi-1816-clean",
+      "capped": false,
+      "ratio": 1.747,
+      "chars": 99
+    },
+    {
+      "id": "fresh-hi-1661-noise_10db",
+      "capped": false,
+      "ratio": 1.745,
+      "chars": 96
+    },
+    {
+      "id": "fresh-hi-1958-clean",
+      "capped": false,
+      "ratio": 1.744,
+      "chars": 86
+    },
+    {
+      "id": "fresh-hi-1779-noise_10db",
+      "capped": false,
+      "ratio": 1.739,
+      "chars": 92
+    },
+    {
+      "id": "fresh-hi-1870-noise_10db",
+      "capped": false,
+      "ratio": 1.734,
+      "chars": 71
+    },
+    {
+      "id": "fresh-hi-1904-noise_10db",
+      "capped": false,
+      "ratio": 1.733,
+      "chars": 87
+    },
+    {
+      "id": "fresh-hi-1816-noise_10db",
+      "capped": false,
+      "ratio": 1.727,
+      "chars": 102
+    },
+    {
+      "id": "fresh-hi-1914-noise_10db",
+      "capped": false,
+      "ratio": 1.727,
+      "chars": 88
+    },
+    {
+      "id": "fresh-hi-1792-noise_10db",
+      "capped": false,
+      "ratio": 1.724,
+      "chars": 87
+    },
+    {
+      "id": "fresh-hi-1674-clean",
+      "capped": false,
+      "ratio": 1.721,
+      "chars": 90
+    },
+    {
+      "id": "fresh-hi-1728-noise_10db",
+      "capped": false,
+      "ratio": 1.714,
+      "chars": 68
+    },
+    {
+      "id": "fresh-hi-1945-clean",
+      "capped": false,
+      "ratio": 1.714,
+      "chars": 78
+    },
+    {
+      "id": "fresh-hi-1988-clean",
+      "capped": false,
+      "ratio": 1.712,
+      "chars": 90
+    },
+    {
+      "id": "fresh-hi-1860-clean",
+      "capped": false,
+      "ratio": 1.712,
+      "chars": 72
+    },
+    {
+      "id": "fresh-hi-1897-noise_10db",
+      "capped": false,
+      "ratio": 1.708,
+      "chars": 73
+    },
+    {
+      "id": "fresh-hi-1760-clean",
+      "capped": false,
+      "ratio": 1.704,
+      "chars": 98
+    },
+    {
+      "id": "fresh-hi-1692-clean",
+      "capped": false,
+      "ratio": 1.703,
+      "chars": 91
+    },
+    {
+      "id": "fresh-hi-1875-clean",
+      "capped": false,
+      "ratio": 1.7,
+      "chars": 92
+    },
+    {
+      "id": "fresh-hi-1701-noise_10db",
+      "capped": false,
+      "ratio": 1.684,
+      "chars": 88
+    },
+    {
+      "id": "fresh-hi-1830-clean",
+      "capped": false,
+      "ratio": 1.677,
+      "chars": 80
+    },
+    {
+      "id": "fresh-hi-2005-noise_10db",
+      "capped": false,
+      "ratio": 1.672,
+      "chars": 78
+    },
+    {
+      "id": "fresh-hi-1692-noise_10db",
+      "capped": false,
+      "ratio": 1.671,
+      "chars": 90
+    },
+    {
+      "id": "fresh-hi-1687-clean",
+      "capped": false,
+      "ratio": 1.669,
+      "chars": 82
+    },
+    {
+      "id": "fresh-hi-1687-noise_10db",
+      "capped": false,
+      "ratio": 1.669,
+      "chars": 82
+    },
+    {
+      "id": "fresh-hi-1808-noise_10db",
+      "capped": false,
+      "ratio": 1.669,
+      "chars": 93
+    },
+    {
+      "id": "fresh-hi-1701-clean",
+      "capped": false,
+      "ratio": 1.662,
+      "chars": 90
+    },
+    {
+      "id": "fresh-hi-1808-clean",
+      "capped": false,
+      "ratio": 1.66,
+      "chars": 92
+    },
+    {
+      "id": "fresh-hi-1897-clean",
+      "capped": false,
+      "ratio": 1.659,
+      "chars": 78
+    },
+    {
+      "id": "fresh-hi-2002-noise_10db",
+      "capped": false,
+      "ratio": 1.656,
+      "chars": 83
+    },
+    {
+      "id": "fresh-hi-1818-clean",
+      "capped": false,
+      "ratio": 1.654,
+      "chars": 86
+    },
+    {
+      "id": "fresh-hi-1746-clean",
+      "capped": false,
+      "ratio": 1.652,
+      "chars": 72
+    },
+    {
+      "id": "fresh-hi-2002-clean",
+      "capped": false,
+      "ratio": 1.647,
+      "chars": 89
+    },
+    {
+      "id": "fresh-hi-1679-clean",
+      "capped": false,
+      "ratio": 1.642,
+      "chars": 69
+    },
+    {
+      "id": "fresh-hi-1907-noise_10db",
+      "capped": false,
+      "ratio": 1.629,
+      "chars": 76
+    },
+    {
+      "id": "fresh-hi-2005-clean",
+      "capped": false,
+      "ratio": 1.624,
+      "chars": 79
+    },
+    {
+      "id": "fresh-hi-1860-noise_10db",
+      "capped": false,
+      "ratio": 1.612,
+      "chars": 71
+    },
+    {
+      "id": "fresh-hi-1958-noise_10db",
+      "capped": false,
+      "ratio": 1.612,
+      "chars": 86
+    },
+    {
+      "id": "fresh-hi-1818-noise_10db",
+      "capped": false,
+      "ratio": 1.606,
+      "chars": 80
+    },
+    {
+      "id": "fresh-hi-1728-clean",
+      "capped": false,
+      "ratio": 1.59,
+      "chars": 61
+    },
+    {
+      "id": "fresh-hi-1746-noise_10db",
+      "capped": false,
+      "ratio": 1.583,
+      "chars": 72
+    },
+    {
+      "id": "fresh-hi-1817-clean",
+      "capped": false,
+      "ratio": 1.581,
+      "chars": 64
+    },
+    {
+      "id": "fresh-hi-1799-clean",
+      "capped": false,
+      "ratio": 1.581,
+      "chars": 87
+    },
+    {
+      "id": "fresh-hi-1885-noise_10db",
+      "capped": false,
+      "ratio": 1.573,
+      "chars": 64
+    },
+    {
+      "id": "fresh-hi-1891-clean",
+      "capped": false,
+      "ratio": 1.571,
+      "chars": 76
+    },
+    {
+      "id": "fresh-hi-1988-noise_10db",
+      "capped": false,
+      "ratio": 1.57,
+      "chars": 94
+    },
+    {
+      "id": "fresh-hi-1974-noise_10db",
+      "capped": false,
+      "ratio": 1.563,
+      "chars": 61
+    },
+    {
+      "id": "fresh-hi-1817-noise_10db",
+      "capped": false,
+      "ratio": 1.519,
+      "chars": 61
+    },
+    {
+      "id": "fresh-hi-1778-clean",
+      "capped": false,
+      "ratio": 1.519,
+      "chars": 62
+    },
+    {
+      "id": "fresh-hi-1679-noise_10db",
+      "capped": false,
+      "ratio": 1.516,
+      "chars": 71
+    },
+    {
+      "id": "fresh-hi-1891-noise_10db",
+      "capped": false,
+      "ratio": 1.512,
+      "chars": 72
+    },
+    {
+      "id": "fresh-hi-1778-noise_10db",
+      "capped": false,
+      "ratio": 1.509,
+      "chars": 63
+    },
+    {
+      "id": "fresh-hi-1974-clean",
+      "capped": false,
+      "ratio": 1.491,
+      "chars": 62
+    },
+    {
+      "id": "fresh-hi-1791-noise_10db",
+      "capped": false,
+      "ratio": 1.49,
+      "chars": 57
+    },
+    {
+      "id": "fresh-hi-1748-clean",
+      "capped": false,
+      "ratio": 1.414,
+      "chars": 54
+    },
+    {
+      "id": "fresh-hi-1802-noise_10db",
+      "capped": false,
+      "ratio": 1.384,
+      "chars": 45
+    },
+    {
+      "id": "fresh-hi-1747-noise_10db",
+      "capped": false,
+      "ratio": 1.369,
+      "chars": 43
+    },
+    {
+      "id": "fresh-hi-1747-clean",
+      "capped": false,
+      "ratio": 1.313,
+      "chars": 41
+    },
+    {
+      "id": "fresh-hi-1802-clean",
+      "capped": false,
+      "ratio": 1.274,
+      "chars": 41
+    },
+    {
+      "id": "fresh-hi-1885-clean",
+      "capped": false,
+      "ratio": 1.245,
+      "chars": 58
+    },
+    {
+      "id": "fresh-hi-1748-noise_10db",
+      "capped": false,
+      "ratio": 1.187,
+      "chars": 35
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "review_status": "static_review_passed",
+  "run_id": "transcript-only-final100-v1",
+  "config_sha256": "ec0f9eac481058fe6564a091b37817a360be45d122946cf2e333f9789dd86928",
+  "source_archive_sha256": "8a2d95f13d31e618128df831e1e8f966679f40d3585ed204b1e2488d031b2fa4",
+  "review_sha256": "252a2ec56a92b3bf469856efeba25d5beb828b00c59bee6446c9310777f47e44",
+  "protocol_sha256": "a152786164f98f90e5caaf8d6e0ca55f22bb86a8f2f7f655327183376b0dbb52",
+  "scientific_decision_sha256": "2f97b50c15714d0528929ff5288fb1be42526f42743304fa6a05ec4298f95ba0",
+  "user_authorization": "Attached user research review approves transition to final evaluation under this separately frozen protocol. Prior round compute authorization and existing stage3 reservation apply.",
+  "user_assessment_sha256": "8f7fbde3e8ab33152f69aa5b9df47317c609df1b876c4b08e7be7b7ea9e51233",
+  "fresh_predictions_at_freeze": 0,
+  "frozen_unix": 1794034655.9824185
+}

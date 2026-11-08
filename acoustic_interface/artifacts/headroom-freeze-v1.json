@@ -1,0 +1,37 @@
+{
+  "diagnostic": "matched historical development answer headroom",
+  "run_id": "matched-headroom-dev24-v1",
+  "scope": "12 historical dev sources,24 views,4arms,96responses; no fresh test",
+  "arms": [
+    "question_only",
+    "recognized_transcript",
+    "publisher_correct_transcript",
+    "recognized_transcript_existing_pilot_adapter"
+  ],
+  "fixed": {
+    "backbone": "Qwen2.5-1.5B pinned989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+    "seed": 17,
+    "max_new_tokens": 48,
+    "sampling": false,
+    "prompt_function": "unchangedconnector.pack_prompt",
+    "training_updates": 0,
+    "memory_K_existing_adapter": 4,
+    "references_for_generation": "correct-transcript diagnosticarm only; answers never in generation prompt"
+  },
+  "primary_readouts": [
+    "semantic B->C rescues/regressions",
+    "ASR-attributable subset E incorrectB/correctC",
+    "D recovery onE plus fullset correctness/regressions",
+    "normalizedEM separatefromsemanticratings"
+  ],
+  "hashes": {
+    "connector.py": "39803bc3e46f4db213a911dae6438a8eb8d908f95c2d2efc36238fedf24e68db",
+    "headroom_worker.py": "b273a30a3d3f6d5e6ba8e8eea1bdd72832605552993719955f2df1b1bc6501bc",
+    "headroom_runner.py": "95186ee19e684db9ea4fca293e7dc1197402813fdb3a7b7da22052e1daf02efe"
+  },
+  "pilot_result_sha256": "e8ac333d7410e05b0753a3e7900794b1a1e43b9cfd0d5349b71e93658bc0644e",
+  "reservation_usd": 1,
+  "worstcase_publicrate_compute_and_allowance_usd": 0.63168344,
+  "user_totalcap_usd": 30,
+  "before_launch_unix": 1793987566.892507
+}

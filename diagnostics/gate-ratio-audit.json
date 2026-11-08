@@ -1,0 +1,213 @@
+{
+  "vocab_size_assumed": 51865,
+  "threshold": 2.4,
+  "reconstruction_max_abs_error_vs_library": 0.026557939914162887,
+  "reconstruction_mean_abs_error_vs_library": 0.006486383567858929,
+  "capped_gate_ratio": [
+    2.0,
+    2.605,
+    2.651,
+    23.579,
+    23.579
+  ],
+  "uncapped_gate_ratio_max": 1.7142857142857142,
+  "capped_above_threshold": 4,
+  "uncapped_above_threshold": 0,
+  "capped_total": 5,
+  "uncapped_total": 19,
+  "text_ratio_capped_max": 24.80952380952381,
+  "records": [
+    {
+      "id": "fleurs-hi-1712-clean",
+      "capped": true,
+      "gate_ratio_arm_a": 2.651,
+      "text_ratio_arm_a": 3.634,
+      "observed_gate_ratio": 2.651,
+      "fallback_tripped": 1
+    },
+    {
+      "id": "fleurs-hi-1730-clean",
+      "capped": false,
+      "gate_ratio_arm_a": 1.434,
+      "text_ratio_arm_a": 2.194,
+      "observed_gate_ratio": 1.419,
+      "fallback_tripped": 0
+    },
+    {
+      "id": "fleurs-hi-1737-clean",
+      "capped": false,
+      "gate_ratio_arm_a": 1.115,
+      "text_ratio_arm_a": 1.585,
+      "observed_gate_ratio": 1.113,
+      "fallback_tripped": 0
+    },
+    {
+      "id": "fleurs-hi-1744-clean",
+      "capped": false,
+      "gate_ratio_arm_a": 1.092,
+      "text_ratio_arm_a": 1.767,
+      "observed_gate_ratio": 1.091,
+      "fallback_tripped": 0
+    },
+    {
+      "id": "fleurs-hi-1761-clean",
+      "capped": false,
+      "gate_ratio_arm_a": 1.298,
+      "text_ratio_arm_a": 1.904,
+      "observed_gate_ratio": 1.288,
+      "fallback_tripped": 0
+    },
+    {
+      "id": "fleurs-hi-1806-clean",
+      "capped": false,
+      "gate_ratio_arm_a": 1.358,
+      "text_ratio_arm_a": 2.201,
+      "observed_gate_ratio": 1.346,
+      "fallback_tripped": 0
+    },
+    {
+      "id": "fleurs-hi-1882-clean",
+      "capped": false,
+      "gate_ratio_arm_a": 1.268,
+      "text_ratio_arm_a": 2.06,
+      "observed_gate_ratio": 1.254,
+      "fallback_tripped": 0
+    },
+    {
+      "id": "fleurs-hi-1890-clean",
+      "capped": false,
+      "gate_ratio_arm_a": 1.298,
+      "text_ratio_arm_a": 2.017,
+      "observed_gate_ratio": 1.29,
+      "fallback_tripped": 0
+    },
+    {
+      "id": "fleurs-hi-1911-clean",
+      "capped": false,
+      "gate_ratio_arm_a": 1.331,
+      "text_ratio_arm_a": 2.021,
+      "observed_gate_ratio": 1.323,
+      "fallback_tripped": 0
+    },
+    {
+      "id": "fleurs-hi-1934-clean",
+      "capped": false,
+      "gate_ratio_arm_a": 1.189,
+      "text_ratio_arm_a": 1.748,
+      "observed_gate_ratio": 1.187,
+      "fallback_tripped": 0
+    },
+    {
+      "id": "fleurs-hi-1949-clean",
+      "capped": false,
+      "gate_ratio_arm_a": 1.163,
+      "text_ratio_arm_a": 1.743,
+      "observed_gate_ratio": 1.161,
+      "fallback_tripped": 0
+    },
+    {
+      "id": "fleurs-hi-1952-clean",
+      "capped": false,
+      "gate_ratio_arm_a": 1.212,
+      "text_ratio_arm_a": 1.84,
+      "observed_gate_ratio": 1.204,
+      "fallback_tripped": 0
+    },
+    {
+      "id": "fleurs-hi-1712-noise_10db",
+      "capped": true,
+      "gate_ratio_arm_a": 2.605,
+      "text_ratio_arm_a": 3.197,
+      "observed_gate_ratio": 2.605,
+      "fallback_tripped": 1
+    },
+    {
+      "id": "fleurs-hi-1730-noise_10db",
+      "capped": false,
+      "gate_ratio_arm_a": 1.565,
+      "text_ratio_arm_a": 2.198,
+      "observed_gate_ratio": 1.554,
+      "fallback_tripped": 0
+    },
+    {
+      "id": "fleurs-hi-1737-noise_10db",
+      "capped": true,
+      "gate_ratio_arm_a": 23.579,
+      "text_ratio_arm_a": 24.81,
+      "observed_gate_ratio": 23.579,
+      "fallback_tripped": 2
+    },
+    {
+      "id": "fleurs-hi-1744-noise_10db",
+      "capped": false,
+      "gate_ratio_arm_a": 1.143,
+      "text_ratio_arm_a": 1.782,
+      "observed_gate_ratio": 1.141,
+      "fallback_tripped": 0
+    },
+    {
+      "id": "fleurs-hi-1761-noise_10db",
+      "capped": false,
+      "gate_ratio_arm_a": 1.273,
+      "text_ratio_arm_a": 1.844,
+      "observed_gate_ratio": 1.27,
+      "fallback_tripped": 0
+    },
+    {
+      "id": "fleurs-hi-1806-noise_10db",
+      "capped": true,
+      "gate_ratio_arm_a": 23.579,
+      "text_ratio_arm_a": 24.81,
+      "observed_gate_ratio": 23.579,
+      "fallback_tripped": 2
+    },
+    {
+      "id": "fleurs-hi-1882-noise_10db",
+      "capped": true,
+      "gate_ratio_arm_a": 2.0,
+      "text_ratio_arm_a": 2.983,
+      "observed_gate_ratio": 2.0,
+      "fallback_tripped": 0
+    },
+    {
+      "id": "fleurs-hi-1890-noise_10db",
+      "capped": false,
+      "gate_ratio_arm_a": 1.33,
+      "text_ratio_arm_a": 1.957,
+      "observed_gate_ratio": 1.327,
+      "fallback_tripped": 0
+    },
+    {
+      "id": "fleurs-hi-1911-noise_10db",
+      "capped": false,
+      "gate_ratio_arm_a": 1.391,
+      "text_ratio_arm_a": 2.092,
+      "observed_gate_ratio": 1.364,
+      "fallback_tripped": 0
+    },
+    {
+      "id": "fleurs-hi-1934-noise_10db",
+      "capped": false,
+      "gate_ratio_arm_a": 1.187,
+      "text_ratio_arm_a": 1.689,
+      "observed_gate_ratio": 1.185,
+      "fallback_tripped": 0
+    },
+    {
+      "id": "fleurs-hi-1949-noise_10db",
+      "capped": false,
+      "gate_ratio_arm_a": 1.714,
+      "text_ratio_arm_a": 1.955,
+      "observed_gate_ratio": 1.692,
+      "fallback_tripped": 0
+    },
+    {
+      "id": "fleurs-hi-1952-noise_10db",
+      "capped": false,
+      "gate_ratio_arm_a": 1.253,
+      "text_ratio_arm_a": 1.866,
+      "observed_gate_ratio": 1.25,
+      "fallback_tripped": 0
+    }
+  ]
+}

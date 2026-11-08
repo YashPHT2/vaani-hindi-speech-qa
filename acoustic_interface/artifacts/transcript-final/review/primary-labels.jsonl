@@ -1,0 +1,151 @@
+{"case": "00f55b0dfbc190c48540", "correct": false, "hallucinated": false, "ambiguous": true, "reason": "The name is cut down to a garbled fragment resembling part of Casablanca.", "reviewer_type": "model"}
+{"case": "03347b5a641dffc73583", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although the passage specifies knees.", "reviewer_type": "model"}
+{"case": "06d608756f2952df4f79", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "The fused, misspelled wording still identifies the air as the location.", "reviewer_type": "model"}
+{"case": "09ab8597eace18488508", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although Congress is named.", "reviewer_type": "model"}
+{"case": "09c7c1fd097184c5f092", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Garbled fragment does not identify the prisoners.", "reviewer_type": "model"}
+{"case": "0bc0e441842142e9a3f5", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "No destination port is supplied.", "reviewer_type": "model"}
+{"case": "0d37f775c57302631e86", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although Nyiragongo is named.", "reviewer_type": "model"}
+{"case": "120021161921bc2aabee", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although the passage specifies color.", "reviewer_type": "model"}
+{"case": "1651975ee4e3a8591ff3", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Unintelligible fragment does not clearly name a tribe or acknowledge missing information.", "reviewer_type": "model"}
+{"case": "18a6da706c7e844bf899", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "The city is unspecified.", "reviewer_type": "model"}
+{"case": "18a8a77a351e1857c9ed", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although 11:35 is stated.", "reviewer_type": "model"}
+{"case": "1928a2c0461ad5a705af", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "The garbled affiliation still identifies Dundee in the professor's attribution.", "reviewer_type": "model"}
+{"case": "1a5acca621633e15d615", "correct": false, "hallucinated": true, "ambiguous": false, "reason": "Adds an unsupported claim about finding the answer through a download and gives no site.", "reviewer_type": "model"}
+{"case": "1ad61e949c66f9fd7eb2", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Repeats the question and trails into a garbled fragment without naming the chief.", "reviewer_type": "model"}
+{"case": "1b046595ff233a6d237c", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Repeats the setting and never identifies Raju Khandelwal.", "reviewer_type": "model"}
+{"case": "1d870c9e3de5379a5cbf", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "The garbled completion does not identify Congress or clearly establish a different component.", "reviewer_type": "model"}
+{"case": "1da6119235fbdedf40db", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Garbled description of mixing does not identify the Internet.", "reviewer_type": "model"}
+{"case": "1ddbac3309e46661f11c", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although the passage specifies male applicants.", "reviewer_type": "model"}
+{"case": "1fbe9c8a25d566ba273e", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although the High Middle Ages is given.", "reviewer_type": "model"}
+{"case": "21dbceb9006d0733924e", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although Dundee is given.", "reviewer_type": "model"}
+{"case": "23e40d0bb883fd8c3fcf", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Echoes the verb without naming wrestlers.", "reviewer_type": "model"}
+{"case": "263d1cc2544cc3bf7b94", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Says various pyramids are shown, leaving what the scenes are displayed on unanswered.", "reviewer_type": "model"}
+{"case": "29968b8f52ffbd2299c0", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Repeats that behaviors appear without stating the count.", "reviewer_type": "model"}
+{"case": "2ae540fe16de51d94f2c", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "The passage gives no band name.", "reviewer_type": "model"}
+{"case": "2c2e7e24b1c3678564d1", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "Awkward wording still states that the requested information is unknown.", "reviewer_type": "model"}
+{"case": "2efc9c68dac78fa6c05d", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "The passage gives no species name.", "reviewer_type": "model"}
+{"case": "31517f4458ffa3d23732", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although Aerosmith is named.", "reviewer_type": "model"}
+{"case": "31aebfeb170a4b7f5e6e", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "Gives 100 kilometers for the far end.", "reviewer_type": "model"}
+{"case": "31b9e44fc7fccc2151b6", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Repeats the topic but supplies no identifiable philosopher.", "reviewer_type": "model"}
+{"case": "31e8928bd19ec1581804", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "The near-phonetic rendering तनु identifies धनु आकाशगंगा in the stated relation.", "reviewer_type": "model"}
+{"case": "333284e1158c52fec3d4", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although SWAPO is named.", "reviewer_type": "model"}
+{"case": "33d37da72454bc831950", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although the remaining forests are specified.", "reviewer_type": "model"}
+{"case": "33e8cefe6c073cc93b59", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Echoes part of the question and omits the extent.", "reviewer_type": "model"}
+{"case": "34de222c28ccb00a3fa0", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "Gives the stated year 1537.", "reviewer_type": "model"}
+{"case": "38755c1576621743b049", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "The fragment does not identify Saturday night.", "reviewer_type": "model"}
+{"case": "3d1bb55bdb04e1046c02", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although the passage states two pools.", "reviewer_type": "model"}
+{"case": "3d976574db152e6c3f2f", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although the passage names the sharpener.", "reviewer_type": "model"}
+{"case": "3ec6080c425713d84bc4", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although the 25–30-year range is given.", "reviewer_type": "model"}
+{"case": "4309405264057d76db9f", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "Clearly retains north of Mecca despite the garbled surrounding wording.", "reviewer_type": "model"}
+{"case": "46dd44c56942867f10cd", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although the passage identifies prisoners.", "reviewer_type": "model"}
+{"case": "46e555b32da2002c72db", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "सखारी is a recognizable garbling of सफ़ारी in this context.", "reviewer_type": "model"}
+{"case": "4c65fde610d9009d9fdd", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although patience is specified.", "reviewer_type": "model"}
+{"case": "4cc2b656e2fe33cbeaa0", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "The garbled उत्दर still identifies north of Mecca.", "reviewer_type": "model"}
+{"case": "4ce4ea949bf2653e34c9", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although the founding year is stated.", "reviewer_type": "model"}
+{"case": "4d4bdbc4e882f949adae", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "Gives the stated count of two.", "reviewer_type": "model"}
+{"case": "4e6d72a8281ae87b7d21", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Repeats that a second pool exists without naming the expressed pool.", "reviewer_type": "model"}
+{"case": "4eb22c36f4f11cff2227", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "The minor spelling error leaves “a small part” clear.", "reviewer_type": "model"}
+{"case": "5009e0d4bee397295d2a", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "No treaty is named.", "reviewer_type": "model"}
+{"case": "511b655f73ca6f8ebfe9", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "The programming language is unspecified.", "reviewer_type": "model"}
+{"case": "51963357846b23e900b6", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although Germany is named.", "reviewer_type": "model"}
+{"case": "51d85a7a294193418021", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although eleventh place is stated.", "reviewer_type": "model"}
+{"case": "556ca344aa6a71322060", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although rachis is named.", "reviewer_type": "model"}
+{"case": "584a22b43dc90fd7403a", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Garbled sports fragment fails to identify roller hockey.", "reviewer_type": "model"}
+{"case": "5b4a07c7786a3b38779b", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Garbled communication phrase does not identify the Internet as the subject.", "reviewer_type": "model"}
+{"case": "5bde5b99f3be086c84b5", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "Names Germany.", "reviewer_type": "model"}
+{"case": "6068421e2f2c88f3090a", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although Aristotle is named.", "reviewer_type": "model"}
+{"case": "60f1dae01638d84c1d34", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "The passage gives no area.", "reviewer_type": "model"}
+{"case": "62522d1c8bf88cfd217a", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Repeats the wording about an era and omits the High Middle Ages.", "reviewer_type": "model"}
+{"case": "648c3a0de06602920496", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Extracts a garbled form of “buying is beneficial” without naming the card.", "reviewer_type": "model"}
+{"case": "6786d80ff6f84f5a4f52", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although underwater topography is specified.", "reviewer_type": "model"}
+{"case": "69f0f255200a5c4fbb28", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although scratching is specified.", "reviewer_type": "model"}
+{"case": "6b58421865c2126a628b", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although Toginet Radio is named.", "reviewer_type": "model"}
+{"case": "6e1a2cf605bc0032415e", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "The passage gives no duration for practice.", "reviewer_type": "model"}
+{"case": "6ed0292cd78bad94835d", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although nineteen is stated.", "reviewer_type": "model"}
+{"case": "6f66535c14b02643761a", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although Turkey is named.", "reviewer_type": "model"}
+{"case": "6fbc20f3d7084e8c2e9d", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Extracts a description of the shafts instead of their name.", "reviewer_type": "model"}
+{"case": "70448cbb5fa3128f37a3", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although Haiti is named.", "reviewer_type": "model"}
+{"case": "70a9864262c3423174fc", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "Names Haiti.", "reviewer_type": "model"}
+{"case": "714c33bf1857a91c383f", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although the number of races is stated.", "reviewer_type": "model"}
+{"case": "725658b2b5cd1db27438", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although chimpanzees are named.", "reviewer_type": "model"}
+{"case": "743b28963a226d7614c9", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "Clearly identifies Paris as the destination.", "reviewer_type": "model"}
+{"case": "7613dbc0598f64236abd", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "Names Kundalini energy before the response cuts off.", "reviewer_type": "model"}
+{"case": "79afd99034d4ed13c688", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although Kundalini energy is named.", "reviewer_type": "model"}
+{"case": "79f0e260cc031b50149e", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although Washington is named.", "reviewer_type": "model"}
+{"case": "7a39932d1495590c5118", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Claims missing information despite the instruction to ask the owners.", "reviewer_type": "model"}
+{"case": "7a807983f87079784ff5", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although forced extortion is specified.", "reviewer_type": "model"}
+{"case": "7b48f9c3aeeea34fa65b", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "The passage gives no signing city.", "reviewer_type": "model"}
+{"case": "7b7b5fdf00bb8cecf4ed", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although photosynthesis is named.", "reviewer_type": "model"}
+{"case": "7f33722329f4e27db323", "correct": false, "hallucinated": false, "ambiguous": true, "reason": "The second group is garbled, and the wording does not clearly convey non-Jews.", "reviewer_type": "model"}
+{"case": "7fe9f6a5ac16aa61069a", "correct": false, "hallucinated": true, "ambiguous": false, "reason": "The readable negation says the concerts were not canceled, contrary to the passage, and omits Aerosmith.", "reviewer_type": "model"}
+{"case": "81f71a517b00c409eca1", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "Gives the stated year 2002.", "reviewer_type": "model"}
+{"case": "82d744e4c2dd83aef383", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "Identifies the 1920s.", "reviewer_type": "model"}
+{"case": "84e6456b577a3148a311", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although other mosasaurs are specified.", "reviewer_type": "model"}
+{"case": "8700ee43e2f8704e0012", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "The truncated place fragment does not identify Casablanca.", "reviewer_type": "model"}
+{"case": "88c999094ed23765b8f4", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Extracts a description of handling behavior without identifying software or stating that it is unspecified.", "reviewer_type": "model"}
+{"case": "8a1bedc03f5f33c53677", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Echoes directions without identifying the Atlantic Ocean.", "reviewer_type": "model"}
+{"case": "904f0b37f07cf5d55759", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "अरव शहर is a recognizable spelling variant of अरब शहर here.", "reviewer_type": "model"}
+{"case": "907d7a5a74397082d361", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although Iraq is named.", "reviewer_type": "model"}
+{"case": "919d41a27379ba0fd3ca", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although the cave is named Hira.", "reviewer_type": "model"}
+{"case": "919e4da185a2aed98c70", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "No date is given.", "reviewer_type": "model"}
+{"case": "9230ad5f823ffbb34b4f", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Garbled prompt echo does not identify wrestlers.", "reviewer_type": "model"}
+{"case": "9fb8cd2cc34d8981f105", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although two adult children are specified.", "reviewer_type": "model"}
+{"case": "a29c63eab43ef7356de9", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although China is named.", "reviewer_type": "model"}
+{"case": "a43b18261f66a05c5c28", "correct": false, "hallucinated": true, "ambiguous": false, "reason": "Invents a jaw length of 1.5 centimeters where no length is supplied.", "reviewer_type": "model"}
+{"case": "a90fc2acfe5cf9d0f5f3", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although a rocket is named.", "reviewer_type": "model"}
+{"case": "a98e9140280c18f4edad", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although the field trip is specified.", "reviewer_type": "model"}
+{"case": "adeba5d76fb039ab90a3", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Garbled fragment does not identify eleventh place.", "reviewer_type": "model"}
+{"case": "ae2cc83fc19b746149c0", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although the 1920s are specified.", "reviewer_type": "model"}
+{"case": "aec9d8e1c245db84841e", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "The arrival year is unspecified.", "reviewer_type": "model"}
+{"case": "b0e6bf6490c015aeff47", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although traditional teams are specified.", "reviewer_type": "model"}
+{"case": "b15758c66a5dc1ba3887", "correct": false, "hallucinated": true, "ambiguous": false, "reason": "Invents a count of one to five police officers, contradicting the stated nineteen.", "reviewer_type": "model"}
+{"case": "b15c4ce2dd7e33350e4b", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although 20 percent is stated.", "reviewer_type": "model"}
+{"case": "b1c515232b912ec2f539", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "The truncated phrase never states that the patient was isolated.", "reviewer_type": "model"}
+{"case": "b1ec6ddbf8bd987d1a01", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Repeats the question without answering it.", "reviewer_type": "model"}
+{"case": "b3d414adc5fe455b4ca4", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although high car ownership is specified.", "reviewer_type": "model"}
+{"case": "b3dbd9d8ea8751668279", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although 100 kilometers is stated.", "reviewer_type": "model"}
+{"case": "b689e74e076cfa9a2a2e", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "No software is identified.", "reviewer_type": "model"}
+{"case": "b7a864abc35350bb9932", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although the Zagros Mountains are named.", "reviewer_type": "model"}
+{"case": "ba6cc283c1ec0f7cd96a", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although Sundarbans National Park is named.", "reviewer_type": "model"}
+{"case": "bb4a8f4f44600df2e0dc", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although hail is specified.", "reviewer_type": "model"}
+{"case": "bb6d96680891b66e25e2", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "No captain is named.", "reviewer_type": "model"}
+{"case": "bdef30ae37e48dfa3bfe", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although 30 percent is stated.", "reviewer_type": "model"}
+{"case": "be0f1157e83f714eb367", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although a wall is specified.", "reviewer_type": "model"}
+{"case": "bea5e4f46b6a707a7300", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "No source text for the first use is named.", "reviewer_type": "model"}
+{"case": "c1c21f107c89e976c453", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Repeats action and movement rather than giving the location.", "reviewer_type": "model"}
+{"case": "c783d7f21f6d90c2eb84", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Quotes a garbled passage fragment without acknowledging the treaty is unspecified.", "reviewer_type": "model"}
+{"case": "ce63f36600a0e4f481d4", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although the authorities are specified.", "reviewer_type": "model"}
+{"case": "cf56505233e4fa13fe76", "correct": false, "hallucinated": true, "ambiguous": false, "reason": "Identifies the Milky Way as the galaxy acted on, contrary to the stated target.", "reviewer_type": "model"}
+{"case": "d01d1b5f871bac82386e", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although the owners are specified.", "reviewer_type": "model"}
+{"case": "d06943241e70bd9a042b", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "Correctly states that the signing city is unspecified.", "reviewer_type": "model"}
+{"case": "d25e841c080e983d3dc9", "correct": false, "hallucinated": false, "ambiguous": true, "reason": "Part of the chief's name is recognizable, but the garbled and incomplete name leaves identification uncertain.", "reviewer_type": "model"}
+{"case": "d450ee7ec37e5229e82e", "correct": false, "hallucinated": true, "ambiguous": false, "reason": "Explicitly names the hidden pool as the second one, contrary to the stated expressed pool.", "reviewer_type": "model"}
+{"case": "d4750b8381178c699cee", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "No smoke duration is specified.", "reviewer_type": "model"}
+{"case": "d957326ca9c5bd36ccea", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although Paris is named.", "reviewer_type": "model"}
+{"case": "dd76684ef00760a2e4ea", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Repeats the description of behaviors without stating the count.", "reviewer_type": "model"}
+{"case": "ddbecc9519b0b03967dc", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "Gives the stated count of two.", "reviewer_type": "model"}
+{"case": "e2d2acb4d1323ed6cdaf", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "No caretaker is named.", "reviewer_type": "model"}
+{"case": "e33050c1ad77de48e17f", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "The garbled spelling clearly identifies the Atlantic Ocean.", "reviewer_type": "model"}
+{"case": "e35823407ac718fc9eca", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Extracts a different item from the agenda without naming the remaining forests.", "reviewer_type": "model"}
+{"case": "e377164c4a844fd362e7", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "The passage does not name an acid.", "reviewer_type": "model"}
+{"case": "e3e4da4de2c5e628178b", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "Names safari.", "reviewer_type": "model"}
+{"case": "e56c615de50e575b8cc6", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although USOC is named.", "reviewer_type": "model"}
+{"case": "e5ba13656c5dd696b02e", "correct": false, "hallucinated": false, "ambiguous": true, "reason": "“Far away” could mean apart from others, but does not explicitly establish isolation from them.", "reviewer_type": "model"}
+{"case": "e6dd21e384ec11e81673", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although King George Island is named.", "reviewer_type": "model"}
+{"case": "e82ac380f6cbf2771750", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although 35 mm is specified.", "reviewer_type": "model"}
+{"case": "e89984b106905188127e", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "Names October.", "reviewer_type": "model"}
+{"case": "e9a65eb7d3af36a45e25", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Extracts a garbled form of meat rather than identifying a tribe or saying none is named.", "reviewer_type": "model"}
+{"case": "ee70d46314c0cdf6e11f", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "Identifies an Arab city.", "reviewer_type": "model"}
+{"case": "ee9d8ad3cc2ef2ce6c7b", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although the comparison is to one country.", "reviewer_type": "model"}
+{"case": "f0b3146862b74a97aade", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Says a singer accompanied Lakkha Singh without giving his name.", "reviewer_type": "model"}
+{"case": "f0b9c8c7bf5e6c7117fb", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Extracts a garbled form of raindrops from the preceding event, rather than the hail afterward.", "reviewer_type": "model"}
+{"case": "f2812f9d808122ea3372", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Unintelligible fragment does not identify Hira.", "reviewer_type": "model"}
+{"case": "f2fc5140086835d012cc", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Repeats the question without naming either community.", "reviewer_type": "model"}
+{"case": "f665e501d3847821e285", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Echoes the question and a prompt label without naming chimpanzees.", "reviewer_type": "model"}
+{"case": "f8e9daa71ed9ce5a99c4", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "Gives the stated 20 percent.", "reviewer_type": "model"}
+{"case": "f9ef29701fb7f791fe3e", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Garbled sports fragment fails to identify roller hockey.", "reviewer_type": "model"}
+{"case": "fa71cb13ae63920b1663", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Echoes the travel setting and cuts off without naming the Wild Card.", "reviewer_type": "model"}
+{"case": "fb473c7504573d2b05a9", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "No chemical element is named.", "reviewer_type": "model"}
+{"case": "fc7337a64a99a67eb7e6", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains although one minute is stated.", "reviewer_type": "model"}
+{"case": "fd012a8b9169c7248677", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "Identifies a wall despite a minor spelling error.", "reviewer_type": "model"}
+{"case": "fdddc8a8b7ab8a988982", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Garbled ending does not identify the 35 mm format.", "reviewer_type": "model"}

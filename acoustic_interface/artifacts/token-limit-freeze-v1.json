@@ -1,0 +1,47 @@
+{
+  "authorization": "user_explicit_correct_transcript_only_token_limit_diagnostic",
+  "created_unix": 1793988758.9325707,
+  "source_request": "fc34f249-d2d9-4d93-b445-3646a6df7fe2/Pasted text.txt",
+  "config": {
+    "run_id": "gold-token-limit-dev24-v1",
+    "seed": 17,
+    "max_new_tokens": 128,
+    "old_max_new_tokens": 48,
+    "arms": [
+      "C_correct_text_128"
+    ],
+    "model": "Qwen/Qwen2.5-1.5B-Instruct",
+    "model_revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+    "input_sha256": "d3c1127325076630d5e86b664296c6b553f81ded7316b25f5845d8d37ae53442",
+    "baseline_result_sha256": "2d4f049ab05d9b659ca74a8bd431319bb9cfdedcad51c1d5d63f3d632700d1a4",
+    "source_sha256": {
+      "connector.py": "39803bc3e46f4db213a911dae6438a8eb8d908f95c2d2efc36238fedf24e68db",
+      "token_limit_worker.py": "2e33b764ba65d8e5e204c0dfdec57cb26922a8fff0639d6dc103d18413731da2",
+      "token_limit_runner.py": "496bd222ba221bea7dc0085d8673b5659410c1358d5806ed149ee423118081ac",
+      "token_limit_analysis.py": "392d4e8d5eaeb3858b8d696088ef71c5b03a0e094e6c67ab82cd7ed09832a9e1"
+    },
+    "training_updates": 0,
+    "fresh_test_loaded": false,
+    "adapter_loaded": false,
+    "reservation_usd": 1,
+    "worst_case_cost_usd": 0.63168344,
+    "resource_limits": {
+      "gpu": "A10",
+      "gpu_count": 1,
+      "cpu": 2,
+      "memory_gib": 16,
+      "timeout_s": 600,
+      "startup_timeout_s": 300,
+      "queue_cap_s": 120,
+      "retries": 0
+    }
+  },
+  "protocol": {
+    "primary": "Paired semantic correctness, cap-hit completions and unsupported assertions",
+    "material_truncation_gate": "At least2 distinct previously-capped C sources rescued, positive full-C net, no unsupported-assertion increase",
+    "retention": "All24historicalviews; clean/noisy copies source-grouped",
+    "stop": "One run, no automatic retry or prompt/model/architecture changes",
+    "arm_matching": "OnlyC128; baseline/adapter must also use128 before eventual matched evaluation",
+    "lead_status": "Astra usage-blocked; direct user instruction selects this specific bounded control"
+  }
+}

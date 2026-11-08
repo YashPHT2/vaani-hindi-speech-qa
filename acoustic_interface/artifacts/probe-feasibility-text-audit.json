@@ -1,0 +1,68 @@
+{
+  "scope": "Offline textual feasibility audit, not an acoustic probe",
+  "independent_sources": 112,
+  "source_groups": {
+    "dev": {
+      "sources": 12,
+      "numeric_reference_answer_sources": 1,
+      "transcript_contains_digit_sources": 2,
+      "transcript_contains_nahin_sources": 2
+    },
+    "test": {
+      "sources": 100,
+      "numeric_reference_answer_sources": 18,
+      "transcript_contains_digit_sources": 21,
+      "transcript_contains_nahin_sources": 21
+    }
+  },
+  "headroom_sources": [
+    {
+      "source_id": "fleurs-hi-1712",
+      "question": "सुंदरबन किस वर्ष से वन्यजीव अभ्यारण बना?",
+      "answers": [
+        "1966",
+        "१९६६"
+      ],
+      "numeric_answer": true
+    },
+    {
+      "source_id": "fleurs-hi-1744",
+      "question": "कौन सी संख्या छोटी होने पर तारा कम सक्रिय होता है?",
+      "answers": [
+        "रॉस्बी संख्या",
+        "रॉस्बी"
+      ],
+      "numeric_answer": false
+    },
+    {
+      "source_id": "fleurs-hi-1761",
+      "question": "वृद्ध महिला को कहाँ जाना ज़रूरी था?",
+      "answers": [
+        "शौचालय"
+      ],
+      "numeric_answer": false
+    },
+    {
+      "source_id": "fleurs-hi-1806",
+      "question": "शुरुआती दिनों में आज जैसी कौन सी समस्या नहीं थी?",
+      "answers": [
+        "प्रकाश प्रदूषण"
+      ],
+      "numeric_answer": false
+    },
+    {
+      "source_id": "fleurs-hi-1911",
+      "question": "किस वीज़ा से सदस्य देशों के लिए अलग आवेदन नहीं देना पड़ता?",
+      "answers": [
+        "शेंगेन",
+        "शेंगेन का वीज़ा"
+      ],
+      "numeric_answer": false
+    }
+  ],
+  "limitations": [
+    "Presence of digits or nahin is a textual screening heuristic, not validated target labeling.",
+    "Historical100test rows are historicaltraining only in thisnewround; fresh100notread.",
+    "Probe target classes need train/dev support; a unique1966 label cannot establish cross-source generalization."
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "run_id": "dev-fallback-policy-v1",
+  "purpose": "Historical-development decoding-policy experiment: greedy baseline vs compression-ratio temperature fallback. Diagnoses the 30 degeneration views found in the frozen evaluation.",
+  "authorization": "User supplied Modal GPU access and asked for tests and experiments to be run.",
+  "scope_limits": {
+    "data": "historical development split only, 12 sources / 24 views",
+    "fresh_100_evaluated_set": "SEALED - not read, not re-run, not used for selection",
+    "arms": ["a: greedy scalar temperature 0, no fallback", "b: temperature ladder with compression-ratio guard"],
+    "changed_variable": "ASR decoding policy only; model, revisions, prompts, waveforms and token ceiling held fixed",
+    "no_training": true
+  },
+  "reservation": {
+    "gpu": "A10 x1",
+    "wall_clock_ceiling_s": 3600,
+    "estimated_actual_s": 600,
+    "rate_usd_per_s": 0.00036772,
+    "estimated_cost_usd": 0.2206,
+    "reserved_cost_usd": 1.5,
+    "note": "Estimate from the Modal rates recorded in MODAL_GPU_HANDOFF.md (A10 + 2 CPU + 16 GiB). Storage and egress excluded. Actual gross usage must be read from workspace billing, not inferred from this file."
+  },
+  "stopping_rule": "One submission, zero retries. If arm A waveform hashes fail or the job errors, record the failure and stop; do not resubmit without review.",
+  "pre_registered_read": {
+    "primary": "corpus WER on the 24 dev views, arm B minus arm A",
+    "secondary": [
+      "count of views whose Whisper compression ratio exceeds 2.4 before and after",
+      "count of views still hitting the 224-token ceiling",
+      "per-view regressions (any view whose WER increases)",
+      "ASR wall-clock delta and per-view latency ratio"
+    ],
+    "decision": "Fallback advances to a fresh held-out evaluation only if corpus WER improves, no more than a small bounded number of views regress, and latency increase is modest. WER improvement alone is an ASR result, not a QA result."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "decision": "conditional go: one historical inference-only readout",
+  "sources": 1,
+  "views": 2,
+  "arms": 6,
+  "expected_rows": 12,
+  "checkpoint_sha256": "8474698e8123d52e4ea96e310691062e49ce76f62d9e924d1976102ffbad2345",
+  "training_updates": 0,
+  "primary_availability": "noisy D 35 valid grid blocks/684frames/4slots vs B zero",
+  "primary_utility": "noisy D supported correct while A,B and D-matched donor wrong; ambiguous judgments remain ambiguous",
+  "privileged_secondary": "C supported correct while A,B and C-matched donor wrong; each view separately",
+  "wrong_audio": "donor1868 condition-matched and recipient geometry/U/masks/scaffold/question retained; donor frames may alter selected membership",
+  "clean_guard": "D equals B; noisy B equals A; A,B reproduce archived headroom outputs",
+  "stopping": "one attempt, stop after integrity+blinded semantic review; eligible rescue permits only planning historical replication",
+  "reservation_usd": 1,
+  "conservative_bound_usd": 0.63168344,
+  "fresh_test": "sealed",
+  "decision_sha256": "d340393968056908872d7d35581686d55282239e9d4ed7504d6404bfdd2dfa96"
+}

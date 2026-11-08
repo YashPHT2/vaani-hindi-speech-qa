@@ -1,0 +1,5 @@
+-r requirements.txt
+scipy>=1.11,<2
+pyarrow>=14,<23
+fsspec>=2024.2
+aiohttp>=3.9,<4

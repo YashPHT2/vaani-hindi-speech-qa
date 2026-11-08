@@ -1,0 +1,286 @@
+{"case": "0126d68c895d75ec", "correct": false, "hallucinated": true, "reason": "The corrupted title does not identify Dunlap Broadsides and supplies an unsupported name."}
+{"case": "020c00cc5a569e6f", "correct": false, "hallucinated": false, "reason": "Beans is a passage fragment; it does not identify a particular plant or acknowledge that none is named."}
+{"case": "02fb727835664436", "correct": true, "hallucinated": false, "reason": "The answer identifies mosquitoes as the transmission route; the malformed prefix adds no clear factual claim."}
+{"case": "0316d751a5f3dd79", "correct": false, "hallucinated": false, "reason": "Abstains although the passage explicitly supplies approximately 1200 GMT."}
+{"case": "03ef6ea7de49b6f4", "correct": false, "hallucinated": true, "reason": "Slackaje does not identify Schlegel and is an unsupported author name."}
+{"case": "06e0678ffbc1cdbd", "correct": false, "hallucinated": true, "reason": "The supplied personal name is absent from the evidence and does not identify Chandra Shekhar Solanki."}
+{"case": "07bf97e91780fcf1", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit city Paris."}
+{"case": "08344f4072c74c1a", "correct": true, "hallucinated": false, "reason": "The phonetic spelling clearly identifies Hurricane Katrina without adding another claim."}
+{"case": "0a1464f33f9b7e7a", "correct": false, "hallucinated": false, "reason": "Repeats the candidacy fragment rather than naming La Plata."}
+{"case": "0a1e7a4b75474e0d", "correct": false, "hallucinated": false, "reason": "Repeats a garbled thermal-behavior fragment and never supplies USGS."}
+{"case": "0adce639eca78b04", "correct": false, "hallucinated": true, "reason": "1972 contradicts the stated dam year 1963."}
+{"case": "0b8bc7eff4fb7bf4", "correct": false, "hallucinated": true, "reason": "1950-60s is an unsupported date range instead of 2009."}
+{"case": "0cdba3f1f5971023", "correct": false, "hallucinated": true, "reason": "The passage supplies no invention year; 1970 is invented."}
+{"case": "0cf4367a390a417d", "correct": false, "hallucinated": true, "reason": "The passage supplies no speed; 29.76 is unsupported."}
+{"case": "0e85282788301871", "correct": false, "hallucinated": false, "reason": "The possible spiny tongue is supported but does not answer the missing length."}
+{"case": "0f853c13fb30b346", "correct": false, "hallucinated": true, "reason": "Adds unsupported heavy/light loads and a data/order-processing team to the shipping-company answer."}
+{"case": "10ab2ec0b5fdbb29", "correct": false, "hallucinated": true, "reason": "The passage supplies no age for the couples; 12 is unsupported."}
+{"case": "11112e5a32d35cd8", "correct": false, "hallucinated": false, "reason": "Pyramid is a supported object but not the deceased pharaoh being honored."}
+{"case": "123625c507e56d78", "correct": false, "hallucinated": false, "reason": "The garbled requirement fragment does not recover an intelligible 6.5 threshold."}
+{"case": "12b003dda7f6c3a5", "correct": false, "hallucinated": false, "reason": "Abstains despite the stated population of about 800."}
+{"case": "1391ab341d7febb9", "correct": false, "hallucinated": false, "reason": "The corrupted maria fragment does not identify lava and adds no intelligible new fact."}
+{"case": "141c35cfd952eb00", "correct": false, "hallucinated": true, "reason": "The corrupted supplied title does not identify Dunlap Broadsides."}
+{"case": "14ad89752359eef2", "correct": false, "hallucinated": false, "reason": "Abstains despite the stated one-to-three male range."}
+{"case": "184e55534b160adc", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit USGS abbreviation."}
+{"case": "187303438d79d96a", "correct": false, "hallucinated": false, "reason": "A corrupted repetition of rip currents plus unknown does not describe returning waves."}
+{"case": "1894b2a99e01fac1", "correct": true, "hallucinated": false, "reason": "Correctly abstains because no maximum harbor depth is supplied."}
+{"case": "18b5b06283f62115", "correct": false, "hallucinated": true, "reason": "Introduces an unsupported route-like name after claiming to identify companies; no companies are named."}
+{"case": "1a9035e6dcbb233a", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit germ-line cells."}
+{"case": "1cdff393c150bccd", "correct": true, "hallucinated": false, "reason": "Correctly abstains because the number of scientists is absent."}
+{"case": "1ee79dc648cd6bad", "correct": true, "hallucinated": false, "reason": "Devi is an identifiable phonetic surname for Davey, the named replacement."}
+{"case": "1f5e917606b13333", "correct": false, "hallucinated": true, "reason": "Misrepresents the supported date interval as the unnamed center's name."}
+{"case": "2009f28285f1e3ab", "correct": true, "hallucinated": false, "reason": "Plitvice Lakes National Park identifies the same named park in English."}
+{"case": "20640c688fdcf5d0", "correct": false, "hallucinated": false, "reason": "Repetitive own/own text supplies neither civilization nor a factual proposition."}
+{"case": "20e965c85fa052dc", "correct": false, "hallucinated": true, "reason": "Aft is an unsupported purported language rather than Latin."}
+{"case": "2467606e73fc813b", "correct": true, "hallucinated": false, "reason": "The corrupted spelling still clearly identifies the Conservative Party."}
+{"case": "2473ca8d043df5d9", "correct": true, "hallucinated": false, "reason": "The phonetic word is recoverable as firmness, the requested manner of refusal."}
+{"case": "24f89094cc25823f", "correct": false, "hallucinated": true, "reason": "1982 contradicts the stated dam year 1963."}
+{"case": "255dea9bb8d53f89", "correct": false, "hallucinated": false, "reason": "Italian is a supported language fragment but not the Latin requested for religious rites."}
+{"case": "27f5ad895f13587d", "correct": false, "hallucinated": false, "reason": "The unfinished response does not identify Gibson or assert a complete new fact."}
+{"case": "2891cc10383e5592", "correct": false, "hallucinated": false, "reason": "Film editing is a listed nomination but not sound mixing."}
+{"case": "2bacb5e3c6ac8f81", "correct": false, "hallucinated": false, "reason": "Lists supported nervous-system parts but omits the requested central nervous system."}
+{"case": "2ebc229a540ba779", "correct": true, "hallucinated": false, "reason": "The answer identifies Katrina phonetically and repeats the supported relief/reconstruction context."}
+{"case": "2f28eaaff39f5719", "correct": false, "hallucinated": false, "reason": "The most-small fragment does not supply France."}
+{"case": "30c3170820117dc5", "correct": false, "hallucinated": true, "reason": "Supplies an unsupported purported region name when the region is unnamed."}
+{"case": "314991fb4e9f0767", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit count 34."}
+{"case": "37a4e46ae0c3ddb3", "correct": false, "hallucinated": false, "reason": "Tiger is a passage entity but the comparison animal requested is the lion."}
+{"case": "3b146f61c9098ba5", "correct": false, "hallucinated": true, "reason": "Fiso is an unsupported country name rather than Poland."}
+{"case": "3c5e55b28bff802c", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit North Carolina location."}
+{"case": "3cc1f0d14acb9ba2", "correct": true, "hallucinated": false, "reason": "Peter Square is a recoverable shortened spelling of the stated Saint Peter's Square."}
+{"case": "3cd6ab1fbac222d7", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit 6.5 threshold."}
+{"case": "3e0fd377af181e41", "correct": true, "hallucinated": false, "reason": "The phonetic spelling clearly identifies the transport system."}
+{"case": "40be9e4e3a68e5cb", "correct": false, "hallucinated": true, "reason": "Apolo island does not reliably identify Upolu and supplies an unsupported island name."}
+{"case": "41772a44544e70e9", "correct": false, "hallucinated": false, "reason": "The unintelligible fragment does not identify the required train and car."}
+{"case": "4317255245b8ef63", "correct": true, "hallucinated": false, "reason": "Doba is a recoverable truncation of do baar, twice, matching the stated count."}
+{"case": "4319bc131afb1bbe", "correct": true, "hallucinated": false, "reason": "The phonetic spelling identifies the neutron."}
+{"case": "4364aa2ab5d899f5", "correct": false, "hallucinated": true, "reason": "Supplies an unsupported purported name for the unnamed center."}
+{"case": "438b461f36959af1", "correct": true, "hallucinated": false, "reason": "Identifies transmission through mosquitoes despite a corrupted spelling of medium."}
+{"case": "4476ae3dfd9f1acd", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit twice count."}
+{"case": "44a4373d4e900671", "correct": false, "hallucinated": true, "reason": "Adds an unsupported route-like name while no particular company is supplied in the passage."}
+{"case": "46d3a22704efa64d", "correct": true, "hallucinated": false, "reason": "The phonetic spelling identifies Cambridge."}
+{"case": "47f0ad7bb3815517", "correct": true, "hallucinated": false, "reason": "Two weeks is identifiable despite the misspelled Hindi time unit."}
+{"case": "48d42c5b564e5997", "correct": false, "hallucinated": false, "reason": "The repeated corrupted around-Goma fragment does not name boda-boda."}
+{"case": "49731335c2fc9beb", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit age 29."}
+{"case": "49d6b143b341eca1", "correct": false, "hallucinated": false, "reason": "The damaged language list does not reliably recover both Catalan and Spanish; remaining text is a corrupted passage fragment."}
+{"case": "4b0bbc5add82ce3d", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit NextGen system."}
+{"case": "4dc59b848d56f476", "correct": false, "hallucinated": false, "reason": "The fragment does not identify the hands and supplies no clear factual assertion."}
+{"case": "4ee3b6181cd5ad3e", "correct": false, "hallucinated": false, "reason": "Below-thin omits the sea and does not answer the location."}
+{"case": "513a412dad870be9", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit South African national parks."}
+{"case": "52e7a163696dacb8", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit age 53."}
+{"case": "5346d5a47ef35ff5", "correct": false, "hallucinated": true, "reason": "Calls virtual scaffolds a dimension without identifying software; that characterization is unsupported."}
+{"case": "53b9f02bafcb6c11", "correct": true, "hallucinated": false, "reason": "The phonetic spelling is recoverable as La Plata."}
+{"case": "57786b27e7a6bd2c", "correct": false, "hallucinated": false, "reason": "Abstains although both Catalan and Spanish are supplied."}
+{"case": "5aedb2005e291e44", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit Conservative Party."}
+{"case": "5df87786c8000956", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit France relation."}
+{"case": "5fa8afdb2ad4cf14", "correct": false, "hallucinated": false, "reason": "Rocks and dust is a supported surface-composition fragment but not the name crust."}
+{"case": "60dc3612f28db69e", "correct": false, "hallucinated": true, "reason": "1940 contradicts the stated standoff year 1889."}
+{"case": "612ec6d4fb1b2da6", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit island Upolu."}
+{"case": "6230f9c4cc127a74", "correct": true, "hallucinated": false, "reason": "2009 matches the stated temporal limit."}
+{"case": "62b375abf63acc42", "correct": true, "hallucinated": false, "reason": "Correctly states that the passage does not name the people."}
+{"case": "6338bc5d48f7109a", "correct": false, "hallucinated": false, "reason": "Gives only the lower endpoint 10 and omits the stated 10-60 minute range."}
+{"case": "63a7622169cd4314", "correct": false, "hallucinated": false, "reason": "At most a corrupted mayfly fragment; the required dragonfly and mayfly pair is missing."}
+{"case": "64753090c9a6a265", "correct": true, "hallucinated": false, "reason": "The phonetic country name clearly identifies Poland."}
+{"case": "647c3fc7d8eee9b6", "correct": false, "hallucinated": true, "reason": "Six contradicts the stated 80-kilometer extent."}
+{"case": "64e4bf6101690b38", "correct": false, "hallucinated": true, "reason": "Twelve years is an unsupported age for couples whose age is not given."}
+{"case": "664a5c0c5c633cff", "correct": false, "hallucinated": false, "reason": "Small recreational ships is supported but does not identify the shipping companies requested."}
+{"case": "66d5c245d8630b21", "correct": false, "hallucinated": false, "reason": "Tiger is a supported entity but the comparison animal requested is lion."}
+{"case": "68334d0a7f56b513", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit international law."}
+{"case": "68b153342c4b9efe", "correct": false, "hallucinated": false, "reason": "Possible spiny tongue is supported but does not supply the absent length or abstain."}
+{"case": "6980c87c36f9ee6d", "correct": false, "hallucinated": true, "reason": "Supplies an unsupported purported hospital name when none is named."}
+{"case": "6ae90145afa21989", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit Wong Kan Seng name."}
+{"case": "6b71a916970f1404", "correct": true, "hallucinated": false, "reason": "The Urdu-script answer identifies Giza and repeats the supported standing-pyramid statement."}
+{"case": "6e013bd4e6af1043", "correct": false, "hallucinated": false, "reason": "Repeats the supported premature-labor investigation instead of identifying an unnamed hospital or abstaining."}
+{"case": "6eea255d662b25b6", "correct": true, "hallucinated": false, "reason": "Correctly abstains because no ticket price is supplied."}
+{"case": "6f200148d8930ae9", "correct": false, "hallucinated": false, "reason": "Olympic family is a supported fragment but not the United States Olympic Committee."}
+{"case": "6f9ddc96e5fba24c", "correct": false, "hallucinated": false, "reason": "Cooperation is supported context but not the requested term civilization."}
+{"case": "724658df09ed3143", "correct": true, "hallucinated": false, "reason": "The answer recovers detection of whether someone is lying despite spelling corruption."}
+{"case": "72debdf563a1cd3a", "correct": true, "hallucinated": false, "reason": "The phonetic spelling identifies Europe."}
+{"case": "758786f154116856", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit claim about detecting lying."}
+{"case": "76580c10a8235ccc", "correct": false, "hallucinated": true, "reason": "500 is an unsupported swimming speed; no speed is given."}
+{"case": "769d8bfaa18a9ca8", "correct": false, "hallucinated": false, "reason": "Savings is a supported fragment but not the requested tobacco product."}
+{"case": "76f7f0fd8439e6aa", "correct": true, "hallucinated": false, "reason": "The phonetic phrase identifies the Middle East region."}
+{"case": "7728e9bb5c276a6b", "correct": false, "hallucinated": false, "reason": "Fichte is in the evidence and question but is not the additional author Schlegel."}
+{"case": "780f951a0a3a0f3a", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit M16 rifle."}
+{"case": "79ede2b790a2e4a9", "correct": true, "hallucinated": false, "reason": "The damaged word is recoverable as enmity, the stated cause."}
+{"case": "7a25e5b8b3e4ec84", "correct": true, "hallucinated": false, "reason": "Correctly abstains because the number of children is absent."}
+{"case": "7b154a44e6f3e652", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit environment."}
+{"case": "7b19f7da47c156fd", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit firmness instruction."}
+{"case": "7beac9c6f0a791ff", "correct": false, "hallucinated": false, "reason": "Twenty years is a supported age fragment, not a time of the accident."}
+{"case": "7d1d5fa52ea58a5f", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit potassium."}
+{"case": "7e350f802f8fd967", "correct": false, "hallucinated": false, "reason": "Alcoholic drink is supported but the other product requested is tobacco."}
+{"case": "7fa0a11870939d34", "correct": true, "hallucinated": false, "reason": "Correctly abstains because no principal scientist is named."}
+{"case": "835a6b18961cf7f7", "correct": false, "hallucinated": true, "reason": "The date 2019-03-14 is not supplied by the evidence."}
+{"case": "84948f67770c3118", "correct": false, "hallucinated": false, "reason": "Film editing is a listed nomination but not the requested sound mixing."}
+{"case": "878590c93942cd3b", "correct": false, "hallucinated": true, "reason": "Introduces an unsupported inner-heart characterization instead of software."}
+{"case": "8a7f3cc1dde67100", "correct": true, "hallucinated": false, "reason": "Two matches the stated number of points."}
+{"case": "8b2749645dd74fb0", "correct": false, "hallucinated": true, "reason": "Express is an unsupported purported square name instead of Saint Peter's Square."}
+{"case": "8bc1dc03e5aabc2b", "correct": false, "hallucinated": false, "reason": "The unintelligible fragment does not identify swimming or make a clear new claim."}
+{"case": "8e51b501d92840cf", "correct": false, "hallucinated": false, "reason": "The damaged word does not reliably recover treasure; no intelligible alternative fact is asserted."}
+{"case": "8f392b0aaac62a99", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit transport system."}
+{"case": "9083b2e796c5468f", "correct": true, "hallucinated": false, "reason": "The phonetic spelling clearly identifies Oliver Sacks."}
+{"case": "914c9277ce8bc44d", "correct": false, "hallucinated": false, "reason": "Repeats the question without answering or making a factual claim."}
+{"case": "9323250c48fb6448", "correct": false, "hallucinated": true, "reason": "18 contradicts the stated age 53."}
+{"case": "9463970970d23379", "correct": false, "hallucinated": false, "reason": "The corrupted bean fragment does not name a particular plant or correctly abstain."}
+{"case": "956545cef3f5f02f", "correct": true, "hallucinated": false, "reason": "The spelling variants still identify the pyramid sound-and-light show."}
+{"case": "95aa73705ddcc7d4", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit Middle East region."}
+{"case": "990041d46511c364", "correct": false, "hallucinated": false, "reason": "Use is a supported fragment but not the requested ships."}
+{"case": "9c98405672272f29", "correct": true, "hallucinated": false, "reason": "Correctly abstains because no invention year is supplied."}
+{"case": "9d165f1e10115aa0", "correct": false, "hallucinated": false, "reason": "Repeats supported Olympic-family context without naming the committee."}
+{"case": "9d3f2911cbe59d41", "correct": false, "hallucinated": false, "reason": "The truncated fragment does not identify South Africa reliably."}
+{"case": "9e2f0a15d0f320d0", "correct": true, "hallucinated": false, "reason": "Pyramid sound is a shortened but identifiable name for the one show specified in the passage."}
+{"case": "9ef4ea990f8eaa3a", "correct": true, "hallucinated": false, "reason": "Correctly abstains because no numerical speed of Earth is supplied."}
+{"case": "a003fc9e0f09386f", "correct": false, "hallucinated": true, "reason": "Claims that the outer layer is called dust, contradicting the stated name crust."}
+{"case": "a1bd79280fbd707b", "correct": false, "hallucinated": false, "reason": "Below alone omits the sea and is insufficient to locate the thin layer."}
+{"case": "a223f211837e9136", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit Plitvice park name."}
+{"case": "a54783ab5cc17c21", "correct": false, "hallucinated": true, "reason": "The unsupported statement about not being patient/brave does not answer the absent accident time."}
+{"case": "a8aa21d49ef2820f", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit Chandra Shekhar Solanki name."}
+{"case": "aa2eb7915e4d6175", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit six inches."}
+{"case": "ab1319c4afaf495a", "correct": true, "hallucinated": false, "reason": "The nasalized spelling is recoverable as Rome."}
+{"case": "adc8ac5fc08ecc31", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit 80-kilometer extent."}
+{"case": "affe1587f30d116a", "correct": true, "hallucinated": false, "reason": "Davey will take over identifies the stated replacement by surname."}
+{"case": "b0a1be079aca3d99", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit Oliver Sacks name."}
+{"case": "b2816bfe0cc024e8", "correct": false, "hallucinated": false, "reason": "The damaged treasure fragment is not reliably intelligible and supplies no clear alternative factual claim."}
+{"case": "b42f88327b872ae6", "correct": false, "hallucinated": true, "reason": "1939 is an unsupported year and does not give the requested day and month."}
+{"case": "b650905123262cfd", "correct": true, "hallucinated": false, "reason": "The phonetic spelling identifies Europe."}
+{"case": "bd2e0d0cfa23552a", "correct": false, "hallucinated": false, "reason": "Unintelligible repeated text does not supply a date or assert a clear factual proposition."}
+{"case": "bdb27202b8d5c8c0", "correct": false, "hallucinated": false, "reason": "Three is only one endpoint and omits the stated one-to-three range."}
+{"case": "c0374dff45a9bb81", "correct": true, "hallucinated": false, "reason": "The Urdu-script name identifies Giza."}
+{"case": "c20f48544b0d5ae5", "correct": true, "hallucinated": false, "reason": "Correctly abstains because no date is supplied."}
+{"case": "c5d6539a27774fc7", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit central nervous system."}
+{"case": "c64dacd523193099", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit two weeks."}
+{"case": "c77dcf3e993bdc45", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit lava."}
+{"case": "cb584d2f6580b503", "correct": true, "hallucinated": false, "reason": "Rome matches the stated city."}
+{"case": "cc80a29e018dad76", "correct": true, "hallucinated": false, "reason": "Correctly abstains because the team is unnamed."}
+{"case": "cdf0cc15ff00317a", "correct": true, "hallucinated": false, "reason": "North Carolina is the correct state in English."}
+{"case": "cfe0bee01fe7f8ea", "correct": false, "hallucinated": false, "reason": "Hot chocolate is a supported object but not the requested country Belgium."}
+{"case": "d065e8366a8b8994", "correct": false, "hallucinated": false, "reason": "Mentions train and other transport but omits the second required item, car."}
+{"case": "d2ad8365a558153a", "correct": true, "hallucinated": false, "reason": "Correctly abstains because the people are unnamed."}
+{"case": "d2d58eee90127c0f", "correct": false, "hallucinated": true, "reason": "England is not supplied by the evidence and does not give the requested city Cambridge."}
+{"case": "d311a2f7809561e1", "correct": false, "hallucinated": true, "reason": "1000 contradicts the stated approximate population 800."}
+{"case": "d33ab1f6a8a909ba", "correct": false, "hallucinated": true, "reason": "Kepsan is not a reliable identification of Gibson and supplies an unsupported personal name."}
+{"case": "d398289676eae310", "correct": true, "hallucinated": false, "reason": "Correctly abstains because the northern region is unnamed."}
+{"case": "d5911d704215dd54", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit hiking or long-walking route."}
+{"case": "d6549328782885eb", "correct": false, "hallucinated": true, "reason": "The transliterated reply substitutes Li Sien Lung for the deputy-prime-minister name, conflating the two roles."}
+{"case": "d6f10c13084c1fe9", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit total 330000."}
+{"case": "e1d1406d53abbff7", "correct": false, "hallucinated": false, "reason": "Metal-like is a supported fragment but does not identify potassium."}
+{"case": "e2554c2790372d27", "correct": false, "hallucinated": true, "reason": "Claims that rip currents are a flow of rocks/materials, contradicting the stated flow of returning waves."}
+{"case": "e2bc8efb74982430", "correct": false, "hallucinated": true, "reason": "Introduces unsupported cave-related boots rather than the stated riding boots."}
+{"case": "e3be620975c3ef77", "correct": false, "hallucinated": true, "reason": "Five is an unsupported swimming speed; the passage's fivefold figure describes pulling force."}
+{"case": "e3e9b029ddf5d896", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit standoff year 1889."}
+{"case": "e7cdfb14ac21c611", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit mutual enmity."}
+{"case": "ec7e7266e156db1f", "correct": false, "hallucinated": false, "reason": "At most identifies dragonfly; the required second insect mayfly is missing."}
+{"case": "efa233ace2157e84", "correct": false, "hallucinated": false, "reason": "Feels strange is supported context but does not identify whose moisture."}
+{"case": "f75156f01d181693", "correct": true, "hallucinated": false, "reason": "The phonetic response is recoverable as swimming is safe, identifying the requested activity."}
+{"case": "f79a3211ac76d053", "correct": false, "hallucinated": false, "reason": "The fragment does not identify riding boots or assert a clear additional fact."}
+{"case": "f79b0b360432fde4", "correct": false, "hallucinated": false, "reason": "The corrupted transport fragment does not identify ships."}
+{"case": "fa0ad59a185677c5", "correct": false, "hallucinated": false, "reason": "International agreements is supported context but not the international law requested."}
+{"case": "fc0c27017eb50393", "correct": false, "hallucinated": false, "reason": "Proton is supported but the question explicitly asks for the other particle, neutron."}
+{"case": "fcfad0cf9851bdb4", "correct": true, "hallucinated": false, "reason": "The phonetic country name clearly identifies Belgium."}
+{"case": "fe6bf419973f2115", "correct": false, "hallucinated": true, "reason": "Francis is an unsupported storm name rather than Jerry."}
+{"case": "031a0f815321e5cb", "correct": true, "hallucinated": false, "reason": "Upolu is correctly identified with a minor vowel spelling variant."}
+{"case": "0a67bed720ff3a2f", "correct": false, "hallucinated": false, "reason": "Identifies Upolu in a damaged phrase but then explicitly abstains, leaving a contradictory answer."}
+{"case": "137274be26a4fc11", "correct": true, "hallucinated": false, "reason": "The damaged spelling still identifies the pyramid sound-and-light show without an intelligible added claim."}
+{"case": "2008db1d1c32b23b", "correct": false, "hallucinated": true, "reason": "Thirty minutes substitutes an unsupported precise duration for the stated 10-60 minute range."}
+{"case": "2561aedfda1751f6", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit dam year 1963."}
+{"case": "3ffe8610fbab81bd", "correct": true, "hallucinated": false, "reason": "The final word is recoverable as software; the malformed prefix adds no clear factual claim."}
+{"case": "4aa84275cfd36fcd", "correct": false, "hallucinated": true, "reason": "Fifty is an unsupported swimming speed; the passage supplies no speed."}
+{"case": "55e1b934bb261a54", "correct": false, "hallucinated": false, "reason": "The damaged fragment does not identify riding boots or assert an intelligible new fact."}
+{"case": "56544f6532a0893a", "correct": false, "hallucinated": false, "reason": "Rocks and dust is supported surface composition but not the requested outer-layer name crust."}
+{"case": "5c1cc418fa9b0048", "correct": false, "hallucinated": true, "reason": "Assigns Li Sien Lung to the deputy-prime-minister role, whereas the passage names Wong Kan Seng."}
+{"case": "6389429259dbf8f9", "correct": true, "hallucinated": false, "reason": "The spelling identifies crust, the stated name of the outer layer."}
+{"case": "8d048e4e542accc1", "correct": false, "hallucinated": true, "reason": "French is an unsupported storm identity rather than the named Jerry."}
+{"case": "962d0a1df6a0e423", "correct": false, "hallucinated": false, "reason": "Tax is passage context but not the requested additional product tobacco."}
+{"case": "9f1f3655010319a9", "correct": true, "hallucinated": false, "reason": "The damaged final word is recoverable as software; the prefix adds no intelligible factual assertion."}
+{"case": "a1b99843b0e6d005", "correct": false, "hallucinated": false, "reason": "Wonder is a supported description but does not locate the pyramid in Giza."}
+{"case": "afa35b707c62ab78", "correct": true, "hallucinated": false, "reason": "Correctly identifies Latin as the language used for religious rites."}
+{"case": "be1dc73140dcada1", "correct": false, "hallucinated": false, "reason": "Transport is supported context but does not name ships as the requested means."}
+{"case": "c0c6cb426bcbced2", "correct": false, "hallucinated": false, "reason": "The corrupted family phrase does not identify the United States Olympic Committee and adds no clear new fact."}
+{"case": "e52b8354300c3e14", "correct": true, "hallucinated": false, "reason": "The damaged sentence recovers waves returning after reaching the seashore, the requested description."}
+{"case": "e617ede00c9fbc76", "correct": false, "hallucinated": false, "reason": "The corrupted most-people fragment does not identify Latin or assert a clear unsupported fact."}
+{"case": "f10493e85d1a6c49", "correct": false, "hallucinated": false, "reason": "The unintelligible fragment does not identify riding boots or assert a clear factual proposition."}
+{"case": "fe068340e2074b24", "correct": true, "hallucinated": false, "reason": "Giza matches the supplied location with an accepted spelling variant."}
+{"case": "ffcaa74491829916", "correct": false, "hallucinated": false, "reason": "Repeats a damaged candidacy-announcement fragment without naming La Plata."}
+{"case": "0052c00abc282fd3", "correct": true, "hallucinated": false, "reason": "Correctly names the pyramid sound-and-light show."}
+{"case": "01abd2f5abfb9b80", "correct": true, "hallucinated": false, "reason": "Thin soles is an explicit supported description of the kind of boots worn."}
+{"case": "05c9dc1d0f1b5fa5", "correct": true, "hallucinated": false, "reason": "The English name identifies the stated Plitvice National Park."}
+{"case": "0f7b1087cfc5e60b", "correct": false, "hallucinated": false, "reason": "Mentions waves and a rock context but omits that the waves return after striking the shore."}
+{"case": "17b1b4ad6a8c9d56", "correct": false, "hallucinated": true, "reason": "Introduces an unsupported Islamic-city/hospital characterization instead of Cambridge."}
+{"case": "18ad3a0c9ed043f9", "correct": false, "hallucinated": true, "reason": "Invents a 50-kilometer-per-hour swimming speed absent from the passage."}
+{"case": "1a80d31779a38735", "correct": true, "hallucinated": false, "reason": "Two matches the stated number of orders."}
+{"case": "1a84b692edb6d9fb", "correct": true, "hallucinated": false, "reason": "Correctly supplies both Catalan and Spanish."}
+{"case": "1ccd480d20e9b4dd", "correct": true, "hallucinated": false, "reason": "Correctly abstains because the creature's length is not given."}
+{"case": "1fbb2e2fde47161b", "correct": true, "hallucinated": false, "reason": "Chandra Shekhar is an identifying given-name portion of the sole named police superintendent."}
+{"case": "2904a57d4e763497", "correct": true, "hallucinated": false, "reason": "Six matches the stated rainfall estimate in inches."}
+{"case": "3310a729ad7361d7", "correct": true, "hallucinated": false, "reason": "Latin is the stated language for religious rites."}
+{"case": "34f25a12a869c97b", "correct": true, "hallucinated": false, "reason": "53 matches Cuomo's stated age."}
+{"case": "371c4bdef80239be", "correct": true, "hallucinated": false, "reason": "Correctly names both dragonfly and mayfly."}
+{"case": "372745a3addc3e7e", "correct": true, "hallucinated": false, "reason": "34 matches the stated overheating case count."}
+{"case": "3947cebb09f11c80", "correct": false, "hallucinated": true, "reason": "Claims the unnamed center had a very big name, a characterization not supported by the evidence."}
+{"case": "399f94119ab8dea2", "correct": false, "hallucinated": false, "reason": "Repeats the organization's full name instead of supplying the requested abbreviation USGS."}
+{"case": "3cacd18b7db62ed5", "correct": true, "hallucinated": false, "reason": "Correctly supplies both train and car."}
+{"case": "3d24578b6b3d95a9", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit neutron."}
+{"case": "3fb349b10433e171", "correct": false, "hallucinated": true, "reason": "Introduces aircraft operation and transformation, unsupported activities instead of swimming."}
+{"case": "456d047dc4e1449a", "correct": true, "hallucinated": false, "reason": "The spelling clearly identifies France without an added universal ownership claim."}
+{"case": "45a1ae64942b2338", "correct": true, "hallucinated": false, "reason": "Middle East is the stated region."}
+{"case": "50f11ef60f79bcff", "correct": true, "hallucinated": false, "reason": "Correctly names the boda-boda taxi."}
+{"case": "5578d777c95cfca4", "correct": true, "hallucinated": false, "reason": "Ed Davey is the stated replacement."}
+{"case": "666e50868887bf7f", "correct": false, "hallucinated": false, "reason": "Maria is a supported passage term but the requested material is lava."}
+{"case": "687f65dae62c6ec3", "correct": true, "hallucinated": false, "reason": "29 matches the stated age."}
+{"case": "6d0e115f75f8bd72", "correct": true, "hallucinated": false, "reason": "Correctly names Wong Kan Seng."}
+{"case": "6d1334938e15ac6a", "correct": true, "hallucinated": false, "reason": "Treasure is the requested kind of map that the writing is not."}
+{"case": "6fec1f2f5640c812", "correct": true, "hallucinated": false, "reason": "Upolu is the stated island."}
+{"case": "72adcd6d7a0487e7", "correct": false, "hallucinated": false, "reason": "Repeats large companies without identifying any company or acknowledging that none is named."}
+{"case": "7bd39f8c58252c4c", "correct": false, "hallucinated": true, "reason": "Aircraft operation is an unsupported claimed safe activity instead of swimming."}
+{"case": "7bf8c9925f58deaf", "correct": true, "hallucinated": false, "reason": "Jerry is the stated storm name."}
+{"case": "7f22835b5ec08318", "correct": true, "hallucinated": false, "reason": "Transport system is the stated subject of complaints."}
+{"case": "8300647aa423c8f0", "correct": true, "hallucinated": false, "reason": "Correctly states that activity is studied between two points."}
+{"case": "85e3e63276d11daf", "correct": false, "hallucinated": false, "reason": "Thirty is passage context for females/cubs, not the one-to-three adult males requested."}
+{"case": "86468fdb3c70e863", "correct": false, "hallucinated": false, "reason": "Declines to supply a short answer despite the explicit Belgium reference."}
+{"case": "88a0f556e3e6dbad", "correct": false, "hallucinated": true, "reason": "240 is an unsupported numerical speed for Earth."}
+{"case": "8b43e402c6e489ba", "correct": true, "hallucinated": false, "reason": "Olympic Committee identifies the committee in context although its United States qualifier is omitted."}
+{"case": "8bd33d5efce6fe4c", "correct": true, "hallucinated": false, "reason": "Correctly names international law."}
+{"case": "8c5916710e4921e8", "correct": false, "hallucinated": false, "reason": "The malformed sentence does not clearly state that the relevant cues are in people's environment."}
+{"case": "8d65109340a913c5", "correct": true, "hallucinated": false, "reason": "Correctly identifies germ-line cells."}
+{"case": "8ede33cb6ab4eae0", "correct": true, "hallucinated": false, "reason": "Ships is the stated effective means."}
+{"case": "922c2c763137bddc", "correct": true, "hallucinated": false, "reason": "The phrase includes software as the requested containing system without adding another claim."}
+{"case": "95108cf274a9c136", "correct": true, "hallucinated": false, "reason": "1200 GMT matches the stated approximate time."}
+{"case": "952d6187dc03e102", "correct": false, "hallucinated": true, "reason": "Ten years old is an invented age; the couples' ages are not supplied."}
+{"case": "9a74cd3c9cee8ab7", "correct": true, "hallucinated": false, "reason": "Paris is the stated city."}
+{"case": "9cb7851da72f8b0b", "correct": true, "hallucinated": false, "reason": "Correctly names Saint Peter's Square."}
+{"case": "9cbba0b4a3e01f3c", "correct": true, "hallucinated": false, "reason": "Gibson is the stated person who died."}
+{"case": "9db3f2fd820d502a", "correct": true, "hallucinated": false, "reason": "Correctly recovers whether the person is lying."}
+{"case": "9dcdd35a0ee47711", "correct": true, "hallucinated": false, "reason": "Crust is the stated name of the outer layer."}
+{"case": "9e2bdbdb1b898c88", "correct": true, "hallucinated": false, "reason": "Correctly names the Conservative Party."}
+{"case": "9fedcd8c04fb0c29", "correct": true, "hallucinated": false, "reason": "Correctly names Dunlap Broadsides."}
+{"case": "a499d823c2662a5f", "correct": false, "hallucinated": true, "reason": "Behavior is an unsupported target of MS in this passage instead of the central nervous system."}
+{"case": "ab59b12e01d4c7a5", "correct": true, "hallucinated": false, "reason": "Mutual enmity is the stated explanation."}
+{"case": "b15c9b442957d820", "correct": false, "hallucinated": false, "reason": "Egyptians is a supported builder identity but not the deceased pharaoh being honored."}
+{"case": "b8c8e9d2fa9ecfa6", "correct": true, "hallucinated": false, "reason": "La Plata is the stated announcement city."}
+{"case": "b98ae54d89005464", "correct": true, "hallucinated": false, "reason": "Correctly identifies a hiking or long-walking route."}
+{"case": "bad49f09bef7514b", "correct": false, "hallucinated": false, "reason": "Repeats support for scientists without identifying the unnamed principal scientist or abstaining."}
+{"case": "bbfb1cf59dbb8c6e", "correct": true, "hallucinated": false, "reason": "Shipping company is the stated user of the service."}
+{"case": "c4e7c2478476b190", "correct": true, "hallucinated": false, "reason": "Correctly identifies all South African national parks."}
+{"case": "c8a975b55a49aa5b", "correct": false, "hallucinated": false, "reason": "Elevated is a supported fragment but refers to where the layer is thick, not the requested thin location."}
+{"case": "c9ac3672cb4168c4", "correct": true, "hallucinated": false, "reason": "Two weeks is the stated duration."}
+{"case": "c9e9020966f3ff35", "correct": false, "hallucinated": true, "reason": "The date 12/12/1939 is not supplied by the evidence."}
+{"case": "cbf97786268bfb6b", "correct": true, "hallucinated": false, "reason": "Correctly supplies 80 kilometers; the accompanying 50-mile equivalent is also explicitly supported."}
+{"case": "ccf0a209fe3dc387", "correct": false, "hallucinated": false, "reason": "Hospital is a generic supported setting but the particular hospital is not named and the response does not abstain."}
+{"case": "cdc22478ee165d9f", "correct": true, "hallucinated": false, "reason": "Katrina is the stated hurricane."}
+{"case": "cdce2d1693d6850e", "correct": true, "hallucinated": false, "reason": "Poland is the stated additional country."}
+{"case": "ce0862ac61bbc458", "correct": false, "hallucinated": false, "reason": "Sixty minutes is only one endpoint and omits the stated 10-60 minute range."}
+{"case": "cf2f847b369775eb", "correct": false, "hallucinated": false, "reason": "Repeats listed editing/score/production nominations instead of sound mixing."}
+{"case": "d1f90c11f578cc46", "correct": true, "hallucinated": false, "reason": "1963 matches the stated dam year."}
+{"case": "d241fef9aee6ab5a", "correct": true, "hallucinated": false, "reason": "Civilization is the stated name for the shared culture."}
+{"case": "d2975b28b9053845", "correct": true, "hallucinated": false, "reason": "M16 is the stated rifle."}
+{"case": "d5fa8f1b61b7c9c0", "correct": true, "hallucinated": false, "reason": "Correctly names Oliver Sacks."}
+{"case": "d983a513f66cbe27", "correct": true, "hallucinated": false, "reason": "Europe is the stated continent."}
+{"case": "db94cb67119b37ae", "correct": true, "hallucinated": false, "reason": "Schlegel is the additional named author."}
+{"case": "de90e6a3b7613013", "correct": false, "hallucinated": false, "reason": "Repeats supported effects of moisture without identifying the hands as its source."}
+{"case": "dff9d9a90885322d", "correct": true, "hallucinated": false, "reason": "NextGen is the stated fuel-saving system."}
+{"case": "e0cc36438d77a1a0", "correct": true, "hallucinated": false, "reason": "6.5 matches the stated threshold."}
+{"case": "e7b3f81d6ccb2e88", "correct": true, "hallucinated": false, "reason": "330000 is the stated total population denominator."}
+{"case": "f3055b4021693c60", "correct": true, "hallucinated": false, "reason": "800 matches the approximate population."}
+{"case": "f5e9947ac540e706", "correct": true, "hallucinated": false, "reason": "1889 matches the stated standoff year."}
+{"case": "f62cf034c91ca682", "correct": true, "hallucinated": false, "reason": "Giza is the stated location."}
+{"case": "f660719ef1bd540e", "correct": true, "hallucinated": false, "reason": "Mosquitoes are the stated transmission route."}
+{"case": "f9728f77a9471f5b", "correct": true, "hallucinated": false, "reason": "Potassium is the stated other element."}

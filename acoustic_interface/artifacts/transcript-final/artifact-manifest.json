@@ -1,0 +1,9 @@
+{
+  "run_id": "transcript-only-final100-v1",
+  "config_sha256": "ec0f9eac481058fe6564a091b37817a360be45d122946cf2e333f9789dd86928",
+  "sha256": {
+    "result.json": "57c46f3f32fb9a898cd073b8f805ea5680e9562ae7ba3f9ba958b7e39ee47ff7",
+    "predictions.jsonl": "caf6962512cff168fe83612936728229adb51dc7f1c105119a033ea50e4843d1",
+    "references.jsonl": "92518d2c5e2b63a233395846cec032e09b634022f9c22dddb7e870aad2591e4a"
+  }
+}

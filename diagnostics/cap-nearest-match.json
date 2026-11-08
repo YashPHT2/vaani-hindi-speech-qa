@@ -1,0 +1,14 @@
+{
+  "pairs": 30,
+  "median_abs_duration_gap_s": 0.17999999999999972,
+  "capped_corpus_wer": 1.1084953940634596,
+  "matched_control_corpus_wer": 0.6075794621026895,
+  "capped_mean_view_wer": 1.261610898987965,
+  "matched_control_mean_view_wer": 0.6182849203079085,
+  "paired_mean_view_wer_delta": 0.6433259786800566,
+  "paired_median_view_wer_delta": 0.4444444444444444,
+  "pairs_with_worse_wer_when_capped": 28,
+  "capped_correct_rate": 0.23333333333333334,
+  "matched_control_correct_rate": 0.3,
+  "capped_hyp_longer_than_control": 17
+}

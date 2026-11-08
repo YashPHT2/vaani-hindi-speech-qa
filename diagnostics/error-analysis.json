@@ -1,0 +1,145 @@
+{
+  "overall": {
+    "views": 200,
+    "reference_words": 4844,
+    "sub": 2582,
+    "del": 486,
+    "ins": 377,
+    "wer": 0.7111890999174236,
+    "correct_rate": 0.305,
+    "hallucination_rate": 0.03,
+    "abstention_rate": 0.61,
+    "sub_share": 0.7494920174165457,
+    "del_share": 0.14107402031930333,
+    "ins_share": 0.10943396226415095
+  },
+  "clean": {
+    "views": 100,
+    "reference_words": 2422,
+    "sub": 1156,
+    "del": 158,
+    "ins": 205,
+    "wer": 0.6271676300578035,
+    "correct_rate": 0.37,
+    "hallucination_rate": 0.0,
+    "abstention_rate": 0.51,
+    "sub_share": 0.761026991441738,
+    "del_share": 0.10401579986833442,
+    "ins_share": 0.13495720868992758
+  },
+  "noise_10db": {
+    "views": 100,
+    "reference_words": 2422,
+    "sub": 1426,
+    "del": 328,
+    "ins": 172,
+    "wer": 0.7952105697770437,
+    "correct_rate": 0.24,
+    "hallucination_rate": 0.06,
+    "abstention_rate": 0.71,
+    "sub_share": 0.7403946002076843,
+    "del_share": 0.1703011422637591,
+    "ins_share": 0.0893042575285566
+  },
+  "by_wer_quartile": [
+    {
+      "quartile": 1,
+      "views": 50,
+      "wer": 0.4605678233438486,
+      "correct_rate": 0.42,
+      "abstention_rate": 0.38,
+      "hallucination_rate": 0.0
+    },
+    {
+      "quartile": 2,
+      "views": 50,
+      "wer": 0.5856540084388185,
+      "correct_rate": 0.34,
+      "abstention_rate": 0.5,
+      "hallucination_rate": 0.04
+    },
+    {
+      "quartile": 3,
+      "views": 50,
+      "wer": 0.7035358114233907,
+      "correct_rate": 0.3,
+      "abstention_rate": 0.68,
+      "hallucination_rate": 0.06
+    },
+    {
+      "quartile": 4,
+      "views": 50,
+      "wer": 1.079968944099379,
+      "correct_rate": 0.16,
+      "abstention_rate": 0.88,
+      "hallucination_rate": 0.02
+    }
+  ],
+  "answerable_views": {
+    "clean": {
+      "views": 80,
+      "reference_words": 1890,
+      "sub": 900,
+      "del": 138,
+      "ins": 190,
+      "wer": 0.6497354497354497,
+      "correct_rate": 0.2375,
+      "hallucination_rate": 0.0,
+      "abstention_rate": 0.4375
+    },
+    "noise_10db": {
+      "views": 80,
+      "reference_words": 1890,
+      "sub": 1116,
+      "del": 242,
+      "ins": 158,
+      "wer": 0.8021164021164021,
+      "correct_rate": 0.0875,
+      "hallucination_rate": 0.0625,
+      "abstention_rate": 0.675
+    }
+  },
+  "unanswerable_views": {
+    "clean": {
+      "views": 20,
+      "reference_words": 532,
+      "sub": 256,
+      "del": 20,
+      "ins": 15,
+      "wer": 0.5469924812030075,
+      "correct_rate": 0.9,
+      "hallucination_rate": 0.0,
+      "abstention_rate": 0.8
+    },
+    "noise_10db": {
+      "views": 20,
+      "reference_words": 532,
+      "sub": 310,
+      "del": 86,
+      "ins": 14,
+      "wer": 0.7706766917293233,
+      "correct_rate": 0.85,
+      "hallucination_rate": 0.05,
+      "abstention_rate": 0.85
+    }
+  },
+  "cap_concentration": {
+    "capped_views": 30,
+    "capped_share_of_views": 0.15,
+    "capped_share_of_word_errors": 0.3143686502177068,
+    "capped_share_of_reference_words": 0.20169281585466556,
+    "capped_wer": 1.1084953940634596,
+    "uncapped_wer": 0.6108094129816395,
+    "capped_correct_rate": 0.23333333333333334,
+    "uncapped_correct_rate": 0.3176470588235294,
+    "capped_insertion_share": 0.21421975992613113,
+    "uncapped_insertion_share": 0.06138865368331922
+  },
+  "abstention": {
+    "overall": 0.61,
+    "answerable": 0.55625,
+    "unanswerable": 0.825,
+    "of_abstentions_that_were_correct": 33,
+    "of_abstentions_that_were_incorrect": 89
+  }
+}

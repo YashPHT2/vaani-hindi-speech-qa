@@ -1,0 +1,8 @@
+{
+  "reviewer": "native research director, gpt-6-astra, medium reasoning",
+  "kind": "model judgment from written publisher evidence",
+  "cases": 20,
+  "blinding": "No primary labels, arm mapping or held-out raw answers opened before freezing these judgments",
+  "selection": "Preregistered four lowest case hashes per populated answerability/output stratum",
+  "labels_sha256": "828946102eea8423fc37ad657212d132ffddbdc03b35e9effc83946d0e3a6e3a"
+}

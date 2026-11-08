@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+data/audio/
+data/*.parquet
+cache-upload/
+.cache/
+release/
+tmp/

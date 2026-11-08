@@ -1,0 +1,20 @@
+{
+  "records/bench-slot-labels.jsonl": "5f438b2ddba81947b80eff894b44433c5f2e0f5619d684bae0988789863cbcc5",
+  "records/bench-summary.json": "a5b1373ebb87710c37300dfe17177e1a312ff9b33cc3624e5d8e2466b0f03626",
+  "records/bench-system-outcomes.json": "9bad64ab6da7bdd69558fa002f281b93fedbb38e484d354a91bb20e4bec62cd1",
+  "records/m1-report-values.json": "4bdc5699e861cf6f875fb3f6db69e6c44e87eb222296f89497dd4c344f37b70c",
+  "records/m1-scored-slots.jsonl": "d8e366f44d1d27fb2e9c0127cf33508b9d8a67f5b608b212b3565d3910a2b441",
+  "records/m5-answer-rows.jsonl": "6c775cfef52e8a93e4b37e75c595e1ad6b9d6154ab635ce7407917ed91587af4",
+  "records/m5-diagnostics.json": "397d5bb18ac89bf50ef701e470504400e8252b39c8c819773d17f661b39bc587",
+  "records/m5-questions.json": "de468be9e05d9e8c8166761245763183c0302c7fa805ca08af5395bfb943f45b",
+  "records/m5-report-values.json": "6e32cb6a93378b93229a0eb9deb826094fbc1c3aa7852fcc404be2cd303849b7",
+  "records/m5-routing-audit.json": "cc966051f184a3df396699306e1f34f73a36bb3661466a6a73706d8698898b92",
+  "records/parser-census.json": "0e67b8d15728fb57695e33264d6d897489ec8a20cf9efb398cd16fbc76280853",
+  "records/parser-defects.json": "03645f8cefe4d832202f6719c311af07a1b665d3d38347f3d69805f10413f1fe",
+  "records/parser-label-changes.json": "da164bcacf4c2df0b640662b1a0ce055664188c407f7364f3fa9129f9679c0ad",
+  "records/parser-lexicon-fix.json": "442c103bdc1fc193b6a16951f7305de78f41a2367a6ae5450b5f193adb0dc48d",
+  "records/parser-slot-table.jsonl": "0c8a5bd24ef066326e2a1e3f5d03a30dd4c209a0271050efe850ec6864751efa",
+  "records/probe-report-values.json": "28e86de7cd7aa686929249d095b92661da476b82a2fb7db4a1e6ff571c3bee3a",
+  "records/probe-slots.npz": "28a06c1027d26e99ff648b83393f551c2a902f9650fb8460c2b5eeeeb81741cc",
+  "records/propagation.json": "d732cad77c2c37eef2c84bb10b7c0711fac2a6b95add891f39e6b5784f145741"
+}

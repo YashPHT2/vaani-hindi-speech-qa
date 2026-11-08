@@ -1,0 +1,8 @@
+{
+  "oracle": {
+    "rows": 200,
+    "sources": 100,
+    "prediction_sha256": "0432b4cf21bdcb7d77d6995c4fc8599101d5e6cd3f47e05aad00397dae7bb5dc",
+    "peak_gpu_allocated_bytes": 3177476096
+  }
+}

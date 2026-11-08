@@ -1,0 +1,20 @@
+{"case": "0052c00abc282fd3", "correct": true, "hallucinated": false, "reason": "Names the specified pyramid sound-and-light show exactly."}
+{"case": "0126d68c895d75ec", "correct": false, "hallucinated": true, "reason": "The asserted title is substantially corrupted and does not identify the stated Dunlap Broadsides reliably."}
+{"case": "01abd2f5abfb9b80", "correct": false, "hallucinated": false, "reason": "Thin soles are supported but the fragment omits the requested riding-boot type; partial attribute only."}
+{"case": "020c00cc5a569e6f", "correct": false, "hallucinated": false, "reason": "Repeats the supported word pods but supplies no particular plant name or appropriate abstention."}
+{"case": "02fb727835664436", "correct": false, "hallucinated": true, "reason": "Mentions mosquitoes but adds an unsupported location in hair; fails the strict whole-answer criterion."}
+{"case": "0316d751a5f3dd79", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit time 1200 GMT."}
+{"case": "031a0f815321e5cb", "correct": true, "hallucinated": false, "reason": "Upolu is identifiable despite the short versus long final vowel spelling."}
+{"case": "07bf97e91780fcf1", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit city Paris."}
+{"case": "0cdba3f1f5971023", "correct": false, "hallucinated": true, "reason": "Invents an invention year absent from the evidence."}
+{"case": "0cf4367a390a417d", "correct": false, "hallucinated": true, "reason": "Invents a numerical speed absent from the evidence."}
+{"case": "0e85282788301871", "correct": false, "hallucinated": false, "reason": "Repeats the supported tentative forked-tongue statement rather than answering length or abstaining."}
+{"case": "12b003dda7f6c3a5", "correct": false, "hallucinated": false, "reason": "Abstains despite the explicit approximate population 800."}
+{"case": "14ad89752359eef2", "correct": false, "hallucinated": false, "reason": "Abstains despite the intended explicit one-to-three male range."}
+{"case": "1894b2a99e01fac1", "correct": true, "hallucinated": false, "reason": "Appropriately abstains because harbor depth is absent."}
+{"case": "1a80d31779a38735", "correct": true, "hallucinated": false, "reason": "Correctly gives the two orders."}
+{"case": "1a84b692edb6d9fb", "correct": true, "hallucinated": false, "reason": "Correctly names both official languages."}
+{"case": "1ccd480d20e9b4dd", "correct": true, "hallucinated": false, "reason": "Appropriately abstains because animal length is absent."}
+{"case": "1cdff393c150bccd", "correct": true, "hallucinated": false, "reason": "Appropriately abstains because the scientist count is absent."}
+{"case": "3310a729ad7361d7", "correct": true, "hallucinated": false, "reason": "Correctly names Latin."}
+{"case": "6eea255d662b25b6", "correct": true, "hallucinated": false, "reason": "Appropriately abstains because ticket price is absent."}

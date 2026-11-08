@@ -1,0 +1,1802 @@
+[
+  {
+    "source_id": 1674,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "85e80f402c306f8de841a3b086365e1929b49e4951c3a6531b0a273a694ba8e1",
+    "original_audio_path": "16577983044171271983.wav",
+    "question_sha256": "e93530ea96de4a33eb06bb4f96e0ed813bbef7312f80dd89c2ec02b4e62fa9b2",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1674,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "85e80f402c306f8de841a3b086365e1929b49e4951c3a6531b0a273a694ba8e1",
+    "original_audio_path": "16577983044171271983.wav",
+    "question_sha256": "e93530ea96de4a33eb06bb4f96e0ed813bbef7312f80dd89c2ec02b4e62fa9b2",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1881,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "0061104fb01db6b01eb9a9f2ca33a4d79a86af7f58b5c55827e4a21ed10a98cd",
+    "original_audio_path": "2815903452265068889.wav",
+    "question_sha256": "e0c24f48612afb84936ed31fc3987d96fad676cba8b8797ce9898f6ab5fc24c7",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1881,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "0061104fb01db6b01eb9a9f2ca33a4d79a86af7f58b5c55827e4a21ed10a98cd",
+    "original_audio_path": "2815903452265068889.wav",
+    "question_sha256": "e0c24f48612afb84936ed31fc3987d96fad676cba8b8797ce9898f6ab5fc24c7",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1951,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "b4b49ea52856cf707f603f17aed01670b6471973a8aae5ea1e2f6c48d3761d24",
+    "original_audio_path": "17231982416830844529.wav",
+    "question_sha256": "52643635e71ea9dafbc6e7fd1a0086332c11094e97e6dd3a05c78202af3b7ffe",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1951,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "b4b49ea52856cf707f603f17aed01670b6471973a8aae5ea1e2f6c48d3761d24",
+    "original_audio_path": "17231982416830844529.wav",
+    "question_sha256": "52643635e71ea9dafbc6e7fd1a0086332c11094e97e6dd3a05c78202af3b7ffe",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1845,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "896e1636b9918f5362393104b25cdd38693cd839415f1c99b2486dd3b93c79d8",
+    "original_audio_path": "16123362965198915963.wav",
+    "question_sha256": "a6cc7b553b35904d413a37c5ebf5bdab39c7435dc3e90fba7a9721fb92097369",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1845,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "896e1636b9918f5362393104b25cdd38693cd839415f1c99b2486dd3b93c79d8",
+    "original_audio_path": "16123362965198915963.wav",
+    "question_sha256": "a6cc7b553b35904d413a37c5ebf5bdab39c7435dc3e90fba7a9721fb92097369",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1665,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "fdb61061029b664a316c945f76c05d870031676ca833ecbc4fe8bbb62e2905f0",
+    "original_audio_path": "2084431273077832179.wav",
+    "question_sha256": "c0dd666cf466a304aea7abd1ef160faebde8e0c4ae61e2c5c27c5801ca578a72",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1665,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "fdb61061029b664a316c945f76c05d870031676ca833ecbc4fe8bbb62e2905f0",
+    "original_audio_path": "2084431273077832179.wav",
+    "question_sha256": "c0dd666cf466a304aea7abd1ef160faebde8e0c4ae61e2c5c27c5801ca578a72",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1679,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "1c9407ac41beebfab4a6ca5d755d9379e920d4f75b3f2f444afbca0544eb9b58",
+    "original_audio_path": "16619587412189752284.wav",
+    "question_sha256": "41f20603d338ec6c5d01a8d47e529d4ee5adb50fc91551dd7f3bf33c498c6f96",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1679,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "1c9407ac41beebfab4a6ca5d755d9379e920d4f75b3f2f444afbca0544eb9b58",
+    "original_audio_path": "16619587412189752284.wav",
+    "question_sha256": "41f20603d338ec6c5d01a8d47e529d4ee5adb50fc91551dd7f3bf33c498c6f96",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1983,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "04a1b271dd37c5843ad3dd21f5e8c2884df011f10256888e24d3fc3c23fe6144",
+    "original_audio_path": "8647640348946233289.wav",
+    "question_sha256": "bbf4da2b89d1e267759797b20c90936a9b1c621c4a414d87c8de7551699518c3",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1983,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "04a1b271dd37c5843ad3dd21f5e8c2884df011f10256888e24d3fc3c23fe6144",
+    "original_audio_path": "8647640348946233289.wav",
+    "question_sha256": "bbf4da2b89d1e267759797b20c90936a9b1c621c4a414d87c8de7551699518c3",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1766,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "b677657ea6adb9d603a97858ac9c2010bcc75b9a6a51fac55dd049109c3b89a6",
+    "original_audio_path": "10011266027513218401.wav",
+    "question_sha256": "d68fc2c4af09b412fdc723974e9126ae6ebe6e601e73bcc28ab41521b6d0bbd6",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1766,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "b677657ea6adb9d603a97858ac9c2010bcc75b9a6a51fac55dd049109c3b89a6",
+    "original_audio_path": "10011266027513218401.wav",
+    "question_sha256": "d68fc2c4af09b412fdc723974e9126ae6ebe6e601e73bcc28ab41521b6d0bbd6",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1685,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "337cc60ae34b656863f37fa64e75489cce5e09bf42b2885f67c15ba7c2edf32f",
+    "original_audio_path": "8920059957255554825.wav",
+    "question_sha256": "7b7306d40506d178634c6e757eca07620332204d172ed71d3c0b14e3b5b98a27",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1685,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "337cc60ae34b656863f37fa64e75489cce5e09bf42b2885f67c15ba7c2edf32f",
+    "original_audio_path": "8920059957255554825.wav",
+    "question_sha256": "7b7306d40506d178634c6e757eca07620332204d172ed71d3c0b14e3b5b98a27",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1810,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "d807acfa3caaea7730e93a748eb78ee9ad29c387abab4f3e35f483d511d101f8",
+    "original_audio_path": "5480881948821631080.wav",
+    "question_sha256": "e0ef9ae307338ec222a041051bcf657642761b5dc99ce7a4790c4d0964be9f65",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1810,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "d807acfa3caaea7730e93a748eb78ee9ad29c387abab4f3e35f483d511d101f8",
+    "original_audio_path": "5480881948821631080.wav",
+    "question_sha256": "e0ef9ae307338ec222a041051bcf657642761b5dc99ce7a4790c4d0964be9f65",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1966,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "b8033811237c0db83b6c6b18ccbf0cc8611d686ea1af2c8a2e19dd402ed7a57d",
+    "original_audio_path": "11847046500833945297.wav",
+    "question_sha256": "6ef99389b297851d6780c575960b1338aa1ae54d366da88f049f853bad90ab73",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1966,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "b8033811237c0db83b6c6b18ccbf0cc8611d686ea1af2c8a2e19dd402ed7a57d",
+    "original_audio_path": "11847046500833945297.wav",
+    "question_sha256": "6ef99389b297851d6780c575960b1338aa1ae54d366da88f049f853bad90ab73",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1925,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "c16871b3b7282293c314ecb0c068f3d8d3e3dee6e2a38905870b7a040571c955",
+    "original_audio_path": "1307993758979104205.wav",
+    "question_sha256": "e3d6757ee87294e1decc01e2b35a3aca8ceac71d1b411dab038251400fbed3ce",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1925,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "c16871b3b7282293c314ecb0c068f3d8d3e3dee6e2a38905870b7a040571c955",
+    "original_audio_path": "1307993758979104205.wav",
+    "question_sha256": "e3d6757ee87294e1decc01e2b35a3aca8ceac71d1b411dab038251400fbed3ce",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1827,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "c52c4432ea7473786bc164847eaa2bdec4d014a8c9a0338f7c51caf257640324",
+    "original_audio_path": "10200643191519059428.wav",
+    "question_sha256": "f17c76f7e2dbc243e8eee5b40b067d6b0fcf219881f21f439976ca3a00161c26",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1827,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "c52c4432ea7473786bc164847eaa2bdec4d014a8c9a0338f7c51caf257640324",
+    "original_audio_path": "10200643191519059428.wav",
+    "question_sha256": "f17c76f7e2dbc243e8eee5b40b067d6b0fcf219881f21f439976ca3a00161c26",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1763,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "f8705a642cc1d141bcc5175c7b43b48a15e3bff94cb1b7f662e27b4a4f1d3d99",
+    "original_audio_path": "9144832777583634056.wav",
+    "question_sha256": "bace1d6da269b42726d5c87dd7ff67f5c1a06fff6c32001f79fd7578c824b90c",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1763,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "f8705a642cc1d141bcc5175c7b43b48a15e3bff94cb1b7f662e27b4a4f1d3d99",
+    "original_audio_path": "9144832777583634056.wav",
+    "question_sha256": "bace1d6da269b42726d5c87dd7ff67f5c1a06fff6c32001f79fd7578c824b90c",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1717,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "f762b86625a9c7fc7840ea105477ef3cf8065443e9e3237533c0ea85e9de32e3",
+    "original_audio_path": "5397692822283766085.wav",
+    "question_sha256": "51043931172115bc2cd0604dc8973dd5f4a2443da940acbb8c88a9f6a7526e72",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1717,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "f762b86625a9c7fc7840ea105477ef3cf8065443e9e3237533c0ea85e9de32e3",
+    "original_audio_path": "5397692822283766085.wav",
+    "question_sha256": "51043931172115bc2cd0604dc8973dd5f4a2443da940acbb8c88a9f6a7526e72",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1940,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "747e3f6c55d4789add8c4553597b2e82502dffa3e6844fcb9b9c3c550d2c3175",
+    "original_audio_path": "6396044737641346605.wav",
+    "question_sha256": "e7d96c4779946078d741ff2e7e3b731fb80111ad7b224deb427ece3315efbbf4",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1940,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "747e3f6c55d4789add8c4553597b2e82502dffa3e6844fcb9b9c3c550d2c3175",
+    "original_audio_path": "6396044737641346605.wav",
+    "question_sha256": "e7d96c4779946078d741ff2e7e3b731fb80111ad7b224deb427ece3315efbbf4",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1802,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "beca7781aab5d7bc66be86a30ac997e082e7ad8621925787ee49b8119470d8c0",
+    "original_audio_path": "11014623647783711221.wav",
+    "question_sha256": "528f5e5359354c2ca57dc5312b29c0127d758610971433457f96a363f58ebf65",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1802,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "beca7781aab5d7bc66be86a30ac997e082e7ad8621925787ee49b8119470d8c0",
+    "original_audio_path": "11014623647783711221.wav",
+    "question_sha256": "528f5e5359354c2ca57dc5312b29c0127d758610971433457f96a363f58ebf65",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1945,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "913fa79b419c4ab1083fd89d5a11565144c52a4187649918fc8fea63ef1af6d3",
+    "original_audio_path": "7810041577325288574.wav",
+    "question_sha256": "f6c25cc56bda14f1a2970492ae56142c5157fda2c958ba68deaa7a10ba0b23dc",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1945,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "913fa79b419c4ab1083fd89d5a11565144c52a4187649918fc8fea63ef1af6d3",
+    "original_audio_path": "7810041577325288574.wav",
+    "question_sha256": "f6c25cc56bda14f1a2970492ae56142c5157fda2c958ba68deaa7a10ba0b23dc",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1785,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "d79ee476fdb2615a4f0519ae7ed03f3ee97bc2f6b0286158cd0c31545d23c02d",
+    "original_audio_path": "2723525448579182657.wav",
+    "question_sha256": "a482a899e7337abf299e64680d5e8d6e710827ca933331af9c006fea6178e499",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1785,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "d79ee476fdb2615a4f0519ae7ed03f3ee97bc2f6b0286158cd0c31545d23c02d",
+    "original_audio_path": "2723525448579182657.wav",
+    "question_sha256": "a482a899e7337abf299e64680d5e8d6e710827ca933331af9c006fea6178e499",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1833,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "cc628b3fdb03d63c9e34262677312e2761e628deeb31702d138cf2e337a5bcde",
+    "original_audio_path": "8964796570309917802.wav",
+    "question_sha256": "1c332c2b9f20e173b294f244042011b2f2b604c39e3cf10c0870068a74905955",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1833,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "cc628b3fdb03d63c9e34262677312e2761e628deeb31702d138cf2e337a5bcde",
+    "original_audio_path": "8964796570309917802.wav",
+    "question_sha256": "1c332c2b9f20e173b294f244042011b2f2b604c39e3cf10c0870068a74905955",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1701,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "27e1026b41d88a00257222b29cbb54d0e2b3ae191aa995274909ff2d3bded832",
+    "original_audio_path": "17489426350607358949.wav",
+    "question_sha256": "c41e1c7be96dfa36ae00caba1645dd6218b5b7fa35275ba6ee8956489a53d5f5",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1701,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "27e1026b41d88a00257222b29cbb54d0e2b3ae191aa995274909ff2d3bded832",
+    "original_audio_path": "17489426350607358949.wav",
+    "question_sha256": "c41e1c7be96dfa36ae00caba1645dd6218b5b7fa35275ba6ee8956489a53d5f5",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1891,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "16dbfa60524efd44829c0d1ae8a0a58c87fcb77ffea22667ecb25833a2595a23",
+    "original_audio_path": "1599033818694102662.wav",
+    "question_sha256": "b1a6113ce5beb6ab728ea399d0075d6d044747d901772d4f1dffad7d8a91c614",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1891,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "16dbfa60524efd44829c0d1ae8a0a58c87fcb77ffea22667ecb25833a2595a23",
+    "original_audio_path": "1599033818694102662.wav",
+    "question_sha256": "b1a6113ce5beb6ab728ea399d0075d6d044747d901772d4f1dffad7d8a91c614",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1907,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "93faab41016c66c98dc49069634069fe55b47075d540b65e86aa0b090b76d28c",
+    "original_audio_path": "5698309653901611568.wav",
+    "question_sha256": "7089032b1ea6b491b38a82436dae1e75cb3f2ef4fe05f39a39be93d57144e31a",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1907,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "93faab41016c66c98dc49069634069fe55b47075d540b65e86aa0b090b76d28c",
+    "original_audio_path": "5698309653901611568.wav",
+    "question_sha256": "7089032b1ea6b491b38a82436dae1e75cb3f2ef4fe05f39a39be93d57144e31a",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1872,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "8749e1918765f23262a10add35ce8bd24eb0b3cc578aa21b359162b7a31ae793",
+    "original_audio_path": "16628160644279304198.wav",
+    "question_sha256": "ccc7f1a7a0a18577dd5b0251d2748cc7eef0e48466e5d70defa4fc691aa61dce",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1872,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "8749e1918765f23262a10add35ce8bd24eb0b3cc578aa21b359162b7a31ae793",
+    "original_audio_path": "16628160644279304198.wav",
+    "question_sha256": "ccc7f1a7a0a18577dd5b0251d2748cc7eef0e48466e5d70defa4fc691aa61dce",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1748,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "47777ff9eb89c9b27558dfa8d4727b1fd664ec3d9493d5ecf53ba3ee85e174ca",
+    "original_audio_path": "15994398767205546911.wav",
+    "question_sha256": "a0fd2569c3254744af20f95225635ae5992e3a37cd77213b952939f540446ba3",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1748,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "47777ff9eb89c9b27558dfa8d4727b1fd664ec3d9493d5ecf53ba3ee85e174ca",
+    "original_audio_path": "15994398767205546911.wav",
+    "question_sha256": "a0fd2569c3254744af20f95225635ae5992e3a37cd77213b952939f540446ba3",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1901,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "9031c19f655ba6daac5d21bf0aedd42bec3879c2f14e44b66bfc3ceefa60777f",
+    "original_audio_path": "16073466278877359928.wav",
+    "question_sha256": "d8d89bc77920ab3ed8916bc3a92306f9761e3264dd75bb212bb9fdea2332f552",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1901,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "9031c19f655ba6daac5d21bf0aedd42bec3879c2f14e44b66bfc3ceefa60777f",
+    "original_audio_path": "16073466278877359928.wav",
+    "question_sha256": "d8d89bc77920ab3ed8916bc3a92306f9761e3264dd75bb212bb9fdea2332f552",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 2000,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "1e851a691fa80343da57f1a4ec05809ab31a674f73918f5ed08f8c2ef7c89118",
+    "original_audio_path": "1592333118249718265.wav",
+    "question_sha256": "4c871dfbbf9b5008f5edaafbaabc83d38cf83ecf7789386fe40dea5ebfeb8f12",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 2000,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "1e851a691fa80343da57f1a4ec05809ab31a674f73918f5ed08f8c2ef7c89118",
+    "original_audio_path": "1592333118249718265.wav",
+    "question_sha256": "4c871dfbbf9b5008f5edaafbaabc83d38cf83ecf7789386fe40dea5ebfeb8f12",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1896,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "908cd1edee46659c77d55e050a261340c17db8c699dfbd4b4aa283917b57115f",
+    "original_audio_path": "13953627438486951920.wav",
+    "question_sha256": "23e9a40bbac73acbb672776bec9dd6ef599a35b8326f77d384272cf6415da7ca",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1896,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "908cd1edee46659c77d55e050a261340c17db8c699dfbd4b4aa283917b57115f",
+    "original_audio_path": "13953627438486951920.wav",
+    "question_sha256": "23e9a40bbac73acbb672776bec9dd6ef599a35b8326f77d384272cf6415da7ca",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1780,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "80c966cd4a1fd1d39dfe26a50112b718a16ab6a44f80d9d7d9bdd24c795fc38c",
+    "original_audio_path": "6841351942797213585.wav",
+    "question_sha256": "e1640d87bfaa2c7679dfea3f95b96731b9eec6aa2b399620212ef9ab753f80e1",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1780,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "80c966cd4a1fd1d39dfe26a50112b718a16ab6a44f80d9d7d9bdd24c795fc38c",
+    "original_audio_path": "6841351942797213585.wav",
+    "question_sha256": "e1640d87bfaa2c7679dfea3f95b96731b9eec6aa2b399620212ef9ab753f80e1",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1808,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "1f40d1c166573a45b40e2bca390e201fe0be678d5bfa2b5b7f422fb1cc64c6a7",
+    "original_audio_path": "13805578977487855867.wav",
+    "question_sha256": "e6814816416dca26c23c8a002470b9a7d9b445ef2e7a872597c98de5d92c1be8",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1808,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "1f40d1c166573a45b40e2bca390e201fe0be678d5bfa2b5b7f422fb1cc64c6a7",
+    "original_audio_path": "13805578977487855867.wav",
+    "question_sha256": "e6814816416dca26c23c8a002470b9a7d9b445ef2e7a872597c98de5d92c1be8",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1747,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "ff5890c62e35a349a14cd7655456fecd4843071bc66b15a2b4d81e2cbef62bb0",
+    "original_audio_path": "14706914212578682198.wav",
+    "question_sha256": "b1c710281f8742fd79a98119ad4f6ad9a97812511aa163984f943cef8dc66ad5",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1747,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "ff5890c62e35a349a14cd7655456fecd4843071bc66b15a2b4d81e2cbef62bb0",
+    "original_audio_path": "14706914212578682198.wav",
+    "question_sha256": "b1c710281f8742fd79a98119ad4f6ad9a97812511aa163984f943cef8dc66ad5",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1746,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "f07f4d2c94b0b75a7468dd8650cdce7101b282f359b254f6ff0e3b1b2a30f6cc",
+    "original_audio_path": "13192148840699813820.wav",
+    "question_sha256": "6b3a00422738259b016911b3e32cf066b9e111ae96de09fece8172985724a6b6",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1746,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "f07f4d2c94b0b75a7468dd8650cdce7101b282f359b254f6ff0e3b1b2a30f6cc",
+    "original_audio_path": "13192148840699813820.wav",
+    "question_sha256": "6b3a00422738259b016911b3e32cf066b9e111ae96de09fece8172985724a6b6",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 2005,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "ab988b55c2d183937e857ac93b59552fd4f1d62952fef79b7ccf7df061323fbc",
+    "original_audio_path": "206606933749249602.wav",
+    "question_sha256": "dd0fbfb515775074b92388830b32ff42047bed3a065246bf4275c10aba7ffe59",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 2005,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "ab988b55c2d183937e857ac93b59552fd4f1d62952fef79b7ccf7df061323fbc",
+    "original_audio_path": "206606933749249602.wav",
+    "question_sha256": "dd0fbfb515775074b92388830b32ff42047bed3a065246bf4275c10aba7ffe59",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1918,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "87597f9b1a2a5b4c916d6f20f9b507b8d31078dc1f9ddb2c19e323dc658a4b16",
+    "original_audio_path": "16425245890504734681.wav",
+    "question_sha256": "6b602f179163e2db5a0ab9bc961f18ff7017a5b5d2f17306d00f2a80f5eef385",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1918,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "87597f9b1a2a5b4c916d6f20f9b507b8d31078dc1f9ddb2c19e323dc658a4b16",
+    "original_audio_path": "16425245890504734681.wav",
+    "question_sha256": "6b602f179163e2db5a0ab9bc961f18ff7017a5b5d2f17306d00f2a80f5eef385",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1742,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "f1d716d2092bf3e4bd2243173e47d1e8ca2a0fc097c33b014b1104dd66ff7425",
+    "original_audio_path": "11679504829817040349.wav",
+    "question_sha256": "c95af57d4c7faec79f9997d14bf08452a8c97028fbd397246e3c3b271838e5df",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1742,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "f1d716d2092bf3e4bd2243173e47d1e8ca2a0fc097c33b014b1104dd66ff7425",
+    "original_audio_path": "11679504829817040349.wav",
+    "question_sha256": "c95af57d4c7faec79f9997d14bf08452a8c97028fbd397246e3c3b271838e5df",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1668,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "25dfc8d29f4df7d32dffecbd3e1faa70f97642e714be07d33bc9f38017fc2491",
+    "original_audio_path": "15502428720282733551.wav",
+    "question_sha256": "88b551c469575b1eeb9c54c76211b57d819b2bbafa881d2d427f3b11cfd6edb1",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1668,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "25dfc8d29f4df7d32dffecbd3e1faa70f97642e714be07d33bc9f38017fc2491",
+    "original_audio_path": "15502428720282733551.wav",
+    "question_sha256": "88b551c469575b1eeb9c54c76211b57d819b2bbafa881d2d427f3b11cfd6edb1",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1714,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "346bb776540dba03b81a4e030e676c8ab1014d32cfd130665d34c195dd8a0a85",
+    "original_audio_path": "18134504222802844474.wav",
+    "question_sha256": "85fbbf1a5ba5c4fccbbf53de12167372fe56f45dd14d8b49e64f330c306f664c",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1714,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "346bb776540dba03b81a4e030e676c8ab1014d32cfd130665d34c195dd8a0a85",
+    "original_audio_path": "18134504222802844474.wav",
+    "question_sha256": "85fbbf1a5ba5c4fccbbf53de12167372fe56f45dd14d8b49e64f330c306f664c",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1683,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "ded6bd3d65481b5d7269d8813c72bb2523859577683e8a1777ac294a56e83f35",
+    "original_audio_path": "10921902647446458507.wav",
+    "question_sha256": "17a95f18d748a41b5d544c3a999547774611faafc28b06528ea294587b7efc08",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1683,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "ded6bd3d65481b5d7269d8813c72bb2523859577683e8a1777ac294a56e83f35",
+    "original_audio_path": "10921902647446458507.wav",
+    "question_sha256": "17a95f18d748a41b5d544c3a999547774611faafc28b06528ea294587b7efc08",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1771,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "812124a9635e3ae69f54c69ad11fe72ffa58c766e0826e08e7b05af00dfd6e0d",
+    "original_audio_path": "4287193549127161393.wav",
+    "question_sha256": "1f3c1cf50428f16270eeb77083df9f47016913e36351add6e7f290c52bc8bc4d",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1771,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "812124a9635e3ae69f54c69ad11fe72ffa58c766e0826e08e7b05af00dfd6e0d",
+    "original_audio_path": "4287193549127161393.wav",
+    "question_sha256": "1f3c1cf50428f16270eeb77083df9f47016913e36351add6e7f290c52bc8bc4d",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1992,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "f99841aa3cdf8a464dc8a4ceafc7af23677cd686d49fb370bb8cbce1a0816da3",
+    "original_audio_path": "10587318592827006604.wav",
+    "question_sha256": "c846b6d5afdca967df85d0c3fff04a1f37d4cd2c6a4c142df6fd027bd318ffef",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1992,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "f99841aa3cdf8a464dc8a4ceafc7af23677cd686d49fb370bb8cbce1a0816da3",
+    "original_audio_path": "10587318592827006604.wav",
+    "question_sha256": "c846b6d5afdca967df85d0c3fff04a1f37d4cd2c6a4c142df6fd027bd318ffef",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1791,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "18a5ae9565bb03eb3d959d0b91f9b1d029f1c0aeff3e100a301e4471a75e4c0b",
+    "original_audio_path": "11887255676786903166.wav",
+    "question_sha256": "df1036f570814d474ac8a731e17101620c4fd3d89f00563d262ba2cc8f00a53b",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1791,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "18a5ae9565bb03eb3d959d0b91f9b1d029f1c0aeff3e100a301e4471a75e4c0b",
+    "original_audio_path": "11887255676786903166.wav",
+    "question_sha256": "df1036f570814d474ac8a731e17101620c4fd3d89f00563d262ba2cc8f00a53b",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1820,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "3c1c6c64869ad2b2458bd2fac2301f44581f8d6b868641351da28115e763d765",
+    "original_audio_path": "11607524785912006284.wav",
+    "question_sha256": "5cac963b5770c01f9bff4ecbdef712b4b4a40557d115425c4b554517c0d6f520",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1820,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "3c1c6c64869ad2b2458bd2fac2301f44581f8d6b868641351da28115e763d765",
+    "original_audio_path": "11607524785912006284.wav",
+    "question_sha256": "5cac963b5770c01f9bff4ecbdef712b4b4a40557d115425c4b554517c0d6f520",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1909,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "7637cd47acd0a331c6f66488aa5a08647b062c10d032757b7bba374f0148e09d",
+    "original_audio_path": "7742172348084742883.wav",
+    "question_sha256": "913cd2350ad899cd8d9840e742b26a49eac4e1103999e275defc07424dd1c87c",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1909,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "7637cd47acd0a331c6f66488aa5a08647b062c10d032757b7bba374f0148e09d",
+    "original_audio_path": "7742172348084742883.wav",
+    "question_sha256": "913cd2350ad899cd8d9840e742b26a49eac4e1103999e275defc07424dd1c87c",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1938,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "3f46dbf2b13eed1c95d7ee5679bb57063707ba3518c679757f08144b00de9dcb",
+    "original_audio_path": "15540247564991528997.wav",
+    "question_sha256": "d6abc48daa1f678096d491340ed3fd7c833581941be81421a30a689ad6eff4f5",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1938,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "3f46dbf2b13eed1c95d7ee5679bb57063707ba3518c679757f08144b00de9dcb",
+    "original_audio_path": "15540247564991528997.wav",
+    "question_sha256": "d6abc48daa1f678096d491340ed3fd7c833581941be81421a30a689ad6eff4f5",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1974,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "2a7dd33ba0e4c5970d173802ba18e7e457e3bd1747c5c40df3f6a436707b2921",
+    "original_audio_path": "12211625880636332335.wav",
+    "question_sha256": "fa05cf67aa80b0cd15625d45f5891e394438a45f8876c6d276352546fc46b0e2",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1974,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "2a7dd33ba0e4c5970d173802ba18e7e457e3bd1747c5c40df3f6a436707b2921",
+    "original_audio_path": "12211625880636332335.wav",
+    "question_sha256": "fa05cf67aa80b0cd15625d45f5891e394438a45f8876c6d276352546fc46b0e2",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1988,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "262a01abc36b27cd8e653953e9f221101ac16bd3d289851cda8fb2ed835eae78",
+    "original_audio_path": "15084485952994360728.wav",
+    "question_sha256": "0eec289baec1562bcd15183d89b8410b6f0a41bb6efeab4db511b2f1ed70c8bb",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1988,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "262a01abc36b27cd8e653953e9f221101ac16bd3d289851cda8fb2ed835eae78",
+    "original_audio_path": "15084485952994360728.wav",
+    "question_sha256": "0eec289baec1562bcd15183d89b8410b6f0a41bb6efeab4db511b2f1ed70c8bb",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1673,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "a6f32d62253d3c9acb217c0596b5788d02acc20cf819877566c41f2e574c6e88",
+    "original_audio_path": "14578853254924901868.wav",
+    "question_sha256": "f649c2a58b09bcc3e9b45ae5d99d6b7896642ddf6b57147f27ecec9e35a02ceb",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1673,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "a6f32d62253d3c9acb217c0596b5788d02acc20cf819877566c41f2e574c6e88",
+    "original_audio_path": "14578853254924901868.wav",
+    "question_sha256": "f649c2a58b09bcc3e9b45ae5d99d6b7896642ddf6b57147f27ecec9e35a02ceb",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1667,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "d0b16b5ec081261587037ffbf30964f7d96e9c0fd864c443274debb199b94b75",
+    "original_audio_path": "5676772040210847328.wav",
+    "question_sha256": "c76b2eccd46b9e044f72cf432f2f2b658615d99f4b4b86862a4988ab82c2a145",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1667,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "d0b16b5ec081261587037ffbf30964f7d96e9c0fd864c443274debb199b94b75",
+    "original_audio_path": "5676772040210847328.wav",
+    "question_sha256": "c76b2eccd46b9e044f72cf432f2f2b658615d99f4b4b86862a4988ab82c2a145",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1760,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "31a98bbab9aaa1375953a5c2190cd612f3282f3a1368ec3190259e100488e49a",
+    "original_audio_path": "17292685997401598277.wav",
+    "question_sha256": "aa3bc0e21f586c5cac4c82887484976b844b93ba3120c6763e4df3f1249dca96",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1760,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "31a98bbab9aaa1375953a5c2190cd612f3282f3a1368ec3190259e100488e49a",
+    "original_audio_path": "17292685997401598277.wav",
+    "question_sha256": "aa3bc0e21f586c5cac4c82887484976b844b93ba3120c6763e4df3f1249dca96",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1784,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "581e6ab90280db5f6e390410d530b4a36523e3569eaa9999a0bcca1656794e91",
+    "original_audio_path": "10014385262415025488.wav",
+    "question_sha256": "0fbe2fef06539630da6f78465bdd98e5039c5c16d54a724c0109d8fc53b65e82",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1784,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "581e6ab90280db5f6e390410d530b4a36523e3569eaa9999a0bcca1656794e91",
+    "original_audio_path": "10014385262415025488.wav",
+    "question_sha256": "0fbe2fef06539630da6f78465bdd98e5039c5c16d54a724c0109d8fc53b65e82",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1899,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "f8581077425ccfc89db3a62b15dcfa30a97631e84e31fcacf3c4d5ca039a4c1e",
+    "original_audio_path": "6203594314047312933.wav",
+    "question_sha256": "83ecc6cbc899a8e3744a16be0d80df0284ae5e31454c66dea57a5e3cbe9f306a",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1899,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "f8581077425ccfc89db3a62b15dcfa30a97631e84e31fcacf3c4d5ca039a4c1e",
+    "original_audio_path": "6203594314047312933.wav",
+    "question_sha256": "83ecc6cbc899a8e3744a16be0d80df0284ae5e31454c66dea57a5e3cbe9f306a",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1984,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "a8ee351bda0ff96149653d9c3d35630c36e249939e36e245881a14389f801c45",
+    "original_audio_path": "14762987283976764594.wav",
+    "question_sha256": "0a9d7ab11d76705dc5c72f7d66bdfb71b7f8c6352bdaebdad0966b9d6b005714",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1984,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "a8ee351bda0ff96149653d9c3d35630c36e249939e36e245881a14389f801c45",
+    "original_audio_path": "14762987283976764594.wav",
+    "question_sha256": "0a9d7ab11d76705dc5c72f7d66bdfb71b7f8c6352bdaebdad0966b9d6b005714",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1706,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "adbf04d4a0921b1898e9822a63f2a28a9057aa22c7bcfa48c7e52d4a73648587",
+    "original_audio_path": "11420171604929754563.wav",
+    "question_sha256": "041b728141bae894759e1a0b3a2d425768affb6b94c3a026a1e20b04227a93b9",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1706,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "adbf04d4a0921b1898e9822a63f2a28a9057aa22c7bcfa48c7e52d4a73648587",
+    "original_audio_path": "11420171604929754563.wav",
+    "question_sha256": "041b728141bae894759e1a0b3a2d425768affb6b94c3a026a1e20b04227a93b9",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1954,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "1b7efb9a1c56b48bca223c78498502deb5c0fdb236b0da3d4b5eb409b3021d76",
+    "original_audio_path": "2339478023095900856.wav",
+    "question_sha256": "d55e88c62e7de32bfa664ea3bd6f5e96b7feb672227ea7086cb1ade63d3ff3dc",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1954,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "1b7efb9a1c56b48bca223c78498502deb5c0fdb236b0da3d4b5eb409b3021d76",
+    "original_audio_path": "2339478023095900856.wav",
+    "question_sha256": "d55e88c62e7de32bfa664ea3bd6f5e96b7feb672227ea7086cb1ade63d3ff3dc",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 2004,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "265af07971cd44125fbe0452f999a479b6a3056f18b3a33fd12c4875d2be2a58",
+    "original_audio_path": "14633299830001558637.wav",
+    "question_sha256": "b1c1ad5437f98db23214f97d5a15907269b3c4383fd48a2031462db923b5d39f",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 2004,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "265af07971cd44125fbe0452f999a479b6a3056f18b3a33fd12c4875d2be2a58",
+    "original_audio_path": "14633299830001558637.wav",
+    "question_sha256": "b1c1ad5437f98db23214f97d5a15907269b3c4383fd48a2031462db923b5d39f",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1837,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "4c906d1e33e39e254d94cc911554154b573fecaf4015fbfc7f686b7feb67c14b",
+    "original_audio_path": "4269466639822248624.wav",
+    "question_sha256": "216a64247516fae909daf3c61d1b919b7535cee869a0772c7580694ad71c06ca",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1837,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "4c906d1e33e39e254d94cc911554154b573fecaf4015fbfc7f686b7feb67c14b",
+    "original_audio_path": "4269466639822248624.wav",
+    "question_sha256": "216a64247516fae909daf3c61d1b919b7535cee869a0772c7580694ad71c06ca",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1739,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "16ea2eccfae4acc6072b72795a2b503efa06cab8f2ec72b1176f4be8226dba6e",
+    "original_audio_path": "6357844454875758506.wav",
+    "question_sha256": "170800ecbb79290c9b3feae9daeaaca404e3e551c6a26ba2e63cca45fd4d7bb2",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1739,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "16ea2eccfae4acc6072b72795a2b503efa06cab8f2ec72b1176f4be8226dba6e",
+    "original_audio_path": "6357844454875758506.wav",
+    "question_sha256": "170800ecbb79290c9b3feae9daeaaca404e3e551c6a26ba2e63cca45fd4d7bb2",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1886,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "d8112091b23f5359726e1595fe0b60f40cdb11ea6033e8b53853dadbb40aa5f8",
+    "original_audio_path": "11816700057964730502.wav",
+    "question_sha256": "4ac003d43be3fb9a520f469a45db9081f6d7d90cf26824c9ffe4ddd07e8e13a4",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1886,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "d8112091b23f5359726e1595fe0b60f40cdb11ea6033e8b53853dadbb40aa5f8",
+    "original_audio_path": "11816700057964730502.wav",
+    "question_sha256": "4ac003d43be3fb9a520f469a45db9081f6d7d90cf26824c9ffe4ddd07e8e13a4",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1842,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "bfe9f4ff34c95475361b483945fc7b0f4287fb8c395992bf0c8be55ce0836785",
+    "original_audio_path": "12491329429804762880.wav",
+    "question_sha256": "81e6cdef1ffc404ce362aa3984eb4ea6b87c98344e156d0472ee08d96fd4a665",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1842,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "bfe9f4ff34c95475361b483945fc7b0f4287fb8c395992bf0c8be55ce0836785",
+    "original_audio_path": "12491329429804762880.wav",
+    "question_sha256": "81e6cdef1ffc404ce362aa3984eb4ea6b87c98344e156d0472ee08d96fd4a665",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1799,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "e35de565fa90678df674cabcae33893fb055b1f471e3752c36e70bdd4ae470e3",
+    "original_audio_path": "3588621217293213129.wav",
+    "question_sha256": "b30d87c31f1c4ceb739c502c14f345bf570149c7cad820bae4ec9999698d5882",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1799,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "e35de565fa90678df674cabcae33893fb055b1f471e3752c36e70bdd4ae470e3",
+    "original_audio_path": "3588621217293213129.wav",
+    "question_sha256": "b30d87c31f1c4ceb739c502c14f345bf570149c7cad820bae4ec9999698d5882",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1818,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "c5a2d032556c1a124f01dec4e88c06995664a9af641768b105e95b133cfdd851",
+    "original_audio_path": "10972260827293009900.wav",
+    "question_sha256": "2a83bc656766989da227f38c7409364e112b9747ab1d2c359216eb5d4f15ee5e",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1818,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "c5a2d032556c1a124f01dec4e88c06995664a9af641768b105e95b133cfdd851",
+    "original_audio_path": "10972260827293009900.wav",
+    "question_sha256": "2a83bc656766989da227f38c7409364e112b9747ab1d2c359216eb5d4f15ee5e",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1843,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "a15e674823e4b2d2dcf64677a0ceb113438f00c32f33eaee58ce297236021309",
+    "original_audio_path": "11093493337058713150.wav",
+    "question_sha256": "b3db765c7d50ef7bd320f72c90920d751e25d4be0380c1ce13bfa3343c87549a",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1843,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "a15e674823e4b2d2dcf64677a0ceb113438f00c32f33eaee58ce297236021309",
+    "original_audio_path": "11093493337058713150.wav",
+    "question_sha256": "b3db765c7d50ef7bd320f72c90920d751e25d4be0380c1ce13bfa3343c87549a",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1687,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "6b03662a4c7c7aa696a2ba4f7be121191eda0d8a1506cad95c18e79fcac9f4c6",
+    "original_audio_path": "13109433266350566952.wav",
+    "question_sha256": "9b0712fc917d79023321c3407f999294ac3e4663c8ad3eff93a0d5744b104050",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1687,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "6b03662a4c7c7aa696a2ba4f7be121191eda0d8a1506cad95c18e79fcac9f4c6",
+    "original_audio_path": "13109433266350566952.wav",
+    "question_sha256": "9b0712fc917d79023321c3407f999294ac3e4663c8ad3eff93a0d5744b104050",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 2008,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "aee2045232354ce901c2b41a638d5bd18bfb6aed18ffdc96041211edfd3fd56a",
+    "original_audio_path": "3483277461911437185.wav",
+    "question_sha256": "1b882ef3567fe3dc987892e7073bc90a7420084eaeb49f6768ab87d17411dac9",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 2008,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "aee2045232354ce901c2b41a638d5bd18bfb6aed18ffdc96041211edfd3fd56a",
+    "original_audio_path": "3483277461911437185.wav",
+    "question_sha256": "1b882ef3567fe3dc987892e7073bc90a7420084eaeb49f6768ab87d17411dac9",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1939,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "424b71e9678e65ac385380801874f08efcd22779f1ba57054b1bd7a58895910f",
+    "original_audio_path": "5650107975346696997.wav",
+    "question_sha256": "4eca07d5fad774dcd3beaa44d619218a5bf81f669a1d676e1bc89459b0e889f3",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1939,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "424b71e9678e65ac385380801874f08efcd22779f1ba57054b1bd7a58895910f",
+    "original_audio_path": "5650107975346696997.wav",
+    "question_sha256": "4eca07d5fad774dcd3beaa44d619218a5bf81f669a1d676e1bc89459b0e889f3",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1728,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "b9ca1ed0ab3529913115c5ff079bf6cee8e98e6a6a65d98c152725f1ce775f5d",
+    "original_audio_path": "4851908808598902238.wav",
+    "question_sha256": "46f848c67726138b006d52133705a5793f1f04515d7659c16de8a0672cd67a23",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1728,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "b9ca1ed0ab3529913115c5ff079bf6cee8e98e6a6a65d98c152725f1ce775f5d",
+    "original_audio_path": "4851908808598902238.wav",
+    "question_sha256": "46f848c67726138b006d52133705a5793f1f04515d7659c16de8a0672cd67a23",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1792,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "a8c6aafa7d302b11c783026e922479c4a063f38ab7030520d9111dd587985021",
+    "original_audio_path": "10135688561274120767.wav",
+    "question_sha256": "0066e5c97c31dbc1939ebe4ab8d05f5616dc93a7989b324456fd2f203cfe4012",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1792,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "a8c6aafa7d302b11c783026e922479c4a063f38ab7030520d9111dd587985021",
+    "original_audio_path": "10135688561274120767.wav",
+    "question_sha256": "0066e5c97c31dbc1939ebe4ab8d05f5616dc93a7989b324456fd2f203cfe4012",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1758,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "f94f901cd03fbb26e49cc530d9ee4bd720cbd2e235d70e22712cc3ad738d8c01",
+    "original_audio_path": "16307283543540841715.wav",
+    "question_sha256": "1061a46650015072398e162b79db6847f6ea4bb0a3ab6d9350668f593708106c",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1758,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "f94f901cd03fbb26e49cc530d9ee4bd720cbd2e235d70e22712cc3ad738d8c01",
+    "original_audio_path": "16307283543540841715.wav",
+    "question_sha256": "1061a46650015072398e162b79db6847f6ea4bb0a3ab6d9350668f593708106c",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1765,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "3747e6b5e8ff1666c2da57dfb35944647cd53f0b58672a485dbe9c44b3e254ea",
+    "original_audio_path": "17589567717799156473.wav",
+    "question_sha256": "daf3e7914f91732d2f7a347a6d2b68e86df829c8aa60029b78271446d89403d2",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1765,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "3747e6b5e8ff1666c2da57dfb35944647cd53f0b58672a485dbe9c44b3e254ea",
+    "original_audio_path": "17589567717799156473.wav",
+    "question_sha256": "daf3e7914f91732d2f7a347a6d2b68e86df829c8aa60029b78271446d89403d2",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1928,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "d8315dd31b6eacebe5738f5f9d58a5f33618ac2d050fbbda399cf56566d64f9d",
+    "original_audio_path": "14063302096319691897.wav",
+    "question_sha256": "77b17a87b7127ae4ed234bcc7c71f0188a06edfe179ebe23948e742b7179eef1",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1928,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "d8315dd31b6eacebe5738f5f9d58a5f33618ac2d050fbbda399cf56566d64f9d",
+    "original_audio_path": "14063302096319691897.wav",
+    "question_sha256": "77b17a87b7127ae4ed234bcc7c71f0188a06edfe179ebe23948e742b7179eef1",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1897,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "94079e36649a364023e95be53e994dac754d7dcb1dc1836c4a1e46f35be986d7",
+    "original_audio_path": "6266080697809403487.wav",
+    "question_sha256": "74ceb781d57c9b7eea6568c9ab02c8bc7d7aaa7e649359c891874dccd6cd539c",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1897,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "94079e36649a364023e95be53e994dac754d7dcb1dc1836c4a1e46f35be986d7",
+    "original_audio_path": "6266080697809403487.wav",
+    "question_sha256": "74ceb781d57c9b7eea6568c9ab02c8bc7d7aaa7e649359c891874dccd6cd539c",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1932,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "b4d8fcfa975f600bffb5dedf40d72870df5214744289cf2c1c5813c52a1046d0",
+    "original_audio_path": "17735119275738595727.wav",
+    "question_sha256": "5635210534fe9438e9691279769d29b961c9b0c95dddef637bf65990621527de",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1932,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "b4d8fcfa975f600bffb5dedf40d72870df5214744289cf2c1c5813c52a1046d0",
+    "original_audio_path": "17735119275738595727.wav",
+    "question_sha256": "5635210534fe9438e9691279769d29b961c9b0c95dddef637bf65990621527de",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1869,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "c1f5674a103339ee37c1a9fa680fcc42074b4f7b7fbc22ad744a12fc408753a0",
+    "original_audio_path": "5393581790967994378.wav",
+    "question_sha256": "78d66be23e7358998c9fc327a495d4cb36f51c2368dc1915bcab5f6b17009cff",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1869,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "c1f5674a103339ee37c1a9fa680fcc42074b4f7b7fbc22ad744a12fc408753a0",
+    "original_audio_path": "5393581790967994378.wav",
+    "question_sha256": "78d66be23e7358998c9fc327a495d4cb36f51c2368dc1915bcab5f6b17009cff",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1959,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "19bbe67803154a2fba9df805eb0fe4016030084198f179be29d2f0f9e71c1cca",
+    "original_audio_path": "3972087215456952159.wav",
+    "question_sha256": "f44cf263a27b9edcc120dc1f459be5147b72ca93b7224a9403e4f133ec1fa466",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1959,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "19bbe67803154a2fba9df805eb0fe4016030084198f179be29d2f0f9e71c1cca",
+    "original_audio_path": "3972087215456952159.wav",
+    "question_sha256": "f44cf263a27b9edcc120dc1f459be5147b72ca93b7224a9403e4f133ec1fa466",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1709,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "4b49f4a046e84e6ecadfe8615a68d6d00cde9b1226a73fe738c8400f85ccfd4a",
+    "original_audio_path": "18309356363792630601.wav",
+    "question_sha256": "619356cef4c248ef9bcd21654b4bdc8943bb06ae2136a1d6ae7c0668508fa09e",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1709,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "4b49f4a046e84e6ecadfe8615a68d6d00cde9b1226a73fe738c8400f85ccfd4a",
+    "original_audio_path": "18309356363792630601.wav",
+    "question_sha256": "619356cef4c248ef9bcd21654b4bdc8943bb06ae2136a1d6ae7c0668508fa09e",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1745,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "c3c4d58f83a36f67fe5a5c1358dbe842f1960fbca936288c9b3b4d0b4711eb14",
+    "original_audio_path": "18376328677533202391.wav",
+    "question_sha256": "87123c83f3d8efeb83e7aaf34a2976443bf258b2536d2a5933866daf64a72540",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1745,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "c3c4d58f83a36f67fe5a5c1358dbe842f1960fbca936288c9b3b4d0b4711eb14",
+    "original_audio_path": "18376328677533202391.wav",
+    "question_sha256": "87123c83f3d8efeb83e7aaf34a2976443bf258b2536d2a5933866daf64a72540",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1885,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "b3f1fb26e85544d541e85f0a566740b2c38f98f60cfd4e59d0d1b12eb9197338",
+    "original_audio_path": "17349500802477341222.wav",
+    "question_sha256": "5e86caa77ef14e5b9fde82f7cb1f831bb9755858b9210988037156194eab8d83",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1885,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "b3f1fb26e85544d541e85f0a566740b2c38f98f60cfd4e59d0d1b12eb9197338",
+    "original_audio_path": "17349500802477341222.wav",
+    "question_sha256": "5e86caa77ef14e5b9fde82f7cb1f831bb9755858b9210988037156194eab8d83",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1870,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "11794ab67d0fa13f6ce81f163058eb35b6dfb24a227c7bdb7222feabd34ce5cb",
+    "original_audio_path": "7944552104612814736.wav",
+    "question_sha256": "bf464c8a57470c3569dc28d850673131828f475db6c1a921506cf24ca9bfa35e",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1870,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "11794ab67d0fa13f6ce81f163058eb35b6dfb24a227c7bdb7222feabd34ce5cb",
+    "original_audio_path": "7944552104612814736.wav",
+    "question_sha256": "bf464c8a57470c3569dc28d850673131828f475db6c1a921506cf24ca9bfa35e",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1904,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "7fd36c4733a8739319b81d20209fab15b57e5491976a0eaea23463cf09834679",
+    "original_audio_path": "3985857706519265313.wav",
+    "question_sha256": "a5b3d00aaf3a7d668bedfb5f17c4a67fda8558fca3bbf0a85ed2b4f209e6bf23",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1904,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "7fd36c4733a8739319b81d20209fab15b57e5491976a0eaea23463cf09834679",
+    "original_audio_path": "3985857706519265313.wav",
+    "question_sha256": "a5b3d00aaf3a7d668bedfb5f17c4a67fda8558fca3bbf0a85ed2b4f209e6bf23",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1914,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "f4a946c7e90af354d8fc07bbb57a73dfcfae784e8e6c4cd1fd200111c8c56456",
+    "original_audio_path": "18179665096930871285.wav",
+    "question_sha256": "02e0c80baf216187c21953caf8d2bf0a6d0e4805e043031d5c1259dd22e5808b",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1914,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "f4a946c7e90af354d8fc07bbb57a73dfcfae784e8e6c4cd1fd200111c8c56456",
+    "original_audio_path": "18179665096930871285.wav",
+    "question_sha256": "02e0c80baf216187c21953caf8d2bf0a6d0e4805e043031d5c1259dd22e5808b",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1661,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "abb96f773495bfb6e5f169e9ee650e3497c0164ba8e6309fe711ef213d736ed3",
+    "original_audio_path": "13477439939514320448.wav",
+    "question_sha256": "50791ab62c88338a69c8a751ffab9685ee5e8a103d8d14836532b515a3992c8a",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1661,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "abb96f773495bfb6e5f169e9ee650e3497c0164ba8e6309fe711ef213d736ed3",
+    "original_audio_path": "13477439939514320448.wav",
+    "question_sha256": "50791ab62c88338a69c8a751ffab9685ee5e8a103d8d14836532b515a3992c8a",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1947,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "b5cdf46d04e5ab39c540ee04e9e5c25e26e93bbb04d738bd79f5b3cb0bd864fd",
+    "original_audio_path": "6909376388382817686.wav",
+    "question_sha256": "79f037cd236a2e5a2451939297193c442ff849c6b730df78dc92f3ff76d2865b",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1947,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "b5cdf46d04e5ab39c540ee04e9e5c25e26e93bbb04d738bd79f5b3cb0bd864fd",
+    "original_audio_path": "6909376388382817686.wav",
+    "question_sha256": "79f037cd236a2e5a2451939297193c442ff849c6b730df78dc92f3ff76d2865b",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1692,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "83b08183d2ab5bc9da46ddb7075f326c852386d1e64e6cac12a13463576f0ec9",
+    "original_audio_path": "15659339096358030201.wav",
+    "question_sha256": "a90f534898fed6a93c5e7e5fd9f7bf39bee18516d5ee75089c5c40aab2cb8e5d",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1692,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "83b08183d2ab5bc9da46ddb7075f326c852386d1e64e6cac12a13463576f0ec9",
+    "original_audio_path": "15659339096358030201.wav",
+    "question_sha256": "a90f534898fed6a93c5e7e5fd9f7bf39bee18516d5ee75089c5c40aab2cb8e5d",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1832,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "89300268c68dfc68c2e2a523cc405c068332c7150d596f17f231c178070cf05f",
+    "original_audio_path": "4203561718312050242.wav",
+    "question_sha256": "c3edbbee9530c396acdbe759c7ae5541a2ead59d6b749ffe9aafda165908384a",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1832,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "89300268c68dfc68c2e2a523cc405c068332c7150d596f17f231c178070cf05f",
+    "original_audio_path": "4203561718312050242.wav",
+    "question_sha256": "c3edbbee9530c396acdbe759c7ae5541a2ead59d6b749ffe9aafda165908384a",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1817,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "832577446839f254c625706a53c17abe7db3f42d7fbcce7fd0e9fa7402d24075",
+    "original_audio_path": "2217845736872453919.wav",
+    "question_sha256": "ed5cde212c66151690e28ade923c2367f5f11d46ca3cefae48939e7b6635b03c",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1817,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "832577446839f254c625706a53c17abe7db3f42d7fbcce7fd0e9fa7402d24075",
+    "original_audio_path": "2217845736872453919.wav",
+    "question_sha256": "ed5cde212c66151690e28ade923c2367f5f11d46ca3cefae48939e7b6635b03c",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1816,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "bbbb3f8829ee0460d9034901b00062b7f77f4629ac0f6ab73f8f4df50b650ef8",
+    "original_audio_path": "1767137162588763048.wav",
+    "question_sha256": "3695fcf16c821f02937b4bb9bc7e180a90fa1049f9d3b79ea039748291763d2a",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1816,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "bbbb3f8829ee0460d9034901b00062b7f77f4629ac0f6ab73f8f4df50b650ef8",
+    "original_audio_path": "1767137162588763048.wav",
+    "question_sha256": "3695fcf16c821f02937b4bb9bc7e180a90fa1049f9d3b79ea039748291763d2a",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1830,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "6dc21b30fc58ed88168f046240d15d398e762089624cc62d3affa125fcd4ff78",
+    "original_audio_path": "6412098882560291653.wav",
+    "question_sha256": "e39d56b1ff0c89735ea48c0a285afd95bda27007a26045ae338267fdee07c95e",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1830,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "6dc21b30fc58ed88168f046240d15d398e762089624cc62d3affa125fcd4ff78",
+    "original_audio_path": "6412098882560291653.wav",
+    "question_sha256": "e39d56b1ff0c89735ea48c0a285afd95bda27007a26045ae338267fdee07c95e",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1779,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "399fd8bf94e23071101152d53c596d723ec0c46f547e63beba215ea73bcb031d",
+    "original_audio_path": "14211299707514072668.wav",
+    "question_sha256": "070049ce246a7292d04ec32b3479256b13d4d9948f71cd9a9d95352f8802ff35",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1779,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "399fd8bf94e23071101152d53c596d723ec0c46f547e63beba215ea73bcb031d",
+    "original_audio_path": "14211299707514072668.wav",
+    "question_sha256": "070049ce246a7292d04ec32b3479256b13d4d9948f71cd9a9d95352f8802ff35",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1919,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "39e26c0177091d28e3f1e0bc54d8f0fd1006b133e9c40655324f662cf3a11f8b",
+    "original_audio_path": "13563417804047448798.wav",
+    "question_sha256": "becce6bb2268f18cc3b98c566df1c93485c433d0c101f9a5f513b1a3a3310184",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1919,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "39e26c0177091d28e3f1e0bc54d8f0fd1006b133e9c40655324f662cf3a11f8b",
+    "original_audio_path": "13563417804047448798.wav",
+    "question_sha256": "becce6bb2268f18cc3b98c566df1c93485c433d0c101f9a5f513b1a3a3310184",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1875,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "734a38fe63e9f178cc614d0f569a9bd12e6b0e7e1baf3ec848a7604ada98c5b5",
+    "original_audio_path": "12192139752982190546.wav",
+    "question_sha256": "6378fc217e6936d7f99038f938c4e01306a3203fcf48a674e72917891299ef80",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1875,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "734a38fe63e9f178cc614d0f569a9bd12e6b0e7e1baf3ec848a7604ada98c5b5",
+    "original_audio_path": "12192139752982190546.wav",
+    "question_sha256": "6378fc217e6936d7f99038f938c4e01306a3203fcf48a674e72917891299ef80",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1798,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "4f7c0efc9192a701fe291cc9b0e21493a8288ce661b67db5e61bacdb4f8f5312",
+    "original_audio_path": "15166858822901466228.wav",
+    "question_sha256": "e2cadaaaf9d1fce40d424a4f69473f729cec6ef087bca8685b5219dd8899725b",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1798,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "4f7c0efc9192a701fe291cc9b0e21493a8288ce661b67db5e61bacdb4f8f5312",
+    "original_audio_path": "15166858822901466228.wav",
+    "question_sha256": "e2cadaaaf9d1fce40d424a4f69473f729cec6ef087bca8685b5219dd8899725b",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 2002,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "8151cc2d7317567e4b464b4b4028cfcedc0bd9e6d1f5a5dbd350523d0a298e5c",
+    "original_audio_path": "2209942949403736703.wav",
+    "question_sha256": "1b6f20f675349bbc08a9a1a75281f5fbe056df2af7f5b9bfe7e9a04dfcf6f45b",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 2002,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "8151cc2d7317567e4b464b4b4028cfcedc0bd9e6d1f5a5dbd350523d0a298e5c",
+    "original_audio_path": "2209942949403736703.wav",
+    "question_sha256": "1b6f20f675349bbc08a9a1a75281f5fbe056df2af7f5b9bfe7e9a04dfcf6f45b",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1778,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "5be144ab7c102160d415db5c537ea272c9419780d3ca30fb3847403bfc5a9b55",
+    "original_audio_path": "10027305580492162464.wav",
+    "question_sha256": "5d6388c8a3c59d63e61c322ebc9e2cc37dd5edc3aa783f813117e48237ecf8ea",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1778,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "5be144ab7c102160d415db5c537ea272c9419780d3ca30fb3847403bfc5a9b55",
+    "original_audio_path": "10027305580492162464.wav",
+    "question_sha256": "5d6388c8a3c59d63e61c322ebc9e2cc37dd5edc3aa783f813117e48237ecf8ea",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1774,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "6bd343b3cfd89626c0ef7ef05051dfba852a994c794887ee13977d8814e431ee",
+    "original_audio_path": "579454037541708253.wav",
+    "question_sha256": "1eabdd14a5fd9003fe8b5ad53ab825a1d7c6807e7e90cbb238e04706816f3569",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1774,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "6bd343b3cfd89626c0ef7ef05051dfba852a994c794887ee13977d8814e431ee",
+    "original_audio_path": "579454037541708253.wav",
+    "question_sha256": "1eabdd14a5fd9003fe8b5ad53ab825a1d7c6807e7e90cbb238e04706816f3569",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1996,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "8175b546f96a2824aeec93128d3256aa19d1cfecb9fdc624d66c62e2922cb180",
+    "original_audio_path": "10286778291956788434.wav",
+    "question_sha256": "edbd61b64256f4e6d38bf43e16110569823ec4f1873ef9c9373a699725ef2f49",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1996,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "8175b546f96a2824aeec93128d3256aa19d1cfecb9fdc624d66c62e2922cb180",
+    "original_audio_path": "10286778291956788434.wav",
+    "question_sha256": "edbd61b64256f4e6d38bf43e16110569823ec4f1873ef9c9373a699725ef2f49",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1732,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "6241c235cf07d30eaed506d4d09d004508a903483748772c28c2ef6199239a62",
+    "original_audio_path": "10798430940133763019.wav",
+    "question_sha256": "1cad861c04e59aa6375373919212dbbd721e9ac0ada66bebef42818ceae731dd",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1732,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "6241c235cf07d30eaed506d4d09d004508a903483748772c28c2ef6199239a62",
+    "original_audio_path": "10798430940133763019.wav",
+    "question_sha256": "1cad861c04e59aa6375373919212dbbd721e9ac0ada66bebef42818ceae731dd",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1841,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "92bcaa76197e4d24c90371a7b540f3e5c99a77c440e0ed014fdd4940e0a20f73",
+    "original_audio_path": "17261544602668503036.wav",
+    "question_sha256": "c0fd11516928035e7a8c6ef82310a9d5fdd2ff74572d2595c5b38e97967f5906",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1841,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "92bcaa76197e4d24c90371a7b540f3e5c99a77c440e0ed014fdd4940e0a20f73",
+    "original_audio_path": "17261544602668503036.wav",
+    "question_sha256": "c0fd11516928035e7a8c6ef82310a9d5fdd2ff74572d2595c5b38e97967f5906",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1860,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "d142aceb1bf12c30d4ca2a84a024531eca8cc7c36c04b4e1923178aad90acab2",
+    "original_audio_path": "5197619145693820946.wav",
+    "question_sha256": "e9864dfe615e9c7ca5b86051e4a1f757ed10d26eb444cea2cdcfaf40fc195945",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1860,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "d142aceb1bf12c30d4ca2a84a024531eca8cc7c36c04b4e1923178aad90acab2",
+    "original_audio_path": "5197619145693820946.wav",
+    "question_sha256": "e9864dfe615e9c7ca5b86051e4a1f757ed10d26eb444cea2cdcfaf40fc195945",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1694,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "5ae55505034c56e812b4c1583c00d506c79c90980a23225a9d8dd7ec3dc7e347",
+    "original_audio_path": "1684304007849598848.wav",
+    "question_sha256": "7e8062ab1024b8902acaa06520cff69aa223be3bbc9bb5314d43bf3e0cb273ed",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1694,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "5ae55505034c56e812b4c1583c00d506c79c90980a23225a9d8dd7ec3dc7e347",
+    "original_audio_path": "1684304007849598848.wav",
+    "question_sha256": "7e8062ab1024b8902acaa06520cff69aa223be3bbc9bb5314d43bf3e0cb273ed",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1958,
+    "condition": "clean",
+    "canonical_source_audio_sha256": "52447f0a9ee1ae5610f37dc0adb6ab776071dfe6818891a552a6ffa3c87934e4",
+    "original_audio_path": "1137772989789278397.wav",
+    "question_sha256": "349a328bd7570353edb9e0cd4182cdd44349577e084e493fd3b0fafd7e78c403",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  },
+  {
+    "source_id": 1958,
+    "condition": "noise_10db",
+    "canonical_source_audio_sha256": "52447f0a9ee1ae5610f37dc0adb6ab776071dfe6818891a552a6ffa3c87934e4",
+    "original_audio_path": "1137772989789278397.wav",
+    "question_sha256": "349a328bd7570353edb9e0cd4182cdd44349577e084e493fd3b0fafd7e78c403",
+    "waveform_transform": "shared v2 gain; 16kHz int16; noise seed SHA256 noise:decimal-publisher-id first16hex; 10dB white-noise; clean and noisy share gain",
+    "canonical_hash_definition": "original publisher PCM decoded by scipy.wavfile; rate+NUL+dtype+NUL+PCM C bytes"
+  }
+]

@@ -1,0 +1,112 @@
+{
+  "reviewer_category": "model",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "medium",
+  "human_adjudication": false,
+  "date": "2026-11-03",
+  "input_packet": "packet-01/blinded-cases.jsonl",
+  "packet_sha256": "29540f94bc328a4535e6967839403abab31e34b980f0377cde8b7312adf2839b",
+  "labels_file": "primary-labels.jsonl",
+  "labels_sha256": "290e81d482099787da9868528ece56d179f30ef344a74a46ac3991e12839289b",
+  "cases": 179,
+  "correct": 46,
+  "hallucinated": 40,
+  "rubric_source": "protocol.md",
+  "rubric_sha256": "a7cd36446c24bbbb189c670b2978a152e65543b801dd0954eba230fc0db87a13",
+  "blindness": {
+    "read_inputs": [
+      "protocol.md rubric",
+      "packet-01/blinded-cases.jsonl"
+    ],
+    "variant_mapping_read": false,
+    "raw_run_folders_read": false,
+    "metrics_read": false
+  },
+  "review_method": "Every supplied evidence/question/reference/answer tuple was read and individually judged. No exact-match substitution or automatic default labels. Publisher text is the audio-evidence proxy. Semantic spelling variants were accepted when the intended answer remained recoverable; unreadable fragments were incorrect. Supported irrelevant fragments did not alone trigger hallucination. New unsupported names, numbers, dates or intelligible factual relations did.",
+  "limitations": [
+    "Model judgments, not human adjudication or listening-based audio audit.",
+    "Many outputs contain severe spelling corruption or truncation; boundaries between recoverable spelling and wrong identity warrant independent review."
+  ],
+  "ambiguities_for_secondary_review": [
+    "0126d68c895d75ec",
+    "02fb727835664436",
+    "03ef6ea7de49b6f4",
+    "08344f4072c74c1a",
+    "123625c507e56d78",
+    "141c35cfd952eb00",
+    "1ee79dc648cd6bad",
+    "2467606e73fc813b",
+    "2473ca8d043df5d9",
+    "2ebc229a540ba779",
+    "3cc1f0d14acb9ba2",
+    "40be9e4e3a68e5cb",
+    "4317255245b8ef63",
+    "49d6b143b341eca1",
+    "53b9f02bafcb6c11",
+    "724658df09ed3143",
+    "76f7f0fd8439e6aa",
+    "79ede2b790a2e4a9",
+    "8e51b501d92840cf",
+    "9e2f0a15d0f320d0",
+    "ab1319c4afaf495a",
+    "b2816bfe0cc024e8",
+    "d33ab1f6a8a909ba",
+    "f75156f01d181693"
+  ],
+  "incremental_reviews": [
+    {
+      "packet": "packet-02/new-cases-only.jsonl",
+      "packet_sha256": "8d90ee7bfef54a71d4528b6ed62858f0be4ebaa0d53c6ca6916a1c7867516974",
+      "prior_labels_sha256": "290e81d482099787da9868528ece56d179f30ef344a74a46ac3991e12839289b",
+      "prior_entries_byte_preserved": true,
+      "new_case_count": 23,
+      "new_correct": 8,
+      "new_hallucinated": 4,
+      "total_unique_cases": 202,
+      "labels_sha256": "9e37837f39e9df933f896ed0efab219243a1c785965647e00b849ca613a9475e",
+      "reviewer_category": "model",
+      "model": "gpt-6.1-sol",
+      "reasoning_effort": "medium",
+      "human_adjudication": false,
+      "blindness": "Read only new-cases-only packet, prior own labels/provenance and established protocol rubric; no director mapping, raw predictions, metrics or variant identities.",
+      "ambiguities_for_secondary_review": [
+        "0a67bed720ff3a2f",
+        "137274be26a4fc11",
+        "3ffe8610fbab81bd",
+        "9f1f3655010319a9",
+        "e52b8354300c3e14"
+      ],
+      "coverage_check": "179 prior case IDs plus all 23 unique new case IDs; full packet not opened to preserve strict input scope."
+    },
+    {
+      "packet": "packet-final/new-cases-only.jsonl",
+      "packet_sha256": "12ffe4de59250385598039b1bbb955460c36695e23b66998fd712b0d93287dc9",
+      "prior_labels_sha256": "9e37837f39e9df933f896ed0efab219243a1c785965647e00b849ca613a9475e",
+      "prior_entries_byte_preserved": true,
+      "new_case_count": 84,
+      "new_correct": 60,
+      "new_hallucinated": 9,
+      "total_unique_cases": 286,
+      "labels_sha256": "0bc1b94d547caa4c8952d068e15f9668a3a2b69577edbc6433fca2f874b58037",
+      "reviewer_category": "model",
+      "model": "gpt-6.1-sol",
+      "reasoning_effort": "medium",
+      "human_adjudication": false,
+      "audio_audit": false,
+      "blindness": "Read only the 84 new blinded cases and own prior labels/provenance; did not read mapping, raw outputs, full metrics or variant identities. Applied the established frozen protocol rubric.",
+      "ambiguities_for_secondary_review": [
+        "01abd2f5abfb9b80",
+        "0f7b1087cfc5e60b",
+        "1fbb2e2fde47161b",
+        "399f94119ab8dea2",
+        "85e3e63276d11daf",
+        "8b43e402c6e489ba",
+        "8c5916710e4921e8",
+        "922c2c763137bddc",
+        "c8a975b55a49aa5b",
+        "ce0862ac61bbc458"
+      ],
+      "coverage_check": "Prior 202 IDs plus each of 84 distinct new IDs; full packet deliberately not opened."
+    }
+  ]
+}

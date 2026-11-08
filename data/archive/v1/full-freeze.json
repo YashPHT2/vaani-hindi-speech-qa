@@ -1,0 +1,12 @@
+{
+  "sha256": {
+    "qa.tsv": "1d3b7668e1e9b8aba4c63fcc881e993ede59d7c2f77a53092340246c210a921b",
+    "candidates.json": "38fbab71d7a5e0f843a4557b830265d4ea7783ed1b8e75e748efb41a9e7146d7",
+    "manifest.jsonl": "3e2a16d0bd14f7f9dbba0387932e0d95b5d36c77799d840cdda73b57da23ec1d"
+  },
+  "items": 224,
+  "unique_sources": 112,
+  "dev_sources": 12,
+  "test_sources": 100,
+  "notes": "Researcher-authored labels; unanswerable items use the explicit answer अज्ञात. Paired conditions are correlated and are never counted as independent sources."
+}

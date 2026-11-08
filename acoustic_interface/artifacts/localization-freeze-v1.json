@@ -1,0 +1,111 @@
+{
+  "state": "prospectively_frozen",
+  "created_unix": 1793994203.554535,
+  "config": {
+    "run_id": "localized-omission-sensitivity-v1",
+    "seed": 17,
+    "model": "openai/whisper-small",
+    "model_revision": "973afd24965f72e36ca33b3055d56a652f456b4d",
+    "pair": {
+      "plus": "चूंकि उनकी शुरुआती दिनों में प्रकाश प्रदूषण आज की तरह की समस्या नहीं थी वे आमतौर पर शहरों में या परिसरों में स्थित हैं जहां आधुनिक समय में निर्मित जगहों की तुलना में पहुंचना आसान होता हैं",
+      "minus": "चूंकि उनकी शुरुआती दिनों में आज की तरह की समस्या नहीं थी वे आमतौर पर शहरों में या परिसरों में स्थित हैं जहां आधुनिक समय में निर्मित जगहों की तुलना में पहुंचना आसान होता हैं",
+      "deleted_text": "प्रकाश प्रदूषण ",
+      "target_char_span": [
+        29,
+        43
+      ],
+      "deleted_char_span": [
+        29,
+        44
+      ],
+      "negative_type": "synthetic_deletion_not_observed_ASR_or_phoneticnegative"
+    },
+    "inputs": [
+      {
+        "id": "fleurs-hi-1806-clean",
+        "source_id": "fleurs-hi-1806",
+        "condition": "clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "8a068f7bc0713efad648be6a07cc665afa627e14258234977be845debaf64d5a",
+        "duration_s": 13.68,
+        "donor_id": "fleurs-hi-1868-clean",
+        "donor_file": "<PROJECT_ROOT>",
+        "donor_audio_sha256": "eca1702a92ac8c2205a3268acba54468a3aae8c6ef1a1fdd6320b0ddffbe65a4",
+        "donor_duration_s": 13.68,
+        "donor_duration_ratio": 1.0
+      },
+      {
+        "id": "fleurs-hi-1806-noise_10db",
+        "source_id": "fleurs-hi-1806",
+        "condition": "noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "1078b7cb2832f553333b9d2477ccec3c71d13f3e486d6736f2a906d65aa5b91f",
+        "duration_s": 13.68,
+        "donor_id": "fleurs-hi-1868-noise_10db",
+        "donor_file": "<PROJECT_ROOT>",
+        "donor_audio_sha256": "7d8ef93d7a2a96111eab481ea29f142d8092bda8272851b379fc5bdf0871014a",
+        "donor_duration_s": 13.68,
+        "donor_duration_ratio": 1.0
+      }
+    ],
+    "target_mask_interval_s": [
+      2.9,
+      4.1
+    ],
+    "placebo_mask_interval_s": [
+      8.0,
+      9.2
+    ],
+    "fade_s": 0.005,
+    "boundary_provenance": {
+      "file": "artifacts/localization-boundaries-validated.json",
+      "sha256": "d0144d376d26377fb447f8f71bac272b8cc6247e11053b94643eea91fde13784",
+      "validation_status": "human_reported_bounds"
+    },
+    "source_sha256": {
+      "localization_worker.py": "c27f8a6c1d983de1feb46a03f5df07d6d0937553d049ad5b9815d59902092ec1",
+      "localization_runner.py": "11d8186faf27d0ed2a358b38c40b079c25cc92994b06a8642c769c912240eb1b",
+      "prepare_localization.py": "611b50d9b7948a459823d0483a1a2f4eec8d97fa1a63a96943748695bb2c5c7c",
+      "artifacts/localization-boundaries-validated.json": "d0144d376d26377fb447f8f71bac272b8cc6247e11053b94643eea91fde13784",
+      "artifacts/omission-freeze-v1.json": "4bc513334857af11240ce893ef0bbfafc45d11c66efb3db90e84ded286c139ba",
+      "artifacts\\localization-boundary-imports\\854d4b719e7abcda41176f4280a293c227bb5b327c0eb9fb5716b6e7d15ecd90.json": "854d4b719e7abcda41176f4280a293c227bb5b327c0eb9fb5716b6e7d15ecd90",
+      "artifacts\\localization-boundary-imports\\codex-clipboard-1e9810dd-529d-4b0a-a1a0-c662d93f2379.png": "25f853de5bad655fd195b777a112391ae658177cf956bd1ce6e7ee6d38a4bb4d",
+      "artifacts\\localization-boundary-imports\\codex-clipboard-7c7811b5-66f7-43a6-8f5f-5d64e6a1af98.png": "38682db632d40cfb9977a260baaad80d57b2e1d2ef0afa94e0f8fda17fecd4cc",
+      "artifacts\\listening-imported.json": "570a248ec769840e61a0fd55f6cb40055b3a7836737cf5288e5e70d007e21cf5",
+      "localization_analysis.py": "8af35da55851e997b0c50d4d6f79476c459fab6d2aef0f2e08ac7bb7fb27443b",
+      "localized_intervention_protocol.md": "aa4803f0a686cd7bfa9a822dc6be04a8e35becfd1cda1dfc496ebda32a29e24b"
+    },
+    "old_result_sha256": "8877c11b117f3db234fd49e505c39877fdd4be65d4b7340b3f3050acebdf12f7",
+    "resource_limits": {
+      "gpu": "A10",
+      "gpu_count": 1,
+      "cpu": 2,
+      "memory_gib": 16,
+      "function_s": 600,
+      "startup_s": 300,
+      "queue_s": 120,
+      "retries": 0
+    },
+    "reservation_usd": 1,
+    "worst_case_cost_usd": 0.63168344,
+    "independent_sources": 1,
+    "training_updates": 0,
+    "fresh_test_loaded": false,
+    "full_phrase_extent_verified": false
+  },
+  "estimand": "S(placebo-masked)-S(target-masked), equivalently targetdrop-placebodrop, per acoustic condition",
+  "primary_measure": "Full-sequence lexical+EOS summed preference; token-normalized measures separate",
+  "auxiliary_measure": "Firstdivergent token odds from a SINGLE shared-prefix forward distribution",
+  "reporting": "Signed descriptive contrasts, no population significance or trainingGO from one source",
+  "boundary_scope": "User-reported uncertain window; fullphraseextent not independently established; placebo equalduration and listener-checked unrelated",
+  "limitations": [
+    "Masking perturbations can alter alignment and contextual encoder states.",
+    "Unequal hypothesis lengths remain; source1 with2conditions not2independentcases.",
+    "Candidatecoverage andlocalizeddecoder sensitivity do not prove four-vector readout."
+  ],
+  "review_status": "static_review_passed",
+  "frozen_unix": 1793994312.6191216,
+  "review_sha256": "68461383b16fa08c0021fe0d62f5efa8e016fbc932af65b16e36828cc81d70b7",
+  "scope": "User-reported-window contribution, not complete-phrase ablation",
+  "authorization": "Existing30USD user research authorization; suppliedwaveformintervals andrequestedtarget/placebo diagnostic"
+}

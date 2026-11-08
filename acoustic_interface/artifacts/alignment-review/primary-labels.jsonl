@@ -1,0 +1,37 @@
+{"case": "0148458cd78334c04ba5", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Garbled telescope description gives no identifiable location.", "reviewer_type": "model"}
+{"case": "08d6e45c70db0286a83c", "correct": false, "hallucinated": true, "ambiguous": false, "reason": "Explicitly calls the group “social”; the passage uses that as a description and gives the name pride.", "reviewer_type": "model"}
+{"case": "111912142eec27a5a59d", "correct": false, "hallucinated": true, "ambiguous": false, "reason": "The passage says across the river and gives no southward direction.", "reviewer_type": "model"}
+{"case": "1229f0177385b34f4408", "correct": false, "hallucinated": true, "ambiguous": false, "reason": "Introduces a university as the destination; the passage says restroom.", "reviewer_type": "model"}
+{"case": "1b271477db2b1a7a0e30", "correct": false, "hallucinated": true, "ambiguous": false, "reason": "Lists specific countries that the passage never identifies.", "reviewer_type": "model"}
+{"case": "1b50a40c8dd90106800b", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Echoes “separate” in garbled form and fails to name a visa.", "reviewer_type": "model"}
+{"case": "2a9fc729108ff0ef4809", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains even though the passage names the Rossby number.", "reviewer_type": "model"}
+{"case": "38f384bbe1e0a458e078", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Repeats the question without saying that the species count is unknown.", "reviewer_type": "model"}
+{"case": "3e0bd8a397f811cbf0a7", "correct": false, "hallucinated": true, "ambiguous": false, "reason": "Gives a specific elevation of 1500 where the passage supplies no elevation.", "reviewer_type": "model"}
+{"case": "47e69aa35fad15d6778a", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Repeats the question and gives only one letter of a response.", "reviewer_type": "model"}
+{"case": "54136606edfb8dfd14b9", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Unclear light-related fragment does not identify either group whose voices are heard.", "reviewer_type": "model"}
+{"case": "64830d63dd77911d7211", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Vague outside-related fragment does not establish the station is across the river.", "reviewer_type": "model"}
+{"case": "76e0ab821059fb1a9e3a", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "Clearly gives the group name प्राइड despite grammatical and trailing prompt fragments.", "reviewer_type": "model"}
+{"case": "78171e2f056e68f64d9a", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Garbled extraction of the description of the cats, rather than the group name; the ending is incomplete.", "reviewer_type": "model"}
+{"case": "7d98c81eb914601b147b", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Restates the question in a truncated fragment and never names Earth.", "reviewer_type": "model"}
+{"case": "809c3408e4936f11be16", "correct": false, "hallucinated": false, "ambiguous": true, "reason": "First word resembles शेंगेन, but the rest is garbled and the full answer is uncertain.", "reviewer_type": "model"}
+{"case": "8637888fa17a9c81d01f", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Garbled or mistaken extraction of the sellers phrase, with tourists omitted.", "reviewer_type": "model"}
+{"case": "8684966db17b03a83011", "correct": false, "hallucinated": true, "ambiguous": false, "reason": "Introduces the woman’s son as her destination; the passage says restroom.", "reviewer_type": "model"}
+{"case": "86a3f907a37c7a9ce655", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Fragment about doubling does not identify the Rossby number or make a clear numerical claim.", "reviewer_type": "model"}
+{"case": "9133487787fbc28b331c", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Unintelligible fragment does not identify remote areas.", "reviewer_type": "model"}
+{"case": "952f4e7c2c5cc09f5025", "correct": false, "hallucinated": true, "ambiguous": false, "reason": "States 1980, contradicting the explicit year 1966.", "reviewer_type": "model"}
+{"case": "98e72ae3daa37d13e023", "correct": false, "hallucinated": true, "ambiguous": false, "reason": "Adds a northerly direction absent from the passage.", "reviewer_type": "model"}
+{"case": "991bed478f2d1ee8f002", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Repeats an answer instruction without naming a number.", "reviewer_type": "model"}
+{"case": "9afc5f1f33ecf3583c55", "correct": false, "hallucinated": true, "ambiguous": false, "reason": "States 1980, contradicting the explicit year 1966.", "reviewer_type": "model"}
+{"case": "ab761bb122312ec41287", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "दूर धराज is a recognizable phonetic rendering of दूरदराज and answers the location question.", "reviewer_type": "model"}
+{"case": "b20f908a1331eead759f", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Extracts a garbled form of magnetic from the explanation without naming the number.", "reviewer_type": "model"}
+{"case": "b3577c405d597c164b7b", "correct": false, "hallucinated": true, "ambiguous": false, "reason": "Invents a medical station as the destination; the passage says restroom.", "reviewer_type": "model"}
+{"case": "b5b2128305aad93f8612", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Extracts a magnet-related word, leaving the requested Rossby number unanswered.", "reviewer_type": "model"}
+{"case": "bee0d8afeb2786857d3f", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Garbles the sellers phrase as भेजने वालों and leaves tourists out.", "reviewer_type": "model"}
+{"case": "c3cf42407d8f846fc0e9", "correct": false, "hallucinated": true, "ambiguous": false, "reason": "Asserts the station is west of the river; the passage only says across it.", "reviewer_type": "model"}
+{"case": "c5ef4102dded37e7d23b", "correct": true, "hallucinated": false, "ambiguous": false, "reason": "Names Schengen, the visa identified by the passage.", "reviewer_type": "model"}
+{"case": "cbb9c5bcf09a36459ef1", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Repeats the question and gives only one letter of a response.", "reviewer_type": "model"}
+{"case": "e0793bc40e9b664b8550", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Extracts money from the benefits instead of naming the visa.", "reviewer_type": "model"}
+{"case": "e0995f1ad0ce3bf637ef", "correct": false, "hallucinated": false, "ambiguous": true, "reason": "उपार could be a garbled location phrase, but the wording does not reliably establish उस पार.", "reviewer_type": "model"}
+{"case": "e37f9e7da17d0b9af75b", "correct": false, "hallucinated": true, "ambiguous": false, "reason": "Lists countries that the passage never identifies.", "reviewer_type": "model"}
+{"case": "e440cd7a987f58293e74", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Restates the question and cuts off without stating the count is unknown.", "reviewer_type": "model"}
+{"case": "e89480af0785b0a0c87b", "correct": false, "hallucinated": false, "ambiguous": false, "reason": "Abstains even though the passage states the year 1966.", "reviewer_type": "model"}

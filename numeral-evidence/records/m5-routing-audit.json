@@ -1,0 +1,8901 @@
+{
+ "ENC_b10": {
+  "gramvaani-0088": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 20000,
+    "second": 20000
+   }
+  ],
+  "gramvaani-0260": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0473": [
+   {
+    "ordinal": 2,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0543": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0571": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0670": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-0679": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0885": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0887": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-1005": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ]
+ },
+ "HEADCONF_b10": {
+  "gramvaani-0008": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0025": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0100": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0199": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0337": [
+   {
+    "ordinal": 4,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0410": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0780": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0888": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0980": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ]
+ },
+ "RANDOM_b10": {
+  "gramvaani-0074": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 12,
+    "second": null
+   }
+  ],
+  "gramvaani-0187": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0286": [
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0325": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 5,
+    "second": null
+   }
+  ],
+  "gramvaani-0454": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0501": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0583": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 15,
+    "second": null
+   }
+  ],
+  "gramvaani-0605": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 56,
+    "second": 56
+   }
+  ],
+  "gramvaani-0653": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 3,
+    "second": null
+   }
+  ],
+  "gramvaani-0979": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ]
+ },
+ "ENC_b25": {
+  "gramvaani-0051": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-0079": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ],
+  "gramvaani-0083": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0088": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 20000,
+    "second": 20000
+   }
+  ],
+  "gramvaani-0246": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 13,
+    "second": null
+   }
+  ],
+  "gramvaani-0260": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0339": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0385": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0400": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0418": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 250,
+    "second": null
+   }
+  ],
+  "gramvaani-0473": [
+   {
+    "ordinal": 2,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0501": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0543": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0571": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 300,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0621": [
+   {
+    "ordinal": 3,
+    "action": "keep_agree",
+    "koyal": 2000,
+    "second": 2000
+   }
+  ],
+  "gramvaani-0670": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-0679": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0714": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 500000,
+    "second": 500000
+   }
+  ],
+  "gramvaani-0783": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0885": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0887": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-0915": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 1000,
+    "second": 12000
+   }
+  ],
+  "gramvaani-1005": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ]
+ },
+ "HEADCONF_b25": {
+  "gramvaani-0008": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0024": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 8,
+    "second": 8
+   }
+  ],
+  "gramvaani-0025": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0051": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 3,
+    "second": null
+   }
+  ],
+  "gramvaani-0083": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0100": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0118": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0199": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0231": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0278": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0337": [
+   {
+    "ordinal": 4,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0357": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0373": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0380": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0410": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0529": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 1,
+    "second": 2
+   }
+  ],
+  "gramvaani-0618": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0766": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0780": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0876": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 4,
+    "second": null
+   }
+  ],
+  "gramvaani-0888": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0980": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-1028": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ]
+ },
+ "RANDOM_b25": {
+  "gramvaani-0069": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0074": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 12,
+    "second": null
+   }
+  ],
+  "gramvaani-0121": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ],
+  "gramvaani-0187": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0188": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0260": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0286": [
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0291": [
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0325": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 5,
+    "second": null
+   }
+  ],
+  "gramvaani-0454": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0456": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 4,
+    "second": 4
+   }
+  ],
+  "gramvaani-0487": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0501": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0583": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 15,
+    "second": null
+   }
+  ],
+  "gramvaani-0597": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0605": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 56,
+    "second": 56
+   }
+  ],
+  "gramvaani-0653": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 3,
+    "second": null
+   }
+  ],
+  "gramvaani-0689": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 20,
+    "second": null
+   }
+  ],
+  "gramvaani-0840": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 150000,
+    "second": 150000
+   }
+  ],
+  "gramvaani-0872": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2018,
+    "second": 2018
+   }
+  ],
+  "gramvaani-0879": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 12,
+    "second": null
+   }
+  ],
+  "gramvaani-0887": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0953": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2018,
+    "second": 2018
+   }
+  ],
+  "gramvaani-0979": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ],
+  "gramvaani-1012": [
+   {
+    "ordinal": 3,
+    "action": "keep_agree",
+    "koyal": 10,
+    "second": 10
+   }
+  ]
+ },
+ "ENC_b50": {
+  "gramvaani-0029": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 15,
+    "second": 15
+   }
+  ],
+  "gramvaani-0031": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 15,
+    "second": null
+   }
+  ],
+  "gramvaani-0051": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-0079": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ],
+  "gramvaani-0083": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0088": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 20000,
+    "second": 20000
+   }
+  ],
+  "gramvaani-0131": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0134": [
+   {
+    "ordinal": 2,
+    "action": "substitute",
+    "koyal": 2017,
+    "second": 2016
+   }
+  ],
+  "gramvaani-0183": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 2017,
+    "second": 2018
+   }
+  ],
+  "gramvaani-0246": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 13,
+    "second": null
+   }
+  ],
+  "gramvaani-0260": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0339": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0385": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0400": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0418": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 250,
+    "second": null
+   }
+  ],
+  "gramvaani-0438": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 13,
+    "second": null
+   }
+  ],
+  "gramvaani-0447": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 20,
+    "second": null
+   }
+  ],
+  "gramvaani-0460": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2013,
+    "second": 2013
+   }
+  ],
+  "gramvaani-0463": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 250,
+    "second": null
+   }
+  ],
+  "gramvaani-0473": [
+   {
+    "ordinal": 2,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0501": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0543": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0555": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 100,
+    "second": null
+   }
+  ],
+  "gramvaani-0559": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 400,
+    "second": null
+   }
+  ],
+  "gramvaani-0571": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 300,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0583": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 15,
+    "second": null
+   }
+  ],
+  "gramvaani-0609": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 13,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 100000,
+    "second": 1
+   }
+  ],
+  "gramvaani-0621": [
+   {
+    "ordinal": 3,
+    "action": "keep_agree",
+    "koyal": 2000,
+    "second": 2000
+   }
+  ],
+  "gramvaani-0632": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 30,
+    "second": 20
+   }
+  ],
+  "gramvaani-0670": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-0678": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0679": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0699": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 22,
+    "second": 22
+   }
+  ],
+  "gramvaani-0714": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 500000,
+    "second": 500000
+   }
+  ],
+  "gramvaani-0736": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0745": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 26,
+    "second": 6
+   }
+  ],
+  "gramvaani-0751": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0783": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 150000,
+    "second": 150000
+   }
+  ],
+  "gramvaani-0863": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0879": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 12,
+    "second": null
+   }
+  ],
+  "gramvaani-0885": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0887": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-0915": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 1000,
+    "second": 12000
+   }
+  ],
+  "gramvaani-0964": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-1005": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ]
+ },
+ "HEADCONF_b50": {
+  "gramvaani-0008": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0024": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 8,
+    "second": 8
+   }
+  ],
+  "gramvaani-0025": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0048": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0051": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 3,
+    "second": null
+   }
+  ],
+  "gramvaani-0067": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0083": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0091": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0100": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0118": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0123": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0135": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0187": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0192": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0199": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0204": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0223": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0231": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0278": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0337": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 4,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0353": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0356": [
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0357": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0373": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0380": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0406": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0410": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0487": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0505": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0529": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 1,
+    "second": 2
+   }
+  ],
+  "gramvaani-0618": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0670": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0679": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0745": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 26,
+    "second": 6
+   }
+  ],
+  "gramvaani-0751": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0766": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0780": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0876": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 4,
+    "second": null
+   }
+  ],
+  "gramvaani-0887": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0888": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0922": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 5,
+    "second": null
+   }
+  ],
+  "gramvaani-0962": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0980": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-1028": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ]
+ },
+ "RANDOM_b50": {
+  "gramvaani-0069": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0074": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 12,
+    "second": null
+   }
+  ],
+  "gramvaani-0100": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0121": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ],
+  "gramvaani-0131": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 2,
+    "second": 1
+   }
+  ],
+  "gramvaani-0170": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 100000,
+    "second": 100000
+   }
+  ],
+  "gramvaani-0176": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 3,
+    "second": null
+   }
+  ],
+  "gramvaani-0187": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0188": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0204": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 2,
+    "second": 8
+   }
+  ],
+  "gramvaani-0213": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 24,
+    "second": null
+   }
+  ],
+  "gramvaani-0246": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 12,
+    "second": 12
+   }
+  ],
+  "gramvaani-0258": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 26,
+    "second": null
+   }
+  ],
+  "gramvaani-0260": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0275": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0286": [
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0291": [
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0319": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 8,
+    "second": null
+   }
+  ],
+  "gramvaani-0325": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 5,
+    "second": null
+   }
+  ],
+  "gramvaani-0353": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0385": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0454": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0456": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 4,
+    "second": 4
+   }
+  ],
+  "gramvaani-0487": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0499": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0501": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0571": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0583": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 15,
+    "second": null
+   }
+  ],
+  "gramvaani-0596": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 8,
+    "second": 8
+   }
+  ],
+  "gramvaani-0597": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0605": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 56,
+    "second": 56
+   }
+  ],
+  "gramvaani-0653": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 3,
+    "second": null
+   }
+  ],
+  "gramvaani-0654": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0689": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 20,
+    "second": null
+   }
+  ],
+  "gramvaani-0748": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 7,
+    "second": null
+   }
+  ],
+  "gramvaani-0758": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0840": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 150000,
+    "second": 150000
+   }
+  ],
+  "gramvaani-0872": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2018,
+    "second": 2018
+   }
+  ],
+  "gramvaani-0879": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 12,
+    "second": null
+   }
+  ],
+  "gramvaani-0885": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0887": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0946": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 100000,
+    "second": 100000
+   }
+  ],
+  "gramvaani-0953": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2018,
+    "second": 2018
+   }
+  ],
+  "gramvaani-0979": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ],
+  "gramvaani-0980": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 9,
+    "second": null
+   }
+  ],
+  "gramvaani-0983": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 25,
+    "second": 20
+   }
+  ],
+  "gramvaani-1000": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-1012": [
+   {
+    "ordinal": 3,
+    "action": "keep_agree",
+    "koyal": 10,
+    "second": 10
+   }
+  ],
+  "gramvaani-1028": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ]
+ },
+ "ENC_b100": {
+  "gramvaani-0005": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 100,
+    "second": 100
+   }
+  ],
+  "gramvaani-0011": [
+   {
+    "ordinal": 4,
+    "action": "keep_no_listen",
+    "koyal": 10000,
+    "second": null
+   }
+  ],
+  "gramvaani-0029": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 15,
+    "second": 15
+   }
+  ],
+  "gramvaani-0031": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 15,
+    "second": null
+   }
+  ],
+  "gramvaani-0051": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-0055": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 20,
+    "second": 20
+   }
+  ],
+  "gramvaani-0062": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 18,
+    "second": null
+   }
+  ],
+  "gramvaani-0069": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0079": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ],
+  "gramvaani-0083": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0088": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 20000,
+    "second": 20000
+   }
+  ],
+  "gramvaani-0123": [
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0131": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0134": [
+   {
+    "ordinal": 2,
+    "action": "substitute",
+    "koyal": 2017,
+    "second": 2016
+   }
+  ],
+  "gramvaani-0153": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2016,
+    "second": 2016
+   }
+  ],
+  "gramvaani-0155": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 7,
+    "second": null
+   }
+  ],
+  "gramvaani-0173": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 13,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 13,
+    "second": null
+   }
+  ],
+  "gramvaani-0176": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 3,
+    "second": null
+   }
+  ],
+  "gramvaani-0183": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 2017,
+    "second": 2018
+   }
+  ],
+  "gramvaani-0236": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2018,
+    "second": 2018
+   }
+  ],
+  "gramvaani-0246": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 13,
+    "second": null
+   }
+  ],
+  "gramvaani-0260": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0278": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0291": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 15,
+    "second": 15
+   }
+  ],
+  "gramvaani-0294": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2017,
+    "second": 2017
+   }
+  ],
+  "gramvaani-0339": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0356": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 14,
+    "second": 14
+   }
+  ],
+  "gramvaani-0385": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0386": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 2016,
+    "second": 2000
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 2016,
+    "second": null
+   }
+  ],
+  "gramvaani-0398": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 30,
+    "second": null
+   }
+  ],
+  "gramvaani-0400": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0412": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2018,
+    "second": 2018
+   }
+  ],
+  "gramvaani-0418": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 250,
+    "second": null
+   }
+  ],
+  "gramvaani-0438": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 13,
+    "second": null
+   }
+  ],
+  "gramvaani-0447": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 20,
+    "second": null
+   }
+  ],
+  "gramvaani-0448": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 22,
+    "second": 22
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2016,
+    "second": 2016
+   }
+  ],
+  "gramvaani-0454": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0460": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2013,
+    "second": 2013
+   }
+  ],
+  "gramvaani-0463": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 250,
+    "second": null
+   }
+  ],
+  "gramvaani-0464": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 70,
+    "second": 70
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 14,
+    "second": 14
+   }
+  ],
+  "gramvaani-0473": [
+   {
+    "ordinal": 2,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0485": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ],
+  "gramvaani-0501": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0543": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0555": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 100,
+    "second": null
+   }
+  ],
+  "gramvaani-0559": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 100,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 400,
+    "second": null
+   }
+  ],
+  "gramvaani-0571": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 300,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0574": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0583": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 15,
+    "second": null
+   }
+  ],
+  "gramvaani-0609": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 13,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 100000,
+    "second": 1
+   }
+  ],
+  "gramvaani-0621": [
+   {
+    "ordinal": 3,
+    "action": "keep_agree",
+    "koyal": 2000,
+    "second": 2000
+   }
+  ],
+  "gramvaani-0632": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 30,
+    "second": 20
+   }
+  ],
+  "gramvaani-0643": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0662": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 12,
+    "second": 12
+   }
+  ],
+  "gramvaani-0667": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 10000000,
+    "second": 25000000
+   }
+  ],
+  "gramvaani-0670": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-0673": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0678": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 17,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0679": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0689": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 20,
+    "second": null
+   }
+  ],
+  "gramvaani-0699": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 22,
+    "second": 22
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0710": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 15,
+    "second": null
+   }
+  ],
+  "gramvaani-0714": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 500000,
+    "second": 500000
+   }
+  ],
+  "gramvaani-0719": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2016,
+    "second": 2016
+   }
+  ],
+  "gramvaani-0736": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0745": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 26,
+    "second": 6
+   }
+  ],
+  "gramvaani-0751": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0783": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 150000,
+    "second": 150000
+   }
+  ],
+  "gramvaani-0800": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0806": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 18,
+    "second": 8000
+   }
+  ],
+  "gramvaani-0820": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 20,
+    "second": null
+   }
+  ],
+  "gramvaani-0858": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 22,
+    "second": null
+   }
+  ],
+  "gramvaani-0863": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0872": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2018,
+    "second": 2018
+   }
+  ],
+  "gramvaani-0876": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 4,
+    "second": null
+   }
+  ],
+  "gramvaani-0879": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 12,
+    "second": null
+   }
+  ],
+  "gramvaani-0885": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0887": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-0915": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 1000,
+    "second": 12000
+   }
+  ],
+  "gramvaani-0938": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 11,
+    "second": 11
+   }
+  ],
+  "gramvaani-0950": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 1000,
+    "second": 1
+   }
+  ],
+  "gramvaani-0952": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 16,
+    "second": null
+   }
+  ],
+  "gramvaani-0953": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2018,
+    "second": 2018
+   }
+  ],
+  "gramvaani-0964": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-1005": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-1014": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ]
+ },
+ "HEADCONF_b100": {
+  "gramvaani-0008": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0011": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 5,
+    "second": 5
+   }
+  ],
+  "gramvaani-0024": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 8,
+    "second": 8
+   }
+  ],
+  "gramvaani-0025": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0048": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0051": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 3,
+    "second": null
+   }
+  ],
+  "gramvaani-0053": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-0058": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0067": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0081": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 90,
+    "second": null
+   }
+  ],
+  "gramvaani-0083": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0091": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0100": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0118": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0123": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0131": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 2,
+    "second": 1
+   }
+  ],
+  "gramvaani-0135": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0141": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0142": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0155": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 7,
+    "second": null
+   }
+  ],
+  "gramvaani-0181": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 400,
+    "second": null
+   }
+  ],
+  "gramvaani-0187": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0192": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0199": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0204": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0223": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0231": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0266": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 9,
+    "second": null
+   }
+  ],
+  "gramvaani-0273": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0278": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0319": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0324": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0337": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 4,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0353": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0356": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0357": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0373": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0380": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0383": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ],
+  "gramvaani-0400": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 5,
+    "second": 5
+   }
+  ],
+  "gramvaani-0406": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0410": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0422": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0462": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0485": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ],
+  "gramvaani-0487": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0499": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0505": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0528": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0529": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 1,
+    "second": 2
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 30,
+    "second": 30
+   }
+  ],
+  "gramvaani-0575": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0593": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0597": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0615": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 3,
+    "second": null
+   }
+  ],
+  "gramvaani-0618": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0634": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 9,
+    "second": null
+   }
+  ],
+  "gramvaani-0656": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 4,
+    "second": 4
+   }
+  ],
+  "gramvaani-0670": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0673": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0679": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0697": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0701": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0714": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 500000,
+    "second": 500000
+   }
+  ],
+  "gramvaani-0745": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 26,
+    "second": 6
+   }
+  ],
+  "gramvaani-0751": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0764": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ],
+  "gramvaani-0766": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0780": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0825": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 40,
+    "second": null
+   }
+  ],
+  "gramvaani-0848": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0876": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 4,
+    "second": null
+   }
+  ],
+  "gramvaani-0887": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0888": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0922": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 5,
+    "second": null
+   }
+  ],
+  "gramvaani-0932": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0935": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0937": [
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0947": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0948": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0962": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0964": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0973": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0979": [
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 3,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0980": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-1000": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-1025": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-1028": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ]
+ },
+ "RANDOM_b100": {
+  "gramvaani-0017": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-0020": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 5,
+    "second": 5
+   }
+  ],
+  "gramvaani-0027": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0031": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0064": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 23,
+    "second": 23
+   }
+  ],
+  "gramvaani-0069": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0074": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 12,
+    "second": null
+   }
+  ],
+  "gramvaani-0091": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0100": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0103": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0113": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0121": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ],
+  "gramvaani-0131": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 2,
+    "second": 1
+   }
+  ],
+  "gramvaani-0153": [
+   {
+    "ordinal": 3,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-0170": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 100000,
+    "second": 100000
+   }
+  ],
+  "gramvaani-0176": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 3,
+    "second": null
+   }
+  ],
+  "gramvaani-0187": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0188": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0192": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0204": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 2,
+    "second": 8
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0209": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 9,
+    "second": null
+   }
+  ],
+  "gramvaani-0210": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 37,
+    "second": null
+   }
+  ],
+  "gramvaani-0213": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 24,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 8,
+    "second": null
+   }
+  ],
+  "gramvaani-0223": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0246": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 12,
+    "second": 12
+   }
+  ],
+  "gramvaani-0258": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 26,
+    "second": null
+   }
+  ],
+  "gramvaani-0260": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0268": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0275": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0278": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0286": [
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0291": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 15,
+    "second": 15
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0319": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 8,
+    "second": null
+   }
+  ],
+  "gramvaani-0325": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 5,
+    "second": null
+   }
+  ],
+  "gramvaani-0335": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0353": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0379": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 40,
+    "second": 40
+   }
+  ],
+  "gramvaani-0385": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0422": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0454": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0456": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 4,
+    "second": 4
+   }
+  ],
+  "gramvaani-0462": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0463": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 250,
+    "second": null
+   }
+  ],
+  "gramvaani-0473": [
+   {
+    "ordinal": 2,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0487": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0499": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0501": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0543": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0559": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 100,
+    "second": null
+   }
+  ],
+  "gramvaani-0571": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0583": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 15,
+    "second": null
+   }
+  ],
+  "gramvaani-0596": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 8,
+    "second": 8
+   }
+  ],
+  "gramvaani-0597": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0605": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 56,
+    "second": 56
+   }
+  ],
+  "gramvaani-0619": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 18,
+    "second": null
+   }
+  ],
+  "gramvaani-0621": [
+   {
+    "ordinal": 3,
+    "action": "keep_agree",
+    "koyal": 2000,
+    "second": 2000
+   }
+  ],
+  "gramvaani-0653": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 3,
+    "second": null
+   }
+  ],
+  "gramvaani-0654": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0670": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0689": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 20,
+    "second": null
+   }
+  ],
+  "gramvaani-0748": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 7,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0758": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 2019,
+    "second": 2019
+   }
+  ],
+  "gramvaani-0766": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0793": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 11,
+    "second": null
+   }
+  ],
+  "gramvaani-0796": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 4,
+    "second": null
+   }
+  ],
+  "gramvaani-0825": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 40,
+    "second": null
+   }
+  ],
+  "gramvaani-0835": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 5,
+    "second": null
+   }
+  ],
+  "gramvaani-0840": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 150000,
+    "second": 150000
+   }
+  ],
+  "gramvaani-0859": [
+   {
+    "ordinal": 4,
+    "action": "keep_agree",
+    "koyal": 9,
+    "second": 9
+   }
+  ],
+  "gramvaani-0863": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0872": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2018,
+    "second": 2018
+   }
+  ],
+  "gramvaani-0879": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 12,
+    "second": null
+   }
+  ],
+  "gramvaani-0885": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0887": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0888": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0911": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0915": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 10,
+    "second": 10
+   }
+  ],
+  "gramvaani-0935": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0937": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 23,
+    "second": 23
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0946": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 100000,
+    "second": 100000
+   }
+  ],
+  "gramvaani-0950": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 1000,
+    "second": 1
+   }
+  ],
+  "gramvaani-0952": [
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 2016,
+    "second": 2016
+   }
+  ],
+  "gramvaani-0953": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2018,
+    "second": 2018
+   }
+  ],
+  "gramvaani-0965": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0979": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ],
+  "gramvaani-0980": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 9,
+    "second": null
+   }
+  ],
+  "gramvaani-0983": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 25,
+    "second": 20
+   }
+  ],
+  "gramvaani-1000": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-1012": [
+   {
+    "ordinal": 3,
+    "action": "keep_agree",
+    "koyal": 10,
+    "second": 10
+   }
+  ],
+  "gramvaani-1015": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-1028": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ]
+ },
+ "CASCADE": {},
+ "ALWAYS_qwen": {
+  "gramvaani-0001": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ],
+  "gramvaani-0003": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 144,
+    "second": null
+   }
+  ],
+  "gramvaani-0005": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 200000000,
+    "second": 200000000
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 100,
+    "second": 100
+   }
+  ],
+  "gramvaani-0006": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0008": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0011": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 25,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 5,
+    "second": 5
+   },
+   {
+    "ordinal": 3,
+    "action": "keep_no_listen",
+    "koyal": 7000,
+    "second": null
+   },
+   {
+    "ordinal": 4,
+    "action": "keep_no_listen",
+    "koyal": 10000,
+    "second": null
+   }
+  ],
+  "gramvaani-0017": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-0020": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 5,
+    "second": 5
+   }
+  ],
+  "gramvaani-0021": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 10000000,
+    "second": null
+   }
+  ],
+  "gramvaani-0024": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 8,
+    "second": 8
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 99,
+    "second": null
+   }
+  ],
+  "gramvaani-0025": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0027": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0029": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 16,
+    "second": 8
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 15,
+    "second": 15
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 17,
+    "second": null
+   },
+   {
+    "ordinal": 3,
+    "action": "substitute",
+    "koyal": 18,
+    "second": 8000
+   }
+  ],
+  "gramvaani-0031": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 15,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0036": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0039": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 48,
+    "second": 48
+   }
+  ],
+  "gramvaani-0043": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6100000,
+    "second": 100
+   }
+  ],
+  "gramvaani-0047": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 2533,
+    "second": 2500
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 7,
+    "second": null
+   }
+  ],
+  "gramvaani-0048": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0051": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 3,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 5,
+    "second": null
+   }
+  ],
+  "gramvaani-0053": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 7,
+    "second": null
+   }
+  ],
+  "gramvaani-0054": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6660000000,
+    "second": 60600
+   }
+  ],
+  "gramvaani-0055": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 17,
+    "second": 17
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 20,
+    "second": 20
+   }
+  ],
+  "gramvaani-0058": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0060": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 10,
+    "second": 10
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 8,
+    "second": null
+   },
+   {
+    "ordinal": 3,
+    "action": "keep_no_listen",
+    "koyal": 10,
+    "second": null
+   }
+  ],
+  "gramvaani-0062": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 18,
+    "second": null
+   }
+  ],
+  "gramvaani-0064": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 23,
+    "second": 23
+   }
+  ],
+  "gramvaani-0066": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 5,
+    "second": 5
+   }
+  ],
+  "gramvaani-0067": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 10808,
+    "second": 1
+   }
+  ],
+  "gramvaani-0069": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0072": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 31,
+    "second": null
+   }
+  ],
+  "gramvaani-0074": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 12,
+    "second": null
+   }
+  ],
+  "gramvaani-0077": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 27,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 4,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 3,
+    "action": "keep_no_listen",
+    "koyal": 5,
+    "second": null
+   },
+   {
+    "ordinal": 4,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   },
+   {
+    "ordinal": 5,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   },
+   {
+    "ordinal": 6,
+    "action": "substitute",
+    "koyal": 8,
+    "second": 2
+   },
+   {
+    "ordinal": 7,
+    "action": "keep_no_listen",
+    "koyal": 7,
+    "second": null
+   },
+   {
+    "ordinal": 8,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0078": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0079": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0080": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 30,
+    "second": 30
+   }
+  ],
+  "gramvaani-0081": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 90,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 120,
+    "second": 1
+   }
+  ],
+  "gramvaani-0083": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0088": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 20000,
+    "second": 20000
+   }
+  ],
+  "gramvaani-0089": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 39702,
+    "second": 48702
+   }
+  ],
+  "gramvaani-0090": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0091": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0100": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0103": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0111": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 32,
+    "second": null
+   }
+  ],
+  "gramvaani-0113": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 3,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ],
+  "gramvaani-0115": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 51,
+    "second": null
+   }
+  ],
+  "gramvaani-0116": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 69000,
+    "second": 1000
+   }
+  ],
+  "gramvaani-0118": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0121": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ],
+  "gramvaani-0123": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0127": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 9,
+    "second": null
+   }
+  ],
+  "gramvaani-0130": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0131": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 2,
+    "second": 1
+   }
+  ],
+  "gramvaani-0134": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 6,
+    "second": 6
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 16,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "substitute",
+    "koyal": 2017,
+    "second": 2016
+   },
+   {
+    "ordinal": 3,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0135": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0139": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2022,
+    "second": 2022
+   }
+  ],
+  "gramvaani-0141": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0142": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0143": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 75,
+    "second": 75
+   }
+  ],
+  "gramvaani-0148": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 5,
+    "second": 5
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 4,
+    "second": 4
+   }
+  ],
+  "gramvaani-0150": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 59000,
+    "second": 1000
+   }
+  ],
+  "gramvaani-0153": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 29,
+    "second": 26
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2016,
+    "second": 2016
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 2005,
+    "second": 2005
+   },
+   {
+    "ordinal": 3,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   },
+   {
+    "ordinal": 4,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-0155": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 7,
+    "second": null
+   }
+  ],
+  "gramvaani-0156": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0157": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 36,
+    "second": null
+   }
+  ],
+  "gramvaani-0158": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 422,
+    "second": 422
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 7,
+    "second": null
+   }
+  ],
+  "gramvaani-0160": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 377,
+    "second": 377
+   }
+  ],
+  "gramvaani-0170": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 100000,
+    "second": 100000
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 100000,
+    "second": null
+   }
+  ],
+  "gramvaani-0173": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 13,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 13,
+    "second": null
+   }
+  ],
+  "gramvaani-0176": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 3,
+    "second": null
+   }
+  ],
+  "gramvaani-0177": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 3,
+    "second": null
+   }
+  ],
+  "gramvaani-0181": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 400,
+    "second": null
+   }
+  ],
+  "gramvaani-0183": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 2017,
+    "second": 2018
+   }
+  ],
+  "gramvaani-0187": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 4,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0188": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0192": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0194": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 6070,
+    "second": null
+   }
+  ],
+  "gramvaani-0198": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2009,
+    "second": null
+   }
+  ],
+  "gramvaani-0199": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0204": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 2,
+    "second": 8
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0209": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 3,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 7,
+    "second": 30
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 9,
+    "second": null
+   }
+  ],
+  "gramvaani-0210": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 37,
+    "second": null
+   }
+  ],
+  "gramvaani-0213": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 24,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 8,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 12,
+    "second": null
+   }
+  ],
+  "gramvaani-0222": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 300000,
+    "second": 300000
+   }
+  ],
+  "gramvaani-0223": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0227": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1300000,
+    "second": null
+   }
+  ],
+  "gramvaani-0231": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0236": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2019,
+    "second": 2019
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2018,
+    "second": 2018
+   }
+  ],
+  "gramvaani-0246": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 11,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 12,
+    "second": 12
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 13,
+    "second": null
+   }
+  ],
+  "gramvaani-0247": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 60,
+    "second": 7
+   }
+  ],
+  "gramvaani-0250": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 260,
+    "second": 260
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 40,
+    "second": 40
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 31,
+    "second": null
+   },
+   {
+    "ordinal": 3,
+    "action": "substitute",
+    "koyal": 260,
+    "second": 10
+   },
+   {
+    "ordinal": 4,
+    "action": "keep_agree",
+    "koyal": 106,
+    "second": 106
+   }
+  ],
+  "gramvaani-0251": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 20,
+    "second": 20
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 20,
+    "second": 20
+   }
+  ],
+  "gramvaani-0253": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0256": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 18000,
+    "second": 18000
+   }
+  ],
+  "gramvaani-0257": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1479,
+    "second": 1479
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 1479,
+    "second": 1429
+   }
+  ],
+  "gramvaani-0258": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 26,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 26,
+    "second": null
+   }
+  ],
+  "gramvaani-0259": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ],
+  "gramvaani-0260": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 22,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 1250,
+    "second": 1250
+   }
+  ],
+  "gramvaani-0266": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 9,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 26502,
+    "second": 26502
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 9,
+    "second": null
+   }
+  ],
+  "gramvaani-0268": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0270": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 10,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 77,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "substitute",
+    "koyal": 2015,
+    "second": 15
+   },
+   {
+    "ordinal": 3,
+    "action": "substitute",
+    "koyal": 18,
+    "second": 1
+   },
+   {
+    "ordinal": 4,
+    "action": "keep_no_listen",
+    "koyal": 9,
+    "second": null
+   }
+  ],
+  "gramvaani-0273": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0275": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0277": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 11000,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 11000,
+    "second": 1000
+   }
+  ],
+  "gramvaani-0278": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0280": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 50,
+    "second": 50
+   }
+  ],
+  "gramvaani-0286": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0289": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ],
+  "gramvaani-0291": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 15,
+    "second": 15
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0294": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2017,
+    "second": 2017
+   }
+  ],
+  "gramvaani-0297": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 200,
+    "second": null
+   }
+  ],
+  "gramvaani-0298": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0305": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 43,
+    "second": null
+   }
+  ],
+  "gramvaani-0314": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 251,
+    "second": 2011
+   }
+  ],
+  "gramvaani-0316": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 86,
+    "second": 6
+   }
+  ],
+  "gramvaani-0319": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 8,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0324": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0325": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1500,
+    "second": 1500
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 2250,
+    "second": 250000000
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 5,
+    "second": null
+   }
+  ],
+  "gramvaani-0331": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 29,
+    "second": 2929
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 65,
+    "second": 65
+   }
+  ],
+  "gramvaani-0333": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 23,
+    "second": null
+   }
+  ],
+  "gramvaani-0335": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0337": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 150,
+    "second": 150
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 52,
+    "second": null
+   },
+   {
+    "ordinal": 3,
+    "action": "keep_agree",
+    "koyal": 7800,
+    "second": 7800
+   },
+   {
+    "ordinal": 4,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0339": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0350": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 35969,
+    "second": 100
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 36467,
+    "second": 30000
+   }
+  ],
+  "gramvaani-0353": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0356": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 14,
+    "second": 14
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0357": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0365": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 6,
+    "second": 6
+   }
+  ],
+  "gramvaani-0367": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 90,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 331,
+    "second": null
+   }
+  ],
+  "gramvaani-0368": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 5,
+    "second": null
+   }
+  ],
+  "gramvaani-0372": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 7,
+    "second": null
+   }
+  ],
+  "gramvaani-0373": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0378": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 150,
+    "second": null
+   }
+  ],
+  "gramvaani-0379": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 40,
+    "second": 40
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 332,
+    "second": 332
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 46,
+    "second": null
+   }
+  ],
+  "gramvaani-0380": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0382": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 22,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 5,
+    "second": null
+   }
+  ],
+  "gramvaani-0383": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 5,
+    "second": 5
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ],
+  "gramvaani-0385": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 16,
+    "second": null
+   }
+  ],
+  "gramvaani-0386": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 2016,
+    "second": 2000
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 2016,
+    "second": null
+   }
+  ],
+  "gramvaani-0389": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 85,
+    "second": null
+   }
+  ],
+  "gramvaani-0390": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 25,
+    "second": null
+   }
+  ],
+  "gramvaani-0396": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 80000,
+    "second": null
+   }
+  ],
+  "gramvaani-0398": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 30,
+    "second": 30
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 30,
+    "second": null
+   }
+  ],
+  "gramvaani-0400": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 5,
+    "second": 5
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0406": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 12,
+    "second": null
+   }
+  ],
+  "gramvaani-0410": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0412": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2018,
+    "second": 2018
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 14,
+    "second": null
+   }
+  ],
+  "gramvaani-0418": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 5,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 250,
+    "second": null
+   }
+  ],
+  "gramvaani-0422": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0423": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 520000000,
+    "second": 520000000
+   }
+  ],
+  "gramvaani-0426": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 24,
+    "second": 24
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 27,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "substitute",
+    "koyal": 28,
+    "second": 8000
+   }
+  ],
+  "gramvaani-0427": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 5,
+    "second": 5
+   }
+  ],
+  "gramvaani-0429": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0438": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 13,
+    "second": null
+   }
+  ],
+  "gramvaani-0441": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 3,
+    "second": null
+   }
+  ],
+  "gramvaani-0446": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 20,
+    "second": null
+   }
+  ],
+  "gramvaani-0447": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 10,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 20,
+    "second": null
+   }
+  ],
+  "gramvaani-0448": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 22,
+    "second": 22
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2016,
+    "second": 2016
+   }
+  ],
+  "gramvaani-0452": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-0454": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0456": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 4,
+    "second": 4
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 37,
+    "second": null
+   }
+  ],
+  "gramvaani-0460": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 60,
+    "second": 60
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2013,
+    "second": 2013
+   }
+  ],
+  "gramvaani-0462": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0463": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1000,
+    "second": 1000
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 250,
+    "second": null
+   }
+  ],
+  "gramvaani-0464": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 70,
+    "second": 70
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 14,
+    "second": 14
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 11,
+    "second": null
+   }
+  ],
+  "gramvaani-0473": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 150,
+    "second": 150
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   },
+   {
+    "ordinal": 2,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   },
+   {
+    "ordinal": 3,
+    "action": "keep_agree",
+    "koyal": 19,
+    "second": 19
+   }
+  ],
+  "gramvaani-0474": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 100000000,
+    "second": 100000000
+   }
+  ],
+  "gramvaani-0482": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 75,
+    "second": null
+   }
+  ],
+  "gramvaani-0485": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 44,
+    "second": null
+   }
+  ],
+  "gramvaani-0487": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 5,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 8,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0496": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2019,
+    "second": 2019
+   }
+  ],
+  "gramvaani-0499": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0500": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 100000,
+    "second": 100000
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 95,
+    "second": null
+   }
+  ],
+  "gramvaani-0501": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0504": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 10000,
+    "second": 44000
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 20000,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 35000,
+    "second": null
+   },
+   {
+    "ordinal": 3,
+    "action": "keep_no_listen",
+    "koyal": 33000,
+    "second": null
+   }
+  ],
+  "gramvaani-0505": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0506": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 4500000,
+    "second": 4500000
+   }
+  ],
+  "gramvaani-0509": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 4,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 23,
+    "second": 23
+   }
+  ],
+  "gramvaani-0520": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 89,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 40,
+    "second": 40
+   }
+  ],
+  "gramvaani-0522": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0528": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2000000000,
+    "second": 2000000000
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0529": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 1,
+    "second": 2
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 30,
+    "second": 30
+   }
+  ],
+  "gramvaani-0530": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0531": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 22,
+    "second": null
+   }
+  ],
+  "gramvaani-0536": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 5,
+    "second": null
+   }
+  ],
+  "gramvaani-0538": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 5700000,
+    "second": 100000
+   }
+  ],
+  "gramvaani-0543": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0550": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2025,
+    "second": 2025
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 658250,
+    "second": 1200
+   }
+  ],
+  "gramvaani-0552": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0555": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 100,
+    "second": null
+   }
+  ],
+  "gramvaani-0559": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 100,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 400,
+    "second": null
+   }
+  ],
+  "gramvaani-0560": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 6,
+    "second": 6
+   }
+  ],
+  "gramvaani-0568": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0571": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 300,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0574": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0575": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0579": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ],
+  "gramvaani-0582": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0583": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 15,
+    "second": null
+   }
+  ],
+  "gramvaani-0585": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0586": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2017,
+    "second": 2017
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 54700,
+    "second": 1700
+   }
+  ],
+  "gramvaani-0588": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 57,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 76,
+    "second": null
+   },
+   {
+    "ordinal": 3,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   },
+   {
+    "ordinal": 4,
+    "action": "keep_no_listen",
+    "koyal": 25,
+    "second": null
+   }
+  ],
+  "gramvaani-0591": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 5,
+    "second": null
+   }
+  ],
+  "gramvaani-0593": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0594": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 500,
+    "second": 500
+   }
+  ],
+  "gramvaani-0596": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 8,
+    "second": 8
+   }
+  ],
+  "gramvaani-0597": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2017,
+    "second": 2017
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0605": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 56,
+    "second": 56
+   }
+  ],
+  "gramvaani-0607": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 26,
+    "second": 26
+   }
+  ],
+  "gramvaani-0609": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 13,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 100000,
+    "second": 1
+   }
+  ],
+  "gramvaani-0613": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 10,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 4,
+    "second": null
+   }
+  ],
+  "gramvaani-0615": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 3,
+    "second": null
+   }
+  ],
+  "gramvaani-0618": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0619": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 18,
+    "second": null
+   }
+  ],
+  "gramvaani-0621": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 48,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 122,
+    "second": 112
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 5000,
+    "second": null
+   },
+   {
+    "ordinal": 3,
+    "action": "keep_agree",
+    "koyal": 2000,
+    "second": 2000
+   },
+   {
+    "ordinal": 4,
+    "action": "keep_no_listen",
+    "koyal": 113,
+    "second": null
+   }
+  ],
+  "gramvaani-0627": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 25,
+    "second": null
+   }
+  ],
+  "gramvaani-0632": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 20,
+    "second": 20
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 30,
+    "second": 20
+   }
+  ],
+  "gramvaani-0634": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 9,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 31,
+    "second": null
+   }
+  ],
+  "gramvaani-0635": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 9530000000,
+    "second": 9530000000
+   }
+  ],
+  "gramvaani-0639": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 7,
+    "second": null
+   }
+  ],
+  "gramvaani-0643": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0645": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 50,
+    "second": null
+   }
+  ],
+  "gramvaani-0650": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 3,
+    "second": null
+   }
+  ],
+  "gramvaani-0653": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 3,
+    "second": null
+   }
+  ],
+  "gramvaani-0654": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0656": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 4,
+    "second": 4
+   }
+  ],
+  "gramvaani-0658": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 0,
+    "second": null
+   }
+  ],
+  "gramvaani-0659": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2013,
+    "second": 2013
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 25,
+    "second": 40
+   }
+  ],
+  "gramvaani-0662": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 12,
+    "second": 12
+   }
+  ],
+  "gramvaani-0663": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 10,
+    "second": null
+   }
+  ],
+  "gramvaani-0667": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 10000000,
+    "second": 25000000
+   }
+  ],
+  "gramvaani-0670": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 10,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-0673": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0677": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 10,
+    "second": 10
+   }
+  ],
+  "gramvaani-0678": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 17,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 23,
+    "second": 23
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0679": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0686": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 6,
+    "second": 6
+   }
+  ],
+  "gramvaani-0688": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 529,
+    "second": 500
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 125,
+    "second": 1226
+   }
+  ],
+  "gramvaani-0689": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 20,
+    "second": null
+   }
+  ],
+  "gramvaani-0695": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 26,
+    "second": null
+   }
+  ],
+  "gramvaani-0697": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0698": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 10,
+    "second": null
+   }
+  ],
+  "gramvaani-0699": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 22,
+    "second": 22
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0701": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0710": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 26,
+    "second": 70
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 1947,
+    "second": 1970
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 15,
+    "second": null
+   },
+   {
+    "ordinal": 3,
+    "action": "substitute",
+    "koyal": 1947,
+    "second": 10
+   }
+  ],
+  "gramvaani-0711": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ],
+  "gramvaani-0714": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 500000,
+    "second": 500000
+   }
+  ],
+  "gramvaani-0719": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 5,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2016,
+    "second": 2016
+   }
+  ],
+  "gramvaani-0723": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 15,
+    "second": null
+   }
+  ],
+  "gramvaani-0725": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0736": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0740": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 21,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 96,
+    "second": null
+   }
+  ],
+  "gramvaani-0741": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 2500,
+    "second": 1000
+   }
+  ],
+  "gramvaani-0744": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 1552,
+    "second": 52
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 6286,
+    "second": 2
+   }
+  ],
+  "gramvaani-0745": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 26,
+    "second": 6
+   }
+  ],
+  "gramvaani-0747": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0748": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 7,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 7,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0750": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 159,
+    "second": 199
+   }
+  ],
+  "gramvaani-0751": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 12,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0754": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 5,
+    "second": 5
+   }
+  ],
+  "gramvaani-0756": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0757": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 50,
+    "second": 50
+   }
+  ],
+  "gramvaani-0758": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 2019,
+    "second": 2019
+   }
+  ],
+  "gramvaani-0759": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 9,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 10,
+    "second": null
+   }
+  ],
+  "gramvaani-0761": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 8,
+    "second": null
+   }
+  ],
+  "gramvaani-0764": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ],
+  "gramvaani-0766": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0773": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 35,
+    "second": null
+   }
+  ],
+  "gramvaani-0780": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0783": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 150000,
+    "second": 150000
+   }
+  ],
+  "gramvaani-0791": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 18000,
+    "second": 18000
+   }
+  ],
+  "gramvaani-0793": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 11,
+    "second": 11
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 11,
+    "second": null
+   }
+  ],
+  "gramvaani-0796": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 4,
+    "second": null
+   }
+  ],
+  "gramvaani-0800": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0806": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 18,
+    "second": 8000
+   }
+  ],
+  "gramvaani-0811": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 10000,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 20000,
+    "second": null
+   }
+  ],
+  "gramvaani-0813": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0815": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 11,
+    "second": 11
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0819": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 56,
+    "second": null
+   }
+  ],
+  "gramvaani-0820": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 20,
+    "second": null
+   }
+  ],
+  "gramvaani-0825": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 40,
+    "second": null
+   }
+  ],
+  "gramvaani-0827": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0828": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 7,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 26,
+    "second": null
+   }
+  ],
+  "gramvaani-0830": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 25,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 5,
+    "second": null
+   }
+  ],
+  "gramvaani-0833": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2003,
+    "second": 2003
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 2009,
+    "second": 3
+   },
+   {
+    "ordinal": 2,
+    "action": "substitute",
+    "koyal": 600061,
+    "second": 600001
+   }
+  ],
+  "gramvaani-0835": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 425,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 5,
+    "second": null
+   }
+  ],
+  "gramvaani-0840": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 150000,
+    "second": 150000
+   }
+  ],
+  "gramvaani-0842": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 7,
+    "second": null
+   }
+  ],
+  "gramvaani-0847": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1500000,
+    "second": null
+   }
+  ],
+  "gramvaani-0848": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 12,
+    "second": null
+   }
+  ],
+  "gramvaani-0851": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 5000,
+    "second": 500000
+   }
+  ],
+  "gramvaani-0856": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 279,
+    "second": 229
+   }
+  ],
+  "gramvaani-0857": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 185,
+    "second": 100
+   }
+  ],
+  "gramvaani-0858": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 350000,
+    "second": 300000
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 22,
+    "second": null
+   }
+  ],
+  "gramvaani-0859": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2015,
+    "second": 2015
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 5,
+    "second": 5
+   },
+   {
+    "ordinal": 3,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 12
+   },
+   {
+    "ordinal": 4,
+    "action": "keep_agree",
+    "koyal": 9,
+    "second": 9
+   }
+  ],
+  "gramvaani-0860": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 3,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-0861": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 8,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 300,
+    "second": null
+   }
+  ],
+  "gramvaani-0863": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 2013,
+    "second": 2
+   }
+  ],
+  "gramvaani-0868": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0869": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 3,
+    "second": null
+   }
+  ],
+  "gramvaani-0872": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2018,
+    "second": 2018
+   }
+  ],
+  "gramvaani-0876": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 4,
+    "second": null
+   }
+  ],
+  "gramvaani-0879": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 10,
+    "second": 10
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 12,
+    "second": null
+   }
+  ],
+  "gramvaani-0885": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0887": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-0888": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0893": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 25,
+    "second": null
+   }
+  ],
+  "gramvaani-0895": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 4,
+    "second": 4
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 37,
+    "second": 30
+   }
+  ],
+  "gramvaani-0896": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 6,
+    "second": 6
+   }
+  ],
+  "gramvaani-0910": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 20000,
+    "second": null
+   }
+  ],
+  "gramvaani-0911": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 3,
+    "second": 2
+   }
+  ],
+  "gramvaani-0915": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 10,
+    "second": 10
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 1000,
+    "second": 12000
+   }
+  ],
+  "gramvaani-0917": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 8,
+    "second": null
+   }
+  ],
+  "gramvaani-0920": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0922": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 5,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 10000,
+    "second": 5
+   }
+  ],
+  "gramvaani-0924": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 100000,
+    "second": 100000
+   }
+  ],
+  "gramvaani-0928": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ],
+  "gramvaani-0929": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0931": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 10,
+    "second": null
+   }
+  ],
+  "gramvaani-0932": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0933": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-0935": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0936": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ],
+  "gramvaani-0937": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 260,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 23,
+    "second": 23
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0938": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 11,
+    "second": 11
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ],
+  "gramvaani-0946": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 100000,
+    "second": 100000
+   }
+  ],
+  "gramvaani-0947": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 5,
+    "second": null
+   }
+  ],
+  "gramvaani-0948": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 0,
+    "second": null
+   }
+  ],
+  "gramvaani-0950": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 1000,
+    "second": 1
+   }
+  ],
+  "gramvaani-0952": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1800,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 16,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 2016,
+    "second": 2016
+   }
+  ],
+  "gramvaani-0953": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2018,
+    "second": 2018
+   }
+  ],
+  "gramvaani-0957": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 8000,
+    "second": 8000
+   }
+  ],
+  "gramvaani-0958": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   }
+  ],
+  "gramvaani-0962": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0964": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0965": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0969": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 3890000000,
+    "second": 3900000000
+   }
+  ],
+  "gramvaani-0973": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0976": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-0977": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 67319948232,
+    "second": null
+   }
+  ],
+  "gramvaani-0979": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 3,
+    "second": 3
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   },
+   {
+    "ordinal": 3,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-0980": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 9,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 400000,
+    "second": null
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 2,
+    "second": null
+   }
+  ],
+  "gramvaani-0983": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 20,
+    "second": 20
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 25,
+    "second": 20
+   }
+  ],
+  "gramvaani-0990": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 3,
+    "second": null
+   }
+  ],
+  "gramvaani-1000": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-1002": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   }
+  ],
+  "gramvaani-1005": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-1009": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 3000,
+    "second": 3000
+   }
+  ],
+  "gramvaani-1012": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 618,
+    "second": 418
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 422,
+    "second": 422
+   },
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 35,
+    "second": 35
+   },
+   {
+    "ordinal": 3,
+    "action": "keep_agree",
+    "koyal": 10,
+    "second": 10
+   }
+  ],
+  "gramvaani-1014": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-1015": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   }
+  ],
+  "gramvaani-1022": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 3,
+    "second": null
+   }
+  ],
+  "gramvaani-1025": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 2,
+    "second": 2
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-1026": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 10000000,
+    "second": 10000000
+   }
+  ],
+  "gramvaani-1028": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 17,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 1,
+    "second": 1
+   }
+  ],
+  "gramvaani-1030": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 280000,
+    "second": 80000
+   }
+  ]
+ },
+ "ORACLE_qwen": {
+  "gramvaani-0051": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-0077": [
+   {
+    "ordinal": 5,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-0194": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 6070,
+    "second": null
+   }
+  ],
+  "gramvaani-0210": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 37,
+    "second": null
+   }
+  ],
+  "gramvaani-0260": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0266": [
+   {
+    "ordinal": 1,
+    "action": "keep_agree",
+    "koyal": 26502,
+    "second": 26502
+   }
+  ],
+  "gramvaani-0316": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 86,
+    "second": 6
+   }
+  ],
+  "gramvaani-0339": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0385": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0400": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0447": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 20,
+    "second": null
+   }
+  ],
+  "gramvaani-0473": [
+   {
+    "ordinal": 0,
+    "action": "keep_agree",
+    "koyal": 150,
+    "second": 150
+   },
+   {
+    "ordinal": 2,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0482": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 75,
+    "second": null
+   }
+  ],
+  "gramvaani-0501": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0504": [
+   {
+    "ordinal": 3,
+    "action": "keep_no_listen",
+    "koyal": 33000,
+    "second": null
+   }
+  ],
+  "gramvaani-0529": [
+   {
+    "ordinal": 2,
+    "action": "keep_agree",
+    "koyal": 30,
+    "second": 30
+   }
+  ],
+  "gramvaani-0538": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 5700000,
+    "second": 100000
+   }
+  ],
+  "gramvaani-0543": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 1,
+    "second": null
+   },
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0609": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 100000,
+    "second": 1
+   }
+  ],
+  "gramvaani-0667": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 10000000,
+    "second": 25000000
+   }
+  ],
+  "gramvaani-0670": [
+   {
+    "ordinal": 2,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-0688": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 125,
+    "second": 1226
+   }
+  ],
+  "gramvaani-0745": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 26,
+    "second": 6
+   }
+  ],
+  "gramvaani-0783": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 6,
+    "second": 4
+   }
+  ],
+  "gramvaani-0811": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 20000,
+    "second": null
+   }
+  ],
+  "gramvaani-0825": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 40,
+    "second": null
+   }
+  ],
+  "gramvaani-0833": [
+   {
+    "ordinal": 2,
+    "action": "substitute",
+    "koyal": 600061,
+    "second": 600001
+   }
+  ],
+  "gramvaani-0835": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 425,
+    "second": null
+   }
+  ],
+  "gramvaani-0851": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 5000,
+    "second": 500000
+   }
+  ],
+  "gramvaani-0858": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 22,
+    "second": null
+   }
+  ],
+  "gramvaani-0863": [
+   {
+    "ordinal": 1,
+    "action": "substitute",
+    "koyal": 2013,
+    "second": 2
+   }
+  ],
+  "gramvaani-0887": [
+   {
+    "ordinal": 1,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-0910": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 20000,
+    "second": null
+   }
+  ],
+  "gramvaani-0950": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 1000,
+    "second": 1
+   }
+  ],
+  "gramvaani-1005": [
+   {
+    "ordinal": 0,
+    "action": "keep_no_listen",
+    "koyal": 6,
+    "second": null
+   }
+  ],
+  "gramvaani-1012": [
+   {
+    "ordinal": 0,
+    "action": "substitute",
+    "koyal": 618,
+    "second": 418
+   }
+  ]
+ }
+}

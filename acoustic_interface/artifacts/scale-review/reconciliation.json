@@ -1,0 +1,10 @@
+{
+  "new_cases": 4,
+  "disagreement_case_ids": [
+    "56004bb44b584028a982"
+  ],
+  "primary_sha256": "6d017fcf6afb7ae9399071bf14731faf3115b9a9e4728cae02ad1bf9dc2eb366",
+  "independent_sha256": "328912b46745d3358add11fed314435049e5c5cc14239ecaf36459816259d639",
+  "reconciled_sha256": "f9e16b9c11398ae7b836ce7fc25ffb1b332d4f7cbf9ec63303570e4339f4d26e",
+  "rule": "Correctness/hallucination disagreement -> incorrect and ambiguous; accepted ambiguity rejected by strict analysis; no cases dropped."
+}

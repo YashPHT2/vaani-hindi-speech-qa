@@ -1,0 +1,11 @@
+{
+  "result_sha256": "0ae6009032f290081836c1626bbb173923fc86d13aae9437ab28ab25fd21bfc0",
+  "checkpoint_sha256": {
+    "ce": "c6c0f3f7d3fe0dd6e2035397ff96a6714ff518e375d5ba5cba3b2bafe6588301",
+    "kl": "98b790a4377d77fef865b547897b13d3637201173a8939fef57162429ceb4473"
+  },
+  "training_orders_sha256": "336ed270d646c9bd6b5adb0f672f3a1ea653dd1d652e55642cbc72561c31f212",
+  "predictions_sha256": "3b933cb34cbd33fa30dffcfcb20e63f3762fe8b9374f247facd55594f272e2c4",
+  "teacher_rows_sha256": "732b25ab51f7cb87cef6066749a4c2ebf5d93b0083ce2d272ea0102f526c140b",
+  "fit_trace_sha256": "de34d4fa3d99aee1acf875e3fadbb65b972fc9a2713908bc02b3d717243106f1"
+}

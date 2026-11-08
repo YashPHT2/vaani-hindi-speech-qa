@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "fresh_predictions_at_freeze": 0,
+  "hashes": {
+    "historical_manifest": "4872a984b9e19d317930263a2f1c1ce2c5c4d3c416e3284cfce99e0ec4d8db52",
+    "source_selection": "890ad93143c644a8dde28d3c30c5c77319d370a4ec21b602c44a544c1a5f70e2",
+    "qa": "8c3ea7780a8ea5a594dd09b8b8f6b94133a41a6497afe240ee024f87a6fd4937"
+  },
+  "training": "100historical sources x2views;3epochs;fresh identical seed17 all3arms;AdamW lr.001 wd.01 clip1 effectivebatch8;earliest best12source dev checkpoint;scalers valid available training spans only;never load smoke/pilot",
+  "arms": [
+    "full",
+    "no_uncertainty",
+    "uniform",
+    "text",
+    "wrong_audio",
+    "shuffled_uncertainty",
+    "wrong_adapter_question",
+    "reference_text",
+    "question_only"
+  ],
+  "uniform": "rounded linspace valid ranks;U+availability zero;query pooling/project/gates trained;no selection surrogate",
+  "query": "percondition sort frozenQwen question token length then sourceID;adjacent swaps;adapter question only;true LMquestion retained;changes resampling and routing jointly",
+  "shuffle": "deterministic nonzero cyclic shift complete4vectors among valid spans;availability fixed;report moved and changed counts",
+  "generation": "greedy max48newtokens;answer absent from generation prompt",
+  "primary": "full minus retrained noU semantic correctness source-balanced across clean+noise",
+  "inference": "gain>=3pp and paired95CI lower>0;bootstrap2000 source draws seed17;full-vs-text separate efficacy,full-vs-uniform separate allocation",
+  "deployability": "median completed-answer end-to-end latency overhead<=25% each condition and hallucination increase<=2pp",
+  "latency": "actual common Whisper extraction plus perarm adapter+LM prefill/generation;text sameASR K0;report tokens,generation-only,cold/init/cache separately;ref/question-only omitASR diagnostic not pipelineRTF comparable",
+  "rating": {
+    "category": "model primary and independent model secondary;no human claim",
+    "dedup": "sourceID+exact answer;arm-blinded hash-bound",
+    "rubric": "strict supported complete answer;invented addition incorrect+hallucinated;faithful irrelevant incorrect not hallucinated;failure/empty incorrect;bare unknown correct only unanswerable",
+    "secondary_sources": [
+      1665,
+      1679,
+      1685,
+      1714,
+      1728,
+      1746,
+      1760,
+      1784,
+      1808,
+      1816,
+      1827,
+      1842,
+      1843,
+      1872,
+      1885,
+      1899,
+      1919,
+      1966,
+      1996,
+      2000
+    ],
+    "sampling": "16answerable+4unanswerable by SHA256 acoustic-review-v1:decimalID;all unique answers selected sources",
+    "unrated": "semantic outcomes unavailable until actual labels"
+  },
+  "failures": "retain denominator;report empty/failed/capped;judge actual truncated text",
+  "reservation_usd": 4
+}

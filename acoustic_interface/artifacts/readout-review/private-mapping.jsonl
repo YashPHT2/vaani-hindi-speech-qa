@@ -1,0 +1,12 @@
+{"id": "fleurs-hi-1806-clean", "arm": "A_text", "case": "ca80b5f77f3c260a3e46"}
+{"id": "fleurs-hi-1806-clean", "arm": "B_existing_DTW", "case": "ca80b5f77f3c260a3e46"}
+{"id": "fleurs-hi-1806-clean", "arm": "C_reported_window", "case": "ca80b5f77f3c260a3e46"}
+{"id": "fleurs-hi-1806-clean", "arm": "D_hybrid_fallback", "case": "ca80b5f77f3c260a3e46"}
+{"id": "fleurs-hi-1806-clean", "arm": "E_oracle_mismatch", "case": "04adbd8d168d2349eea7"}
+{"id": "fleurs-hi-1806-clean", "arm": "E_fallback_mismatch", "case": "04adbd8d168d2349eea7"}
+{"id": "fleurs-hi-1806-noise_10db", "arm": "A_text", "case": "ca80b5f77f3c260a3e46"}
+{"id": "fleurs-hi-1806-noise_10db", "arm": "B_existing_DTW", "case": "ca80b5f77f3c260a3e46"}
+{"id": "fleurs-hi-1806-noise_10db", "arm": "C_reported_window", "case": "ca80b5f77f3c260a3e46"}
+{"id": "fleurs-hi-1806-noise_10db", "arm": "D_hybrid_fallback", "case": "ca80b5f77f3c260a3e46"}
+{"id": "fleurs-hi-1806-noise_10db", "arm": "E_oracle_mismatch", "case": "ca80b5f77f3c260a3e46"}
+{"id": "fleurs-hi-1806-noise_10db", "arm": "E_fallback_mismatch", "case": "ca80b5f77f3c260a3e46"}

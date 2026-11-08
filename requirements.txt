@@ -1,0 +1,5 @@
+# Install PyTorch separately for the host's CPU/CUDA runtime.
+transformers==4.57.2
+huggingface-hub==0.36.0
+numpy==1.26.4
+safetensors>=0.4.3,<1

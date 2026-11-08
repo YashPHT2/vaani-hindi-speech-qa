@@ -1,0 +1,8 @@
+{
+  "hint": {
+    "rows": 200,
+    "sources": 100,
+    "prediction_sha256": "d5f7424305a9cbf1326a6dba5ac5e6def1f3c329829c007951509970d84f8838",
+    "peak_gpu_allocated_bytes": 3719866880
+  }
+}

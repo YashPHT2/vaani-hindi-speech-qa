@@ -1,0 +1,96 @@
+{
+  "state": "prospectively_frozen",
+  "scope": "Single-source exploratory decoder sensitivity to synthetic deletion, not original literal-alternative gate pass",
+  "created_unix": 1793992100.4554422,
+  "config": {
+    "run_id": "verified-omission-sensitivity-v1",
+    "seed": 17,
+    "model": "openai/whisper-small",
+    "model_revision": "973afd24965f72e36ca33b3055d56a652f456b4d",
+    "pair": {
+      "plus": "चूंकि उनकी शुरुआती दिनों में प्रकाश प्रदूषण आज की तरह की समस्या नहीं थी वे आमतौर पर शहरों में या परिसरों में स्थित हैं जहां आधुनिक समय में निर्मित जगहों की तुलना में पहुंचना आसान होता हैं",
+      "minus": "चूंकि उनकी शुरुआती दिनों में आज की तरह की समस्या नहीं थी वे आमतौर पर शहरों में या परिसरों में स्थित हैं जहां आधुनिक समय में निर्मित जगहों की तुलना में पहुंचना आसान होता हैं",
+      "deleted_text": "प्रकाश प्रदूषण ",
+      "target_char_span": [
+        29,
+        43
+      ],
+      "deleted_char_span": [
+        29,
+        44
+      ],
+      "negative_type": "synthetic_deletion_not_observed_ASR_or_phoneticnegative"
+    },
+    "inputs": [
+      {
+        "id": "fleurs-hi-1806-clean",
+        "source_id": "fleurs-hi-1806",
+        "condition": "clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "8a068f7bc0713efad648be6a07cc665afa627e14258234977be845debaf64d5a",
+        "duration_s": 13.68,
+        "donor_id": "fleurs-hi-1868-clean",
+        "donor_file": "<PROJECT_ROOT>",
+        "donor_audio_sha256": "eca1702a92ac8c2205a3268acba54468a3aae8c6ef1a1fdd6320b0ddffbe65a4",
+        "donor_duration_s": 13.68,
+        "donor_duration_ratio": 1.0
+      },
+      {
+        "id": "fleurs-hi-1806-noise_10db",
+        "source_id": "fleurs-hi-1806",
+        "condition": "noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "1078b7cb2832f553333b9d2477ccec3c71d13f3e486d6736f2a906d65aa5b91f",
+        "duration_s": 13.68,
+        "donor_id": "fleurs-hi-1868-noise_10db",
+        "donor_file": "<PROJECT_ROOT>",
+        "donor_audio_sha256": "7d8ef93d7a2a96111eab481ea29f142d8092bda8272851b379fc5bdf0871014a",
+        "donor_duration_s": 13.68,
+        "donor_duration_ratio": 1.0
+      }
+    ],
+    "tokenization_freeze": "Pinned tokenizer; persist complete prefix/candidate tokenIDs andLCP/LCS boundaries tovolume before any acoustic encoding orscoring",
+    "mask_convention": "Lexicalnext-tokenprobabilities exclude forcedprefix; EOSseparate; differingregion LCP/LCSderived",
+    "resource_limits": {
+      "gpu": "A10",
+      "gpu_count": 1,
+      "cpu": 2,
+      "memory_gib": 16,
+      "function_s": 600,
+      "startup_s": 300,
+      "queue_s": 120,
+      "retries": 0
+    },
+    "reservation_usd": 1,
+    "worst_case_cost_usd": 0.63168344,
+    "source_sha256": {
+      "omission_worker.py": "1861ba6861e7d32115b9c2b09156cbba7fd6a86e4156e4847334460894f9c48f",
+      "omission_runner.py": "8351b9a5179f3ce5327d8b15b2ab8c6e4a0fbd46be767a9a4e1eae65372dacaa",
+      "artifacts/listening-imported.json": "570a248ec769840e61a0fd55f6cb40055b3a7836737cf5288e5e70d007e21cf5",
+      "artifacts/listening-chat-confirmation.json": "293e5ef9762fb57bb4160538951dab1a8a55195a997626ea72762cbb8a31ec09",
+      "artifacts/recoverability-targets-reviewed.jsonl": "7e731a2eb26e34e1e8ddcf59945403333c2fa3ffd43dc816af725f05ec9942c9",
+      "omission_analysis.py": "e6e52676a0aed39a7d06ae1b804e7599e37bb93093478734d2eb4a172722ea1c"
+    },
+    "training_updates": 0,
+    "fresh_test_loaded": false,
+    "independent_sources": 1
+  },
+  "primary_readouts": [
+    "Actual-minus-silence preference on fullsum/fullmean/lexicalsum/lexicalmean/firstdivergenttoken",
+    "Actual-minus-mismatch same readouts",
+    "Differingtokenregion sum with zero-token deletion side explicit"
+  ],
+  "success_definition": "Report signed deltas percondition; no architectureGO, significance, encoderabsence or populationthreshold from one source",
+  "limitations": [
+    "User verified targetphrase, not fullpublishertext",
+    "Nullis encoded same-durationzero-waveform",
+    "Mismatchedwholeaudio changes allwords; fullsequence sensitivity is not targetlocalization",
+    "Unequalcandidate lengths andsyntheticdeletion are intrinsic confounds; sum andmean do not eliminate them"
+  ],
+  "next_stage": "No adapter/probe training, selectorchange orfreshinference unlocked bythiscase alone",
+  "review_status": "static_review_passed",
+  "frozen_unix": 1793992204.3875463,
+  "design_review_sha256": "f8d1cc03ab1a23b3c50deb7c09dc202023f98dcdbd48f15edaed3f4b89218709",
+  "code_review_sha256": "0ee03e7d173886dbc5689284dc4e342edacdb807eac0bfd89bfdcd95016ad77a",
+  "authorization": "Existinguser30USD research authorization and requestedfrozenWhisperdiagnostic;prospective single-sourceomission amendment withindependentreview"
+}

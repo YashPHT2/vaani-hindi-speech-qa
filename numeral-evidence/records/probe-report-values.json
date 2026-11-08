@@ -1,0 +1,111 @@
+{
+ "Q1_encoder_carries_value": {
+  "n_slots": 501,
+  "n_sources": 318,
+  "n_values": 114,
+  "top1": 0.64375,
+  "chance_uniform": 0.010416666666666666,
+  "pairwise": {
+   "acc": 0.9579710144927536,
+   "n": 2760,
+   "ci": [
+    0.9320481220657277,
+    0.9843814642434988
+   ]
+  },
+  "rank_pct": 0.8288157894736841,
+  "duration_baseline_pairwise": 0.7065217391304348,
+  "duration_stratified_pairwise": {
+   "acc": 0.9601449275362319,
+   "n": 2760,
+   "slots_with_candidates": 138
+  },
+  "duration_residualised_pairwise": 0.9594202898550724,
+  "controls": {
+   "wrong_audio_top1": 0.09375,
+   "wrong_audio_pairwise": 0.48586956521739133,
+   "shuffled_labels_top1": 0.0,
+   "rolled_dims_top1": 0.025,
+   "text_prior_top1": 0.23125
+  },
+  "layer_curve": {
+   "v0": {
+    "top1": 0.05625,
+    "pairwise": 0.7141304347826087,
+    "dims": 512
+   },
+   "v4": {
+    "top1": 0.4,
+    "pairwise": 0.9101449275362319,
+    "dims": 512
+   },
+   "v8": {
+    "top1": 0.4125,
+    "pairwise": 0.9119565217391304,
+    "dims": 512
+   },
+   "v12": {
+    "top1": 0.625,
+    "pairwise": 0.9644927536231884,
+    "dims": 512
+   },
+   "v16": {
+    "top1": 0.64375,
+    "pairwise": 0.9579710144927536,
+    "dims": 512
+   },
+   "vfinal": {
+    "top1": 0.64375,
+    "pairwise": 0.9579710144927536,
+    "dims": 512
+   }
+  },
+  "verdict": "The final-layer encoder state retrieves the spoken value far above chance, survives frame-count matching and residualisation, and every destroyed-correspondence control is at floor. The representation contains the value; the CTC sequence readout was not the whole story."
+ },
+ "Q2_repair_attempt": {
+  "n_scored": 448,
+  "head_right": {
+   "n": 323,
+   "enc_vhat_gold": 0.8978328173374613
+  },
+  "head_wrong": {
+   "n": 68,
+   "enc_vhat_gold": 0.3382352941176471,
+   "enc_vhat_tdt": 0.058823529411764705,
+   "enc_vhat_other": 0.6029411764705882,
+   "freq_prior_picks_gold": 0.7647058823529411
+  },
+  "head_omitted": {
+   "n": 57,
+   "enc_vhat_gold": 0.543859649122807
+  },
+  "paired_margin": {
+   "n": 42,
+   "n_sources": 39,
+   "mean": 2.176058994880041,
+   "median": 1.5488139820616507,
+   "wins_gold": 25,
+   "source_clustered_ci": [
+    -0.21182232503791543,
+    4.520813145553723
+   ],
+   "duration_matched": {
+    "n": 22,
+    "wins_gold": 10
+   }
+  },
+  "controls": {
+   "wrong_audio_vhat_gold": 0.029411764705882353,
+   "n_wrong_audio": 68,
+   "shuffled_proto_vhat_gold": 0.014705882352941176,
+   "n_shuffled": 68
+  },
+  "repair_simulation": {
+   "fixed": 23,
+   "broken": 33,
+   "n_wrong": 68,
+   "n_right": 323
+  },
+  "verdict": "On slots where the deployed TDT head is wrong, nearest-prototype scoring recovers gold only ~34% of the time -- WORSE than the text frequency prior (76%) on the same slots -- and the paired margin interval includes zero. Fidelity on head-right slots is high (~90%), so the representation is faithful; it simply does not disagree with the head in a way that identifies the truth. Repair fails."
+ }
+}

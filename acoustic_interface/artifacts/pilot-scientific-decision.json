@@ -1,0 +1,35 @@
+{
+  "event": "pilot_scientific_decision",
+  "decision": "pass prescribed engineering gate; permit bounded fresh evaluation after final matched training",
+  "result_sha256": "e8ac333d7410e05b0753a3e7900794b1a1e43b9cfd0d5349b71e93658bc0644e",
+  "mean_source_wrong_minus_correct_nll": 0.04133285364756981,
+  "positive_sources": 8,
+  "sources": 12,
+  "full_nll": 1.4838485671207309,
+  "no_uncertainty_nll": 1.6420520171523094,
+  "raw_greedy_diagnostics": {
+    "full/correct": {
+      "n": 24,
+      "exact_match": 3,
+      "bare_unknown": 13
+    },
+    "full/wrong_audio": {
+      "n": 24,
+      "exact_match": 4,
+      "bare_unknown": 14
+    },
+    "full/text": {
+      "n": 24,
+      "exact_match": 4,
+      "bare_unknown": 15
+    },
+    "no_uncertainty/correct": {
+      "n": 24,
+      "exact_match": 4,
+      "bare_unknown": 12
+    }
+  },
+  "limitation": "Small historical dev; NLL gate is not generated QA efficacy. Full exact3/24 versus text4/24 and noU4/24; no fresh claim.",
+  "methodological_remediation_used": false,
+  "fresh_predictions": 0
+}

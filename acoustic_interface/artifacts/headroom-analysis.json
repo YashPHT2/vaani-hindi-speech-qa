@@ -1,0 +1,249 @@
+{
+  "result_sha256": "2d4f049ab05d9b659ca74a8bd431319bb9cfdedcad51c1d5d63f3d632700d1a4",
+  "views_per_arm": 24,
+  "unique_sources": 12,
+  "response_rows": 96,
+  "distinct_semantic_cases": 40,
+  "normalization": "Existing score.norm Unicode/digits/punctuation policy",
+  "normalized_em": {
+    "arm_correct": {
+      "A_question_only": 4,
+      "B_asr_text": 4,
+      "C_correct_text": 8,
+      "D_existing_adapter": 3
+    },
+    "correct_transcript_vs_asr": {
+      "views": 24,
+      "baseline_correct": 4,
+      "treatment_correct": 8,
+      "rescued": 4,
+      "regressed": 0,
+      "net_accuracy_delta_pp": 16.666666666666668,
+      "rescued_ids": [
+        "fleurs-hi-1744-clean",
+        "fleurs-hi-1744-noise_10db",
+        "fleurs-hi-1761-clean",
+        "fleurs-hi-1761-noise_10db"
+      ],
+      "regressed_ids": []
+    },
+    "adapter_vs_asr": {
+      "views": 24,
+      "baseline_correct": 4,
+      "treatment_correct": 3,
+      "rescued": 0,
+      "regressed": 1,
+      "net_accuracy_delta_pp": -4.166666666666667,
+      "rescued_ids": [],
+      "regressed_ids": [
+        "fleurs-hi-1949-clean"
+      ]
+    },
+    "asr_attributable": {
+      "denominator": 4,
+      "recovered": 0,
+      "recovery_rate": 0.0,
+      "subset_ids": [
+        "fleurs-hi-1744-clean",
+        "fleurs-hi-1744-noise_10db",
+        "fleurs-hi-1761-clean",
+        "fleurs-hi-1761-noise_10db"
+      ],
+      "recovered_ids": []
+    },
+    "conditions": {
+      "clean": {
+        "correct_transcript_vs_asr": {
+          "views": 12,
+          "baseline_correct": 2,
+          "treatment_correct": 4,
+          "rescued": 2,
+          "regressed": 0,
+          "net_accuracy_delta_pp": 16.666666666666668,
+          "rescued_ids": [
+            "fleurs-hi-1744-clean",
+            "fleurs-hi-1761-clean"
+          ],
+          "regressed_ids": []
+        },
+        "adapter_vs_asr": {
+          "views": 12,
+          "baseline_correct": 2,
+          "treatment_correct": 1,
+          "rescued": 0,
+          "regressed": 1,
+          "net_accuracy_delta_pp": -8.333333333333334,
+          "rescued_ids": [],
+          "regressed_ids": [
+            "fleurs-hi-1949-clean"
+          ]
+        }
+      },
+      "noise_10db": {
+        "correct_transcript_vs_asr": {
+          "views": 12,
+          "baseline_correct": 2,
+          "treatment_correct": 4,
+          "rescued": 2,
+          "regressed": 0,
+          "net_accuracy_delta_pp": 16.666666666666668,
+          "rescued_ids": [
+            "fleurs-hi-1744-noise_10db",
+            "fleurs-hi-1761-noise_10db"
+          ],
+          "regressed_ids": []
+        },
+        "adapter_vs_asr": {
+          "views": 12,
+          "baseline_correct": 2,
+          "treatment_correct": 2,
+          "rescued": 0,
+          "regressed": 0,
+          "net_accuracy_delta_pp": 0.0,
+          "rescued_ids": [],
+          "regressed_ids": []
+        }
+      }
+    }
+  },
+  "limitations": [
+    "Historical development, no fresh-test result",
+    "EM is diagnostic and must not substitute for semantic correctness",
+    "Paired clean/noisy copies are not independent examples"
+  ],
+  "semantic": {
+    "arm_correct": {
+      "A_question_only": 4,
+      "B_asr_text": 7,
+      "C_correct_text": 14,
+      "D_existing_adapter": 5
+    },
+    "correct_transcript_vs_asr": {
+      "views": 24,
+      "baseline_correct": 7,
+      "treatment_correct": 14,
+      "rescued": 8,
+      "regressed": 1,
+      "net_accuracy_delta_pp": 29.166666666666668,
+      "rescued_ids": [
+        "fleurs-hi-1806-clean",
+        "fleurs-hi-1806-noise_10db",
+        "fleurs-hi-1744-clean",
+        "fleurs-hi-1744-noise_10db",
+        "fleurs-hi-1911-noise_10db",
+        "fleurs-hi-1761-clean",
+        "fleurs-hi-1712-clean",
+        "fleurs-hi-1712-noise_10db"
+      ],
+      "regressed_ids": [
+        "fleurs-hi-1730-clean"
+      ]
+    },
+    "adapter_vs_asr": {
+      "views": 24,
+      "baseline_correct": 7,
+      "treatment_correct": 5,
+      "rescued": 1,
+      "regressed": 3,
+      "net_accuracy_delta_pp": -8.333333333333334,
+      "rescued_ids": [
+        "fleurs-hi-1761-clean"
+      ],
+      "regressed_ids": [
+        "fleurs-hi-1949-clean",
+        "fleurs-hi-1761-noise_10db",
+        "fleurs-hi-1730-clean"
+      ]
+    },
+    "asr_attributable": {
+      "denominator": 8,
+      "recovered": 1,
+      "recovery_rate": 0.125,
+      "subset_ids": [
+        "fleurs-hi-1806-clean",
+        "fleurs-hi-1806-noise_10db",
+        "fleurs-hi-1744-clean",
+        "fleurs-hi-1744-noise_10db",
+        "fleurs-hi-1911-noise_10db",
+        "fleurs-hi-1761-clean",
+        "fleurs-hi-1712-clean",
+        "fleurs-hi-1712-noise_10db"
+      ],
+      "recovered_ids": [
+        "fleurs-hi-1761-clean"
+      ]
+    },
+    "conditions": {
+      "clean": {
+        "correct_transcript_vs_asr": {
+          "views": 12,
+          "baseline_correct": 4,
+          "treatment_correct": 7,
+          "rescued": 4,
+          "regressed": 1,
+          "net_accuracy_delta_pp": 25.0,
+          "rescued_ids": [
+            "fleurs-hi-1806-clean",
+            "fleurs-hi-1744-clean",
+            "fleurs-hi-1761-clean",
+            "fleurs-hi-1712-clean"
+          ],
+          "regressed_ids": [
+            "fleurs-hi-1730-clean"
+          ]
+        },
+        "adapter_vs_asr": {
+          "views": 12,
+          "baseline_correct": 4,
+          "treatment_correct": 3,
+          "rescued": 1,
+          "regressed": 2,
+          "net_accuracy_delta_pp": -8.333333333333334,
+          "rescued_ids": [
+            "fleurs-hi-1761-clean"
+          ],
+          "regressed_ids": [
+            "fleurs-hi-1949-clean",
+            "fleurs-hi-1730-clean"
+          ]
+        }
+      },
+      "noise_10db": {
+        "correct_transcript_vs_asr": {
+          "views": 12,
+          "baseline_correct": 3,
+          "treatment_correct": 7,
+          "rescued": 4,
+          "regressed": 0,
+          "net_accuracy_delta_pp": 33.333333333333336,
+          "rescued_ids": [
+            "fleurs-hi-1806-noise_10db",
+            "fleurs-hi-1744-noise_10db",
+            "fleurs-hi-1911-noise_10db",
+            "fleurs-hi-1712-noise_10db"
+          ],
+          "regressed_ids": []
+        },
+        "adapter_vs_asr": {
+          "views": 12,
+          "baseline_correct": 3,
+          "treatment_correct": 2,
+          "rescued": 0,
+          "regressed": 1,
+          "net_accuracy_delta_pp": -8.333333333333334,
+          "rescued_ids": [],
+          "regressed_ids": [
+            "fleurs-hi-1761-noise_10db"
+          ]
+        }
+      }
+    },
+    "hallucinated": {
+      "A_question_only": 2,
+      "B_asr_text": 2,
+      "C_correct_text": 6,
+      "D_existing_adapter": 3
+    },
+    "labels_sha256": "3920930f0df2cbfe1d8190b6eabf43b488fe777c55ccdd6788d75354575c4a23"
+  }
+}

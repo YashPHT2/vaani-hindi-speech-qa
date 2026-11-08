@@ -1,0 +1,126 @@
+{
+  "decision": "stop acoustic-adapter optimization for this round",
+  "candidate": "Whisper-small to Qwen2.5-1.5B-Instruct with recognized transcript and written question, K0",
+  "next": "prepare separate frozen final evaluation protocol",
+  "fresh_test_launched": false,
+  "teacher_eligibility": {
+    "eligible_sources": 14,
+    "total_sources": 32,
+    "eligible_views": 28,
+    "total_views": 64,
+    "eligible_answerable_sources": 11,
+    "eligible_unanswerable_sources": 3,
+    "eligible_unanswerable_abstention_sources": 3,
+    "answerable_sources": 25,
+    "minimum_eligible_answerable_sources": 4,
+    "passed": true,
+    "eligible_supervised_tokens": 250,
+    "total_supervised_tokens": 628,
+    "eligible_views_by_condition": {
+      "clean": 14,
+      "noise_10db": 14
+    },
+    "eligible_supervised_tokens_by_condition": {
+      "clean": 125,
+      "noise_10db": 125
+    },
+    "rule": "frozen score.py norm, nonempty exact match against any alias"
+  },
+  "source_count": 11,
+  "views": 22,
+  "outputs": 110,
+  "updates_per_arm": 32,
+  "reconciled": {
+    "passed": false,
+    "strict": false,
+    "primary_views": 22,
+    "correct": {
+      "text": 6,
+      "ce_real": 3,
+      "ce_wrong": 5,
+      "kl_real": 4,
+      "kl_wrong": 5
+    },
+    "positive_actual_over_donor_sources": 1,
+    "regressed_sources": 1,
+    "actual_source_equivalents": 0.5,
+    "actual_minus_donor_source_equivalents": 0.5,
+    "unambiguous_specific_rescue_sources": 1
+  },
+  "strict": {
+    "passed": false,
+    "strict": true,
+    "primary_views": 22,
+    "correct": {
+      "text": 4,
+      "ce_real": 2,
+      "ce_wrong": 4,
+      "kl_real": 4,
+      "kl_wrong": 4
+    },
+    "positive_actual_over_donor_sources": 2,
+    "regressed_sources": 1,
+    "actual_source_equivalents": 1.0,
+    "actual_minus_donor_source_equivalents": 1.0,
+    "unambiguous_specific_rescue_sources": 1
+  },
+  "mean_nll": {
+    "text": 1.7242764444513754,
+    "ce_real": 1.4966837281191891,
+    "ce_wrong": 1.4626068845391273,
+    "kl_real": 1.4510390897366134,
+    "kl_wrong": 1.4765685183758086
+  },
+  "specific_rescue": {
+    "source": 1949,
+    "condition": "clean",
+    "ce_real": "12",
+    "kl_real": "अज्ञात",
+    "kl_wrong": "12",
+    "type": "correct abstention"
+  },
+  "regression": {
+    "source": 1952,
+    "condition": "clean",
+    "ce_real": "अज्ञात",
+    "kl_real": "1500",
+    "kl_wrong": "अज्ञात",
+    "type": "unsupported elevation"
+  },
+  "evidence_sha256": {
+    "alignment_protocol.md": "77c444bc7e864dbd4f9ff3ad03cb90628cb78971d48185f4b159d96d127422a0",
+    "artifacts/alignment-result.json": "0ae6009032f290081836c1626bbb173923fc86d13aae9437ab28ab25fd21bfc0",
+    "artifacts/alignment-analysis.json": "981d2f410348b6b88b579ed57d95bdce1424748b4c1b6c25b7ced3c37e9fd9a9",
+    "artifacts/alignment-review/primary-labels.jsonl": "701fbc25b1ff69b25c6bb62f41029dc72f00387b6a71c856d7a2584105458136",
+    "artifacts/alignment-review/independent-labels.jsonl": "93050e7548371e96d77580b472d34bff878e85a1a8581c6e8a0c0e599e384982",
+    "alignment_final_decision.md": "cc99702582ff0b5300c71d2136bb2e5885176b9822e901f703f9e8c30df9a6f6"
+  },
+  "final_evaluation_plan": {
+    "candidate": "ordinary greedy Hindi Whisper to greedy Qwen K0 prompt",
+    "sources": 100,
+    "views": 200,
+    "conditions": [
+      "clean",
+      "10 dB seeded noise"
+    ],
+    "decoder_cap": 48,
+    "metrics": [
+      "corpus WER",
+      "corpus CER",
+      "exact match",
+      "supported correctness",
+      "unsupported claim rate",
+      "abstention",
+      "capped/failed/empty",
+      "per-condition median/p95 online latency",
+      "aggregate RTF"
+    ],
+    "paired_bootstrap": {
+      "replicates": 2000,
+      "seed": 17,
+      "unit": "source with both views"
+    },
+    "rating": "blinded dedup plus frozen stratified secondary sample",
+    "launch_status": "separate execution decision required"
+  }
+}

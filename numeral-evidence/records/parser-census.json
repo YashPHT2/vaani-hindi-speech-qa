@@ -1,0 +1,316 @@
+{
+ "n_reference_transcripts": 1031,
+ "n_numeral_runs": 555,
+ "numeral_runs_followed_by_close_unknown": 131,
+ "share_of_runs": 0.236,
+ "n_distinct_unknown_words": 69,
+ "top_unknown_words": [
+  {
+   "word": "को",
+   "nearest_lexicon_word": "दो",
+   "count": 12
+  },
+  {
+   "word": "रन",
+   "nearest_lexicon_word": "छह",
+   "count": 9
+  },
+  {
+   "word": "जून",
+   "nearest_lexicon_word": "तीन",
+   "count": 7
+  },
+  {
+   "word": "दबा",
+   "nearest_lexicon_word": "दो",
+   "count": 6
+  },
+  {
+   "word": "में",
+   "nearest_lexicon_word": "छे",
+   "count": 5
+  },
+  {
+   "word": "साथ",
+   "nearest_lexicon_word": "सात",
+   "count": 4
+  },
+  {
+   "word": "पदों",
+   "nearest_lexicon_word": "दो",
+   "count": 4
+  },
+  {
+   "word": "बात",
+   "nearest_lexicon_word": "सात",
+   "count": 3
+  },
+  {
+   "word": "ऐसा",
+   "nearest_lexicon_word": "सवा",
+   "count": 3
+  },
+  {
+   "word": "सतरह",
+   "nearest_lexicon_word": "सत्रह",
+   "count": 3
+  },
+  {
+   "word": "भी",
+   "nearest_lexicon_word": "छह",
+   "count": 3
+  },
+  {
+   "word": "ही",
+   "nearest_lexicon_word": "छह",
+   "count": 3
+  },
+  {
+   "word": "मई",
+   "nearest_lexicon_word": "ढाई",
+   "count": 3
+  },
+  {
+   "word": "बडी",
+   "nearest_lexicon_word": "बीस",
+   "count": 2
+  },
+  {
+   "word": "शुन्य",
+   "nearest_lexicon_word": "शून्य",
+   "count": 2
+  },
+  {
+   "word": "तरफ",
+   "nearest_lexicon_word": "तेरह",
+   "count": 2
+  },
+  {
+   "word": "करके",
+   "nearest_lexicon_word": "करोड",
+   "count": 2
+  },
+  {
+   "word": "तार",
+   "nearest_lexicon_word": "चार",
+   "count": 2
+  },
+  {
+   "word": "जन",
+   "nearest_lexicon_word": "छह",
+   "count": 2
+  },
+  {
+   "word": "तथा",
+   "nearest_lexicon_word": "सवा",
+   "count": 2
+  },
+  {
+   "word": "पैसे",
+   "nearest_lexicon_word": "पैंसठ",
+   "count": 2
+  },
+  {
+   "word": "है",
+   "nearest_lexicon_word": "छह",
+   "count": 2
+  },
+  {
+   "word": "ऐसे",
+   "nearest_lexicon_word": "छे",
+   "count": 2
+  },
+  {
+   "word": "चौवालीस",
+   "nearest_lexicon_word": "चवालीस",
+   "count": 1
+  },
+  {
+   "word": "बेड",
+   "nearest_lexicon_word": "छे",
+   "count": 1
+  },
+  {
+   "word": "सालो",
+   "nearest_lexicon_word": "साढे",
+   "count": 1
+  },
+  {
+   "word": "पेड",
+   "nearest_lexicon_word": "छे",
+   "count": 1
+  },
+  {
+   "word": "कर",
+   "nearest_lexicon_word": "छह",
+   "count": 1
+  },
+  {
+   "word": "मन",
+   "nearest_lexicon_word": "छह",
+   "count": 1
+  },
+  {
+   "word": "खास",
+   "nearest_lexicon_word": "बाईस",
+   "count": 1
+  },
+  {
+   "word": "स्त्री",
+   "nearest_lexicon_word": "सत्रह",
+   "count": 1
+  },
+  {
+   "word": "दोनो",
+   "nearest_lexicon_word": "दो",
+   "count": 1
+  },
+  {
+   "word": "नारा",
+   "nearest_lexicon_word": "बारह",
+   "count": 1
+  },
+  {
+   "word": "सतत्तर",
+   "nearest_lexicon_word": "सतहत्तर",
+   "count": 1
+  },
+  {
+   "word": "मांग",
+   "nearest_lexicon_word": "पांच",
+   "count": 1
+  },
+  {
+   "word": "ठो",
+   "nearest_lexicon_word": "दो",
+   "count": 1
+  },
+  {
+   "word": "बीघा",
+   "nearest_lexicon_word": "बीस",
+   "count": 1
+  },
+  {
+   "word": "बडा",
+   "nearest_lexicon_word": "सवा",
+   "count": 1
+  },
+  {
+   "word": "सरसठ",
+   "nearest_lexicon_word": "सडसठ",
+   "count": 1
+  },
+  {
+   "word": "जगह",
+   "nearest_lexicon_word": "छह",
+   "count": 1
+  },
+  {
+   "word": "इक्कतीस",
+   "nearest_lexicon_word": "इक्कीस",
+   "count": 1
+  },
+  {
+   "word": "बी",
+   "nearest_lexicon_word": "बीस",
+   "count": 1
+  },
+  {
+   "word": "ओवर",
+   "nearest_lexicon_word": "सवा",
+   "count": 1
+  },
+  {
+   "word": "तो",
+   "nearest_lexicon_word": "दो",
+   "count": 1
+  },
+  {
+   "word": "व",
+   "nearest_lexicon_word": "छह",
+   "count": 1
+  },
+  {
+   "word": "समूह",
+   "nearest_lexicon_word": "सोलह",
+   "count": 1
+  },
+  {
+   "word": "काम",
+   "nearest_lexicon_word": "ढाई",
+   "count": 1
+  },
+  {
+   "word": "टीम",
+   "nearest_lexicon_word": "तीन",
+   "count": 1
+  },
+  {
+   "word": "पांचवी",
+   "nearest_lexicon_word": "पांच",
+   "count": 1
+  },
+  {
+   "word": "कार्ड",
+   "nearest_lexicon_word": "करोड",
+   "count": 1
+  },
+  {
+   "word": "अंठावन",
+   "nearest_lexicon_word": "अट्ठावन",
+   "count": 1
+  },
+  {
+   "word": "दू",
+   "nearest_lexicon_word": "दो",
+   "count": 1
+  },
+  {
+   "word": "फसल",
+   "nearest_lexicon_word": "सौ",
+   "count": 1
+  },
+  {
+   "word": "ल",
+   "nearest_lexicon_word": "छह",
+   "count": 1
+  },
+  {
+   "word": "गीत",
+   "nearest_lexicon_word": "सात",
+   "count": 1
+  },
+  {
+   "word": "आपात",
+   "nearest_lexicon_word": "सात",
+   "count": 1
+  },
+  {
+   "word": "नए",
+   "nearest_lexicon_word": "नौ",
+   "count": 1
+  },
+  {
+   "word": "लागू",
+   "nearest_lexicon_word": "लाख",
+   "count": 1
+  },
+  {
+   "word": "सेना",
+   "nearest_lexicon_word": "सवा",
+   "count": 1
+  },
+  {
+   "word": "इंच",
+   "nearest_lexicon_word": "पांच",
+   "count": 1
+  }
+ ],
+ "dev_subset": {
+  "n_runs": 114,
+  "runs_at_risk": 23,
+  "share": 0.2018,
+  "distinct": 17
+ },
+ "note": "A run followed by a close-but-unknown numeral word is a run the parser may have truncated. The value it produced is then a partial number, and comparing that partial against the ASR can manufacture a corruption."
+}

@@ -1,0 +1,174 @@
+{
+  "decision": "complete the frozen transcript-only evaluation and submission; end experimental optimization",
+  "scope": "100 Hindi source recordings, each clean and seeded10dBnoise; speech-grounded QA with a separately supplied written question",
+  "sources": 100,
+  "views": 200,
+  "technical_failures": 0,
+  "supported_correct": {
+    "clean": 37,
+    "noise_10db": 24,
+    "denominator_each": 100,
+    "strict_clean": 36,
+    "strict_noise": 24
+  },
+  "paired_noise_minus_clean": {
+    "wer": {
+      "estimate": 0.16804293971924023,
+      "lower": 0.07912891956132725,
+      "upper": 0.25292316633266515,
+      "defined_replicates": 2000,
+      "undefined_replicates": 0
+    },
+    "correct_rate": {
+      "estimate": -0.13,
+      "lower": -0.21000000000000002,
+      "upper": -0.04999999999999999,
+      "defined_replicates": 2000,
+      "undefined_replicates": 0
+    },
+    "hallucinated_rate": {
+      "estimate": 0.06,
+      "lower": 0.02,
+      "upper": 0.11,
+      "defined_replicates": 2000,
+      "undefined_replicates": 0
+    },
+    "abstention_rate": {
+      "estimate": 0.19999999999999996,
+      "lower": 0.09999999999999998,
+      "upper": 0.30000000000000004,
+      "defined_replicates": 2000,
+      "undefined_replicates": 0
+    },
+    "pipeline_rtf": {
+      "estimate": 4.776322216371032e-05,
+      "lower": -0.008191127636663532,
+      "upper": 0.008513686653895718,
+      "defined_replicates": 2000,
+      "undefined_replicates": 0
+    }
+  },
+  "metrics": {
+    "clean": {
+      "wer": 0.6271676300578035,
+      "cer": 0.3480786871878504,
+      "correct_rate": 0.37,
+      "hallucinated_rate": 0.0,
+      "abstained": 51,
+      "answer_em": 0.23,
+      "pipeline_rtf": 0.16227196784630307,
+      "p50_completed_text_s": 1.6960126004999978,
+      "p95_completed_text_s": 2.917518149999978,
+      "truncated": 11
+    },
+    "noise_10db": {
+      "wer": 0.7952105697770437,
+      "cer": 0.5303231067169504,
+      "correct_rate": 0.24,
+      "hallucinated_rate": 0.06,
+      "abstained": 71,
+      "answer_em": 0.18,
+      "pipeline_rtf": 0.1623197310684668,
+      "p50_completed_text_s": 1.7228543655000124,
+      "p95_completed_text_s": 2.841634159000023,
+      "truncated": 10
+    },
+    "all": {
+      "wer": 0.7111890999174236,
+      "cer": 0.4392008969524004,
+      "correct_rate": 0.305,
+      "hallucinated_rate": 0.03,
+      "abstained": 122,
+      "answer_em": 0.205,
+      "pipeline_rtf": 0.16229584945738493,
+      "p50_completed_text_s": 1.7006102094999989,
+      "p95_completed_text_s": 2.84711355099995,
+      "truncated": 21
+    }
+  },
+  "answerability": {
+    "clean": {
+      "True": {
+        "n": 80,
+        "correct_count": 19,
+        "abstained": 35,
+        "hallucinated_count": 0
+      },
+      "False": {
+        "n": 20,
+        "correct_count": 18,
+        "abstained": 16,
+        "hallucinated_count": 0
+      }
+    },
+    "noise_10db": {
+      "True": {
+        "n": 80,
+        "correct_count": 7,
+        "abstained": 54,
+        "hallucinated_count": 5
+      },
+      "False": {
+        "n": 20,
+        "correct_count": 17,
+        "abstained": 17,
+        "hallucinated_count": 1
+      }
+    },
+    "all": {
+      "True": {
+        "n": 160,
+        "correct_count": 26,
+        "abstained": 89,
+        "hallucinated_count": 5
+      },
+      "False": {
+        "n": 40,
+        "correct_count": 35,
+        "abstained": 33,
+        "hallucinated_count": 1
+      }
+    }
+  },
+  "interpretation": [
+    "Added noise increased corpus WER by16.80percentage points and lowered supported correctness by13points, with paired95percent source-bootstrap intervals7.91to25.29points and−21to−5points respectively.",
+    "Answerable accuracy was19/80clean and7/80noisy; unanswerable correctness was18/20and17/20. Abstention on answerable items increased from35/80to54/80. These strata show limited factual answer recovery despite frequent correct handling of missing information.",
+    "Observed unsupported assertions were0/100clean and6/100noisy. The degenerate clean bootstrap interval[0,0] reflects resampling a sample with zero observed events; population risk remains uncertain.",
+    "Aggregate online RTF was0.1623 on the measured A10 cascade, with median completed-answer latency about1.70seconds. These measurements exclude model loading and audio preparation and describe this hardware/workload.",
+    "The final baseline evaluation completes the registered200view benchmark. Historical adapter experiments failed their registered utility gates and remain scoped exploratory negative findings."
+  ],
+  "review": {
+    "category": "model primary all151uniquecases plus independent model32cases on frozen20sources",
+    "primary_only_sources": 80,
+    "secondary_conflicts": 0,
+    "strict_effect": "one clean supported answer marked incorrect",
+    "limitations": "Publisher text evidence, source question construction and model ratings; no human listening validation of final answer labels. Source bootstrap omits reviewer uncertainty and unknown speaker dependence."
+  },
+  "asr_cap_metadata": {
+    "raw_summary_asr_capped": 0,
+    "status": "corrected by derived token-array audit",
+    "derived_counts": {
+      "clean": 12,
+      "noise_10db": 18
+    },
+    "total": 30,
+    "cause": "returned Whisper arrays already had prefix stripped; original worker double-subtracted prefix",
+    "qualification": "Metadata-only correction against frozen raw outputs. Cap incidence can affect interpretation of high ASR error and must accompany final results.",
+    "audit_sha256": "5b29c2178dd3278609e73500d6e8a215e5b868737b58bb92f1480f12e0bf1cd3",
+    "prediction_sha256": "caf6962512cff168fe83612936728229adb51dc7f1c105119a033ea50e4843d1"
+  },
+  "qa_length_caps": {
+    "clean": 11,
+    "noise_10db": 10
+  },
+  "additional_experiments": false,
+  "evidence_sha256": {
+    "analysis": "6c9cbdf0f8c9d05f807602c8f97c58ba47908b14e9862c3e222f9c124b6afb6b",
+    "result": "57c46f3f32fb9a898cd073b8f805ea5680e9562ae7ba3f9ba958b7e39ee47ff7",
+    "protocol": "a152786164f98f90e5caaf8d6e0ca55f22bb86a8f2f7f655327183376b0dbb52"
+  },
+  "annotation_sha256": {
+    "primary_sha256": "cabaecf62270d68d738cf5146d9bdd33817e09d3329fb800cda52bc4bdff678f",
+    "secondary_sha256": "f28a72908a7215d5a9d27581e064c1477ac125a4a65a4b3b34085d7b53eba179"
+  }
+}

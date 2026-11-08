@@ -1,0 +1,13 @@
+{
+  "run_id": "dev-fallback-policy-v1",
+  "rows": 24,
+  "software": {
+    "python": "3.11.12",
+    "torch": "2.6.0+cu124",
+    "transformers": "4.51.3",
+    "numpy": "1.26.4"
+  },
+  "gpu": "NVIDIA A10",
+  "peak_cuda_bytes": 970883584,
+  "wall_seconds": 61.195427531
+}

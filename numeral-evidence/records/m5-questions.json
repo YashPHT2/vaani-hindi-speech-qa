@@ -1,0 +1,349 @@
+[
+ {
+  "id": "q01",
+  "source_id": "gramvaani-0250",
+  "category": "NUMBER",
+  "answerable": true,
+  "question": "इनमें कितने पुरुष सिपाही हैं?",
+  "answers": [
+   "चालीस",
+   "40"
+  ],
+  "evidence_span": "जब की चालीस पुरुष सिपाही हैं",
+  "note": "Distractor: another number (दो सौ साठ) is adjacent, so a model that grabs the wrong numeral is detectable."
+ },
+ {
+  "id": "q02",
+  "source_id": "gramvaani-0250",
+  "category": "NUMBER",
+  "answerable": true,
+  "question": "शहर के कितने ट्रैफिक पोस्टों पर महिला सिपाही तैनात की गईं?",
+  "answers": [
+   "एक सौ छह",
+   "106"
+  ],
+  "evidence_span": "शहर के एक सौ छह ट्रैफिक पोस्टों पर",
+  "note": "Same utterance as q01, different numeral. Pairs with q01 to test numeral localisation."
+ },
+ {
+  "id": "q03",
+  "source_id": "gramvaani-0337",
+  "category": "NUMBER",
+  "answerable": true,
+  "question": "सभी लोग मिलकर एक साल में कितना रूपया जमा कर लेते हैं?",
+  "answers": [
+   "सात हजार आठ सौ",
+   "सात हज़ार आठ सौ",
+   "7800",
+   "7,800"
+  ],
+  "evidence_span": "सात हजार आठ सौ रूपया एक साल में जमा",
+  "note": "Requires arithmetic-free lookup; a nearby distractor (डेढ़ सौ) is the per-person amount."
+ },
+ {
+  "id": "q04",
+  "source_id": "gramvaani-0011",
+  "category": "NUMBER",
+  "answerable": true,
+  "question": "विश्वविद्यालय में करीब कितने छात्रों को इस सुविधा का लाभ मिलेगा?",
+  "answers": [
+   "दस हजार",
+   "दस हज़ार",
+   "10000",
+   "10,000"
+  ],
+  "evidence_span": "करीब दस हजार छात्र",
+  "note": "Distractor range पांच से सात हजार appears earlier in the same sentence."
+ },
+ {
+  "id": "q05",
+  "source_id": "gramvaani-0833",
+  "category": "NUMBER",
+  "answerable": true,
+  "question": "रक्तस्राव किस अवधि के बीच मातृ मृत्यु का कारण बताया गया है?",
+  "answers": [
+   "दो हजार तीन और दो हजार नौ",
+   "2003 और 2009",
+   "2003 से 2009"
+  ],
+  "evidence_span": "दो हजार तीन और दो हजार नौ के बीच",
+  "note": "Two numerals must both be preserved; partial capture is a detectable failure."
+ },
+ {
+  "id": "q06",
+  "source_id": "gramvaani-1012",
+  "category": "NUMBER",
+  "answerable": true,
+  "question": "प्राइस बैंड कितने रूपए रखा गया है?",
+  "answers": [
+   "चार सौ अठारह से चार सौ बाईस",
+   "418 से 422",
+   "418-422"
+  ],
+  "evidence_span": "चार सौ अठारह से चार सौ बाईस रूपए",
+  "note": "A range: both endpoints carry the fact."
+ },
+ {
+  "id": "q07",
+  "source_id": "gramvaani-0325",
+  "category": "NUMBER",
+  "answerable": true,
+  "question": "आँगनबाड़ी सहायिकाओं को अब कितने रूपए मिलेंगे?",
+  "answers": [
+   "बाईस सौ पचास",
+   "बाईस सौ सौ पचास",
+   "2250",
+   "2,250"
+  ],
+  "evidence_span": "बाईस सौ सौ पचास रूपए मिलेंगे",
+  "note": "The OLD amount (पन्द्रह सौ) is in the same clause, so this directly tests which numeral is read. The reference itself contains a doubled 'सौ सौ' (a transcription artefact for बाईस सौ पचास = 2250); the accepted answers include the plain form, so a model is not penalised for the reference's own error."
+ },
+ {
+  "id": "q08",
+  "source_id": "gramvaani-0089",
+  "category": "NUMBER",
+  "answerable": true,
+  "question": "राज्य के कितने प्राथमिक व मध्य विद्यालय शामिल हैं?",
+  "answers": [
+   "उनचालीस हजार सात सौ दो",
+   "उनचालीस हज़ार सात सौ दो",
+   "39702",
+   "39,702"
+  ],
+  "evidence_span": "राज्य के उनचालीस हजार सात सौ दो प्राथमिक",
+  "note": "Key case: Whisper transcribed this as 49702 (wrong by 10000) yet fluently. A digit-substitution error."
+ },
+ {
+  "id": "q09",
+  "source_id": "gramvaani-0213",
+  "category": "NUMBER",
+  "answerable": true,
+  "question": "चौबीस घंटे में से कितने घंटे भी बिजली नहीं मिलती?",
+  "answers": [
+   "आठ से बारह घंटे",
+   "8 से 12 घंटे"
+  ],
+  "evidence_span": "मात्र आठ से बारह घंटे तक भी बिजली नहीं मिलती",
+  "note": "Negation plus number in one span; tests both."
+ },
+ {
+  "id": "q10",
+  "source_id": "gramvaani-0158",
+  "category": "NUMBER",
+  "answerable": true,
+  "question": "सूरज कुमार ने कितने अंक लाकर सयुंक्त रूप से सातवां स्थान पाया?",
+  "answers": [
+   "चार सौ बाईस",
+   "422",
+   "4,22"
+  ],
+  "evidence_span": "सूरज कुमार चार सौ बाईस अंक लाकर",
+  "note": "Name plus number; the name is needed to bind the number to the right student."
+ },
+ {
+  "id": "q11",
+  "source_id": "gramvaani-0861",
+  "category": "NUMBER",
+  "answerable": true,
+  "question": "ओला पत्थर कितने बजे गिरा?",
+  "answers": [
+   "आठ बजकर चालीस मिनट",
+   "8 बजकर 40 मिनट",
+   "8:40"
+  ],
+  "evidence_span": "आज शाम आठ बाज कर चालीस मिनट पर",
+  "note": "Time expressed as a compound number."
+ },
+ {
+  "id": "q12",
+  "source_id": "gramvaani-0062",
+  "category": "NEGATION",
+  "answerable": true,
+  "question": "कितने साल की उम्र से पहले बच्चों की शादी नहीं करनी चाहिए?",
+  "answers": [
+   "अठारह साल",
+   "18 साल",
+   "अठारह वर्ष"
+  ],
+  "evidence_span": "बच्चों को अठारह साल से पहले पहले शादी नहीं करना चाहिए",
+  "note": "If the negation is dropped, the answer inverts to 'marriage is allowed before 18'."
+ },
+ {
+  "id": "q13",
+  "source_id": "gramvaani-0403",
+  "category": "NEGATION",
+  "answerable": true,
+  "question": "सरकारी कार्यालयों में बढ़ती भ्रष्टाचार का मूल कारण क्या बताया गया है?",
+  "answers": [
+   "अधिकारियों में अनुशासन नहीं",
+   "अनुशासन की कमी",
+   "अनुशासन नाम की कोई बात नहीं"
+  ],
+  "evidence_span": "सरकारी अधिकारीयों में अनुसाशन नाम की कोई बात नहीं रही",
+  "note": "The answer IS the negation. Dropping 'नहीं' makes the sentence mean the opposite."
+ },
+ {
+  "id": "q14",
+  "source_id": "gramvaani-0328",
+  "category": "NEGATION",
+  "answerable": true,
+  "question": "लोग दवाई क्यों नहीं खरीद पाते?",
+  "answers": [
+   "महँगी",
+   "महंगी",
+   "दवाई महँगी है",
+   "महँगी होने के कारण"
+  ],
+  "evidence_span": "दवाई इतनी महँगी कि खरीद पाते नहीं",
+  "note": "Causal structure carried by a negation."
+ },
+ {
+  "id": "q15",
+  "source_id": "gramvaani-0820",
+  "category": "NEGATION",
+  "answerable": true,
+  "question": "गाँव में सड़क मिलती है या नहीं?",
+  "answers": [
+   "नहीं",
+   "नहीं मिलती",
+   "नहीं मिल पाती"
+  ],
+  "evidence_span": "गाँव में हमारा सड़क नही मिल पता है",
+  "note": "Yes/no polarity question. A polarity flip is unambiguous."
+ },
+ {
+  "id": "q16",
+  "source_id": "gramvaani-0812",
+  "category": "NEGATION",
+  "answerable": true,
+  "question": "सरकार की पहल ज़मीन पर दिख रही है या नहीं?",
+  "answers": [
+   "नहीं",
+   "नहीं दिख रही"
+  ],
+  "evidence_span": "लेकिन ये कहीं दिख नहीं रहा है",
+  "note": "Polarity question where the transcript also praises the scheme, so a prior-driven model may answer 'हाँ'."
+ },
+ {
+  "id": "q17",
+  "source_id": "gramvaani-0861",
+  "category": "NAME",
+  "answerable": true,
+  "question": "समाजवादी नेता का नाम क्या है?",
+  "answers": [
+   "शफीक रहमान",
+   "शफ़ीक रहमान"
+  ],
+  "evidence_span": "शफीक रहमान समाजवादी नेता",
+  "note": "Proper name at utterance start; prone to phonetic mangling."
+ },
+ {
+  "id": "q18",
+  "source_id": "gramvaani-0385",
+  "category": "NAME",
+  "answerable": true,
+  "question": "जिला अधिकारी का नाम क्या है?",
+  "answers": [
+   "अलोक रंजन घोष",
+   "आलोक रंजन घोष"
+  ],
+  "evidence_span": "जिला अधिकारी अलोक रंजन घोष",
+  "note": "Three-token name; partial capture (first name only) is a detectable failure."
+ },
+ {
+  "id": "q19",
+  "source_id": "gramvaani-0701",
+  "category": "NAME",
+  "answerable": true,
+  "question": "बीडीओ का नाम क्या है?",
+  "answers": [
+   "अखिलेश कुमार"
+  ],
+  "evidence_span": "बीडीओ अखिलेश कुमार",
+  "note": "Role-anchored name."
+ },
+ {
+  "id": "q20",
+  "source_id": "gramvaani-0442",
+  "category": "NAME",
+  "answerable": true,
+  "question": "समाचार प्रस्तुत करने वाले का नाम क्या है?",
+  "answers": [
+   "बिपिन कुमार"
+  ],
+  "evidence_span": "मैं बिपिन कुमार जिला मुंगेर",
+  "note": "Speaker self-identification, common in this corpus."
+ },
+ {
+  "id": "q21",
+  "source_id": "gramvaani-0795",
+  "category": "NAME",
+  "answerable": true,
+  "question": "गिद्धौर मोबाइल वाणी से संवाददाता का नाम क्या है?",
+  "answers": [
+   "संजीवन कुमार सिंह"
+  ],
+  "evidence_span": "गिद्धौर मोबाइल वाणी से मैं संजीवन कुमार सिंह",
+  "note": "Three-token name."
+ },
+ {
+  "id": "q22",
+  "source_id": "gramvaani-0667",
+  "category": "NAME",
+  "answerable": true,
+  "question": "न्यूज एक्सप्रेस के संवाददाता का नाम क्या है?",
+  "answers": [
+   "विजय कुमार सिंह"
+  ],
+  "evidence_span": "मैं विजय कुमार सिंह न्यूज एक्सप्रेस",
+  "note": "Three-token name; 'कुमार सिंह' is shared with q21, so a model may confuse the two sources."
+ },
+ {
+  "id": "q23",
+  "source_id": "gramvaani-0260",
+  "category": "UNANSWERABLE",
+  "answerable": false,
+  "question": "विज्ञान मेला किस शहर में लगा?",
+  "answers": [
+   "अज्ञात"
+  ],
+  "evidence_span": "",
+  "note": "Control: the transcript mentions a science fair and a district but never a city."
+ },
+ {
+  "id": "q24",
+  "source_id": "gramvaani-0170",
+  "category": "UNANSWERABLE",
+  "answerable": false,
+  "question": "समूहों को लोन किस बैंक से मिलेगा?",
+  "answers": [
+   "अज्ञात"
+  ],
+  "evidence_span": "",
+  "note": "Control: the transcript names a panchayat and an amount but no bank."
+ },
+ {
+  "id": "q25",
+  "source_id": "gramvaani-0134",
+  "category": "UNANSWERABLE",
+  "answerable": false,
+  "question": "पेट्रोल की कीमत में संशोधन किस कंपनी के गाइड के मुताबिक होता है?",
+  "answers": [
+   "अज्ञात"
+  ],
+  "evidence_span": "",
+  "note": "Control: 'गाइड के मुताबिक' appears, but the guide's owner is never stated. Tempts a prior-driven guess."
+ },
+ {
+  "id": "q26",
+  "source_id": "gramvaani-0833",
+  "category": "UNANSWERABLE",
+  "answerable": false,
+  "question": "केंद्र सरकार ने किस वर्ष निजी जी कंपनियों को अनुमति दी?",
+  "answers": [
+   "अज्ञात"
+  ],
+  "evidence_span": "",
+  "note": "Control: the sentence is truncated mid-clause after 'निजी जी कंपनियों द्वारा'; the year is absent."
+ }
+]

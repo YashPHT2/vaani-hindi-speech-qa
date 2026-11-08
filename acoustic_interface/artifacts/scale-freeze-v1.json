@@ -1,0 +1,1068 @@
+{
+  "state": "prospectively_frozen",
+  "created_unix": 1793996995.0769427,
+  "config": {
+    "run_id": "scale-calibration-v1",
+    "seed": 17,
+    "max_new_tokens": 48,
+    "pilot_checkpoint_sha256": "8474698e8123d52e4ea96e310691062e49ce76f62d9e924d1976102ffbad2345",
+    "historical_manifest_sha256": "4872a984b9e19d317930263a2f1c1ce2c5c4d3c416e3284cfce99e0ec4d8db52",
+    "train_source_ids": [
+      "fleurs-hi-1857",
+      "fleurs-hi-1995",
+      "fleurs-hi-1960",
+      "fleurs-hi-1670",
+      "fleurs-hi-1711",
+      "fleurs-hi-1910",
+      "fleurs-hi-1880",
+      "fleurs-hi-1866",
+      "fleurs-hi-1794",
+      "fleurs-hi-1829",
+      "fleurs-hi-1917",
+      "fleurs-hi-1759",
+      "fleurs-hi-1840",
+      "fleurs-hi-1873",
+      "fleurs-hi-1684",
+      "fleurs-hi-2007",
+      "fleurs-hi-1807",
+      "fleurs-hi-1689",
+      "fleurs-hi-1797",
+      "fleurs-hi-1691",
+      "fleurs-hi-1912",
+      "fleurs-hi-1788",
+      "fleurs-hi-1876",
+      "fleurs-hi-1676",
+      "fleurs-hi-1997",
+      "fleurs-hi-1769",
+      "fleurs-hi-1724",
+      "fleurs-hi-1821",
+      "fleurs-hi-1660",
+      "fleurs-hi-1889",
+      "fleurs-hi-1773",
+      "fleurs-hi-1838"
+    ],
+    "preflight_source_ids": [
+      "fleurs-hi-1995",
+      "fleurs-hi-1797",
+      "fleurs-hi-1807",
+      "fleurs-hi-1711"
+    ],
+    "primary_source_ids": [
+      "fleurs-hi-1712",
+      "fleurs-hi-1730",
+      "fleurs-hi-1737",
+      "fleurs-hi-1744",
+      "fleurs-hi-1761",
+      "fleurs-hi-1882",
+      "fleurs-hi-1890",
+      "fleurs-hi-1911",
+      "fleurs-hi-1934",
+      "fleurs-hi-1949",
+      "fleurs-hi-1952"
+    ],
+    "illustrative_source_id": "fleurs-hi-1806",
+    "donor_by_view": {
+      "fleurs-hi-1882-clean": "fleurs-hi-1691-clean",
+      "fleurs-hi-1882-noise_10db": "fleurs-hi-1691-noise_10db",
+      "fleurs-hi-1806-clean": "fleurs-hi-1660-clean",
+      "fleurs-hi-1806-noise_10db": "fleurs-hi-1660-noise_10db",
+      "fleurs-hi-1744-clean": "fleurs-hi-2007-clean",
+      "fleurs-hi-1744-noise_10db": "fleurs-hi-2007-noise_10db",
+      "fleurs-hi-1911-clean": "fleurs-hi-1857-clean",
+      "fleurs-hi-1911-noise_10db": "fleurs-hi-1857-noise_10db",
+      "fleurs-hi-1949-clean": "fleurs-hi-1880-clean",
+      "fleurs-hi-1949-noise_10db": "fleurs-hi-1880-noise_10db",
+      "fleurs-hi-1890-clean": "fleurs-hi-1912-clean",
+      "fleurs-hi-1890-noise_10db": "fleurs-hi-1912-noise_10db",
+      "fleurs-hi-1761-clean": "fleurs-hi-1691-clean",
+      "fleurs-hi-1761-noise_10db": "fleurs-hi-1691-noise_10db",
+      "fleurs-hi-1712-clean": "fleurs-hi-1995-clean",
+      "fleurs-hi-1712-noise_10db": "fleurs-hi-1995-noise_10db",
+      "fleurs-hi-1737-clean": "fleurs-hi-1676-clean",
+      "fleurs-hi-1737-noise_10db": "fleurs-hi-1676-noise_10db",
+      "fleurs-hi-1730-clean": "fleurs-hi-1857-clean",
+      "fleurs-hi-1730-noise_10db": "fleurs-hi-1857-noise_10db",
+      "fleurs-hi-1952-clean": "fleurs-hi-1691-clean",
+      "fleurs-hi-1952-noise_10db": "fleurs-hi-1691-noise_10db",
+      "fleurs-hi-1934-clean": "fleurs-hi-1821-clean",
+      "fleurs-hi-1934-noise_10db": "fleurs-hi-1821-noise_10db"
+    },
+    "donor_alignment": "linear_interpolation_of_complete_valid_encoder_sequence_align_corners_false",
+    "inputs": [
+      {
+        "id": "fleurs-hi-1882-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "d9d22770b6c25f692e3995b2755c9e8680b29f155bc282c82cf9f8684b14ff28"
+      },
+      {
+        "id": "fleurs-hi-1882-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "4193eb1907365c8b6f44ca6eca888ecb270b7b39ddee82645576b262aa0ad6f7"
+      },
+      {
+        "id": "fleurs-hi-1806-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "8a068f7bc0713efad648be6a07cc665afa627e14258234977be845debaf64d5a"
+      },
+      {
+        "id": "fleurs-hi-1806-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "1078b7cb2832f553333b9d2477ccec3c71d13f3e486d6736f2a906d65aa5b91f"
+      },
+      {
+        "id": "fleurs-hi-1744-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "7dfff8a0ea4462e55567ad11ef5594ba6aab64902a5aaf873855f5255fb1040f"
+      },
+      {
+        "id": "fleurs-hi-1744-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "049f3bc43431d001c2fd69d758024f2c09533ba3906a98faac51b2b790dc45d4"
+      },
+      {
+        "id": "fleurs-hi-1911-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "9ec649cc2e1bd5c3cbb25d34f20ae031e03c759d22c04c3630169ad06a7fb308"
+      },
+      {
+        "id": "fleurs-hi-1911-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "6cb40a2ce430be1fc0784162ddba1156093c82f398022ac9d95f4ba6dc07c15a"
+      },
+      {
+        "id": "fleurs-hi-1949-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "a83833eed8bcee726bd863695f1f2d83de00aa917cc08689a59904e47455362e"
+      },
+      {
+        "id": "fleurs-hi-1949-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "c975af6640daab61a7e4200bb63893f42d38c6c70ac5dfbfbec07ae13b4407a4"
+      },
+      {
+        "id": "fleurs-hi-1890-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "6a975ecb60a4025f94ed05f305e0b0018f8518ede987408590746182eee8e5bc"
+      },
+      {
+        "id": "fleurs-hi-1890-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "1a6f9cc95806bd3c94fc1cac697f234e22b99765a055f61484708eac9c2cf41c"
+      },
+      {
+        "id": "fleurs-hi-1761-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "b776cfab7471a83d04481674c0ca54059d6b98a83649868fd1f2b6e742d0a0c2"
+      },
+      {
+        "id": "fleurs-hi-1761-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "2ea01cb3ac75f4754e4f91efb24bf248c5601bbebeb8053e66ed2c16d4916da7"
+      },
+      {
+        "id": "fleurs-hi-1712-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "c7301ad0e095a0b16be3452032d1eef4b6153784bf6bf95bf7f0dbb500780d2f"
+      },
+      {
+        "id": "fleurs-hi-1712-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "26c7707f98a45855e912357597f21930db718db25503767e95d89329b34516bd"
+      },
+      {
+        "id": "fleurs-hi-1737-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "f86099dc94b8d8196afdd1ef76200bb841b2398071038bf98d664140733f6ea1"
+      },
+      {
+        "id": "fleurs-hi-1737-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "8b0290d82dbcaff9b6ec3278abb0ac14e99c861237a8433e8b6f9adacbba1838"
+      },
+      {
+        "id": "fleurs-hi-1730-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "ea24a88ec7c5f08e7ef440b9cd43ec931de2135732eaa1e2497654162083cef4"
+      },
+      {
+        "id": "fleurs-hi-1730-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "97ea48296ea7314fc9445c90bf1117e246f82ee9e16e70f699b6ebacdfd92d44"
+      },
+      {
+        "id": "fleurs-hi-1952-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "0ac4197c86f916097eb356d8b228aebe310ec47511ec5ae5a8e583c29bb15c41"
+      },
+      {
+        "id": "fleurs-hi-1952-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "b59a16cc35503f10c1f497f5b20c878096462ba20ee007679df6ce2151afcaf2"
+      },
+      {
+        "id": "fleurs-hi-1934-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "b9a447332f790e1e52e5d01d23d3ec4502946e4e23a8e209864fb030f8ed41bb"
+      },
+      {
+        "id": "fleurs-hi-1934-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "66b2d36fdda6097df3f71aa2891dbf7388ceedb967c5d1949e33b775959f963e"
+      },
+      {
+        "id": "fleurs-hi-1995-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "a9c3186446e782a6ccc53cf0d133d83d23106b8a1709731962133991130f283d"
+      },
+      {
+        "id": "fleurs-hi-1995-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "bc0fdd31e64a4cfcca0e69f52251be7ca03539e4ddbfc1f95e5165698ddeed38"
+      },
+      {
+        "id": "fleurs-hi-1910-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "88f901ff0275fd5f01bd594ddfe39efb9993401162e4afa256b8898dac32a5a3"
+      },
+      {
+        "id": "fleurs-hi-1910-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "bec3c9388cf511351066022c4f49ea0bff6c873ece96ac8361723a55a8d54bf0"
+      },
+      {
+        "id": "fleurs-hi-1788-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "bad173e60279cfe31644516d36b13460037cb4480ee6c5e8b1d1975c96a34807"
+      },
+      {
+        "id": "fleurs-hi-1788-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "abb16a75a89dc920fbd34afaae197949b4dab390ed6e433d6396e7fa306f2f0c"
+      },
+      {
+        "id": "fleurs-hi-1821-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "94dd8edc062beb25224ba0f5e0aa83cddba51e7aff8b3a550c6b4d5e119072e8"
+      },
+      {
+        "id": "fleurs-hi-1821-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "374b2993554a6f2f59ffccfcac77e694ac73dc6a6424be55ee885469fea1e879"
+      },
+      {
+        "id": "fleurs-hi-1873-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "d960a8a46d09dfd8e9d02bce35df29436a5963ebb34957b42d41ba62e9ea77de"
+      },
+      {
+        "id": "fleurs-hi-1873-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "942747826f4807eeff7a62384acd41d8477614f242a8cb878aa7999e3ac798d9"
+      },
+      {
+        "id": "fleurs-hi-1960-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "da95c0afd884c9b28796cf9efbf78f4890ab89e8c15f2c25c32348f3b18bb417"
+      },
+      {
+        "id": "fleurs-hi-1960-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "8b67684ae66660dcb93be8944e6bdd312448b8ad8d2c594e623c04a4b0b3c4bd"
+      },
+      {
+        "id": "fleurs-hi-1769-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "aa89009ceaab83df617976a13e9aed373d12a51ab1f68fe818346fe0061a6389"
+      },
+      {
+        "id": "fleurs-hi-1769-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "7c08ffc99099d700790227fab20c6371e2803badacce95e5248dbc87ca731366"
+      },
+      {
+        "id": "fleurs-hi-1660-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "58570fedccb8957c3722e217b79fd328a7ce3f1c7c55cba8c15014f3d33b37d4"
+      },
+      {
+        "id": "fleurs-hi-1660-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "96f74bea934c5f0ba866f91c7887b0ab043df4119fbce4b7aeab25c336863983"
+      },
+      {
+        "id": "fleurs-hi-1889-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "5fbd0df32b51390a240e48731b42e85756eec69a9e8096a07a3cb02e86e45bcb"
+      },
+      {
+        "id": "fleurs-hi-1889-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "2333b761c3160e6c2306a40fd7b52be207b53da620e397fcdd85a4291f8a8b77"
+      },
+      {
+        "id": "fleurs-hi-1866-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "91918415b5ccea5f59cb4f222bb6be546a300f76a33ba2df3fab33e9aa68edf5"
+      },
+      {
+        "id": "fleurs-hi-1866-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "da495553a03e4cad154bf0caf1a3f1886d256c0dcc0746bd8ba6122c23694fa0"
+      },
+      {
+        "id": "fleurs-hi-1689-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "fd845ff4246f703839d4c8c102f6370b3d5ee1ffd496f8e3c9e65be900e6dde1"
+      },
+      {
+        "id": "fleurs-hi-1689-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "de85214e2a9a7babe6abf0f66819616c2ae36f10840daa4ff2027198faf2f785"
+      },
+      {
+        "id": "fleurs-hi-1794-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "a7e6513279c53512876b0cdb6c32d6d2cf4d60f7fb8c8da47218c6d16c8755a6"
+      },
+      {
+        "id": "fleurs-hi-1794-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "74dac5979804afca46bb1ddfd2c61dd10205eaa998e390c1cd92d3e34c46ac82"
+      },
+      {
+        "id": "fleurs-hi-1997-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "2f00aafec45d27e07aaf7039b81c5b58da81bbd69a9da8c14d088a6ab12b768f"
+      },
+      {
+        "id": "fleurs-hi-1997-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "275064b282c91399897b7b3e3f70f5bb18da9ae2420bbd36a6b1c63d3b28a3d6"
+      },
+      {
+        "id": "fleurs-hi-2007-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "2402ceee6e5b23db7c53f1524e3626bde29e5340f7b624d0d080882f683c9722"
+      },
+      {
+        "id": "fleurs-hi-2007-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "f8ccf21d0c2270bc2640f51e851e900ad80827f18419babfa12b8bdb231e42a6"
+      },
+      {
+        "id": "fleurs-hi-1724-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "61522238afb32eaa050feb9e49a2398d4bc7ffe6dc93ba4cbfbba67a8418be08"
+      },
+      {
+        "id": "fleurs-hi-1724-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "270da0b6490e4ec8baf25c00cb006f194de003bf8d56c3bf4c5b9481eb0e725c"
+      },
+      {
+        "id": "fleurs-hi-1670-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "ca0701fc76eec23f41aea61ae545e248654568b9801016a93a9cf9a503e13594"
+      },
+      {
+        "id": "fleurs-hi-1670-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "4274de8ea1b0d9fca3e8819485357ecb839f248c71f5d24297716b7b17c675d6"
+      },
+      {
+        "id": "fleurs-hi-1880-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "f86ee3dd6c81f5ae636be238bef76095745669a20a8ebd5e0c3f9210913ed359"
+      },
+      {
+        "id": "fleurs-hi-1880-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "57a480ad5ecf929680fb93b3aec2b9a8cb4f30d3ab1a00a91b0cfad3e4043cc3"
+      },
+      {
+        "id": "fleurs-hi-1912-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "ccfb66dc5649884b227fa04348ca23a6ea301f60d9a5e0e25ec7165185e4209f"
+      },
+      {
+        "id": "fleurs-hi-1912-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "8d1acb21c75b9de000c712a5698613726e21d618ca32e189aeb4654556fdfc52"
+      },
+      {
+        "id": "fleurs-hi-1840-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "a2ce41e29497a0f37a7c3a42c66deae4cff9ba7d5f1de9ba6dfb10ae1bfb7b0c"
+      },
+      {
+        "id": "fleurs-hi-1840-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "7bd24190a1822b787e393ac32ad6c33324d999eb1a767bb432dfb39adc6565d7"
+      },
+      {
+        "id": "fleurs-hi-1829-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "a4022de7495ceed70f3cadd44388d7146368f9899f247f5a2826031122678c9d"
+      },
+      {
+        "id": "fleurs-hi-1829-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "8a7b696052de366dfc4ac3f3cde03275c34396d89f6bb27a2e372f26e672c9d8"
+      },
+      {
+        "id": "fleurs-hi-1797-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "32f7ff236fa5306a59fc3cd28250d64f82a8180638a7f827776607ec43f0998f"
+      },
+      {
+        "id": "fleurs-hi-1797-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "e2ca3f27ac9af94ebc918cb576f800b9dec596cc456bd0c542c35912b29238e5"
+      },
+      {
+        "id": "fleurs-hi-1676-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "4be903260e8969df1cf9694f773f4d203da40296edf73627075e6f9518079d65"
+      },
+      {
+        "id": "fleurs-hi-1676-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "dfe81db2baaa411fecc75226c2b8657b94319f46802445c435713ac059b31685"
+      },
+      {
+        "id": "fleurs-hi-1691-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "98af894746156b08dde1c18d94eb9d02ea14df4b96577025ea4159fae2cf45b2"
+      },
+      {
+        "id": "fleurs-hi-1691-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "13b53745efe2018a48352dd0e43423e0a871f716a00edb14ef5fd06c282a3908"
+      },
+      {
+        "id": "fleurs-hi-1807-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "ad06e4fee20796e666e9fd2e8426b823d7ae44f0df768b17e6ce5d8a5c2124f7"
+      },
+      {
+        "id": "fleurs-hi-1807-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "5fde2f06e47331485587cbb16fa4a7f232b75b34b18c4663bb374c012467ac92"
+      },
+      {
+        "id": "fleurs-hi-1876-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "606bccac0e6db6db26acc6e7d0875903e9eb593424db581f39880b4d1a544d85"
+      },
+      {
+        "id": "fleurs-hi-1876-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "d93df9295b308c9e90f151d43c7fc4afbc2191cebba95c49bc0c13002ef7f62a"
+      },
+      {
+        "id": "fleurs-hi-1684-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "a1604df3a6aa194b779cb9b46c2a2281a5b3f6326e9b4d7b7a0ba20433e1f2cc"
+      },
+      {
+        "id": "fleurs-hi-1684-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "37ea72c6696405c217f7159002fee5ffde3f7a457857f3126711b7932cd667c8"
+      },
+      {
+        "id": "fleurs-hi-1838-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "5eb97d7feec32821c9af27998b61f64049188adca7cf2c03cc40b41757416f6b"
+      },
+      {
+        "id": "fleurs-hi-1838-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "e9e95ce9545cdeb1858e0b808d59022277f74fff6580243666ec6291153a41d1"
+      },
+      {
+        "id": "fleurs-hi-1773-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "1d553a01dad2afb2c04aa38279c68560a1daf70e2e762e5eb02fd53eae7f7687"
+      },
+      {
+        "id": "fleurs-hi-1773-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "1d74d6aff6921479b020dd8a4815fd26f989b0bf29c4b85b710eb8b4c349a995"
+      },
+      {
+        "id": "fleurs-hi-1857-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "34f3a97d207c4a4dd8858c6480139e65c39a3f46570dcc6d4c32d540c5d24966"
+      },
+      {
+        "id": "fleurs-hi-1857-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "782cebd75ae2b9ee45c26879c7341199388024cfd8dde089ba502d8316a66843"
+      },
+      {
+        "id": "fleurs-hi-1759-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "c39a6c06046ff660a0b82f063a597cc93e981c78bb35665a0b6fe1048c4a3a95"
+      },
+      {
+        "id": "fleurs-hi-1759-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "94ef9c65ff54d7e466bfa4cccc1627ac1c8fee388d3c0a32bd1a69a0c395ca73"
+      },
+      {
+        "id": "fleurs-hi-1917-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "d332ba8b58fa23c290eaec34b07c39dc18d3f5c26916e2bd79686269654f72fe"
+      },
+      {
+        "id": "fleurs-hi-1917-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "9ccae9b304a7757af5b18ab97a1ea5b1236e8d7f31d17746e45181eb132c2e73"
+      },
+      {
+        "id": "fleurs-hi-1711-clean",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "57fecbe4d0ed0f934aa0c01825acea3c04e35bb657c1c90898e6cbd1f2e84baf"
+      },
+      {
+        "id": "fleurs-hi-1711-noise_10db",
+        "audio_file": "<PROJECT_ROOT>",
+        "audio_sha256": "f05d7b7c8fe51e84ed8b918cf5ea899f2c1d79778647fed95df2c5f0af355d21"
+      }
+    ],
+    "cache_sha256_by_view": {
+      "fleurs-hi-1882-clean": "a2b32aa0d4d44fdf7a0eb179ad8db2a5ad19d8b6a9a6c6603374fe7bf0b96636",
+      "fleurs-hi-1882-noise_10db": "c999e89cd54332afe356bf3856ecc452fb4922beb4b73c39cfb20219d3bc25c5",
+      "fleurs-hi-1806-clean": "2ef13a51c91547f4ed4162419fae0b21cff8a70145b55fac5dc94dd0c83cc371",
+      "fleurs-hi-1806-noise_10db": "eee815e0454118b31a003425e600b7d9ab907ed32832b7ea19c7abf6f255939e",
+      "fleurs-hi-1744-clean": "c96cb5da2ad9517089ddb3d2ba84245a689b53fffd1d6ea57e12da3afeb7f13a",
+      "fleurs-hi-1744-noise_10db": "670a6f6c76cdc4d2eba162590ea79d723f8405ec16f82e6427bdd9540b77222d",
+      "fleurs-hi-1911-clean": "e6465405ab94068a476980ac5e5588472a02d41380b7c56c6876489cac6002aa",
+      "fleurs-hi-1911-noise_10db": "b108508e740a9172edd0d15238ffb9b35a3f46a097f92f0cf545b851c028d8e1",
+      "fleurs-hi-1949-clean": "d2ee4eeeaa67a2caf51d06db25661ff01d6cd7e55fc192844d0b232cc3438593",
+      "fleurs-hi-1949-noise_10db": "a1bf85e01474817e360a9b260bbc1f757e16608984b076009895fcf03419d812",
+      "fleurs-hi-1890-clean": "11e053ee0549a65c8515f336a27e2e12b8e60c152b33d8e003003b9548dc1bd0",
+      "fleurs-hi-1890-noise_10db": "720fea10b23a120a4208110ddefc527761e7d13710574642b7353a08937bd84c",
+      "fleurs-hi-1761-clean": "55cb040b1853867bed709a1e6adf0eba6f21c5c93821c40f8fa5dd5f703e15e1",
+      "fleurs-hi-1761-noise_10db": "e6879c65b1283e9eda74ddc6303ce7b1d9efb3695f21bd234b70521511a2d144",
+      "fleurs-hi-1712-clean": "2fee0e6a39ac796e00e2dcd5ae67ef368880b2584fe6621c12f5d78b0419d61a",
+      "fleurs-hi-1712-noise_10db": "8e4780680c18bdb71414905ed038f05e309e78947a0b74b1167fe0b5de7649f9",
+      "fleurs-hi-1737-clean": "7a6cba985f8114e54c105aa0a04e7cb191e021800405a791996015f617f29e4f",
+      "fleurs-hi-1737-noise_10db": "f77596e513782374546941721d84a25a95a1b85f977e40ef5248e569ed5c0014",
+      "fleurs-hi-1730-clean": "3d8a12f41b9699f7fbafc83c58b0cd51cbfef39da97fba61a0a9ac444ef2c707",
+      "fleurs-hi-1730-noise_10db": "a5c672d11e8503b2e2af1ded4a05805be3a53dca117c24039b06cb717edc97a1",
+      "fleurs-hi-1952-clean": "7b9bc44883266de1ae35ec8d74f89a43f3b2a3effa0c9100d42e6c0734cb76a0",
+      "fleurs-hi-1952-noise_10db": "6686f5056966cd58536078a948390558a03e47171cc94bd945b86760c234ed02",
+      "fleurs-hi-1934-clean": "cfbf4e453a10b5bacb37e535ec5361ec3b20b7620c24e06942d04bbf13c629ea",
+      "fleurs-hi-1934-noise_10db": "9c19f257bc23f4912ca84b258a48c4c4341b31b8dd8f32f0caff7fc605d62ada",
+      "fleurs-hi-1995-clean": "7f23a1124f388980b81bcddd5facdab205f11ca857f175f3996169b8371eba66",
+      "fleurs-hi-1995-noise_10db": "402d6ed701326a0bf0589043bd3120fa64795e8a3f3be5b7752d64cd3d438115",
+      "fleurs-hi-1910-clean": "a222a744fb03110cd1684abdc20512b579e652b6a5c1668f9d761d1e6c04e65a",
+      "fleurs-hi-1910-noise_10db": "6c0053bcb36319cb953e43bf57cf284a89e3f1609a87cb55aa965d327ad34ff3",
+      "fleurs-hi-1788-clean": "7f1b74f6f6473611f65ac22dfcd33f96441aabf9e9d9052c6fe9549c16039064",
+      "fleurs-hi-1788-noise_10db": "27c976b8a8feec28f10e92165df78fde2269e3de5a9b005048b395d9aa73b724",
+      "fleurs-hi-1821-clean": "9f9859f3fa236893a07f2c117a4a65791a5c149f232023386a0a12bcb41ef055",
+      "fleurs-hi-1821-noise_10db": "0fa340e568f0bdad5d1ac75c2a0a721d98cf77eced2eb4e2fa2ec38c042c0f91",
+      "fleurs-hi-1873-clean": "54069d00d8973822bf9f24fd4047ffc867dde5c2640a32385125624f0b887d41",
+      "fleurs-hi-1873-noise_10db": "c0116b8a856638c875e10c7ea24a76838d314db241e29ca8e82ae2aee272c12c",
+      "fleurs-hi-1960-clean": "41e9774c4955ad2443fdf60595985f7083394f83ee10721c54cd00a451e8b96d",
+      "fleurs-hi-1960-noise_10db": "c4e1c25e273955747a4ebd01ef61f33e5c9fe17e3c9134520fa3013d3726cede",
+      "fleurs-hi-1769-clean": "76aff1f2e9a140cd747280a7f10f4e58e71cd443608256912b23d50ad3075b3c",
+      "fleurs-hi-1769-noise_10db": "9609c72b2ccc15c82306e4f655520c2fecf4b2a37e68936367c432f6995adf3e",
+      "fleurs-hi-1660-clean": "7405dac6e624237158773b4d5d082e4ba8fd77a53d23306722646487ffcfd52c",
+      "fleurs-hi-1660-noise_10db": "4ad76c2973628c80d9e6532b363ac8b233ee7992c6f883bbf5207fd06a8500e8",
+      "fleurs-hi-1889-clean": "31c0d82616f4cc7a4b708b162014b07d2b3b7297f812591b5638171358c57fb4",
+      "fleurs-hi-1889-noise_10db": "b585ee9a1ae9bb6ae76838cf84740e840410a8cce5c05da9cbcea0ee163c5101",
+      "fleurs-hi-1866-clean": "41555c3a5a5448d8f1bdcf450acdb3b59311231c501766037c1d3a79539ba5e2",
+      "fleurs-hi-1866-noise_10db": "a51cb6551b88b654853659ccc9c1fa7ee334624a1648dd2d83730b95dbae9027",
+      "fleurs-hi-1689-clean": "e4ea6c0cdbcfc0dd08b5a696fc4388557a8d1048a8b952d010e23cc7874e82b5",
+      "fleurs-hi-1689-noise_10db": "bedb190d25bf13281c7c10b66d74afba72926096dcbccc37bd2afffedb95c9b6",
+      "fleurs-hi-1794-clean": "1a77c6825dfb125a722a64ea69c103fe681d823e0c114d6286cb106638afa421",
+      "fleurs-hi-1794-noise_10db": "5bb20a694db3d0ba3a41c7ad05b26fdbcad414fd78667b3de943e5e28e8391b7",
+      "fleurs-hi-1997-clean": "4005d5da5690b9a57c92fb3253e3e33cd78c789f52e571ad6e1b66fa22663a40",
+      "fleurs-hi-1997-noise_10db": "b3b4ac30a63256b65e632e1044578f805f3b0c0eb5d61038ef9f844107c44c90",
+      "fleurs-hi-2007-clean": "59fd89d827ab74e823eb00826ee52ef2f23f5a8c83e8cd3c77019681c1e00f24",
+      "fleurs-hi-2007-noise_10db": "a14b502f5701602986177251b0cdaa0540f99dd06e189439e54dd7172ed0d445",
+      "fleurs-hi-1724-clean": "6bc5ecb6f3ba9b380545e13da465fc7439db2b94db5dcdc2aa7282112df90a23",
+      "fleurs-hi-1724-noise_10db": "b25a5df623a9fd14fe02f56a0d7985afc8e929f04eda79306778683b51798fd8",
+      "fleurs-hi-1670-clean": "1b36359382429824b60dd0ee2321b95d887a184fd43b70fbab7ea2c818e9d73e",
+      "fleurs-hi-1670-noise_10db": "61e100383f36da177211ed04156ce4e3242fb073110ad2f72f6c02d2c98825fa",
+      "fleurs-hi-1880-clean": "f75731930c3155b2e19976875a9dbbb1102c02fa49bec34c8cdc82bc20ab8bfa",
+      "fleurs-hi-1880-noise_10db": "92a1d5d4b4d8d103b5826289b8ca422b37f95867dafc86f49abf5d573cc4199e",
+      "fleurs-hi-1912-clean": "6291533351ad1dfcd48af35ee96742777cf0f895a996e2991c541e97ac29f997",
+      "fleurs-hi-1912-noise_10db": "6a3578411d0ac5b201519e81595a6dde5293667ee1201315a13177a9c9a369e4",
+      "fleurs-hi-1840-clean": "b53e6ed4bc581092c785cb0ebf952d557c3edd5c21410d6c7efb15e1f7d1876b",
+      "fleurs-hi-1840-noise_10db": "3d6e549ee43b225aa91c1c9340478faf9807041bdb568a117dd61241a294897c",
+      "fleurs-hi-1829-clean": "e5e2db06c4447585a8fdc0359fc79d933ac28ea3dd761f04477cd1817de41610",
+      "fleurs-hi-1829-noise_10db": "60f86c2507d6ca08dfabeb27f50a888af8111214893d22cb925cc1e17f7c9ca8",
+      "fleurs-hi-1797-clean": "13f650a0370892ddb9982453b7b0a31a189065bc902328d526f818fbd9a59dba",
+      "fleurs-hi-1797-noise_10db": "6ecb83c9da4c286695b56e5b5c37c1d6f33406aec3cc488d61ab3d9b4daf9aca",
+      "fleurs-hi-1676-clean": "4d9f2e6a14534c1aea0fda6aced1f3fd15176a116b3de45d35c6c9f0d77d0278",
+      "fleurs-hi-1676-noise_10db": "3daf0a7c80e35073839316f72ba9dc8ddca098d4e6492c2d8935d6be453f95e7",
+      "fleurs-hi-1691-clean": "5048377095b4a61b872c3414705a713dca04474da4a94fdd5f252c63745bd499",
+      "fleurs-hi-1691-noise_10db": "fc76214fc304a9b59638982a8b4597279c2047ca75e4979c321667347411e6f9",
+      "fleurs-hi-1807-clean": "b9d5884a2b2f00c17dbc7ba4d74b25b942d9bf21cb7b065479cd4a13c7c52428",
+      "fleurs-hi-1807-noise_10db": "87541a17e314768928f037c2785f85e8aca9226f06856895e7010b3df60ca714",
+      "fleurs-hi-1876-clean": "57984c85264d3e945bda96531824aab7df3f533047843de38dece746fda59c27",
+      "fleurs-hi-1876-noise_10db": "792f056290b915f3c7e9cc60ad4d667b056497ae08bfdb79f966574db807765b",
+      "fleurs-hi-1684-clean": "97cb9b4d353c40322e88f64fa8a8f692b01d42e826da782fc98e6afd4ebea264",
+      "fleurs-hi-1684-noise_10db": "283c71aed40cf2b6f4a91efd3fd4d9d5dfa97fc861c847498317222b8bfa763b",
+      "fleurs-hi-1838-clean": "d75b02e932b55334c3b56d66ee8132c8569c8f9109a4a0cc18fe053cc4aa5550",
+      "fleurs-hi-1838-noise_10db": "5fc1d99c02c01dec5d1b8e564bae0e4df3bef95ccf5cbaf94edd09dd2a0f3d81",
+      "fleurs-hi-1773-clean": "43a98186fd1beb157b11613b950bdbbb276180856df6c0116a884baf8637d0b1",
+      "fleurs-hi-1773-noise_10db": "8edeb323b5b53699ac3d1f1fc20b3f5d78473612e48a7c9111c47e183d93504a",
+      "fleurs-hi-1857-clean": "131c39c932ec141fa86f47b6bb682606549e96c6dabd11fc1b12883fd6febc70",
+      "fleurs-hi-1857-noise_10db": "86e51091e9e2d1da87fd848bbead870783107b5aeffb659389ba76c06775067e",
+      "fleurs-hi-1759-clean": "1973599066a99b335ec0d3fc5aa5802f6464cc222f5318dd3e04c97cc00e6f74",
+      "fleurs-hi-1759-noise_10db": "ecf87ea7c1658ba2023134a7c89b4c46bbf912b4607ce1dd35e91a4274f020b4",
+      "fleurs-hi-1917-clean": "6f8da63631e6fc0c1e58bcbd989bee8d1b198c699bece6232ea7aede9d68cad2",
+      "fleurs-hi-1917-noise_10db": "a948585f1efb7495d952aa43a0afa136dc4b4c456c40b3cec310168cf9084ddb",
+      "fleurs-hi-1711-clean": "6fac1f18d558b23e6c1ebb87c98d5bd41cf07bda8dfcd10a50453cbaf0baaca0",
+      "fleurs-hi-1711-noise_10db": "467fd70536846517b6b1fb13264b4d5aa00d27290b12e2e890d09b3227b3db62"
+    },
+    "baseline_rows": [
+      {
+        "id": "fleurs-hi-1882-clean",
+        "arm": "text",
+        "answer": "अज्ञात",
+        "transcript": "वेग ज्यानिको को यह समजने की उमीद है की गरे कैसे बनते हैं, खासकर प्रित्वी कैसे बनी, चोंकी दूम के तू प्रित्वी से बहुत पहले टक्राचूके तें"
+      },
+      {
+        "id": "fleurs-hi-1882-clean",
+        "arm": "real",
+        "answer": "अज्ञात",
+        "transcript": "वेग ज्यानिको को यह समजने की उमीद है की गरे कैसे बनते हैं, खासकर प्रित्वी कैसे बनी, चोंकी दूम के तू प्रित्वी से बहुत पहले टक्राचूके तें"
+      },
+      {
+        "id": "fleurs-hi-1882-noise_10db",
+        "arm": "text",
+        "answer": "अज्ञात",
+        "transcript": "अगर गयाने को तो यह समझनाजना कि उम्नें है कि दुहे कैसे बनते हैं आसकर प्त्री कैसे बनें चुएकी दूं के तो प्रिठ्री से बहुत पहले तक्राज़ चुकेप्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट"
+      },
+      {
+        "id": "fleurs-hi-1882-noise_10db",
+        "arm": "real",
+        "answer": "अज्ञात",
+        "transcript": "अगर गयाने को तो यह समझनाजना कि उम्नें है कि दुहे कैसे बनते हैं आसकर प्त्री कैसे बनें चुएकी दूं के तो प्रिठ्री से बहुत पहले तक्राज़ चुकेप्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट्ट"
+      },
+      {
+        "id": "fleurs-hi-1806-clean",
+        "arm": "text",
+        "answer": "अज्ञात",
+        "transcript": "जोके उनके सुर्वाति दिनो में प्रकास प्रदुसन आज कितरा कि समच्या नहीं ती वे आम तोर पर सहरो में या परिसरो में इस्तित है जा आदूनिक समय में निर्मिज जगाहो कि तुल्ला में पूँचना आशान होता है"
+      },
+      {
+        "id": "fleurs-hi-1806-noise_10db",
+        "arm": "text",
+        "answer": "अज्ञात",
+        "transcript": "तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो त"
+      },
+      {
+        "id": "fleurs-hi-1744-clean",
+        "arm": "text",
+        "answer": "छोटी संख्या रोस है।",
+        "transcript": "रोस भी संक्या जितनी चोटी हुगी चिम्बकी उत्करमण के संबन्द में तारा उतना ही कम संक्रियो होगा"
+      },
+      {
+        "id": "fleurs-hi-1744-clean",
+        "arm": "real",
+        "answer": "रोस",
+        "transcript": "रोस भी संक्या जितनी चोटी हुगी चिम्बकी उत्करमण के संबन्द में तारा उतना ही कम संक्रियो होगा"
+      },
+      {
+        "id": "fleurs-hi-1744-noise_10db",
+        "arm": "text",
+        "answer": "छोटी संख्या जितनी चोटी हुगी उसके पास कम सक्रियता होती ह�",
+        "transcript": "जोद्दी संक्या जितनी चोटी हुगी चुम्बकि उत्करमण के समबन्द में तारा उतना ही कम संक्रियो होगा"
+      },
+      {
+        "id": "fleurs-hi-1744-noise_10db",
+        "arm": "real",
+        "answer": "छोटी संख्या",
+        "transcript": "जोद्दी संक्या जितनी चोटी हुगी चुम्बकि उत्करमण के समबन्द में तारा उतना ही कम संक्रियो होगा"
+      },
+      {
+        "id": "fleurs-hi-1911-clean",
+        "arm": "text",
+        "answer": "शेंगें सदस्धेशो",
+        "transcript": "इसी तरा से शेंगें का विजा हूने पर आपको शेंगें सदस्धेशो के लिए रड़ रड़ रग वीजा का अवेदन नहीं देना परता है, जिस समय, पैसे और कागजी करवाई की बच्छत होती है."
+      },
+      {
+        "id": "fleurs-hi-1911-clean",
+        "arm": "real",
+        "answer": "शेंगें",
+        "transcript": "इसी तरा से शेंगें का विजा हूने पर आपको शेंगें सदस्धेशो के लिए रड़ रड़ रग वीजा का अवेदन नहीं देना परता है, जिस समय, पैसे और कागजी करवाई की बच्छत होती है."
+      },
+      {
+        "id": "fleurs-hi-1911-noise_10db",
+        "arm": "text",
+        "answer": "अज्ञात",
+        "transcript": "इसी तरा से शेंगें का भिजा होगे पर आपको शेंगें सर दस्वे ठेशों के लिए अलग-गलग भीगा का अवेदं नहीं देना परता है जिस्वे समझ, पैसे और कागवी करवाई की बचवती है"
+      },
+      {
+        "id": "fleurs-hi-1911-noise_10db",
+        "arm": "real",
+        "answer": "अज्ञात",
+        "transcript": "इसी तरा से शेंगें का भिजा होगे पर आपको शेंगें सर दस्वे ठेशों के लिए अलग-गलग भीगा का अवेदं नहीं देना परता है जिस्वे समझ, पैसे और कागवी करवाई की बचवती है"
+      },
+      {
+        "id": "fleurs-hi-1949-clean",
+        "arm": "text",
+        "answer": "अज्ञात",
+        "transcript": "कीत रिग्यानियों दूरा बग शब्द का उप्योग कीतूं के इस समुग के लिए एक अप्चारिक तोर पर किया जाता है"
+      },
+      {
+        "id": "fleurs-hi-1949-clean",
+        "arm": "real",
+        "answer": "12",
+        "transcript": "कीत रिग्यानियों दूरा बग शब्द का उप्योग कीतूं के इस समुग के लिए एक अप्चारिक तोर पर किया जाता है"
+      },
+      {
+        "id": "fleurs-hi-1949-noise_10db",
+        "arm": "text",
+        "answer": "अज्ञात",
+        "transcript": "अप्तारिख तोर का थी आपा है अप्तारिख तोर का थी आपा है"
+      },
+      {
+        "id": "fleurs-hi-1949-noise_10db",
+        "arm": "real",
+        "answer": "अज्ञात",
+        "transcript": "अप्तारिख तोर का थी आपा है अप्तारिख तोर का थी आपा है"
+      },
+      {
+        "id": "fleurs-hi-1890-clean",
+        "arm": "text",
+        "answer": "अदिकान्श आदूनिक अनुसंधान दूरबीनें काम करती हैं ज",
+        "transcript": "अदिकान्श आदूनिक अनुसंदान दूर भीनो में अनुकुल वायु मन्दिलिय परिस्ठितियों के साथ दूर धराज के चेट्रो में काम करने के लिए बहुत सुविदाय हैं."
+      },
+      {
+        "id": "fleurs-hi-1890-clean",
+        "arm": "real",
+        "answer": "अदिकान्श आदूनिक अनुसंधान दूरबीनें किन क्षेत्रों मे�",
+        "transcript": "अदिकान्श आदूनिक अनुसंदान दूर भीनो में अनुकुल वायु मन्दिलिय परिस्ठितियों के साथ दूर धराज के चेट्रो में काम करने के लिए बहुत सुविदाय हैं."
+      },
+      {
+        "id": "fleurs-hi-1890-noise_10db",
+        "arm": "text",
+        "answer": "अज्ञात",
+        "transcript": "अदिकान्च आदिनिक अंपन्दान दूँ जीनों में अन्पुल वाई मंदिलिय खरिष्च्यों के ताध दूई राच के फिक्रों में ताम करने पिले रहाँ हैं"
+      },
+      {
+        "id": "fleurs-hi-1890-noise_10db",
+        "arm": "real",
+        "answer": "अज्ञात",
+        "transcript": "अदिकान्च आदिनिक अंपन्दान दूँ जीनों में अन्पुल वाई मंदिलिय खरिष्च्यों के ताध दूई राच के फिक्रों में ताम करने पिले रहाँ हैं"
+      },
+      {
+        "id": "fleurs-hi-1761-clean",
+        "arm": "text",
+        "answer": "जानकारी नहीं",
+        "transcript": "पोटोगराफरो ने बाद में एक विरिद महिला की जगग लेली किंकि उसे शुचाले जाना जाना जानूरी था मेंडोजा को गोली मार दी गगी थी"
+      },
+      {
+        "id": "fleurs-hi-1761-clean",
+        "arm": "real",
+        "answer": "शुचाले",
+        "transcript": "पोटोगराफरो ने बाद में एक विरिद महिला की जगग लेली किंकि उसे शुचाले जाना जाना जानूरी था मेंडोजा को गोली मार दी गगी थी"
+      },
+      {
+        "id": "fleurs-hi-1761-noise_10db",
+        "arm": "text",
+        "answer": "शुचाले",
+        "transcript": "अद्राप्रो लेग बाद में एक वरिज महला की जग़ लेली शुकि उसे शुचाले जाना जानुगी था मैं दोजा को गोली मागी जए इखी"
+      },
+      {
+        "id": "fleurs-hi-1761-noise_10db",
+        "arm": "real",
+        "answer": "शुकि",
+        "transcript": "अद्राप्रो लेग बाद में एक वरिज महला की जग़ लेली शुकि उसे शुचाले जाना जानुगी था मैं दोजा को गोली मागी जए इखी"
+      },
+      {
+        "id": "fleurs-hi-1712-clean",
+        "arm": "text",
+        "answer": "अज्ञात",
+        "transcript": "अग्लन के अनुसार इस इलाके में जब लगबबख चार्सो रोयल बंकाल टाइगर्स और लगबख तीसज़ार जीतल हैं अग्लन के अनुसार इस इलाके में जब लगबख चार्सो रोयल बंकाल टाइगर्स और लगबख तीसज़ार जीतल हैं अग्लन के अनुसार इस इलाके"
+      },
+      {
+        "id": "fleurs-hi-1712-clean",
+        "arm": "real",
+        "answer": "अज्ञात",
+        "transcript": "अग्लन के अनुसार इस इलाके में जब लगबबख चार्सो रोयल बंकाल टाइगर्स और लगबख तीसज़ार जीतल हैं अग्लन के अनुसार इस इलाके में जब लगबख चार्सो रोयल बंकाल टाइगर्स और लगबख तीसज़ार जीतल हैं अग्लन के अनुसार इस इलाके"
+      },
+      {
+        "id": "fleurs-hi-1712-noise_10db",
+        "arm": "text",
+        "answer": "अज्ञात",
+        "transcript": "अपनन्त्याँ प्रद्टाच्ट त्रबन्ग वन्जीब अभ्यारन बन्गे है और एक आपनन्त्यानिसार इस एलाके मगगगग लग्द चाच्ट रोयल भंकाल ताइज़़ और लग्द तीशजाज शीटल है अपन्च्ट त्रबन्च्ट त्रबन्च्ट त्रबन्च्ट त्र"
+      },
+      {
+        "id": "fleurs-hi-1712-noise_10db",
+        "arm": "real",
+        "answer": "अज्ञात",
+        "transcript": "अपनन्त्याँ प्रद्टाच्ट त्रबन्ग वन्जीब अभ्यारन बन्गे है और एक आपनन्त्यानिसार इस एलाके मगगगग लग्द चाच्ट रोयल भंकाल ताइज़़ और लग्द तीशजाज शीटल है अपन्च्ट त्रबन्च्ट त्रबन्च्ट त्रबन्च्ट त्र"
+      },
+      {
+        "id": "fleurs-hi-1737-clean",
+        "arm": "text",
+        "answer": "शेरों के बड़े समूह को \"समाजिक भिल्या\" (Social Group) कहते हैं।",
+        "transcript": "शेर प्राइड नाम के बड़़ सम्मे रहने वाली सबसे बडी समाजिक भिल्या है"
+      },
+      {
+        "id": "fleurs-hi-1737-clean",
+        "arm": "real",
+        "answer": "शेरों के बड़े समूह को \"सबसे बडी समाजिक भिल्या\" (The Largest Social Group",
+        "transcript": "शेर प्राइड नाम के बड़़ सम्मे रहने वाली सबसे बडी समाजिक भिल्या है"
+      },
+      {
+        "id": "fleurs-hi-1737-noise_10db",
+        "arm": "text",
+        "answer": "अज्ञात",
+        "transcript": "तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो त"
+      },
+      {
+        "id": "fleurs-hi-1737-noise_10db",
+        "arm": "real",
+        "answer": "अज्ञात",
+        "transcript": "तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो त"
+      },
+      {
+        "id": "fleurs-hi-1730-clean",
+        "arm": "text",
+        "answer": "प्रतिलेख: अदर दिस्ट्रिक बस श्टेशन जो नदी के उस पार ह�",
+        "transcript": "अदर दिस्ट्रिक बस श्टेशन जो नदी के उस पार है शे देन बर बसें चलती हैं आला की जादतर खासकर पुर्व और जाकार पुम्तांग की और जानिवाली बसे सुबच है तीस और साथ तीस के भीच चाती हैं"
+      },
+      {
+        "id": "fleurs-hi-1730-clean",
+        "arm": "real",
+        "answer": "शे देन",
+        "transcript": "अदर दिस्ट्रिक बस श्टेशन जो नदी के उस पार है शे देन बर बसें चलती हैं आला की जादतर खासकर पुर्व और जाकार पुम्तांग की और जानिवाली बसे सुबच है तीस और साथ तीस के भीच चाती हैं"
+      },
+      {
+        "id": "fleurs-hi-1730-noise_10db",
+        "arm": "text",
+        "answer": "अज्ञात",
+        "transcript": "इंके दिस्किद बस्ट्खे फंदो नगी के उपार है के दिंदर बस्झे के ती हैं आलाकी जादद धर्खाज खर्पुर्ड और जाखार विंटांग की उजानिवाली वे सुबच है तीष और साभ तीष करीट खापी हैं"
+      },
+      {
+        "id": "fleurs-hi-1730-noise_10db",
+        "arm": "real",
+        "answer": "अज्ञात",
+        "transcript": "इंके दिस्किद बस्ट्खे फंदो नगी के उपार है के दिंदर बस्झे के ती हैं आलाकी जादद धर्खाज खर्पुर्ड और जाखार विंटांग की उजानिवाली वे सुबच है तीष और साभ तीष करीट खापी हैं"
+      },
+      {
+        "id": "fleurs-hi-1952-clean",
+        "arm": "text",
+        "answer": "अज्ञात",
+        "transcript": "जो भी उचाई या पहाडी दर्रे पर गाडी चलाने जारा है उसे हिम, बर्फ, या ठाप्मान की समबाबनाक के विचार को मन में रकना चाईए एं।"
+      },
+      {
+        "id": "fleurs-hi-1952-clean",
+        "arm": "real",
+        "answer": "अज्ञात",
+        "transcript": "जो भी उचाई या पहाडी दर्रे पर गाडी चलाने जारा है उसे हिम, बर्फ, या ठाप्मान की समबाबनाक के विचार को मन में रकना चाईए एं।"
+      },
+      {
+        "id": "fleurs-hi-1952-noise_10db",
+        "arm": "text",
+        "answer": "अज्ञात",
+        "transcript": "जो भी उचाई या पहारी द़रे पर गाडी चलाने जारा है, उसे हिम बग्ष या खंके ताद्मान गी संबादना के विचाप को मनने रखना चाएई."
+      },
+      {
+        "id": "fleurs-hi-1952-noise_10db",
+        "arm": "real",
+        "answer": "अज्ञात",
+        "transcript": "जो भी उचाई या पहारी द़रे पर गाडी चलाने जारा है, उसे हिम बग्ष या खंके ताद्मान गी संबादना के विचाप को मनने रखना चाएई."
+      },
+      {
+        "id": "fleurs-hi-1934-clean",
+        "arm": "text",
+        "answer": "भेजने वालो की आवास",
+        "transcript": "आम तोर पर आप हमेशा परटबो और भेजने वालो की आवास सुनते है, तूवनी और प्रकाष की कहानी स्टोरी बुग जैसी है."
+      },
+      {
+        "id": "fleurs-hi-1934-clean",
+        "arm": "real",
+        "answer": "भेजने वालो की",
+        "transcript": "आम तोर पर आप हमेशा परटबो और भेजने वालो की आवास सुनते है, तूवनी और प्रकाष की कहानी स्टोरी बुग जैसी है."
+      },
+      {
+        "id": "fleurs-hi-1934-noise_10db",
+        "arm": "text",
+        "answer": "अज्ञात",
+        "transcript": "आम तवर पर आप हमेशा परट़़ वो आब एचने अडियावास तिलते है द्वनिव अप्रकाष की कहाने स्वोरी भुग जैसी है"
+      },
+      {
+        "id": "fleurs-hi-1934-noise_10db",
+        "arm": "real",
+        "answer": "अडियावास",
+        "transcript": "आम तवर पर आप हमेशा परट़़ वो आब एचने अडियावास तिलते है द्वनिव अप्रकाष की कहाने स्वोरी भुग जैसी है"
+      },
+      {
+        "id": "fleurs-hi-1806-clean",
+        "arm": "real",
+        "answer": "अज्ञात",
+        "transcript": "जोके उनके सुर्वाति दिनो में प्रकास प्रदुसन आज कितरा कि समच्या नहीं ती वे आम तोर पर सहरो में या परिसरो में इस्तित है जा आदूनिक समय में निर्मिज जगाहो कि तुल्ला में पूँचना आशान होता है"
+      },
+      {
+        "id": "fleurs-hi-1806-noise_10db",
+        "arm": "real",
+        "answer": "अज्ञात",
+        "transcript": "तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो तो त"
+      }
+    ],
+    "baseline_rows_semantic_sha256": "3fb51f353c6ee25f8ffa9b4fdaaf10f129176b7adffa8ff3ba36b279b44a0de2",
+    "alphas": [
+      0.03125,
+      0.125,
+      0.5,
+      1,
+      2
+    ],
+    "preflight_logprob_threshold": 0.1,
+    "preflight_min_sources": 2,
+    "fit": {
+      "parameter": "log_alpha only",
+      "initial": 0,
+      "optimizer": "Adam",
+      "lr": 0.1,
+      "batch": 8,
+      "epochs": 4,
+      "updates": 32,
+      "alpha_bounds": [
+        0.03125,
+        2
+      ],
+      "selection": "final update only"
+    },
+    "resource_limits": {
+      "gpu": "A10",
+      "gpu_count": 1,
+      "cpu": 2,
+      "memory_gib": 16,
+      "function_s": 1800,
+      "startup_s": 300,
+      "queue_s": 120,
+      "retries": 0
+    },
+    "reservation_usd": 2,
+    "worst_case_cost_usd": 1.2729474399999998,
+    "fresh_test_loaded": false,
+    "optimized_parameter_count": 1,
+    "primary_eval_views": 22,
+    "illustrative_eval_views": 2,
+    "source_sha256": {
+      "connector.py": "39803bc3e46f4db213a911dae6438a8eb8d908f95c2d2efc36238fedf24e68db",
+      "readout_candidates.py": "e8c8919f1b5fec820c72652c2c960c62955e7ad99458ff32b383da87e931b819",
+      "scale_worker.py": "87d15f52caacea42b6c7b0305be0ba06a095f6a7686a55801d6672e22499905c",
+      "scale_runner.py": "b2b111e0e6d7859b1552ee4dc0764a35f73fc7fd4437e9482afcd1c80a23378d",
+      "prepare_scale.py": "c487fbc800bddf13689eb12a88baf82b2c3cf934135c92c635f44f5d55f2cfe3",
+      "scale_protocol.md": "157065b41e4993d542dd4f82ef226ec263f04fc8a17f0763585e673adc748e29",
+      "artifacts/scale-scientific-decision.json": "6a6ce996f2db0ed6ed3f7e5a3476415a1c379a74d2a2f26ebec25dd63d5e8912",
+      "artifacts/pilot-result.json": "e8ac333d7410e05b0753a3e7900794b1a1e43b9cfd0d5349b71e93658bc0644e",
+      "artifacts/headroom-result.json": "2d4f049ab05d9b659ca74a8bd431319bb9cfdedcad51c1d5d63f3d632700d1a4",
+      "artifacts/readout-result.json": "79a21866599e9befbfba747c34491ef5e115b5a3c8680fa156423877dfbdcef6",
+      "scale_analysis.py": "e94d14171a2d9e8f11461220aa8270d73f2b6d817e714e4823eed2a6f3197948",
+      "reconcile_scale_labels.py": "6a4d41c8ec901b75b4d5d5924b9cdba8abbad63755547e247465b3245c95b3b9"
+    }
+  },
+  "missing_implementation_files": [],
+  "scientific_decision": {
+    "decision": "one bounded conditional scalar-only diagnostic",
+    "training_sources": [
+      "fleurs-hi-1857",
+      "fleurs-hi-1995",
+      "fleurs-hi-1960",
+      "fleurs-hi-1670",
+      "fleurs-hi-1711",
+      "fleurs-hi-1910",
+      "fleurs-hi-1880",
+      "fleurs-hi-1866",
+      "fleurs-hi-1794",
+      "fleurs-hi-1829",
+      "fleurs-hi-1917",
+      "fleurs-hi-1759",
+      "fleurs-hi-1840",
+      "fleurs-hi-1873",
+      "fleurs-hi-1684",
+      "fleurs-hi-2007",
+      "fleurs-hi-1807",
+      "fleurs-hi-1689",
+      "fleurs-hi-1797",
+      "fleurs-hi-1691",
+      "fleurs-hi-1912",
+      "fleurs-hi-1788",
+      "fleurs-hi-1876",
+      "fleurs-hi-1676",
+      "fleurs-hi-1997",
+      "fleurs-hi-1769",
+      "fleurs-hi-1724",
+      "fleurs-hi-1821",
+      "fleurs-hi-1660",
+      "fleurs-hi-1889",
+      "fleurs-hi-1773",
+      "fleurs-hi-1838"
+    ],
+    "preflight_sources": [
+      "fleurs-hi-1995",
+      "fleurs-hi-1797",
+      "fleurs-hi-1807",
+      "fleurs-hi-1711"
+    ],
+    "primary_dev_sources": [
+      "fleurs-hi-1712",
+      "fleurs-hi-1730",
+      "fleurs-hi-1737",
+      "fleurs-hi-1744",
+      "fleurs-hi-1761",
+      "fleurs-hi-1882",
+      "fleurs-hi-1890",
+      "fleurs-hi-1911",
+      "fleurs-hi-1934",
+      "fleurs-hi-1949",
+      "fleurs-hi-1952"
+    ],
+    "illustrative_source": "fleurs-hi-1806",
+    "alphas": [
+      0.03125,
+      0.125,
+      0.5,
+      1,
+      2
+    ],
+    "gate": "at least2/4 source mean-over-views max abs first target logprob difference >=.10nat OR changed normalized generation on>=2sources",
+    "fit": {
+      "parameter": "log_alpha only",
+      "initial": 0,
+      "optimizer": "Adam",
+      "lr": 0.1,
+      "batch": 8,
+      "epochs": 4,
+      "updates": 32,
+      "alpha_bounds": [
+        0.03125,
+        2
+      ],
+      "selection": "final update only"
+    },
+    "primary_success": "under reconciled and strict labels >=2sources a>0 and a>w; <=1negative a; sum(a)>=1;sum(a-w)>=1",
+    "expected_preflight_outputs": 40,
+    "expected_primary_eval_outputs": 110,
+    "expected_illustrative_outputs": 10,
+    "reservation_usd": 2,
+    "bound_usd": 1.2729474399999998,
+    "fresh_test_go": false,
+    "additional_alignment_go": false,
+    "protocol_sha256": "157065b41e4993d542dd4f82ef226ec263f04fc8a17f0763585e673adc748e29",
+    "user_assessment_sha256": "4e927b811eacf80611b4694014bae4db4998f4181de9bc5f548199d321fa84c9",
+    "preflight_generation_normalization": "Unicode NFC, lowercase, collapsed whitespace only; variation not quality",
+    "reconciliation": "preserve root primary and independent Sol labels; supported-correct requires agreement correct and no hallucination; conflict conservative incorrect+ambiguous unless documented preserved adjudication; known historical conflicts flagged",
+    "strict": "every ambiguous or unknown case incorrect; retain all22views/11sources"
+  },
+  "source_claim": "Historical source-disjoint calibration/evaluation; development has prior exposure, not fresh generalization",
+  "annotation_policy": "Stable previous case judgments reused; new cases independently arm-masked model-rated; disputes preserved as ambiguous; strict sensitivity rejects accepted ambiguous answers.",
+  "stopping": "Sensitivity fail/incomplete stops before fit/eval; otherwise fixed32updates+120evalresponses then review. No score-driven rerun.",
+  "review_status": "static_review_passed",
+  "frozen_unix": 1793997052.963647,
+  "technical_review_sha256": "8aca3b8c8df5896ea15fa65efd5c6d6e58a831a62bdf628ff044146b5e1288ad",
+  "design_review_sha256": "33e8e969905b8a550f931de746b478c551cf44593d9e30992ff37495101fcffb"
+}

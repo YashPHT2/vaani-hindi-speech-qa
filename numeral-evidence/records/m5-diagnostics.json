@@ -1,0 +1,526 @@
+{
+ "power": {
+  "n_questions": 26,
+  "n_question_sources": 23,
+  "n_scored_slots_corpus": 416,
+  "n_scored_slots_on_question_sources": 28,
+  "n_corrupted_slots_on_question_sources": 3,
+  "questions_with_a_corrupted_numeral": [
+   "q18",
+   "q22",
+   "q23"
+  ],
+  "n_questions_with_a_corrupted_numeral": 3,
+  "per_policy": {
+   "ENC_b10": {
+    "listens_on_question_sources": 1,
+    "substitutions_on_question_sources": 1
+   },
+   "HEADCONF_b10": {
+    "listens_on_question_sources": 1,
+    "substitutions_on_question_sources": 0
+   },
+   "RANDOM_b10": {
+    "listens_on_question_sources": 1,
+    "substitutions_on_question_sources": 0
+   },
+   "ENC_b25": {
+    "listens_on_question_sources": 2,
+    "substitutions_on_question_sources": 2
+   },
+   "HEADCONF_b25": {
+    "listens_on_question_sources": 1,
+    "substitutions_on_question_sources": 0
+   },
+   "RANDOM_b25": {
+    "listens_on_question_sources": 3,
+    "substitutions_on_question_sources": 1
+   },
+   "ENC_b50": {
+    "listens_on_question_sources": 3,
+    "substitutions_on_question_sources": 3
+   },
+   "HEADCONF_b50": {
+    "listens_on_question_sources": 2,
+    "substitutions_on_question_sources": 0
+   },
+   "RANDOM_b50": {
+    "listens_on_question_sources": 6,
+    "substitutions_on_question_sources": 2
+   },
+   "ENC_b100": {
+    "listens_on_question_sources": 8,
+    "substitutions_on_question_sources": 4
+   },
+   "HEADCONF_b100": {
+    "listens_on_question_sources": 5,
+    "substitutions_on_question_sources": 0
+   },
+   "RANDOM_b100": {
+    "listens_on_question_sources": 7,
+    "substitutions_on_question_sources": 2
+   },
+   "CASCADE": {
+    "listens_on_question_sources": 0,
+    "substitutions_on_question_sources": 0
+   },
+   "ALWAYS_qwen": {
+    "listens_on_question_sources": 49,
+    "substitutions_on_question_sources": 10
+   },
+   "ORACLE_qwen": {
+    "listens_on_question_sources": 5,
+    "substitutions_on_question_sources": 5
+   }
+  },
+  "diagnosis": "If the budgeted routers selected almost no slot on a question source, a null answer-level result is uninformative about routing and must not be reported as evidence that routing does not help."
+ },
+ "number_subset": {
+  "category_table": {
+   "NAME": {
+    "CASCADE": {
+     "n": 6,
+     "correct": 5,
+     "correct_rate": 0.8333
+    },
+    "ENC_b25": {
+     "n": 6,
+     "correct": 5,
+     "correct_rate": 0.8333
+    },
+    "HEADCONF_b25": {
+     "n": 6,
+     "correct": 5,
+     "correct_rate": 0.8333
+    },
+    "RANDOM_b25": {
+     "n": 6,
+     "correct": 5,
+     "correct_rate": 0.8333
+    },
+    "ALWAYS_qwen": {
+     "n": 6,
+     "correct": 5,
+     "correct_rate": 0.8333
+    },
+    "ORACLE_qwen": {
+     "n": 6,
+     "correct": 5,
+     "correct_rate": 0.8333
+    },
+    "ENC_b10": {
+     "n": 6,
+     "correct": 5,
+     "correct_rate": 0.8333
+    },
+    "HEADCONF_b10": {
+     "n": 6,
+     "correct": 5,
+     "correct_rate": 0.8333
+    },
+    "ENC_b50": {
+     "n": 6,
+     "correct": 5,
+     "correct_rate": 0.8333
+    },
+    "HEADCONF_b50": {
+     "n": 6,
+     "correct": 5,
+     "correct_rate": 0.8333
+    }
+   },
+   "NEGATION": {
+    "CASCADE": {
+     "n": 5,
+     "correct": 4,
+     "correct_rate": 0.8
+    },
+    "ENC_b25": {
+     "n": 5,
+     "correct": 4,
+     "correct_rate": 0.8
+    },
+    "HEADCONF_b25": {
+     "n": 5,
+     "correct": 4,
+     "correct_rate": 0.8
+    },
+    "RANDOM_b25": {
+     "n": 5,
+     "correct": 4,
+     "correct_rate": 0.8
+    },
+    "ALWAYS_qwen": {
+     "n": 5,
+     "correct": 4,
+     "correct_rate": 0.8
+    },
+    "ORACLE_qwen": {
+     "n": 5,
+     "correct": 4,
+     "correct_rate": 0.8
+    },
+    "ENC_b10": {
+     "n": 5,
+     "correct": 4,
+     "correct_rate": 0.8
+    },
+    "HEADCONF_b10": {
+     "n": 5,
+     "correct": 4,
+     "correct_rate": 0.8
+    },
+    "ENC_b50": {
+     "n": 5,
+     "correct": 4,
+     "correct_rate": 0.8
+    },
+    "HEADCONF_b50": {
+     "n": 5,
+     "correct": 4,
+     "correct_rate": 0.8
+    }
+   },
+   "NUMBER": {
+    "CASCADE": {
+     "n": 11,
+     "correct": 10,
+     "correct_rate": 0.9091
+    },
+    "ENC_b25": {
+     "n": 11,
+     "correct": 10,
+     "correct_rate": 0.9091
+    },
+    "HEADCONF_b25": {
+     "n": 11,
+     "correct": 10,
+     "correct_rate": 0.9091
+    },
+    "RANDOM_b25": {
+     "n": 11,
+     "correct": 10,
+     "correct_rate": 0.9091
+    },
+    "ALWAYS_qwen": {
+     "n": 11,
+     "correct": 8,
+     "correct_rate": 0.7273
+    },
+    "ORACLE_qwen": {
+     "n": 11,
+     "correct": 11,
+     "correct_rate": 1.0
+    },
+    "ENC_b10": {
+     "n": 11,
+     "correct": 10,
+     "correct_rate": 0.9091
+    },
+    "HEADCONF_b10": {
+     "n": 11,
+     "correct": 10,
+     "correct_rate": 0.9091
+    },
+    "ENC_b50": {
+     "n": 11,
+     "correct": 10,
+     "correct_rate": 0.9091
+    },
+    "HEADCONF_b50": {
+     "n": 11,
+     "correct": 10,
+     "correct_rate": 0.9091
+    }
+   },
+   "UNANSWERABLE": {
+    "CASCADE": {
+     "n": 4,
+     "correct": 4,
+     "correct_rate": 1.0
+    },
+    "ENC_b25": {
+     "n": 4,
+     "correct": 4,
+     "correct_rate": 1.0
+    },
+    "HEADCONF_b25": {
+     "n": 4,
+     "correct": 4,
+     "correct_rate": 1.0
+    },
+    "RANDOM_b25": {
+     "n": 4,
+     "correct": 4,
+     "correct_rate": 1.0
+    },
+    "ALWAYS_qwen": {
+     "n": 4,
+     "correct": 4,
+     "correct_rate": 1.0
+    },
+    "ORACLE_qwen": {
+     "n": 4,
+     "correct": 4,
+     "correct_rate": 1.0
+    },
+    "ENC_b10": {
+     "n": 4,
+     "correct": 4,
+     "correct_rate": 1.0
+    },
+    "HEADCONF_b10": {
+     "n": 4,
+     "correct": 4,
+     "correct_rate": 1.0
+    },
+    "ENC_b50": {
+     "n": 4,
+     "correct": 4,
+     "correct_rate": 1.0
+    },
+    "HEADCONF_b50": {
+     "n": 4,
+     "correct": 4,
+     "correct_rate": 1.0
+    }
+   }
+  },
+  "answer_critical": {
+   "q06": {
+    "span_numerals": [
+     418,
+     422
+    ],
+    "corrupted": [
+     [
+      418,
+      618
+     ]
+    ]
+   }
+  },
+  "n_answer_critical": 1,
+  "number_questions": {
+   "q01": {
+    "question": "इनमें कितने पुरुष सिपाही हैं?",
+    "answer_critical_error": false,
+    "cascade": "40",
+    "cascade_ok": true,
+    "ALWAYS_qwen": "40",
+    "ALWAYS_qwen_ok": true,
+    "ORACLE_qwen": "40",
+    "ORACLE_qwen_ok": true
+   },
+   "q02": {
+    "question": "शहर के कितने ट्रैफिक पोस्टों पर महिला सिपाही तैनात की गईं?",
+    "answer_critical_error": false,
+    "cascade": "106",
+    "cascade_ok": true,
+    "ALWAYS_qwen": "10",
+    "ALWAYS_qwen_ok": false,
+    "ORACLE_qwen": "106",
+    "ORACLE_qwen_ok": true
+   },
+   "q03": {
+    "question": "सभी लोग मिलकर एक साल में कितना रूपया जमा कर लेते हैं?",
+    "answer_critical_error": false,
+    "cascade": "7800",
+    "cascade_ok": true,
+    "ALWAYS_qwen": "7800",
+    "ALWAYS_qwen_ok": true,
+    "ORACLE_qwen": "7800",
+    "ORACLE_qwen_ok": true
+   },
+   "q04": {
+    "question": "विश्वविद्यालय में करीब कितने छात्रों को इस सुविधा का लाभ मिलेगा?",
+    "answer_critical_error": false,
+    "cascade": "10000",
+    "cascade_ok": true,
+    "ALWAYS_qwen": "10000",
+    "ALWAYS_qwen_ok": true,
+    "ORACLE_qwen": "10000",
+    "ORACLE_qwen_ok": true
+   },
+   "q05": {
+    "question": "रक्तस्राव किस अवधि के बीच मातृ मृत्यु का कारण बताया गया है?",
+    "answer_critical_error": false,
+    "cascade": "2003 और 2009 के बीच",
+    "cascade_ok": true,
+    "ALWAYS_qwen": "2003 और 3 के बीच",
+    "ALWAYS_qwen_ok": true,
+    "ORACLE_qwen": "2003 और 2009 के बीच",
+    "ORACLE_qwen_ok": true
+   },
+   "q06": {
+    "question": "प्राइस बैंड कितने रूपए रखा गया है?",
+    "answer_critical_error": true,
+    "cascade": "618 से 422 रुपये",
+    "cascade_ok": false,
+    "ALWAYS_qwen": "418 से 422 रुपये",
+    "ALWAYS_qwen_ok": true,
+    "ORACLE_qwen": "418 से 422 रुपये",
+    "ORACLE_qwen_ok": true
+   },
+   "q07": {
+    "question": "आँगनबाड़ी सहायिकाओं को अब कितने रूपए मिलेंगे?",
+    "answer_critical_error": false,
+    "cascade": "2250 रुपये",
+    "cascade_ok": true,
+    "ALWAYS_qwen": "250000000 रुपये",
+    "ALWAYS_qwen_ok": false,
+    "ORACLE_qwen": "2250 रुपये",
+    "ORACLE_qwen_ok": true
+   },
+   "q08": {
+    "question": "राज्य के कितने प्राथमिक व मध्य विद्यालय शामिल हैं?",
+    "answer_critical_error": false,
+    "cascade": "39702",
+    "cascade_ok": true,
+    "ALWAYS_qwen": "48702",
+    "ALWAYS_qwen_ok": false,
+    "ORACLE_qwen": "39702",
+    "ORACLE_qwen_ok": true
+   },
+   "q09": {
+    "question": "चौबीस घंटे में से कितने घंटे भी बिजली नहीं मिलती?",
+    "answer_critical_error": false,
+    "cascade": "8 से 12 घंटे",
+    "cascade_ok": true,
+    "ALWAYS_qwen": "8 से 12 घंटे",
+    "ALWAYS_qwen_ok": true,
+    "ORACLE_qwen": "8 से 12 घंटे",
+    "ORACLE_qwen_ok": true
+   },
+   "q10": {
+    "question": "सूरज कुमार ने कितने अंक लाकर सयुंक्त रूप से सातवां स्थान पाया?",
+    "answer_critical_error": false,
+    "cascade": "422",
+    "cascade_ok": true,
+    "ALWAYS_qwen": "422",
+    "ALWAYS_qwen_ok": true,
+    "ORACLE_qwen": "422",
+    "ORACLE_qwen_ok": true
+   },
+   "q11": {
+    "question": "ओला पत्थर कितने बजे गिरा?",
+    "answer_critical_error": false,
+    "cascade": "शाम 8:40",
+    "cascade_ok": true,
+    "ALWAYS_qwen": "शाम 8:40",
+    "ALWAYS_qwen_ok": true,
+    "ORACLE_qwen": "शाम 8:40",
+    "ORACLE_qwen_ok": true
+   }
+  }
+ },
+ "collateral": {
+  "items": [
+   {
+    "qid": "q06",
+    "source_id": "gramvaani-1012",
+    "question": "प्राइस बैंड कितने रूपए रखा गया है?",
+    "gold_aliases": [
+     "चार सौ अठारह से चार सौ बाईस",
+     "418 से 422",
+     "418-422"
+    ],
+    "evidence_span": "चार सौ अठारह से चार सौ बाईस रूपए",
+    "ref_numerals_in_span": [
+     418,
+     422
+    ],
+    "substitutions_on_source": [
+     {
+      "ordinal": 0,
+      "action": "substitute",
+      "koyal": 618,
+      "second": 418
+     }
+    ],
+    "cascade_answer": "618 से 422 रुपये",
+    "always_answer": "418 से 422 रुपये",
+    "koyal_transcript": "खुल गया प्राइस बैंड 618 से 422 रुपये और मिनिमम लॉर्ड साइज 35 शेयर रखा गया है। आईपीओ 10 अगस्त तक खुला रहेगा।",
+    "qwen_transcript": "खुल गया प्राइस बैंड 418 से 422 रुपये और मिनिमम लॉर्ड साइज 35 शेयर रखा गया है। आईपीओ 10 अगस्त तक खुला रहेगा।"
+   },
+   {
+    "qid": "q02",
+    "source_id": "gramvaani-0250",
+    "question": "शहर के कितने ट्रैफिक पोस्टों पर महिला सिपाही तैनात की गईं?",
+    "gold_aliases": [
+     "एक सौ छह",
+     "106"
+    ],
+    "evidence_span": "शहर के एक सौ छह ट्रैफिक पोस्टों पर",
+    "ref_numerals_in_span": [
+     106
+    ],
+    "substitutions_on_source": [
+     {
+      "ordinal": 3,
+      "action": "substitute",
+      "koyal": 260,
+      "second": 10
+     }
+    ],
+    "cascade_answer": "106",
+    "always_answer": "10",
+    "koyal_transcript": "इनमें 260 महिला सिपाही जबकि 40 पुरुष सिपाही हैं। 31 अगस्त को 260 महिला सिपाहियों को शहर के 106 ट्रैफिक पोस्टों पर तैनात कर दिया गया।",
+    "qwen_transcript": "इनमें 260 महिला सिपाही जबकि 40 पुरुष सिपाही हैं। 31 अगस्त को 10 महिला सिपाहियों को शहर के 106 ट्रैफिक पोस्टों पर तैनात कर दिया गया।"
+   },
+   {
+    "qid": "q07",
+    "source_id": "gramvaani-0325",
+    "question": "आँगनबाड़ी सहायिकाओं को अब कितने रूपए मिलेंगे?",
+    "gold_aliases": [
+     "बाईस सौ पचास",
+     "बाईस सौ सौ पचास",
+     "2250",
+     "2,250"
+    ],
+    "evidence_span": "बाईस सौ सौ पचास रूपए मिलेंगे",
+    "ref_numerals_in_span": [
+     2250
+    ],
+    "substitutions_on_source": [
+     {
+      "ordinal": 1,
+      "action": "substitute",
+      "koyal": 2250,
+      "second": 250000000
+     }
+    ],
+    "cascade_answer": "2250 रुपये",
+    "always_answer": "250000000 रुपये",
+    "koyal_transcript": "आंगनबाड़ी सहायिकाओं को 1500 रुपये के स्थान पर 2250 रुपये मिलेंगे। और अब खबर खेल जगत से। कुछ देर में शुरू होगा 5वें दिन का खेल साग बचाने उतरेगी टीम इंडिया। खबर है नई दिल्ली से।",
+    "qwen_transcript": "आंगनबाड़ी सहायिकाओं को 1500 रुपये के स्थान पर 250000000 रुपये मिलेंगे। और अब खबर खेल जगत से। कुछ देर में शुरू होगा 5वें दिन का खेल साग बचाने उतरेगी टीम इंडिया। खबर है नई दिल्ली से।"
+   },
+   {
+    "qid": "q08",
+    "source_id": "gramvaani-0089",
+    "question": "राज्य के कितने प्राथमिक व मध्य विद्यालय शामिल हैं?",
+    "gold_aliases": [
+     "उनचालीस हजार सात सौ दो",
+     "उनचालीस हज़ार सात सौ दो",
+     "39702",
+     "39,702"
+    ],
+    "evidence_span": "राज्य के उनचालीस हजार सात सौ दो प्राथमिक",
+    "ref_numerals_in_span": [],
+    "substitutions_on_source": [
+     {
+      "ordinal": 0,
+      "action": "substitute",
+      "koyal": 39702,
+      "second": 48702
+     }
+    ],
+    "cascade_answer": "39702",
+    "always_answer": "48702",
+    "koyal_transcript": "देखी जा सकेगी और इसकी मॉनिटरिंग होगी। सरकार यह व्यवस्था मिड डे वास को रखने के लिए कर रही है। राज्य के 39702 प्राथमिक व मध्य विद्यालय",
+    "qwen_transcript": "देखी जा सकेगी और इसकी मॉनिटरिंग होगी। सरकार यह व्यवस्था मिड डे वास को रखने के लिए कर रही है। राज्य के 48702 प्राथमिक व मध्य विद्यालय"
+   }
+  ],
+  "reading": "A substitution is collateral when its value is not among the numerals the question depends on. Collateral damage is the cost of an unselective actuator and is the reason to route; damage at the answer-critical numeral would instead indict the listener."
+ }
+}

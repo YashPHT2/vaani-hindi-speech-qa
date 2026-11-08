@@ -1,0 +1,126 @@
+{"source_id": "gramvaani-0011", "kind": "correct", "ref_value": 25, "hyp_value": 25, "ref_surface": "पच्चीस", "hyp_surface": "25", "ref_ordinal": 0}
+{"source_id": "gramvaani-0011", "kind": "correct", "ref_value": 1, "hyp_value": 1, "ref_surface": "एक", "hyp_surface": "एक", "ref_ordinal": 1}
+{"source_id": "gramvaani-0011", "kind": "correct", "ref_value": 5, "hyp_value": 5, "ref_surface": "पांच", "hyp_surface": "5", "ref_ordinal": 2}
+{"source_id": "gramvaani-0011", "kind": "correct", "ref_value": 7000, "hyp_value": 7000, "ref_surface": "सात हजार", "hyp_surface": "7 हजार", "ref_ordinal": 3}
+{"source_id": "gramvaani-0011", "kind": "correct", "ref_value": 10000, "hyp_value": 10000, "ref_surface": "दस हज़ार", "hyp_surface": "10000", "ref_ordinal": 4}
+{"source_id": "gramvaani-0017", "kind": "correct", "ref_value": 6, "hyp_value": 6, "ref_surface": "छह", "hyp_surface": "6", "ref_ordinal": 0}
+{"source_id": "gramvaani-0020", "kind": "correct", "ref_value": 5, "hyp_value": 5, "ref_surface": "पाँच", "hyp_surface": "5", "ref_ordinal": 0}
+{"source_id": "gramvaani-0043", "kind": "correct", "ref_value": 6100000, "hyp_value": 6100000, "ref_surface": "इकसठ लाख", "hyp_surface": "61 लाख", "ref_ordinal": 0}
+{"source_id": "gramvaani-0062", "kind": "correct", "ref_value": 18, "hyp_value": 18, "ref_surface": "अठारह", "hyp_surface": "18", "ref_ordinal": 0}
+{"source_id": "gramvaani-0079", "kind": "correct", "ref_value": 3, "hyp_value": 3, "ref_surface": "तीन", "hyp_surface": "3", "ref_ordinal": 0}
+{"source_id": "gramvaani-0079", "kind": "correct", "ref_value": 2, "hyp_value": 2, "ref_surface": "दो", "hyp_surface": "2", "ref_ordinal": 1}
+{"source_id": "gramvaani-0089", "kind": "correct", "ref_value": 39702, "hyp_value": 39702, "ref_surface": "उनचालीस हज़ार सात सौ दो", "hyp_surface": "39702", "ref_ordinal": 0}
+{"source_id": "gramvaani-0090", "kind": "correct", "ref_value": 1, "hyp_value": 1, "ref_surface": "एक", "hyp_surface": "एक", "ref_ordinal": 0}
+{"source_id": "gramvaani-0090", "kind": "correct", "ref_value": 1, "hyp_value": 1, "ref_surface": "एक", "hyp_surface": "एक", "ref_ordinal": 1}
+{"source_id": "gramvaani-0091", "kind": "extra_in_hypothesis", "ref_value": null, "hyp_value": 1, "ref_surface": null, "hyp_surface": "एक", "ref_ordinal": null}
+{"source_id": "gramvaani-0091", "kind": "correct", "ref_value": 1, "hyp_value": 1, "ref_surface": "एक", "hyp_surface": "एक", "ref_ordinal": 0}
+{"source_id": "gramvaani-0134", "kind": "correct", "ref_value": 6, "hyp_value": 6, "ref_surface": "छे", "hyp_surface": "6", "ref_ordinal": 0}
+{"source_id": "gramvaani-0134", "kind": "correct", "ref_value": 16, "hyp_value": 16, "ref_surface": "सोलह", "hyp_surface": "16", "ref_ordinal": 1}
+{"source_id": "gramvaani-0134", "kind": "correct", "ref_value": 2017, "hyp_value": 2017, "ref_surface": "दो हजार सत्रह", "hyp_surface": "2017", "ref_ordinal": 2}
+{"source_id": "gramvaani-0134", "kind": "correct", "ref_value": 2, "hyp_value": 2, "ref_surface": "दो", "hyp_surface": "2", "ref_ordinal": 3}
+{"source_id": "gramvaani-0150", "kind": "correct", "ref_value": 59000, "hyp_value": 59000, "ref_surface": "उनसठ हज़ार", "hyp_surface": "59,000", "ref_ordinal": 0}
+{"source_id": "gramvaani-0158", "kind": "correct", "ref_value": 422, "hyp_value": 422, "ref_surface": "चार सौ बाईस", "hyp_surface": "422", "ref_ordinal": 0}
+{"source_id": "gramvaani-0158", "kind": "extra_in_hypothesis", "ref_value": null, "hyp_value": 7, "ref_surface": null, "hyp_surface": "7", "ref_ordinal": null}
+{"source_id": "gramvaani-0170", "kind": "correct", "ref_value": 100000, "hyp_value": 100000, "ref_surface": "एक लाख", "hyp_surface": "1,00,000", "ref_ordinal": 0}
+{"source_id": "gramvaani-0170", "kind": "correct", "ref_value": 100000, "hyp_value": 100000, "ref_surface": "एक लाख", "hyp_surface": "100000", "ref_ordinal": 1}
+{"source_id": "gramvaani-0173", "kind": "correct", "ref_value": 13, "hyp_value": 13, "ref_surface": "तेरह", "hyp_surface": "13", "ref_ordinal": 0}
+{"source_id": "gramvaani-0173", "kind": "correct", "ref_value": 13, "hyp_value": 13, "ref_surface": "तेरह", "hyp_surface": "13", "ref_ordinal": 1}
+{"source_id": "gramvaani-0194", "kind": "deleted_by_hypothesis", "ref_value": 60, "hyp_value": null, "ref_surface": "साठ", "hyp_surface": null, "ref_ordinal": 0}
+{"source_id": "gramvaani-0194", "kind": "corrupted", "ref_value": 70, "hyp_value": 6070, "ref_surface": "सत्तर", "hyp_surface": "6070", "ref_ordinal": 1}
+{"source_id": "gramvaani-0198", "kind": "correct", "ref_value": 2009, "hyp_value": 2009, "ref_surface": "दो हज़ार नौ", "hyp_surface": "2009", "ref_ordinal": 0}
+{"source_id": "gramvaani-0204", "kind": "correct", "ref_value": 2, "hyp_value": 2, "ref_surface": "दो", "hyp_surface": "2", "ref_ordinal": 0}
+{"source_id": "gramvaani-0204", "kind": "correct", "ref_value": 1, "hyp_value": 1, "ref_surface": "एक", "hyp_surface": "एक", "ref_ordinal": 1}
+{"source_id": "gramvaani-0204", "kind": "correct", "ref_value": 1, "hyp_value": 1, "ref_surface": "एक", "hyp_surface": "एक", "ref_ordinal": 2}
+{"source_id": "gramvaani-0213", "kind": "correct", "ref_value": 24, "hyp_value": 24, "ref_surface": "चौबीस", "hyp_surface": "24", "ref_ordinal": 0}
+{"source_id": "gramvaani-0213", "kind": "correct", "ref_value": 8, "hyp_value": 8, "ref_surface": "आठ", "hyp_surface": "8", "ref_ordinal": 1}
+{"source_id": "gramvaani-0213", "kind": "correct", "ref_value": 12, "hyp_value": 12, "ref_surface": "बारह", "hyp_surface": "12", "ref_ordinal": 2}
+{"source_id": "gramvaani-0222", "kind": "correct", "ref_value": 300000, "hyp_value": 300000, "ref_surface": "तीन लाख", "hyp_surface": "3 लाख", "ref_ordinal": 0}
+{"source_id": "gramvaani-0236", "kind": "correct", "ref_value": 2019, "hyp_value": 2019, "ref_surface": "दो हजार उन्नीस", "hyp_surface": "2019", "ref_ordinal": 0}
+{"source_id": "gramvaani-0236", "kind": "correct", "ref_value": 2018, "hyp_value": 2018, "ref_surface": "दो हजार अठारह", "hyp_surface": "2018", "ref_ordinal": 1}
+{"source_id": "gramvaani-0250", "kind": "correct", "ref_value": 260, "hyp_value": 260, "ref_surface": "दो सौ साठ", "hyp_surface": "260", "ref_ordinal": 0}
+{"source_id": "gramvaani-0250", "kind": "correct", "ref_value": 40, "hyp_value": 40, "ref_surface": "चालीस", "hyp_surface": "40", "ref_ordinal": 1}
+{"source_id": "gramvaani-0250", "kind": "correct", "ref_value": 31, "hyp_value": 31, "ref_surface": "इकतीस", "hyp_surface": "31", "ref_ordinal": 2}
+{"source_id": "gramvaani-0250", "kind": "correct", "ref_value": 260, "hyp_value": 260, "ref_surface": "दो सौ साठ", "hyp_surface": "260", "ref_ordinal": 3}
+{"source_id": "gramvaani-0250", "kind": "correct", "ref_value": 106, "hyp_value": 106, "ref_surface": "एक सौ छह", "hyp_surface": "106", "ref_ordinal": 4}
+{"source_id": "gramvaani-0251", "kind": "correct", "ref_value": 20, "hyp_value": 20, "ref_surface": "बीस", "hyp_surface": "20", "ref_ordinal": 0}
+{"source_id": "gramvaani-0251", "kind": "correct", "ref_value": 20, "hyp_value": 20, "ref_surface": "बीस", "hyp_surface": "20", "ref_ordinal": 1}
+{"source_id": "gramvaani-0260", "kind": "correct", "ref_value": 22, "hyp_value": 22, "ref_surface": "बाईस", "hyp_surface": "22", "ref_ordinal": 0}
+{"source_id": "gramvaani-0260", "kind": "corrupted", "ref_value": 4, "hyp_value": 6, "ref_surface": "चार", "hyp_surface": "6", "ref_ordinal": 1}
+{"source_id": "gramvaani-0260", "kind": "correct", "ref_value": 1250, "hyp_value": 1250, "ref_surface": "बारह सौ पचास", "hyp_surface": "1250", "ref_ordinal": 2}
+{"source_id": "gramvaani-0297", "kind": "correct", "ref_value": 200, "hyp_value": 200, "ref_surface": "दो सौ", "hyp_surface": "200", "ref_ordinal": 0}
+{"source_id": "gramvaani-0305", "kind": "extra_in_hypothesis", "ref_value": null, "hyp_value": 43, "ref_surface": null, "hyp_surface": "43", "ref_ordinal": null}
+{"source_id": "gramvaani-0313", "kind": "deleted_by_hypothesis", "ref_value": 1, "hyp_value": null, "ref_surface": "एक", "hyp_surface": null, "ref_ordinal": 0}
+{"source_id": "gramvaani-0325", "kind": "correct", "ref_value": 1500, "hyp_value": 1500, "ref_surface": "पन्द्रह सौ", "hyp_surface": "1500", "ref_ordinal": 0}
+{"source_id": "gramvaani-0325", "kind": "correct", "ref_value": 2250, "hyp_value": 2250, "ref_surface": "बाईस सौ सौ पचास", "hyp_surface": "2250", "ref_ordinal": 1}
+{"source_id": "gramvaani-0325", "kind": "extra_in_hypothesis", "ref_value": null, "hyp_value": 5, "ref_surface": null, "hyp_surface": "5", "ref_ordinal": null}
+{"source_id": "gramvaani-0337", "kind": "deleted_by_hypothesis", "ref_value": 1, "hyp_value": null, "ref_surface": "एक", "hyp_surface": null, "ref_ordinal": 0}
+{"source_id": "gramvaani-0337", "kind": "correct", "ref_value": 150, "hyp_value": 150, "ref_surface": "डेढ़ सौ", "hyp_surface": "150", "ref_ordinal": 1}
+{"source_id": "gramvaani-0337", "kind": "correct", "ref_value": 1, "hyp_value": 1, "ref_surface": "एक", "hyp_surface": "1", "ref_ordinal": 2}
+{"source_id": "gramvaani-0337", "kind": "correct", "ref_value": 52, "hyp_value": 52, "ref_surface": "बावन", "hyp_surface": "52", "ref_ordinal": 3}
+{"source_id": "gramvaani-0337", "kind": "correct", "ref_value": 7800, "hyp_value": 7800, "ref_surface": "सात हज़ार आठ सौ", "hyp_surface": "7800", "ref_ordinal": 4}
+{"source_id": "gramvaani-0337", "kind": "correct", "ref_value": 1, "hyp_value": 1, "ref_surface": "एक", "hyp_surface": "1", "ref_ordinal": 5}
+{"source_id": "gramvaani-0353", "kind": "correct", "ref_value": 1, "hyp_value": 1, "ref_surface": "एक", "hyp_surface": "एक", "ref_ordinal": 0}
+{"source_id": "gramvaani-0373", "kind": "correct", "ref_value": 2, "hyp_value": 2, "ref_surface": "दो", "hyp_surface": "2", "ref_ordinal": 0}
+{"source_id": "gramvaani-0378", "kind": "correct", "ref_value": 150, "hyp_value": 150, "ref_surface": "डेढ़ सौ", "hyp_surface": "150", "ref_ordinal": 0}
+{"source_id": "gramvaani-0385", "kind": "corrupted", "ref_value": 4, "hyp_value": 6, "ref_surface": "चार", "hyp_surface": "6", "ref_ordinal": 0}
+{"source_id": "gramvaani-0385", "kind": "correct", "ref_value": 16, "hyp_value": 16, "ref_surface": "सोलह", "hyp_surface": "16", "ref_ordinal": 1}
+{"source_id": "gramvaani-0390", "kind": "correct", "ref_value": 25, "hyp_value": 25, "ref_surface": "पचीस", "hyp_surface": "25", "ref_ordinal": 0}
+{"source_id": "gramvaani-0401", "kind": "deleted_by_hypothesis", "ref_value": 101, "hyp_value": null, "ref_surface": "एक सौ एक", "hyp_surface": null, "ref_ordinal": 0}
+{"source_id": "gramvaani-0406", "kind": "correct", "ref_value": 1, "hyp_value": 1, "ref_surface": "एक", "hyp_surface": "एक", "ref_ordinal": 0}
+{"source_id": "gramvaani-0406", "kind": "correct", "ref_value": 12, "hyp_value": 12, "ref_surface": "बारह", "hyp_surface": "12", "ref_ordinal": 1}
+{"source_id": "gramvaani-0422", "kind": "correct", "ref_value": 1, "hyp_value": 1, "ref_surface": "एक", "hyp_surface": "एक", "ref_ordinal": 0}
+{"source_id": "gramvaani-0555", "kind": "extra_in_hypothesis", "ref_value": null, "hyp_value": 100, "ref_surface": null, "hyp_surface": "100", "ref_ordinal": null}
+{"source_id": "gramvaani-0568", "kind": "correct", "ref_value": 1, "hyp_value": 1, "ref_surface": "एक", "hyp_surface": "एक", "ref_ordinal": 0}
+{"source_id": "gramvaani-0613", "kind": "correct", "ref_value": 10, "hyp_value": 10, "ref_surface": "दस", "hyp_surface": "10", "ref_ordinal": 0}
+{"source_id": "gramvaani-0613", "kind": "correct", "ref_value": 4, "hyp_value": 4, "ref_surface": "चार", "hyp_surface": "4", "ref_ordinal": 1}
+{"source_id": "gramvaani-0615", "kind": "deleted_by_hypothesis", "ref_value": 7, "hyp_value": null, "ref_surface": "सात", "hyp_surface": null, "ref_ordinal": 0}
+{"source_id": "gramvaani-0615", "kind": "correct", "ref_value": 3, "hyp_value": 3, "ref_surface": "तीन", "hyp_surface": "3", "ref_ordinal": 1}
+{"source_id": "gramvaani-0639", "kind": "extra_in_hypothesis", "ref_value": null, "hyp_value": 6, "ref_surface": null, "hyp_surface": "6", "ref_ordinal": null}
+{"source_id": "gramvaani-0639", "kind": "extra_in_hypothesis", "ref_value": null, "hyp_value": 7, "ref_surface": null, "hyp_surface": "7", "ref_ordinal": null}
+{"source_id": "gramvaani-0643", "kind": "extra_in_hypothesis", "ref_value": null, "hyp_value": 2, "ref_surface": null, "hyp_surface": "2", "ref_ordinal": null}
+{"source_id": "gramvaani-0667", "kind": "extra_in_hypothesis", "ref_value": null, "hyp_value": 2, "ref_surface": null, "hyp_surface": "2", "ref_ordinal": null}
+{"source_id": "gramvaani-0667", "kind": "corrupted", "ref_value": 25000000, "hyp_value": 10000000, "ref_surface": "ढ़ाई करोड़", "hyp_surface": "करोड़", "ref_ordinal": 0}
+{"source_id": "gramvaani-0695", "kind": "correct", "ref_value": 26, "hyp_value": 26, "ref_surface": "छब्बीस", "hyp_surface": "26", "ref_ordinal": 0}
+{"source_id": "gramvaani-0699", "kind": "extra_in_hypothesis", "ref_value": null, "hyp_value": 22, "ref_surface": null, "hyp_surface": "22", "ref_ordinal": null}
+{"source_id": "gramvaani-0699", "kind": "extra_in_hypothesis", "ref_value": null, "hyp_value": 2, "ref_surface": null, "hyp_surface": "2", "ref_ordinal": null}
+{"source_id": "gramvaani-0701", "kind": "correct", "ref_value": 1, "hyp_value": 1, "ref_surface": "एक", "hyp_surface": "एक", "ref_ordinal": 0}
+{"source_id": "gramvaani-0719", "kind": "correct", "ref_value": 5, "hyp_value": 5, "ref_surface": "पाँच", "hyp_surface": "5", "ref_ordinal": 0}
+{"source_id": "gramvaani-0719", "kind": "correct", "ref_value": 2016, "hyp_value": 2016, "ref_surface": "दो हजार सोलह", "hyp_surface": "2016", "ref_ordinal": 1}
+{"source_id": "gramvaani-0723", "kind": "extra_in_hypothesis", "ref_value": null, "hyp_value": 15, "ref_surface": null, "hyp_surface": "15", "ref_ordinal": null}
+{"source_id": "gramvaani-0740", "kind": "correct", "ref_value": 21, "hyp_value": 21, "ref_surface": "इक्कीस", "hyp_surface": "21", "ref_ordinal": 0}
+{"source_id": "gramvaani-0740", "kind": "correct", "ref_value": 96, "hyp_value": 96, "ref_surface": "छियानवे", "hyp_surface": "96", "ref_ordinal": 1}
+{"source_id": "gramvaani-0758", "kind": "correct", "ref_value": 1, "hyp_value": 1, "ref_surface": "एक", "hyp_surface": "एक", "ref_ordinal": 0}
+{"source_id": "gramvaani-0758", "kind": "correct", "ref_value": 1, "hyp_value": 1, "ref_surface": "एक", "hyp_surface": "एक", "ref_ordinal": 1}
+{"source_id": "gramvaani-0758", "kind": "correct", "ref_value": 2019, "hyp_value": 2019, "ref_surface": "दो हजार उन्नीस", "hyp_surface": "2019", "ref_ordinal": 2}
+{"source_id": "gramvaani-0820", "kind": "correct", "ref_value": 20, "hyp_value": 20, "ref_surface": "बीस", "hyp_surface": "20", "ref_ordinal": 0}
+{"source_id": "gramvaani-0825", "kind": "corrupted", "ref_value": 46, "hyp_value": 40, "ref_surface": "छियालीस", "hyp_surface": "40", "ref_ordinal": 0}
+{"source_id": "gramvaani-0828", "kind": "correct", "ref_value": 7, "hyp_value": 7, "ref_surface": "सात", "hyp_surface": "7", "ref_ordinal": 0}
+{"source_id": "gramvaani-0828", "kind": "correct", "ref_value": 26, "hyp_value": 26, "ref_surface": "छब्बीस", "hyp_surface": "26", "ref_ordinal": 1}
+{"source_id": "gramvaani-0830", "kind": "extra_in_hypothesis", "ref_value": null, "hyp_value": 25, "ref_surface": null, "hyp_surface": "25", "ref_ordinal": null}
+{"source_id": "gramvaani-0830", "kind": "correct", "ref_value": 5, "hyp_value": 5, "ref_surface": "पांच", "hyp_surface": "5", "ref_ordinal": 0}
+{"source_id": "gramvaani-0833", "kind": "correct", "ref_value": 2003, "hyp_value": 2003, "ref_surface": "दो हज़ार तीन", "hyp_surface": "2003", "ref_ordinal": 0}
+{"source_id": "gramvaani-0833", "kind": "correct", "ref_value": 2009, "hyp_value": 2009, "ref_surface": "दो हज़ार नौ", "hyp_surface": "2009", "ref_ordinal": 1}
+{"source_id": "gramvaani-0833", "kind": "corrupted", "ref_value": 600000, "hyp_value": 600061, "ref_surface": "छह लाख", "hyp_surface": "6 लाख 61", "ref_ordinal": 2}
+{"source_id": "gramvaani-0842", "kind": "extra_in_hypothesis", "ref_value": null, "hyp_value": 7, "ref_surface": null, "hyp_surface": "7", "ref_ordinal": null}
+{"source_id": "gramvaani-0861", "kind": "correct", "ref_value": 8, "hyp_value": 8, "ref_surface": "आठ", "hyp_surface": "8", "ref_ordinal": 0}
+{"source_id": "gramvaani-0861", "kind": "deleted_by_hypothesis", "ref_value": 40, "hyp_value": null, "ref_surface": "चालीस", "hyp_surface": null, "ref_ordinal": 1}
+{"source_id": "gramvaani-0861", "kind": "correct", "ref_value": 300, "hyp_value": 300, "ref_surface": "तीन सौ", "hyp_surface": "300", "ref_ordinal": 2}
+{"source_id": "gramvaani-0887", "kind": "correct", "ref_value": 2, "hyp_value": 2, "ref_surface": "दो", "hyp_surface": "2", "ref_ordinal": 0}
+{"source_id": "gramvaani-0887", "kind": "corrupted", "ref_value": 4, "hyp_value": 6, "ref_surface": "चार", "hyp_surface": "6", "ref_ordinal": 1}
+{"source_id": "gramvaani-0895", "kind": "correct", "ref_value": 4, "hyp_value": 4, "ref_surface": "चार", "hyp_surface": "4", "ref_ordinal": 0}
+{"source_id": "gramvaani-0895", "kind": "correct", "ref_value": 37, "hyp_value": 37, "ref_surface": "सैंतीस", "hyp_surface": "37", "ref_ordinal": 1}
+{"source_id": "gramvaani-0910", "kind": "corrupted", "ref_value": 20, "hyp_value": 20000, "ref_surface": "बीस", "hyp_surface": "20,000", "ref_ordinal": 0}
+{"source_id": "gramvaani-0920", "kind": "correct", "ref_value": 1, "hyp_value": 1, "ref_surface": "एक", "hyp_surface": "एक", "ref_ordinal": 0}
+{"source_id": "gramvaani-0928", "kind": "extra_in_hypothesis", "ref_value": null, "hyp_value": 3, "ref_surface": null, "hyp_surface": "3", "ref_ordinal": null}
+{"source_id": "gramvaani-0929", "kind": "correct", "ref_value": 1, "hyp_value": 1, "ref_surface": "एक", "hyp_surface": "एक", "ref_ordinal": 0}
+{"source_id": "gramvaani-0929", "kind": "correct", "ref_value": 1, "hyp_value": 1, "ref_surface": "एक", "hyp_surface": "एक", "ref_ordinal": 1}
+{"source_id": "gramvaani-0931", "kind": "correct", "ref_value": 10, "hyp_value": 10, "ref_surface": "दस", "hyp_surface": "10", "ref_ordinal": 0}
+{"source_id": "gramvaani-0938", "kind": "correct", "ref_value": 11, "hyp_value": 11, "ref_surface": "ग्यारह", "hyp_surface": "11", "ref_ordinal": 0}
+{"source_id": "gramvaani-0938", "kind": "correct", "ref_value": 3, "hyp_value": 3, "ref_surface": "तीन", "hyp_surface": "3", "ref_ordinal": 1}
+{"source_id": "gramvaani-0965", "kind": "extra_in_hypothesis", "ref_value": null, "hyp_value": 1, "ref_surface": null, "hyp_surface": "एक", "ref_ordinal": null}
+{"source_id": "gramvaani-0976", "kind": "correct", "ref_value": 1, "hyp_value": 1, "ref_surface": "एक", "hyp_surface": "एक", "ref_ordinal": 0}
+{"source_id": "gramvaani-1005", "kind": "corrupted", "ref_value": 4, "hyp_value": 6, "ref_surface": "चार", "hyp_surface": "6", "ref_ordinal": 0}
+{"source_id": "gramvaani-1012", "kind": "corrupted", "ref_value": 418, "hyp_value": 618, "ref_surface": "चार सौ अठारह", "hyp_surface": "618", "ref_ordinal": 0}
+{"source_id": "gramvaani-1012", "kind": "correct", "ref_value": 422, "hyp_value": 422, "ref_surface": "चार सौ बाईस", "hyp_surface": "422", "ref_ordinal": 1}
+{"source_id": "gramvaani-1012", "kind": "correct", "ref_value": 35, "hyp_value": 35, "ref_surface": "पैंतीस", "hyp_surface": "35", "ref_ordinal": 2}
+{"source_id": "gramvaani-1012", "kind": "correct", "ref_value": 10, "hyp_value": 10, "ref_surface": "दस", "hyp_surface": "10", "ref_ordinal": 3}

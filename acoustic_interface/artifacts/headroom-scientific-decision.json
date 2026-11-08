@@ -1,0 +1,50 @@
+{
+  "decision": "historical text QA sanity control first",
+  "fresh_test": "sealed",
+  "broad_training": "held",
+  "independent_counts_per24": {
+    "A": 4,
+    "B": 6,
+    "C": 14,
+    "D": 5
+  },
+  "independent_B_to_C": {
+    "rescues": 9,
+    "regressions": 1,
+    "D_recovers": 2
+  },
+  "primary_counts": [
+    4,
+    7,
+    14,
+    5
+  ],
+  "strict_counts": [
+    4,
+    4,
+    10,
+    3
+  ],
+  "normalized_em_counts": [
+    4,
+    4,
+    8,
+    3
+  ],
+  "next_control": "minimally edited answer-changing publisher passage pairs; frozen-Qwen original/counterfactual candidate likelihood under both passages",
+  "sources": 10,
+  "forward_scores": 40,
+  "primary_metric": "strict preference switches correctly on both passages per source",
+  "threshold": "at least8/10 permits planning historical acoustic recoverability probe; otherwise stop acoustic escalation",
+  "reservation_estimate_usd": 1,
+  "gpu_launched": false,
+  "decision_markdown_sha256": "46f06773c7d7de5abfdea5ff65096798f8d45c7d33cb494ec5248986ff347963",
+  "evidence_hashes": {
+    "artifacts/headroom-validation.json": "24e4854e3422940931e309bf6a20d9b2f935f0f1d84363415a85e09e0dce3e87",
+    "artifacts/headroom-freeze-v1.json": "17567caa203e83d2970f82fafab7cadad619b0d87f7fff47adc0edee9de1d114",
+    "artifacts/headroom-analysis.json": "b0d9e9814bd5f10931dbc61a7dba9f189c04fa4c618e4c9dacc8cc7ce85b9ac3",
+    "artifacts/headroom-analysis-strict.json": "03b6ddbc89b089a8089adbd57820fed37a8ad98139eb8ccdad3c25999336e430",
+    "artifacts/headroom-analysis-independent.json": "03d7a9b677fcc19bdd319fdc11457b5405fa0165754619d9d06d2a4903d5aac9",
+    "artifacts/headroom-review/independent-review.md": "989272758520a1426d4f9815e87c3e959f287a58c727e32f33edddeb390c100e"
+  }
+}

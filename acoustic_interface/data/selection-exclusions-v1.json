@@ -1,0 +1,2827 @@
+{
+  "historical_groups": [
+    {
+      "id": 1660,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 209,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/18105264127277992595.wav",
+          "normalized_transcript_sha256": "63b9a949b542dc04b091f52707e1f0167e1a9ec4acf8f8b995905cef566e4260"
+        },
+        {
+          "row_index": 385,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/8519217485555814153.wav",
+          "normalized_transcript_sha256": "63b9a949b542dc04b091f52707e1f0167e1a9ec4acf8f8b995905cef566e4260"
+        }
+      ]
+    },
+    {
+      "id": 1669,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 37,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/11384310733046890772.wav",
+          "normalized_transcript_sha256": "bcc7c6ef50df10726d6001660bf95ec00cc53431b08634e994a81b916be334ac"
+        },
+        {
+          "row_index": 208,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/18086279104706512403.wav",
+          "normalized_transcript_sha256": "bcc7c6ef50df10726d6001660bf95ec00cc53431b08634e994a81b916be334ac"
+        }
+      ]
+    },
+    {
+      "id": 1670,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 235,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/2588226543601176326.wav",
+          "normalized_transcript_sha256": "e3f90339c0bca40fb89c8c6d9fcec6192b6622aace1e80b19894ba6c345f9e6d"
+        }
+      ]
+    },
+    {
+      "id": 1676,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 296,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/494043310014297040.wav",
+          "normalized_transcript_sha256": "56216df567688c891643a15a8a3c97da68564c1dfcd2ca3dbb72111043aaba44"
+        }
+      ]
+    },
+    {
+      "id": 1677,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 179,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/17127945247681772175.wav",
+          "normalized_transcript_sha256": "9355420b01849620ec5413daee4000a6507fd6209161f9ab601e2e20398c7f7b"
+        },
+        {
+          "row_index": 392,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/8830093559754179628.wav",
+          "normalized_transcript_sha256": "9355420b01849620ec5413daee4000a6507fd6209161f9ab601e2e20398c7f7b"
+        }
+      ]
+    },
+    {
+      "id": 1678,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 220,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/1911894352301811711.wav",
+          "normalized_transcript_sha256": "f9a799203f091f37c80b10ba17bd5344fb48867f63aba8b94549267c599b8e29"
+        }
+      ]
+    },
+    {
+      "id": 1680,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 14,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/10582204498174558997.wav",
+          "normalized_transcript_sha256": "ecb1c9ec52a6bfa5b9691c5e293f626f6e4eab0c0a4126a22afd3b5653a5bfa7"
+        }
+      ]
+    },
+    {
+      "id": 1684,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 375,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/8152842849716801870.wav",
+          "normalized_transcript_sha256": "4c4fde04b90dbf78d3bc68dbd46e4a70210a76c1346ed70b20ff54bb3bba3eab"
+        },
+        {
+          "row_index": 402,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/9471934202997676528.wav",
+          "normalized_transcript_sha256": "4c4fde04b90dbf78d3bc68dbd46e4a70210a76c1346ed70b20ff54bb3bba3eab"
+        }
+      ]
+    },
+    {
+      "id": 1689,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 56,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/11896886729303076576.wav",
+          "normalized_transcript_sha256": "b566a5d05c6b981401db777ea74ba4e70073024388f9b4b6ef15bdcd34c5452c"
+        },
+        {
+          "row_index": 205,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/17911076671845617007.wav",
+          "normalized_transcript_sha256": "b566a5d05c6b981401db777ea74ba4e70073024388f9b4b6ef15bdcd34c5452c"
+        },
+        {
+          "row_index": 285,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/463214923831693405.wav",
+          "normalized_transcript_sha256": "b566a5d05c6b981401db777ea74ba4e70073024388f9b4b6ef15bdcd34c5452c"
+        }
+      ]
+    },
+    {
+      "id": 1691,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 150,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/16023848298545811900.wav",
+          "normalized_transcript_sha256": "f86fe1906050d0960ea96f13e81ebff689338aab060ffbd3b72dac8e0dc142c7"
+        },
+        {
+          "row_index": 292,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/4854070935410518773.wav",
+          "normalized_transcript_sha256": "f86fe1906050d0960ea96f13e81ebff689338aab060ffbd3b72dac8e0dc142c7"
+        },
+        {
+          "row_index": 295,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/4908398599945668748.wav",
+          "normalized_transcript_sha256": "f86fe1906050d0960ea96f13e81ebff689338aab060ffbd3b72dac8e0dc142c7"
+        }
+      ]
+    },
+    {
+      "id": 1700,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 272,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/4237224709680026844.wav",
+          "normalized_transcript_sha256": "6e78d006c0cc1cd2dd9ac5d9cef4af1da47334afd8c7c76607388e2ecdd9fd53"
+        },
+        {
+          "row_index": 337,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/6314633531195825644.wav",
+          "normalized_transcript_sha256": "6e78d006c0cc1cd2dd9ac5d9cef4af1da47334afd8c7c76607388e2ecdd9fd53"
+        },
+        {
+          "row_index": 350,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/6807516166849598764.wav",
+          "normalized_transcript_sha256": "6e78d006c0cc1cd2dd9ac5d9cef4af1da47334afd8c7c76607388e2ecdd9fd53"
+        }
+      ]
+    },
+    {
+      "id": 1702,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 11,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/10291152526359423424.wav",
+          "normalized_transcript_sha256": "dd94c746ed94cdb74f253569809c9b0367bc0f290f44ccc112c1c78263060bf9"
+        },
+        {
+          "row_index": 29,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/11063307654961399321.wav",
+          "normalized_transcript_sha256": "dd94c746ed94cdb74f253569809c9b0367bc0f290f44ccc112c1c78263060bf9"
+        }
+      ]
+    },
+    {
+      "id": 1708,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 355,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/6933725680992369743.wav",
+          "normalized_transcript_sha256": "52f8506d7209a6fa1f457e21462d10fa23a36ac8358a033f3fc1a3139d2dd02a"
+        }
+      ]
+    },
+    {
+      "id": 1710,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 201,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/17801704925148647494.wav",
+          "normalized_transcript_sha256": "faaf35df33a06a12c5a996dad4017e6d1b09177eafbdb0b2da5f9ebbd963c7c8"
+        },
+        {
+          "row_index": 411,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/9838259495032080980.wav",
+          "normalized_transcript_sha256": "faaf35df33a06a12c5a996dad4017e6d1b09177eafbdb0b2da5f9ebbd963c7c8"
+        }
+      ]
+    },
+    {
+      "id": 1711,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 245,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/2954574399373429298.wav",
+          "normalized_transcript_sha256": "3214770e3a0179cd0f6d962465450688009073b58d61103d98407b3dc7dcbdca"
+        },
+        {
+          "row_index": 274,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/427341939470870414.wav",
+          "normalized_transcript_sha256": "3214770e3a0179cd0f6d962465450688009073b58d61103d98407b3dc7dcbdca"
+        }
+      ]
+    },
+    {
+      "id": 1712,
+      "old_split": "dev",
+      "records": [
+        {
+          "row_index": 112,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/14105356023145157076.wav",
+          "normalized_transcript_sha256": "7dce3957124f153101b188cd4c6fb6ded65c1ed4b629e8ce28d58a6ef3427e3c"
+        },
+        {
+          "row_index": 380,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/834255654721637854.wav",
+          "normalized_transcript_sha256": "7dce3957124f153101b188cd4c6fb6ded65c1ed4b629e8ce28d58a6ef3427e3c"
+        }
+      ]
+    },
+    {
+      "id": 1716,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 215,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/18245634017773510582.wav",
+          "normalized_transcript_sha256": "d4ac4eefc03cb24d4e354dd2fc80f0a35e3e78e8409fce602df332904ac9c2ed"
+        }
+      ]
+    },
+    {
+      "id": 1720,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 19,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/1078154098564425938.wav",
+          "normalized_transcript_sha256": "a7a26394d1e75ad9085535507b188000491f082d2e939e7764fa0f8f1e3c0982"
+        }
+      ]
+    },
+    {
+      "id": 1721,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 34,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/11299735708347263843.wav",
+          "normalized_transcript_sha256": "ebe2c67c468faaed014c080910f5cd075c43d3146a6a1202d78e6b3cdccf926d"
+        },
+        {
+          "row_index": 124,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/14793234393688530328.wav",
+          "normalized_transcript_sha256": "ebe2c67c468faaed014c080910f5cd075c43d3146a6a1202d78e6b3cdccf926d"
+        },
+        {
+          "row_index": 156,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/16422572156854030189.wav",
+          "normalized_transcript_sha256": "ebe2c67c468faaed014c080910f5cd075c43d3146a6a1202d78e6b3cdccf926d"
+        }
+      ]
+    },
+    {
+      "id": 1722,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 250,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/3325356868069084751.wav",
+          "normalized_transcript_sha256": "49fdc004de8a2ff1f770ee8c0f24ddfbbc53c1093b09250169568308c5097583"
+        },
+        {
+          "row_index": 260,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/3624137600069882012.wav",
+          "normalized_transcript_sha256": "49fdc004de8a2ff1f770ee8c0f24ddfbbc53c1093b09250169568308c5097583"
+        }
+      ]
+    },
+    {
+      "id": 1723,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 95,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/13327907168028106279.wav",
+          "normalized_transcript_sha256": "ebe907459cd04119af4e67a45e8ed58b3e431442f78abcda65be0c42100d2a67"
+        }
+      ]
+    },
+    {
+      "id": 1724,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 238,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/2721526147232986835.wav",
+          "normalized_transcript_sha256": "5f15e970695c8c5c04f42d1c20579f6e61bfd8390469cefc0ef30417860504c4"
+        }
+      ]
+    },
+    {
+      "id": 1729,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 244,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/2828193963807168217.wav",
+          "normalized_transcript_sha256": "d1c5754d2719d27f951dbc3aed70c4bda966fa67838d5073e892eed1ec44c075"
+        },
+        {
+          "row_index": 317,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/5653204919562540209.wav",
+          "normalized_transcript_sha256": "d1c5754d2719d27f951dbc3aed70c4bda966fa67838d5073e892eed1ec44c075"
+        }
+      ]
+    },
+    {
+      "id": 1730,
+      "old_split": "dev",
+      "records": [
+        {
+          "row_index": 397,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/9071092279919078633.wav",
+          "normalized_transcript_sha256": "9fd437c74818a152396492bffa3ec71a86e93692f902e15c5a4dccf18ecaead5"
+        }
+      ]
+    },
+    {
+      "id": 1734,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 137,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/15393261377731668660.wav",
+          "normalized_transcript_sha256": "e9e20a4f03db5251d3bf05721bc82a1bc42e5c3fba9f79a796764c92af7a0d16"
+        },
+        {
+          "row_index": 233,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/2530253162481007097.wav",
+          "normalized_transcript_sha256": "e9e20a4f03db5251d3bf05721bc82a1bc42e5c3fba9f79a796764c92af7a0d16"
+        }
+      ]
+    },
+    {
+      "id": 1736,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 199,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/17757682103941428900.wav",
+          "normalized_transcript_sha256": "b4366d38ef2abb27708b021a5597d81dec3bfc50082e4ba79a8f4a84f8922a14"
+        }
+      ]
+    },
+    {
+      "id": 1737,
+      "old_split": "dev",
+      "records": [
+        {
+          "row_index": 101,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/13717677002215321761.wav",
+          "normalized_transcript_sha256": "cd37bf241603972f00d6c1a78fe877ab8ec2bbdc032c35bfc9b623cfc7aa25f4"
+        },
+        {
+          "row_index": 410,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/9827556117158213708.wav",
+          "normalized_transcript_sha256": "cd37bf241603972f00d6c1a78fe877ab8ec2bbdc032c35bfc9b623cfc7aa25f4"
+        }
+      ]
+    },
+    {
+      "id": 1740,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 328,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/6012737451821984774.wav",
+          "normalized_transcript_sha256": "d04c04671a532d8a48de1e33d1f271f5a6463d7e5f1af1a38ea1e86c6c5e9218"
+        },
+        {
+          "row_index": 345,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/6548337291217688292.wav",
+          "normalized_transcript_sha256": "d04c04671a532d8a48de1e33d1f271f5a6463d7e5f1af1a38ea1e86c6c5e9218"
+        }
+      ]
+    },
+    {
+      "id": 1741,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 114,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/14283252976422276726.wav",
+          "normalized_transcript_sha256": "0433eb835debfb385e49fd791f2551358627c39d09d519d78555bbce91ee15f8"
+        }
+      ]
+    },
+    {
+      "id": 1744,
+      "old_split": "dev",
+      "records": [
+        {
+          "row_index": 353,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/6897433664915122073.wav",
+          "normalized_transcript_sha256": "bdfdb743896257f336d80b6cdc5f02583237e315eb25dec782fa968576744cea"
+        }
+      ]
+    },
+    {
+      "id": 1751,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 339,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/6366339989033236126.wav",
+          "normalized_transcript_sha256": "c535f672c9969d8e48355eb84b15f6b650c1a22105979c2e410dc3b680cd2906"
+        }
+      ]
+    },
+    {
+      "id": 1754,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 165,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/16619231656724994690.wav",
+          "normalized_transcript_sha256": "53959bf2aab28d13f75120f91e0f79283f169c5fb15c1f9bcb6e8fb044c3f60a"
+        },
+        {
+          "row_index": 178,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/17086010151221726696.wav",
+          "normalized_transcript_sha256": "53959bf2aab28d13f75120f91e0f79283f169c5fb15c1f9bcb6e8fb044c3f60a"
+        }
+      ]
+    },
+    {
+      "id": 1757,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 188,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/1728637154424755425.wav",
+          "normalized_transcript_sha256": "08b749cec44637905ed8ec342fa18ea785e21cb44c626a8a3aec2113de1c98bc"
+        }
+      ]
+    },
+    {
+      "id": 1759,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 39,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/1144448424147426456.wav",
+          "normalized_transcript_sha256": "4bdada443a91494cef93039dbcc887df714a59120c47c58b95ea26dacc26969d"
+        }
+      ]
+    },
+    {
+      "id": 1761,
+      "old_split": "dev",
+      "records": [
+        {
+          "row_index": 135,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/15313654381899549036.wav",
+          "normalized_transcript_sha256": "1c5cb703e1e642fb361864dc6710ea453e6d6b690a2d4950d0f779a5963c7056"
+        },
+        {
+          "row_index": 324,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/5804236690028639622.wav",
+          "normalized_transcript_sha256": "1c5cb703e1e642fb361864dc6710ea453e6d6b690a2d4950d0f779a5963c7056"
+        }
+      ]
+    },
+    {
+      "id": 1762,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 185,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/17192853365649646500.wav",
+          "normalized_transcript_sha256": "2c48f3954e10aff746725d30a229d333cfcae0643532b0ce13a52e94ce6d9283"
+        }
+      ]
+    },
+    {
+      "id": 1764,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 249,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/3313037868833670407.wav",
+          "normalized_transcript_sha256": "aba6873d373996cfa9326ac4db7bc2f7729f05e49ba3acb6d243d2b4a1bb9593"
+        }
+      ]
+    },
+    {
+      "id": 1769,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 41,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/11483002217487175688.wav",
+          "normalized_transcript_sha256": "1d3a296c1cf0d6952d4cb0cc62deb6fc0c82a8f793458fc117e15dbf499da28b"
+        },
+        {
+          "row_index": 48,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/1175947104979616570.wav",
+          "normalized_transcript_sha256": "1d3a296c1cf0d6952d4cb0cc62deb6fc0c82a8f793458fc117e15dbf499da28b"
+        }
+      ]
+    },
+    {
+      "id": 1770,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 247,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/3280261134886643047.wav",
+          "normalized_transcript_sha256": "944042776fbc843a42936bbaea845ae30ef76b25afb8ff4cd70b3db28af6cb0b"
+        }
+      ]
+    },
+    {
+      "id": 1773,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 284,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/4589062458112070820.wav",
+          "normalized_transcript_sha256": "0663c2aeb40e8fc24c5f9a110a13a06c787f0decd9745d1f11b34fcbb15e3e67"
+        }
+      ]
+    },
+    {
+      "id": 1776,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 279,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/4379227306928725703.wav",
+          "normalized_transcript_sha256": "9f265ef2c3ab4aee6aab3d8a8a3404118e1383b5f6e782e9ce6cc7905f65e2da"
+        }
+      ]
+    },
+    {
+      "id": 1788,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 96,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/13396464873170769922.wav",
+          "normalized_transcript_sha256": "1ea68a9dde5b46a8c011811c2ddb3cdb87dc8d2f0f923a226e70fabe8980c8f2"
+        },
+        {
+          "row_index": 115,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/14477423167755650345.wav",
+          "normalized_transcript_sha256": "1ea68a9dde5b46a8c011811c2ddb3cdb87dc8d2f0f923a226e70fabe8980c8f2"
+        }
+      ]
+    },
+    {
+      "id": 1789,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 310,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/5436463601286048302.wav",
+          "normalized_transcript_sha256": "76d317e83248f8b32ac756f23d774dd61590874240c7d6378faa01adb6cf1b92"
+        }
+      ]
+    },
+    {
+      "id": 1794,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 329,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/6041398035698108462.wav",
+          "normalized_transcript_sha256": "abe0a8363715e6f53d847a1356fca7754787be1a0bb5e37c58938041f488414c"
+        },
+        {
+          "row_index": 416,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/9912155388950720660.wav",
+          "normalized_transcript_sha256": "abe0a8363715e6f53d847a1356fca7754787be1a0bb5e37c58938041f488414c"
+        }
+      ]
+    },
+    {
+      "id": 1797,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 13,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/10550791631951016124.wav",
+          "normalized_transcript_sha256": "b8ad17b8e566317cb9d4010ea21cd6ca21f02e741887ccb2aa9afa7ecf63a3f8"
+        },
+        {
+          "row_index": 121,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/14689665761817080227.wav",
+          "normalized_transcript_sha256": "b8ad17b8e566317cb9d4010ea21cd6ca21f02e741887ccb2aa9afa7ecf63a3f8"
+        }
+      ]
+    },
+    {
+      "id": 1801,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 43,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/11512325763784312342.wav",
+          "normalized_transcript_sha256": "28b8a429918dd3cb8206de0463b19494f9a45949394bb0c55901bc777288bb1f"
+        }
+      ]
+    },
+    {
+      "id": 1803,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 60,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/12085177491619978764.wav",
+          "normalized_transcript_sha256": "aa13898512ab3bb110639e7da943d25c968dc3c6fa774926e8e0f6cf48b3c09c"
+        },
+        {
+          "row_index": 278,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/436068764837767002.wav",
+          "normalized_transcript_sha256": "aa13898512ab3bb110639e7da943d25c968dc3c6fa774926e8e0f6cf48b3c09c"
+        }
+      ]
+    },
+    {
+      "id": 1806,
+      "old_split": "dev",
+      "records": [
+        {
+          "row_index": 134,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/15310142328491379126.wav",
+          "normalized_transcript_sha256": "37ff735a72f71e3e75b0535a9bdbca2ae9eb1e212bccc17fa3675675a4b82902"
+        },
+        {
+          "row_index": 399,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/9302569386213899016.wav",
+          "normalized_transcript_sha256": "37ff735a72f71e3e75b0535a9bdbca2ae9eb1e212bccc17fa3675675a4b82902"
+        }
+      ]
+    },
+    {
+      "id": 1807,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 24,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/10924000697500767031.wav",
+          "normalized_transcript_sha256": "2f719d15a3519c6e4ac9bc1936ecd85050739be1796b8fe7fd4f586842eb9288"
+        }
+      ]
+    },
+    {
+      "id": 1813,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 323,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/5801543979106966398.wav",
+          "normalized_transcript_sha256": "2ec2d1cdc488ac60b22e323c6a47f15d18aebdfd41acbdefa22b746b1edc493c"
+        }
+      ]
+    },
+    {
+      "id": 1815,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 32,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/11128889587759059641.wav",
+          "normalized_transcript_sha256": "651e183ac799af8b8f05509de3efd79c407c80ab72fff6c8842fee74dacdc1df"
+        }
+      ]
+    },
+    {
+      "id": 1821,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 202,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/17863237178605538274.wav",
+          "normalized_transcript_sha256": "72ebfb06634ff15fe1119f530eb9a3bd9599958e9dc93cd5636866c378629783"
+        },
+        {
+          "row_index": 303,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/5261311438240193874.wav",
+          "normalized_transcript_sha256": "72ebfb06634ff15fe1119f530eb9a3bd9599958e9dc93cd5636866c378629783"
+        }
+      ]
+    },
+    {
+      "id": 1823,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 108,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/13918355105007022779.wav",
+          "normalized_transcript_sha256": "deb0c41b6c31ac7f86e8c6f25b9bbfa14d21a806610c084c75408e7545eccfae"
+        },
+        {
+          "row_index": 173,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/16915285699866995203.wav",
+          "normalized_transcript_sha256": "deb0c41b6c31ac7f86e8c6f25b9bbfa14d21a806610c084c75408e7545eccfae"
+        }
+      ]
+    },
+    {
+      "id": 1826,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 195,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/1765177987567043565.wav",
+          "normalized_transcript_sha256": "93823ebc801b0c1185c28d5a498eb09265da2de841b89a34507381a3856bee5e"
+        }
+      ]
+    },
+    {
+      "id": 1829,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 144,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/15887527988132961426.wav",
+          "normalized_transcript_sha256": "032466bec082e1898a9568026ed314b0e1ee5a062b6de46a70c5a58d210250bf"
+        },
+        {
+          "row_index": 409,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/9805131275579198539.wav",
+          "normalized_transcript_sha256": "032466bec082e1898a9568026ed314b0e1ee5a062b6de46a70c5a58d210250bf"
+        }
+      ]
+    },
+    {
+      "id": 1831,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 223,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/2047809015750138950.wav",
+          "normalized_transcript_sha256": "bc4f370be3c02cb170a051529b07bfcab1dbd9182ec21e6d2a54309acfeda3ac"
+        }
+      ]
+    },
+    {
+      "id": 1835,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 76,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/12512559449321338479.wav",
+          "normalized_transcript_sha256": "b3c3b84282b8b65d2589fdd9c9a2f1fe60cec4da991b48a5248200a54761afc4"
+        }
+      ]
+    },
+    {
+      "id": 1838,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 183,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/17191669298005207755.wav",
+          "normalized_transcript_sha256": "201eecad9f13ff4a8f0cecb46d143f56de5e5f36d60d36ad6ef23302de71d0a1"
+        }
+      ]
+    },
+    {
+      "id": 1839,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 213,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/18194643634199893480.wav",
+          "normalized_transcript_sha256": "400103226015005684c6f52066345e9b91f8f5b5d665c79d12625e3fcd1c4c45"
+        },
+        {
+          "row_index": 359,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/7251883826251297781.wav",
+          "normalized_transcript_sha256": "400103226015005684c6f52066345e9b91f8f5b5d665c79d12625e3fcd1c4c45"
+        }
+      ]
+    },
+    {
+      "id": 1840,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 288,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/4786756809138902466.wav",
+          "normalized_transcript_sha256": "b9560df30e4273e6dc009bceeee154c88666ff896991cd2f3870c0b0c57b48d9"
+        },
+        {
+          "row_index": 352,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/6892699137407228570.wav",
+          "normalized_transcript_sha256": "b9560df30e4273e6dc009bceeee154c88666ff896991cd2f3870c0b0c57b48d9"
+        }
+      ]
+    },
+    {
+      "id": 1844,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 64,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/12150230149527456841.wav",
+          "normalized_transcript_sha256": "c14a7d7a36487a003b32478f69d06ef5b0093c8467ed07623da8392e4820dff9"
+        },
+        {
+          "row_index": 253,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/3417726039347618077.wav",
+          "normalized_transcript_sha256": "c14a7d7a36487a003b32478f69d06ef5b0093c8467ed07623da8392e4820dff9"
+        }
+      ]
+    },
+    {
+      "id": 1847,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 31,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/11099457867420986000.wav",
+          "normalized_transcript_sha256": "ac5b80ecbf77971b344aa27f4946c245816ec670d8cbea73d68ec7b01901890a"
+        },
+        {
+          "row_index": 58,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/12005094579689598791.wav",
+          "normalized_transcript_sha256": "ac5b80ecbf77971b344aa27f4946c245816ec670d8cbea73d68ec7b01901890a"
+        }
+      ]
+    },
+    {
+      "id": 1851,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 293,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/4884624364430157615.wav",
+          "normalized_transcript_sha256": "183bfcc1619693e3ebe13a1ad480f9b78b1c81c7b3fbbd1b842d11b89f74f012"
+        },
+        {
+          "row_index": 417,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/9978005649235188652.wav",
+          "normalized_transcript_sha256": "183bfcc1619693e3ebe13a1ad480f9b78b1c81c7b3fbbd1b842d11b89f74f012"
+        }
+      ]
+    },
+    {
+      "id": 1854,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 262,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/3744028865647257023.wav",
+          "normalized_transcript_sha256": "aa188a186030d996cf472a52de19ab6218c1db1d11a4b0aa6540843dad577061"
+        },
+        {
+          "row_index": 381,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/8388985047806240887.wav",
+          "normalized_transcript_sha256": "aa188a186030d996cf472a52de19ab6218c1db1d11a4b0aa6540843dad577061"
+        }
+      ]
+    },
+    {
+      "id": 1857,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 231,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/2399319275396607849.wav",
+          "normalized_transcript_sha256": "0eb70252b22dc31a39268373150725ba678e9da0269f2c865582b316535cbe29"
+        }
+      ]
+    },
+    {
+      "id": 1861,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 79,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/12756212696346090124.wav",
+          "normalized_transcript_sha256": "07fb930ed9b14e6a6fd60c40855bc5221e931aefb2584733fe0132e7f0d0f3ba"
+        },
+        {
+          "row_index": 242,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/2807534706545512207.wav",
+          "normalized_transcript_sha256": "07fb930ed9b14e6a6fd60c40855bc5221e931aefb2584733fe0132e7f0d0f3ba"
+        }
+      ]
+    },
+    {
+      "id": 1862,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 116,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/1448517607415717366.wav",
+          "normalized_transcript_sha256": "2445b50fdcfe8f203bef72103c836dfad65ba2f9a6718b42bc55818b8580f273"
+        },
+        {
+          "row_index": 270,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/4187574626528714176.wav",
+          "normalized_transcript_sha256": "2445b50fdcfe8f203bef72103c836dfad65ba2f9a6718b42bc55818b8580f273"
+        }
+      ]
+    },
+    {
+      "id": 1866,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 356,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/7037862691881688112.wav",
+          "normalized_transcript_sha256": "7c19ed4757d3ebc73bf792f08f362ee97a7e58e390c2c538dffe5e1222bab261"
+        }
+      ]
+    },
+    {
+      "id": 1868,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 86,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/13033303492941325688.wav",
+          "normalized_transcript_sha256": "d2119797fab68f462f72a29666a4659c9b94200f2eee82eb5068cca5c365e3a1"
+        },
+        {
+          "row_index": 400,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/9345967407587298698.wav",
+          "normalized_transcript_sha256": "d2119797fab68f462f72a29666a4659c9b94200f2eee82eb5068cca5c365e3a1"
+        }
+      ]
+    },
+    {
+      "id": 1871,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 133,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/15275809492376300280.wav",
+          "normalized_transcript_sha256": "4ece3663cfd36af8ffc405176dda035b732db4e79753f088f373f75fc4a0ac76"
+        },
+        {
+          "row_index": 306,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/5342217036255595560.wav",
+          "normalized_transcript_sha256": "4ece3663cfd36af8ffc405176dda035b732db4e79753f088f373f75fc4a0ac76"
+        }
+      ]
+    },
+    {
+      "id": 1873,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 68,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/12261305966768506027.wav",
+          "normalized_transcript_sha256": "0bd947e860ac3add625709139006b273dd16e04b3f87610de76bba2511c6d0cd"
+        },
+        {
+          "row_index": 147,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/15964620684926881659.wav",
+          "normalized_transcript_sha256": "0bd947e860ac3add625709139006b273dd16e04b3f87610de76bba2511c6d0cd"
+        }
+      ]
+    },
+    {
+      "id": 1876,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 162,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/16547884853064265471.wav",
+          "normalized_transcript_sha256": "0c7129917cea08858232556fafc7bb0d52a2485086d599c61c747ba29ed9b80e"
+        },
+        {
+          "row_index": 367,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/7698875201475624229.wav",
+          "normalized_transcript_sha256": "0c7129917cea08858232556fafc7bb0d52a2485086d599c61c747ba29ed9b80e"
+        }
+      ]
+    },
+    {
+      "id": 1877,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 234,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/2532502255948745974.wav",
+          "normalized_transcript_sha256": "29075c166fb389b2c37430a0b31e70edea2cc578ae97eadec5aefb54d3f48651"
+        }
+      ]
+    },
+    {
+      "id": 1880,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 174,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/16936969705720857872.wav",
+          "normalized_transcript_sha256": "675b4dbf2dc000530e245f343fb6db1ca0bb8e2b13fb470c097282053e68d95a"
+        }
+      ]
+    },
+    {
+      "id": 1882,
+      "old_split": "dev",
+      "records": [
+        {
+          "row_index": 206,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/1794087768718685031.wav",
+          "normalized_transcript_sha256": "b334f748c3f4e649d3b6104c2de5d7848727d4af3a0181106b3361e72e0b577e"
+        }
+      ]
+    },
+    {
+      "id": 1884,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 128,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/15102900664499962233.wav",
+          "normalized_transcript_sha256": "0814a632e171177955ba35ef570e0ad426e0740969740e258777a4983e1944a5"
+        },
+        {
+          "row_index": 181,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/17133909228324848984.wav",
+          "normalized_transcript_sha256": "0814a632e171177955ba35ef570e0ad426e0740969740e258777a4983e1944a5"
+        }
+      ]
+    },
+    {
+      "id": 1887,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 71,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/1236616481434986.wav",
+          "normalized_transcript_sha256": "e5ef7f15d2415cbb861ffeae07e28734aa5166169b182a8ee069556010c373df"
+        },
+        {
+          "row_index": 332,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/6115587300090976460.wav",
+          "normalized_transcript_sha256": "e5ef7f15d2415cbb861ffeae07e28734aa5166169b182a8ee069556010c373df"
+        }
+      ]
+    },
+    {
+      "id": 1889,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 255,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/3550122948577909974.wav",
+          "normalized_transcript_sha256": "ee3f90df9e64b1f2fab5e5302dd82631372204d0c0bdf970ebe4ef2cecd13f92"
+        },
+        {
+          "row_index": 264,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/3912324570757176581.wav",
+          "normalized_transcript_sha256": "ee3f90df9e64b1f2fab5e5302dd82631372204d0c0bdf970ebe4ef2cecd13f92"
+        }
+      ]
+    },
+    {
+      "id": 1890,
+      "old_split": "dev",
+      "records": [
+        {
+          "row_index": 163,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/16573110632965818241.wav",
+          "normalized_transcript_sha256": "1850c0169323bb27d4eec94b8dd1b403f9f89134463f9adaf1500a6cd0390b82"
+        }
+      ]
+    },
+    {
+      "id": 1893,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 66,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/12193749519479711646.wav",
+          "normalized_transcript_sha256": "06e06690214f020a8346e3c27b474cca3e4f87a1e1b5e1041c016bad4d2611ba"
+        }
+      ]
+    },
+    {
+      "id": 1910,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 33,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/11284364062037374022.wav",
+          "normalized_transcript_sha256": "989350c3514a04ec9dbe80b9a2e6afde6b9f6f944ca8f652bcd0d46e1f5f291a"
+        },
+        {
+          "row_index": 327,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/5956554166903472780.wav",
+          "normalized_transcript_sha256": "989350c3514a04ec9dbe80b9a2e6afde6b9f6f944ca8f652bcd0d46e1f5f291a"
+        }
+      ]
+    },
+    {
+      "id": 1911,
+      "old_split": "dev",
+      "records": [
+        {
+          "row_index": 390,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/8784492922097846920.wav",
+          "normalized_transcript_sha256": "551e8c6d5fc677422ad1b696fef492da684e7b0540fab91e40e5c121d54050a1"
+        }
+      ]
+    },
+    {
+      "id": 1912,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 132,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/15222281731797294936.wav",
+          "normalized_transcript_sha256": "88670b333eb6a096cfb8cc97f528896fecb406f95ba96f30fe2dfbe69f587e9b"
+        },
+        {
+          "row_index": 192,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/17513590083002413490.wav",
+          "normalized_transcript_sha256": "88670b333eb6a096cfb8cc97f528896fecb406f95ba96f30fe2dfbe69f587e9b"
+        }
+      ]
+    },
+    {
+      "id": 1913,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 70,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/12338621820825514275.wav",
+          "normalized_transcript_sha256": "2bf3f900b6f21cba67317dd198bc2aa442ec56e4b043222dca2313304cdfc10f"
+        },
+        {
+          "row_index": 401,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/9447740746764258022.wav",
+          "normalized_transcript_sha256": "2bf3f900b6f21cba67317dd198bc2aa442ec56e4b043222dca2313304cdfc10f"
+        }
+      ]
+    },
+    {
+      "id": 1915,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 106,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/1389858613705387489.wav",
+          "normalized_transcript_sha256": "d04250dee9aa75bbdf618a507139098c9d936d0aa5ca35ee10364b62c5ca25e1"
+        },
+        {
+          "row_index": 301,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/5122597135319082039.wav",
+          "normalized_transcript_sha256": "d04250dee9aa75bbdf618a507139098c9d936d0aa5ca35ee10364b62c5ca25e1"
+        }
+      ]
+    },
+    {
+      "id": 1917,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 200,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/17772571388783995164.wav",
+          "normalized_transcript_sha256": "dcd8b7a3a5be4d29775a7b16c04a1f774ba6042fb02f618fe1b27f27a23fb333"
+        },
+        {
+          "row_index": 226,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/2129043417079181978.wav",
+          "normalized_transcript_sha256": "dcd8b7a3a5be4d29775a7b16c04a1f774ba6042fb02f618fe1b27f27a23fb333"
+        }
+      ]
+    },
+    {
+      "id": 1923,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 169,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/16674359696770797961.wav",
+          "normalized_transcript_sha256": "a53a7422e517cd3a0dc106b765bc4ac520c9e4dabaef1c5e3f765e211d6ef9f2"
+        }
+      ]
+    },
+    {
+      "id": 1931,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 412,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/9848223928915558733.wav",
+          "normalized_transcript_sha256": "14b2980efbfcd3053569c9d3c7eb35ecf263f4516f257744d7fffa14c802502d"
+        }
+      ]
+    },
+    {
+      "id": 1934,
+      "old_split": "dev",
+      "records": [
+        {
+          "row_index": 107,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/13902416687331096916.wav",
+          "normalized_transcript_sha256": "274ea5c76d583fa001d5403a2718121b3edaaf172aba54f0c5656989e2bf22be"
+        }
+      ]
+    },
+    {
+      "id": 1935,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 131,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/15206039547868043295.wav",
+          "normalized_transcript_sha256": "766fdab89e1bfbab3398e271300f006b9741ddc3182183d29fcc2034868e76d7"
+        },
+        {
+          "row_index": 321,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/5714389874445148824.wav",
+          "normalized_transcript_sha256": "766fdab89e1bfbab3398e271300f006b9741ddc3182183d29fcc2034868e76d7"
+        }
+      ]
+    },
+    {
+      "id": 1937,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 85,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/13003185437122223029.wav",
+          "normalized_transcript_sha256": "0a2b1db45de59452a2ef8757483a37338e1ef6d1f0464b9b74e4ceb95c5319ee"
+        }
+      ]
+    },
+    {
+      "id": 1941,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 159,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/16476307123526686841.wav",
+          "normalized_transcript_sha256": "124de2062c06fd5546a96fadd23fe5c29cd5f542e5c914c7eb79770cfc82c159"
+        },
+        {
+          "row_index": 248,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/3295919989030123828.wav",
+          "normalized_transcript_sha256": "124de2062c06fd5546a96fadd23fe5c29cd5f542e5c914c7eb79770cfc82c159"
+        }
+      ]
+    },
+    {
+      "id": 1944,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 376,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/8159629372149756370.wav",
+          "normalized_transcript_sha256": "e6a0122579ea0ca3f78b644db71c688141f39e4a9b9e454fb4bff16cd00ea8e3"
+        }
+      ]
+    },
+    {
+      "id": 1949,
+      "old_split": "dev",
+      "records": [
+        {
+          "row_index": 125,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/14978039177731417458.wav",
+          "normalized_transcript_sha256": "b4d6dab4cdc197c3637c80e02b00f2d5114b2aa8f714bc942762df29bf467371"
+        }
+      ]
+    },
+    {
+      "id": 1952,
+      "old_split": "dev",
+      "records": [
+        {
+          "row_index": 84,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/13000818536285454239.wav",
+          "normalized_transcript_sha256": "8a0bdf13c5aed00bbabba58081d2f9ce4b9ed113a43c0d49c18c55397bf29194"
+        },
+        {
+          "row_index": 252,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/3375241736867991926.wav",
+          "normalized_transcript_sha256": "8a0bdf13c5aed00bbabba58081d2f9ce4b9ed113a43c0d49c18c55397bf29194"
+        }
+      ]
+    },
+    {
+      "id": 1953,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 40,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/11454315521519829761.wav",
+          "normalized_transcript_sha256": "be04ee468ed63b32c2dd9dcee0597ac3619618f158ad130d286029a32123927c"
+        },
+        {
+          "row_index": 374,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/7980675615849308122.wav",
+          "normalized_transcript_sha256": "be04ee468ed63b32c2dd9dcee0597ac3619618f158ad130d286029a32123927c"
+        }
+      ]
+    },
+    {
+      "id": 1955,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 12,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/10359991159058879218.wav",
+          "normalized_transcript_sha256": "fca219f074df72f3c21a1d7eff047651bf58dd86187a44ef42660d9455e6a78f"
+        },
+        {
+          "row_index": 267,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/3992304891384559550.wav",
+          "normalized_transcript_sha256": "fca219f074df72f3c21a1d7eff047651bf58dd86187a44ef42660d9455e6a78f"
+        }
+      ]
+    },
+    {
+      "id": 1956,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 78,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/12576622961596360825.wav",
+          "normalized_transcript_sha256": "5be299ac31b8a109831df172b7a09050317d070a23c5be6082f1767c0aac30fd"
+        },
+        {
+          "row_index": 222,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/2011804587702312354.wav",
+          "normalized_transcript_sha256": "5be299ac31b8a109831df172b7a09050317d070a23c5be6082f1767c0aac30fd"
+        }
+      ]
+    },
+    {
+      "id": 1960,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 81,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/12907472401991323170.wav",
+          "normalized_transcript_sha256": "e5c624008a63da09d48fcb81905c5e7b2b9fe540d14a8272ef651af23238cb17"
+        },
+        {
+          "row_index": 154,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/16275110514215402798.wav",
+          "normalized_transcript_sha256": "e5c624008a63da09d48fcb81905c5e7b2b9fe540d14a8272ef651af23238cb17"
+        }
+      ]
+    },
+    {
+      "id": 1961,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 52,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/11845204635878039304.wav",
+          "normalized_transcript_sha256": "99fb5ae24b9c9e0f66a2a46e7cc5d9ceca8a7324033597a416ff7bf9dbb2e2b2"
+        },
+        {
+          "row_index": 136,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/15372065827366055554.wav",
+          "normalized_transcript_sha256": "99fb5ae24b9c9e0f66a2a46e7cc5d9ceca8a7324033597a416ff7bf9dbb2e2b2"
+        }
+      ]
+    },
+    {
+      "id": 1967,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 289,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/4814420618054513733.wav",
+          "normalized_transcript_sha256": "0ccf41e75be3d4592bd4db864f164b2510cf73702663dc253629789b8fbd2102"
+        },
+        {
+          "row_index": 415,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/990820094146456760.wav",
+          "normalized_transcript_sha256": "0ccf41e75be3d4592bd4db864f164b2510cf73702663dc253629789b8fbd2102"
+        }
+      ]
+    },
+    {
+      "id": 1970,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 315,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/5645615200843868840.wav",
+          "normalized_transcript_sha256": "e0cfb2fe3f6e1d45130db25b5855f276adffdea9ad44b8b8dc06e91e937232c8"
+        },
+        {
+          "row_index": 344,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/6524300363139967185.wav",
+          "normalized_transcript_sha256": "e0cfb2fe3f6e1d45130db25b5855f276adffdea9ad44b8b8dc06e91e937232c8"
+        }
+      ]
+    },
+    {
+      "id": 1975,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 277,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/4318592279212336085.wav",
+          "normalized_transcript_sha256": "2e1d0397f3587485852825a1d2d581a9465514710b68506608a78027d8f1f73e"
+        },
+        {
+          "row_index": 413,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/9858516970770522130.wav",
+          "normalized_transcript_sha256": "2e1d0397f3587485852825a1d2d581a9465514710b68506608a78027d8f1f73e"
+        }
+      ]
+    },
+    {
+      "id": 1977,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 394,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/8886702602797259620.wav",
+          "normalized_transcript_sha256": "c45383948dc3e1f7d8a1d00f598b0975f79e9048c4ac8b7b83838c1f0244845a"
+        }
+      ]
+    },
+    {
+      "id": 1981,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 22,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/10907654079731428081.wav",
+          "normalized_transcript_sha256": "4a0de7d36a059d773f181b6d05a87b66056626c81a4239f9ab399ecaeb6b5000"
+        }
+      ]
+    },
+    {
+      "id": 1987,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 305,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/533946222103008669.wav",
+          "normalized_transcript_sha256": "307a96ef201361cb9d12faab18fe49fdcfcda3e2c160f84f688e3119cdd2f3ff"
+        },
+        {
+          "row_index": 404,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/9619650182223479168.wav",
+          "normalized_transcript_sha256": "307a96ef201361cb9d12faab18fe49fdcfcda3e2c160f84f688e3119cdd2f3ff"
+        }
+      ]
+    },
+    {
+      "id": 1993,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 75,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/12503699152033832615.wav",
+          "normalized_transcript_sha256": "2f73150ecfc459e3a37ce50a691090027082574fa65aae3ece233c07f38fee3d"
+        }
+      ]
+    },
+    {
+      "id": 1995,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 184,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/17192571414314983237.wav",
+          "normalized_transcript_sha256": "0b96abbc30c02d9f26622a4e9913b0715f29cfb6ddc241a4f5f09d9f010bc575"
+        },
+        {
+          "row_index": 331,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/6048845608298392211.wav",
+          "normalized_transcript_sha256": "0b96abbc30c02d9f26622a4e9913b0715f29cfb6ddc241a4f5f09d9f010bc575"
+        }
+      ]
+    },
+    {
+      "id": 1997,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 219,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/1908329718103862127.wav",
+          "normalized_transcript_sha256": "ed1da7911a69aae40c7101b3520d50504401e18f81b2d6108faf6a287e109b28"
+        },
+        {
+          "row_index": 357,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/7127722642159000820.wav",
+          "normalized_transcript_sha256": "ed1da7911a69aae40c7101b3520d50504401e18f81b2d6108faf6a287e109b28"
+        }
+      ]
+    },
+    {
+      "id": 2006,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 18,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/10761312360331088376.wav",
+          "normalized_transcript_sha256": "fe8bd533fbd4220f8b40e99523dcf9d843ca498c4926cd2727c698132584cf74"
+        },
+        {
+          "row_index": 282,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/4558002175712368489.wav",
+          "normalized_transcript_sha256": "fe8bd533fbd4220f8b40e99523dcf9d843ca498c4926cd2727c698132584cf74"
+        }
+      ]
+    },
+    {
+      "id": 2007,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 127,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/15100264608554334458.wav",
+          "normalized_transcript_sha256": "85e34bca8143f1938bf71d5c1d8b1aeec4dda2aa7408b86d3cbaf6bb63470e32"
+        }
+      ]
+    },
+    {
+      "id": 2009,
+      "old_split": "test",
+      "records": [
+        {
+          "row_index": 90,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/13122229206723254014.wav",
+          "normalized_transcript_sha256": "52e2d55264b4bfa3db7dfa2995c6f7a90654df1fd1193a7c306aec41991be9ce"
+        }
+      ]
+    }
+  ],
+  "fresh_groups": [
+    {
+      "id": 1674,
+      "selected": {
+        "row_index": 164,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/16577983044171271983.wav",
+        "normalized_transcript_sha256": "f213a76d7fdc19debc66fe3ad6f04befa3e75d289d4d1a864b85babc851379d0"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 236,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/2640562846735193135.wav",
+          "normalized_transcript_sha256": "f213a76d7fdc19debc66fe3ad6f04befa3e75d289d4d1a864b85babc851379d0"
+        }
+      ]
+    },
+    {
+      "id": 1881,
+      "selected": {
+        "row_index": 243,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/2815903452265068889.wav",
+        "normalized_transcript_sha256": "23c9fabc5d3ad3197fb5531c69640f14fdcf52240f0449dac7543f3b8c16d663"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1951,
+      "selected": {
+        "row_index": 186,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/17231982416830844529.wav",
+        "normalized_transcript_sha256": "41ca9fff69aecdbc908a0a451db1cf8280e559a83b2b7f3c569f8bce21870bca"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1845,
+      "selected": {
+        "row_index": 152,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/16123362965198915963.wav",
+        "normalized_transcript_sha256": "ab8d67893a7f0c58422e9c0489e61b0e5a9129c03587666c38866fedbea2b68d"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1665,
+      "selected": {
+        "row_index": 225,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/2084431273077832179.wav",
+        "normalized_transcript_sha256": "0aa7c063dd89d2d39517404b06363a24f489c03378941945b911608e1f983ff3"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 280,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/4394062030247642003.wav",
+          "normalized_transcript_sha256": "0aa7c063dd89d2d39517404b06363a24f489c03378941945b911608e1f983ff3"
+        }
+      ]
+    },
+    {
+      "id": 1679,
+      "selected": {
+        "row_index": 166,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/16619587412189752284.wav",
+        "normalized_transcript_sha256": "838ba979fdae15861752c69f13209d6eb3b1dfae27644178008f274f07bdb03e"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 232,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/2521461040871437139.wav",
+          "normalized_transcript_sha256": "838ba979fdae15861752c69f13209d6eb3b1dfae27644178008f274f07bdb03e"
+        }
+      ]
+    },
+    {
+      "id": 1983,
+      "selected": {
+        "row_index": 388,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/8647640348946233289.wav",
+        "normalized_transcript_sha256": "c292240ea68b918ce388d0e14792b40169ab2318bef142be9ed77a5188eeb38c"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1766,
+      "selected": {
+        "row_index": 0,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/10011266027513218401.wav",
+        "normalized_transcript_sha256": "121762e001e94e3db4c53ee252f44f328ea6dffe538646b9fb225c3394187bde"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 347,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/6680045614050496211.wav",
+          "normalized_transcript_sha256": "121762e001e94e3db4c53ee252f44f328ea6dffe538646b9fb225c3394187bde"
+        }
+      ]
+    },
+    {
+      "id": 1685,
+      "selected": {
+        "row_index": 395,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/8920059957255554825.wav",
+        "normalized_transcript_sha256": "45f77e18f6bc4d4e9f6d37b01abf2299d91d3d76aa9511a435d166c3d99fb8f3"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1810,
+      "selected": {
+        "row_index": 312,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/5480881948821631080.wav",
+        "normalized_transcript_sha256": "faf5419e1b4a135ab03703ed5c97344ff12247c3dc7b01fd8929f90852426f7e"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1966,
+      "selected": {
+        "row_index": 53,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/11847046500833945297.wav",
+        "normalized_transcript_sha256": "40275807e2a7131dfeca4660d62c2908288e9dd345f1928911c116146a8d55f6"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1925,
+      "selected": {
+        "row_index": 87,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/1307993758979104205.wav",
+        "normalized_transcript_sha256": "3b520ec2e178731290eaeacd57b7f0480f36af0a137c682866ad4ac26619a33c"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 387,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/8580476519432925877.wav",
+          "normalized_transcript_sha256": "3b520ec2e178731290eaeacd57b7f0480f36af0a137c682866ad4ac26619a33c"
+        }
+      ]
+    },
+    {
+      "id": 1827,
+      "selected": {
+        "row_index": 8,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/10200643191519059428.wav",
+        "normalized_transcript_sha256": "33e8a117736c82323cd297fc560b4b7b58a582069920610b2407cf245bd27be9"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 62,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/12106180364446341165.wav",
+          "normalized_transcript_sha256": "33e8a117736c82323cd297fc560b4b7b58a582069920610b2407cf245bd27be9"
+        }
+      ]
+    },
+    {
+      "id": 1763,
+      "selected": {
+        "row_index": 398,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/9144832777583634056.wav",
+        "normalized_transcript_sha256": "9cee428b766e0e6e61f88b65b1a2cb53ad38d806d2d8b5f9663bf5223de7c63e"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1717,
+      "selected": {
+        "row_index": 308,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/5397692822283766085.wav",
+        "normalized_transcript_sha256": "8e6e28ce83ce4979b64b34ef70214b795a46ddf416edbd97bcb8a6192182b3e8"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 335,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/6278824707754656238.wav",
+          "normalized_transcript_sha256": "8e6e28ce83ce4979b64b34ef70214b795a46ddf416edbd97bcb8a6192182b3e8"
+        }
+      ]
+    },
+    {
+      "id": 1940,
+      "selected": {
+        "row_index": 340,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/6396044737641346605.wav",
+        "normalized_transcript_sha256": "76ede4a8c943ba8beddcc9abf0436a712c01e18b01b1b6788f09cb2dc037ecc5"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 379,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/8226376616388357545.wav",
+          "normalized_transcript_sha256": "76ede4a8c943ba8beddcc9abf0436a712c01e18b01b1b6788f09cb2dc037ecc5"
+        }
+      ]
+    },
+    {
+      "id": 1802,
+      "selected": {
+        "row_index": 27,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/11014623647783711221.wav",
+        "normalized_transcript_sha256": "6f4adfe1767c11710ad7438c860ca8568ee9a0d9eaf408235888e0a718469e0d"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 170,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/16715413603857130243.wav",
+          "normalized_transcript_sha256": "6f4adfe1767c11710ad7438c860ca8568ee9a0d9eaf408235888e0a718469e0d"
+        }
+      ]
+    },
+    {
+      "id": 1945,
+      "selected": {
+        "row_index": 372,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/7810041577325288574.wav",
+        "normalized_transcript_sha256": "77a3136709cb5c9470738c5240dc8cf771a59238a4ffd24e3caf57a41eed6f56"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1785,
+      "selected": {
+        "row_index": 239,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/2723525448579182657.wav",
+        "normalized_transcript_sha256": "d51ec2ba113ca0a6f156900a88c49a0281f4d5a177b0d9da8f7655f7da5fbbea"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1833,
+      "selected": {
+        "row_index": 396,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/8964796570309917802.wav",
+        "normalized_transcript_sha256": "7e62a38ebb88e247592bb80252cadc2119ea7661f33355ae9b651dd7bada5072"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1701,
+      "selected": {
+        "row_index": 191,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/17489426350607358949.wav",
+        "normalized_transcript_sha256": "d0044d943e278aa4ceac072063077bfa5558316085e2d393e6d4cf31ed851625"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 297,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/5040068070207954482.wav",
+          "normalized_transcript_sha256": "d0044d943e278aa4ceac072063077bfa5558316085e2d393e6d4cf31ed851625"
+        }
+      ]
+    },
+    {
+      "id": 1891,
+      "selected": {
+        "row_index": 148,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/1599033818694102662.wav",
+        "normalized_transcript_sha256": "17f3f11bc0e4966c7ba877e70d0a3572a85789d59778c1da7e4d3387bdd44bb5"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 237,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/2649558981368056118.wav",
+          "normalized_transcript_sha256": "17f3f11bc0e4966c7ba877e70d0a3572a85789d59778c1da7e4d3387bdd44bb5"
+        }
+      ]
+    },
+    {
+      "id": 1907,
+      "selected": {
+        "row_index": 319,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/5698309653901611568.wav",
+        "normalized_transcript_sha256": "5d16232a5488dba5e6f78059006e8d6ef6fcff04a7aafc726fc01462f253bf4c"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1872,
+      "selected": {
+        "row_index": 167,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/16628160644279304198.wav",
+        "normalized_transcript_sha256": "3a3ffdd55df89a71cfdea6fbb2facc55df51a481b2a48c9fa88f8107c62060a1"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 304,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/5290354952340345069.wav",
+          "normalized_transcript_sha256": "3a3ffdd55df89a71cfdea6fbb2facc55df51a481b2a48c9fa88f8107c62060a1"
+        }
+      ]
+    },
+    {
+      "id": 1748,
+      "selected": {
+        "row_index": 149,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/15994398767205546911.wav",
+        "normalized_transcript_sha256": "a931d33a00c53227ff07c796730a86f668195756cf49bb3bfecee20841876952"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 281,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/4462641808853701317.wav",
+          "normalized_transcript_sha256": "a931d33a00c53227ff07c796730a86f668195756cf49bb3bfecee20841876952"
+        }
+      ]
+    },
+    {
+      "id": 1901,
+      "selected": {
+        "row_index": 151,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/16073466278877359928.wav",
+        "normalized_transcript_sha256": "d93af42e9432391d3388ae9c6a1372fead0ba7a37d42fd56735f1a2e96a82922"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 2000,
+      "selected": {
+        "row_index": 146,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/1592333118249718265.wav",
+        "normalized_transcript_sha256": "45d86d0210d05c294f0ec33e3e5238bf9582addf330eca800c2e02812bc18813"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 384,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/845878847425496889.wav",
+          "normalized_transcript_sha256": "45d86d0210d05c294f0ec33e3e5238bf9582addf330eca800c2e02812bc18813"
+        }
+      ]
+    },
+    {
+      "id": 1896,
+      "selected": {
+        "row_index": 109,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/13953627438486951920.wav",
+        "normalized_transcript_sha256": "b9c2c480c51d894548e0a8564e63b79290cfa5ae37657752655df12f6de92865"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1780,
+      "selected": {
+        "row_index": 351,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/6841351942797213585.wav",
+        "normalized_transcript_sha256": "22625f5d664a2b65edd22e2506bedcf3d7aa96307358f73a258269dcdeda4401"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1808,
+      "selected": {
+        "row_index": 104,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/13805578977487855867.wav",
+        "normalized_transcript_sha256": "bd7909a47a81d2a91e329bc7e615de9c2fb5158c286d8f842984088110f2d469"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1747,
+      "selected": {
+        "row_index": 122,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/14706914212578682198.wav",
+        "normalized_transcript_sha256": "9d02648a77176c606fa0fd6b920be8f4b590301af91a414a0bef273522020671"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 175,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/16976841982852749134.wav",
+          "normalized_transcript_sha256": "9d02648a77176c606fa0fd6b920be8f4b590301af91a414a0bef273522020671"
+        }
+      ]
+    },
+    {
+      "id": 1746,
+      "selected": {
+        "row_index": 92,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/13192148840699813820.wav",
+        "normalized_transcript_sha256": "b8649ab44406fd1b086418de625f10ad948f6168ff0233e0920b86c714f11ecd"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 389,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/8753339661978137144.wav",
+          "normalized_transcript_sha256": "b8649ab44406fd1b086418de625f10ad948f6168ff0233e0920b86c714f11ecd"
+        }
+      ]
+    },
+    {
+      "id": 2005,
+      "selected": {
+        "row_index": 224,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/206606933749249602.wav",
+        "normalized_transcript_sha256": "6c2b68682c455e4e91cd266a5e964f902095dfb148e69d78ba6aa8c4cf5d8165"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 408,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/9702619691119109001.wav",
+          "normalized_transcript_sha256": "6c2b68682c455e4e91cd266a5e964f902095dfb148e69d78ba6aa8c4cf5d8165"
+        }
+      ]
+    },
+    {
+      "id": 1918,
+      "selected": {
+        "row_index": 157,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/16425245890504734681.wav",
+        "normalized_transcript_sha256": "6134937ed4c4cca505ee05bc3249bedd4e73d99fef617bedc11e9e31b260628a"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 182,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/17173502838497689842.wav",
+          "normalized_transcript_sha256": "6134937ed4c4cca505ee05bc3249bedd4e73d99fef617bedc11e9e31b260628a"
+        }
+      ]
+    },
+    {
+      "id": 1742,
+      "selected": {
+        "row_index": 47,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/11679504829817040349.wav",
+        "normalized_transcript_sha256": "a734fdc1f1a2253165d34f00107ac0e078c557970e444999f8b598e3fd84b17d"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1668,
+      "selected": {
+        "row_index": 139,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/15502428720282733551.wav",
+        "normalized_transcript_sha256": "c05ddf7ef8a69da9ceef2f2e66808acc5c76488fcfb00c9e01d9a0cd93a8e324"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 283,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/4571326740361085221.wav",
+          "normalized_transcript_sha256": "c05ddf7ef8a69da9ceef2f2e66808acc5c76488fcfb00c9e01d9a0cd93a8e324"
+        },
+        {
+          "row_index": 298,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/5044586622048296084.wav",
+          "normalized_transcript_sha256": "c05ddf7ef8a69da9ceef2f2e66808acc5c76488fcfb00c9e01d9a0cd93a8e324"
+        }
+      ]
+    },
+    {
+      "id": 1714,
+      "selected": {
+        "row_index": 210,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/18134504222802844474.wav",
+        "normalized_transcript_sha256": "abeb2350765fa3e98a6c18ca601fee3392a95d820fdb37648ebb4c2e6b1b1cda"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1683,
+      "selected": {
+        "row_index": 23,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/10921902647446458507.wav",
+        "normalized_transcript_sha256": "a9040a4d65fb0e23e4cccd0f8dade1aa5c41de8579df81353795f583da940f96"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 69,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/12292618971077991076.wav",
+          "normalized_transcript_sha256": "a9040a4d65fb0e23e4cccd0f8dade1aa5c41de8579df81353795f583da940f96"
+        },
+        {
+          "row_index": 110,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/13981741863006798200.wav",
+          "normalized_transcript_sha256": "a9040a4d65fb0e23e4cccd0f8dade1aa5c41de8579df81353795f583da940f96"
+        }
+      ]
+    },
+    {
+      "id": 1771,
+      "selected": {
+        "row_index": 275,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/4287193549127161393.wav",
+        "normalized_transcript_sha256": "5daa25a4b25442a47f6a0cb3adfdaa32ee7dad70ceac953ba3a96f408a459358"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 407,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/9699687672328404855.wav",
+          "normalized_transcript_sha256": "5daa25a4b25442a47f6a0cb3adfdaa32ee7dad70ceac953ba3a96f408a459358"
+        }
+      ]
+    },
+    {
+      "id": 1992,
+      "selected": {
+        "row_index": 15,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/10587318592827006604.wav",
+        "normalized_transcript_sha256": "0f0571797ad7a0bc8a2c5e98d8d9a5cc0b9f39ba088f2a35949d96c4d2f2ef8f"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 325,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/5834305499351617342.wav",
+          "normalized_transcript_sha256": "0f0571797ad7a0bc8a2c5e98d8d9a5cc0b9f39ba088f2a35949d96c4d2f2ef8f"
+        }
+      ]
+    },
+    {
+      "id": 1791,
+      "selected": {
+        "row_index": 55,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/11887255676786903166.wav",
+        "normalized_transcript_sha256": "fa14e2003fb732216f010d8c25bbf2c0923d81875e373f80d3fdf1cf596d78ec"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 336,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/6282079269312717787.wav",
+          "normalized_transcript_sha256": "fa14e2003fb732216f010d8c25bbf2c0923d81875e373f80d3fdf1cf596d78ec"
+        }
+      ]
+    },
+    {
+      "id": 1820,
+      "selected": {
+        "row_index": 46,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/11607524785912006284.wav",
+        "normalized_transcript_sha256": "18e8b3e0870ea1da39e51cd499ba99e3e09f1e05933e320616532a44716f64cb"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 63,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/12116673162471842516.wav",
+          "normalized_transcript_sha256": "18e8b3e0870ea1da39e51cd499ba99e3e09f1e05933e320616532a44716f64cb"
+        }
+      ]
+    },
+    {
+      "id": 1909,
+      "selected": {
+        "row_index": 368,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/7742172348084742883.wav",
+        "normalized_transcript_sha256": "eab8931db8bbcdf79b07fbdac5edcf0aa641ca50212a85f2623880d218c6879f"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1938,
+      "selected": {
+        "row_index": 140,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/15540247564991528997.wav",
+        "normalized_transcript_sha256": "fb146d8ac68fff51e7ff1f13d7796309b5987eacc96e9391ed940dab13505b3d"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1974,
+      "selected": {
+        "row_index": 67,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/12211625880636332335.wav",
+        "normalized_transcript_sha256": "99373415bacb7ed6510a735772056424bf42c529b1395527135e9bf325daf642"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 161,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/16487389062733675441.wav",
+          "normalized_transcript_sha256": "99373415bacb7ed6510a735772056424bf42c529b1395527135e9bf325daf642"
+        }
+      ]
+    },
+    {
+      "id": 1988,
+      "selected": {
+        "row_index": 126,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/15084485952994360728.wav",
+        "normalized_transcript_sha256": "9f1e985282e8441bec18c6beed2ae140f607d041f0635f348854192175c19226"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 145,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/15908564895021435646.wav",
+          "normalized_transcript_sha256": "9f1e985282e8441bec18c6beed2ae140f607d041f0635f348854192175c19226"
+        }
+      ]
+    },
+    {
+      "id": 1673,
+      "selected": {
+        "row_index": 117,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/14578853254924901868.wav",
+        "normalized_transcript_sha256": "258c1cbdea22528a6bf271a1148917796105bd8f4aff073b2ef3ea8f040ac9e6"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 203,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/17873467393828864636.wav",
+          "normalized_transcript_sha256": "258c1cbdea22528a6bf271a1148917796105bd8f4aff073b2ef3ea8f040ac9e6"
+        }
+      ]
+    },
+    {
+      "id": 1667,
+      "selected": {
+        "row_index": 318,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/5676772040210847328.wav",
+        "normalized_transcript_sha256": "51d8284f4deaf578e21ddd679b2921ad63b9eab2554014bc75e5f8b841a80482"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1760,
+      "selected": {
+        "row_index": 189,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/17292685997401598277.wav",
+        "normalized_transcript_sha256": "29726d5067e581d9dd1a6e0d44cdafdf5906ee594afa707d0d0ce53610f24e94"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 259,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/3618823038400295274.wav",
+          "normalized_transcript_sha256": "29726d5067e581d9dd1a6e0d44cdafdf5906ee594afa707d0d0ce53610f24e94"
+        }
+      ]
+    },
+    {
+      "id": 1784,
+      "selected": {
+        "row_index": 1,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/10014385262415025488.wav",
+        "normalized_transcript_sha256": "d7c49e1c1e7812cbc533e9d77ddc62060b4f907d1f672d319f10897511030ea6"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1899,
+      "selected": {
+        "row_index": 333,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/6203594314047312933.wav",
+        "normalized_transcript_sha256": "497fada1b6f610652d2b66da76025ccbf1077cc47425d540852103cba2c1d59f"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1984,
+      "selected": {
+        "row_index": 123,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/14762987283976764594.wav",
+        "normalized_transcript_sha256": "cc17514d569ae15dfe127c28d1bd8c66ff34ba1c9de2c79ef1dcb3008576b58e"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 346,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/6559956825323097558.wav",
+          "normalized_transcript_sha256": "cc17514d569ae15dfe127c28d1bd8c66ff34ba1c9de2c79ef1dcb3008576b58e"
+        }
+      ]
+    },
+    {
+      "id": 1706,
+      "selected": {
+        "row_index": 38,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/11420171604929754563.wav",
+        "normalized_transcript_sha256": "f721fc8ca85d2fd606b18b3461f671b7340edbe9c82cb1c9c518c01ca58a7d73"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 177,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/17053048212258026083.wav",
+          "normalized_transcript_sha256": "f721fc8ca85d2fd606b18b3461f671b7340edbe9c82cb1c9c518c01ca58a7d73"
+        },
+        {
+          "row_index": 246,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/3224677870094884833.wav",
+          "normalized_transcript_sha256": "f721fc8ca85d2fd606b18b3461f671b7340edbe9c82cb1c9c518c01ca58a7d73"
+        }
+      ]
+    },
+    {
+      "id": 1954,
+      "selected": {
+        "row_index": 230,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/2339478023095900856.wav",
+        "normalized_transcript_sha256": "d716c181333d2a9fcf22c8dc7f9309599c6c602f44a56a46544e8e28142e5e12"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 276,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/4294424000259635787.wav",
+          "normalized_transcript_sha256": "d716c181333d2a9fcf22c8dc7f9309599c6c602f44a56a46544e8e28142e5e12"
+        }
+      ]
+    },
+    {
+      "id": 2004,
+      "selected": {
+        "row_index": 120,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/14633299830001558637.wav",
+        "normalized_transcript_sha256": "d2ca4d37155c1572486b2adc77b92aa35742f5a7af580a77835c59d6c0399e5d"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1837,
+      "selected": {
+        "row_index": 273,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/4269466639822248624.wav",
+        "normalized_transcript_sha256": "21498115c7058570769a73abd4858af80472e5c7957700618f52307662de0f57"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1739,
+      "selected": {
+        "row_index": 338,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/6357844454875758506.wav",
+        "normalized_transcript_sha256": "b3ac946f3c2d5c64f92ed0c755c46f42450c2a44bfeaaaa18ba37fba56d23826"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1886,
+      "selected": {
+        "row_index": 51,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/11816700057964730502.wav",
+        "normalized_transcript_sha256": "49c74f210c96f495b51a1108361ae602b0e8655bb22272bdc450e5d8f6a5841d"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1842,
+      "selected": {
+        "row_index": 74,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/12491329429804762880.wav",
+        "normalized_transcript_sha256": "58ad1d3cf2c9d68f89b3697d5cc6187e55afbb96fd7bd3ca38d3511a370d2213"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1799,
+      "selected": {
+        "row_index": 258,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/3588621217293213129.wav",
+        "normalized_transcript_sha256": "6c0c89093df47b753c9f7c228adbe248d28acdf97693d5d7f51d90aca33da74f"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 377,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/8216373510737489857.wav",
+          "normalized_transcript_sha256": "6c0c89093df47b753c9f7c228adbe248d28acdf97693d5d7f51d90aca33da74f"
+        }
+      ]
+    },
+    {
+      "id": 1818,
+      "selected": {
+        "row_index": 25,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/10972260827293009900.wav",
+        "normalized_transcript_sha256": "939e3a8c93a0043e855f77bc3efc34511c272e350fc4fe50f8bdff671444690f"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1843,
+      "selected": {
+        "row_index": 30,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/11093493337058713150.wav",
+        "normalized_transcript_sha256": "792da7a022cd5854f28ad2c7275a21799b6c262e42fbee571aadb5fd953a7615"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1687,
+      "selected": {
+        "row_index": 89,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/13109433266350566952.wav",
+        "normalized_transcript_sha256": "c2e80c8c6290e1509dd2bae1e999e90a39b8d042f0071ab462a4957fa8d20971"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 251,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/333015571020618193.wav",
+          "normalized_transcript_sha256": "c2e80c8c6290e1509dd2bae1e999e90a39b8d042f0071ab462a4957fa8d20971"
+        }
+      ]
+    },
+    {
+      "id": 2008,
+      "selected": {
+        "row_index": 254,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/3483277461911437185.wav",
+        "normalized_transcript_sha256": "297a7c6300d6270c2afb18b000bd951d2f84c5db9d78b7dfc4c6b3127091e774"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 406,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/9658095696002127433.wav",
+          "normalized_transcript_sha256": "297a7c6300d6270c2afb18b000bd951d2f84c5db9d78b7dfc4c6b3127091e774"
+        }
+      ]
+    },
+    {
+      "id": 1939,
+      "selected": {
+        "row_index": 316,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/5650107975346696997.wav",
+        "normalized_transcript_sha256": "8846fa9aacd00c20b731c6215740a742754f3a40299cf70afcf73ff26c52b1d4"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1728,
+      "selected": {
+        "row_index": 291,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/4851908808598902238.wav",
+        "normalized_transcript_sha256": "90bd1c1c2da20dbadfc7d1d0754508a11b58aad73ae3660c0b10c547fde8faaa"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 313,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/5481297672257306725.wav",
+          "normalized_transcript_sha256": "90bd1c1c2da20dbadfc7d1d0754508a11b58aad73ae3660c0b10c547fde8faaa"
+        },
+        {
+          "row_index": 393,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/8847810707227471662.wav",
+          "normalized_transcript_sha256": "90bd1c1c2da20dbadfc7d1d0754508a11b58aad73ae3660c0b10c547fde8faaa"
+        }
+      ]
+    },
+    {
+      "id": 1792,
+      "selected": {
+        "row_index": 7,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/10135688561274120767.wav",
+        "normalized_transcript_sha256": "b14af751f623e3e74c998c9cbb0a4ff2bae714b7f16a4f610f2f050c99a3e7f4"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1758,
+      "selected": {
+        "row_index": 155,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/16307283543540841715.wav",
+        "normalized_transcript_sha256": "0f0d359238fe105917188c35c32bee8a445bbed7f797f77bbd807c594ea0f756"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1765,
+      "selected": {
+        "row_index": 194,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/17589567717799156473.wav",
+        "normalized_transcript_sha256": "41d3be5d8a7609591106fa9878a986f4e05f4e99d66786953d624a8f81a05f71"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1928,
+      "selected": {
+        "row_index": 111,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/14063302096319691897.wav",
+        "normalized_transcript_sha256": "dd599ef38e4dbc934737b3460102f615294d1ca625e7e0b1300f3f2430f78934"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 158,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/16442018171315945493.wav",
+          "normalized_transcript_sha256": "dd599ef38e4dbc934737b3460102f615294d1ca625e7e0b1300f3f2430f78934"
+        }
+      ]
+    },
+    {
+      "id": 1897,
+      "selected": {
+        "row_index": 334,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/6266080697809403487.wav",
+        "normalized_transcript_sha256": "4bb0daba29b0c9495151dd003c506a8e861b94edab068374e03d347f27e3a003"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 391,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/8807905552280255551.wav",
+          "normalized_transcript_sha256": "4bb0daba29b0c9495151dd003c506a8e861b94edab068374e03d347f27e3a003"
+        }
+      ]
+    },
+    {
+      "id": 1932,
+      "selected": {
+        "row_index": 198,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/17735119275738595727.wav",
+        "normalized_transcript_sha256": "d457ebc9203600d9aa21d0162f34be3eb4a6d3225f7bed9f7b731fbeed7cd7f9"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1869,
+      "selected": {
+        "row_index": 307,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/5393581790967994378.wav",
+        "normalized_transcript_sha256": "ec791a37ff943fc0516f279ca062d7b267454f0ab9b962b43d9e8f15a5f139a1"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 330,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/604731010236466966.wav",
+          "normalized_transcript_sha256": "ec791a37ff943fc0516f279ca062d7b267454f0ab9b962b43d9e8f15a5f139a1"
+        }
+      ]
+    },
+    {
+      "id": 1959,
+      "selected": {
+        "row_index": 265,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/3972087215456952159.wav",
+        "normalized_transcript_sha256": "e9c136b5a59cd24b7208b3a71fa2349717558a674a24342e796658e1adc013af"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 287,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/4734916936979886146.wav",
+          "normalized_transcript_sha256": "e9c136b5a59cd24b7208b3a71fa2349717558a674a24342e796658e1adc013af"
+        }
+      ]
+    },
+    {
+      "id": 1709,
+      "selected": {
+        "row_index": 216,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/18309356363792630601.wav",
+        "normalized_transcript_sha256": "be6b3cb9b3e67fa84ecde07f5e0f4adb22d9d355ba0243a8e843dc1515d345e7"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 290,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/4822829718056575393.wav",
+          "normalized_transcript_sha256": "be6b3cb9b3e67fa84ecde07f5e0f4adb22d9d355ba0243a8e843dc1515d345e7"
+        }
+      ]
+    },
+    {
+      "id": 1745,
+      "selected": {
+        "row_index": 217,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/18376328677533202391.wav",
+        "normalized_transcript_sha256": "8c06ec477e9d64fad36e4b3e5a30f7d32669edf9d1280fec2973906f0ea2e56a"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1885,
+      "selected": {
+        "row_index": 190,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/17349500802477341222.wav",
+        "normalized_transcript_sha256": "a8edeaaa3e28df483ffe53eca928c017f835fcc891446497de4bd39d54cea1ae"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1870,
+      "selected": {
+        "row_index": 373,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/7944552104612814736.wav",
+        "normalized_transcript_sha256": "e904bd25754b48b9c150b6fb6bcfc01439aa689edf090268779a82b7489eeabc"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1904,
+      "selected": {
+        "row_index": 266,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/3985857706519265313.wav",
+        "normalized_transcript_sha256": "b4ac1d6d7624fec1acc1473bf53b50401546ca085dbc7fcc6a1c40d3a6612e45"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 371,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/7794801306276043902.wav",
+          "normalized_transcript_sha256": "b4ac1d6d7624fec1acc1473bf53b50401546ca085dbc7fcc6a1c40d3a6612e45"
+        }
+      ]
+    },
+    {
+      "id": 1914,
+      "selected": {
+        "row_index": 212,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/18179665096930871285.wav",
+        "normalized_transcript_sha256": "dd2bdcfda872b576da18a911047d03d260bd2ef06576606e15f4dfa9660ece31"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 365,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/7639321476329058229.wav",
+          "normalized_transcript_sha256": "dd2bdcfda872b576da18a911047d03d260bd2ef06576606e15f4dfa9660ece31"
+        }
+      ]
+    },
+    {
+      "id": 1661,
+      "selected": {
+        "row_index": 97,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/13477439939514320448.wav",
+        "normalized_transcript_sha256": "36b55a181b81e9d63852de0bc5360d0f395f9d53ded23398bcdf3be60b19920e"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 294,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/4887139028898752213.wav",
+          "normalized_transcript_sha256": "36b55a181b81e9d63852de0bc5360d0f395f9d53ded23398bcdf3be60b19920e"
+        }
+      ]
+    },
+    {
+      "id": 1947,
+      "selected": {
+        "row_index": 354,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/6909376388382817686.wav",
+        "normalized_transcript_sha256": "82028553311205abfeaa7ed29d4e84ae5f8cff57652ce36e3703995f8fa88f25"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1692,
+      "selected": {
+        "row_index": 141,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/15659339096358030201.wav",
+        "normalized_transcript_sha256": "2aebbf950692ebc93b82012237b7df4985d45610efb0c31ff903e483764944b1"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 349,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/6716012942964313180.wav",
+          "normalized_transcript_sha256": "2aebbf950692ebc93b82012237b7df4985d45610efb0c31ff903e483764944b1"
+        },
+        {
+          "row_index": 382,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/8407865170997565043.wav",
+          "normalized_transcript_sha256": "2aebbf950692ebc93b82012237b7df4985d45610efb0c31ff903e483764944b1"
+        }
+      ]
+    },
+    {
+      "id": 1832,
+      "selected": {
+        "row_index": 271,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/4203561718312050242.wav",
+        "normalized_transcript_sha256": "059f8f9fa6b88e8fbea8c32ef145599f69e5f4316862705d562784b1281d566a"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1817,
+      "selected": {
+        "row_index": 228,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/2217845736872453919.wav",
+        "normalized_transcript_sha256": "3ecfcbee48cc777b78980b34901ea63e729f52d4540596a2b66a99c7fdeb26c4"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 364,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/760744673417886664.wav",
+          "normalized_transcript_sha256": "3ecfcbee48cc777b78980b34901ea63e729f52d4540596a2b66a99c7fdeb26c4"
+        }
+      ]
+    },
+    {
+      "id": 1816,
+      "selected": {
+        "row_index": 197,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/1767137162588763048.wav",
+        "normalized_transcript_sha256": "2cc01c858bb7fc092006da2ff151781cc7b22e65ad3b72b44d140c355da0a572"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1830,
+      "selected": {
+        "row_index": 341,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/6412098882560291653.wav",
+        "normalized_transcript_sha256": "3ef5540eb4ff307cdc6570a6a8ef3e6174c3c5bdbf9504206db82ce97c6757e7"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1779,
+      "selected": {
+        "row_index": 113,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/14211299707514072668.wav",
+        "normalized_transcript_sha256": "e5871cb10f5fd05e20e0321083f680fc4642f6411833f58791c853013e17e2a3"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 143,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/15862862082216857049.wav",
+          "normalized_transcript_sha256": "e5871cb10f5fd05e20e0321083f680fc4642f6411833f58791c853013e17e2a3"
+        }
+      ]
+    },
+    {
+      "id": 1919,
+      "selected": {
+        "row_index": 99,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/13563417804047448798.wav",
+        "normalized_transcript_sha256": "04115e4bf7f99b11dcedff99723255259f81d455b9b950a7a6b942b41ffc85d0"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 142,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/15660374982077402071.wav",
+          "normalized_transcript_sha256": "04115e4bf7f99b11dcedff99723255259f81d455b9b950a7a6b942b41ffc85d0"
+        }
+      ]
+    },
+    {
+      "id": 1875,
+      "selected": {
+        "row_index": 65,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/12192139752982190546.wav",
+        "normalized_transcript_sha256": "6a07ee7a703e6de704256d26afcaaeb8f2b6f7f08f234684258d27879f182114"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 314,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/5636625969852704727.wav",
+          "normalized_transcript_sha256": "6a07ee7a703e6de704256d26afcaaeb8f2b6f7f08f234684258d27879f182114"
+        }
+      ]
+    },
+    {
+      "id": 1798,
+      "selected": {
+        "row_index": 130,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/15166858822901466228.wav",
+        "normalized_transcript_sha256": "82472bf2c0c984fc2d2388ee8b338a2e6a82e3c65c72497040b87a98eccc7171"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 299,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/5049455666856947610.wav",
+          "normalized_transcript_sha256": "82472bf2c0c984fc2d2388ee8b338a2e6a82e3c65c72497040b87a98eccc7171"
+        }
+      ]
+    },
+    {
+      "id": 2002,
+      "selected": {
+        "row_index": 227,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/2209942949403736703.wav",
+        "normalized_transcript_sha256": "60d54a8da294eac712475b4d03faf5e611d0fc0df05436b0f75b899c6cc7927a"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1778,
+      "selected": {
+        "row_index": 3,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/10027305580492162464.wav",
+        "normalized_transcript_sha256": "99827044a3e93a7eba797066a27ca715cb2311b6d9441e91b71879b5ab0d5241"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 207,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/18050109654890999214.wav",
+          "normalized_transcript_sha256": "99827044a3e93a7eba797066a27ca715cb2311b6d9441e91b71879b5ab0d5241"
+        }
+      ]
+    },
+    {
+      "id": 1774,
+      "selected": {
+        "row_index": 322,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/579454037541708253.wav",
+        "normalized_transcript_sha256": "747ad1a9f31a5f9d3ccba43775dd69b4358a79b83744f22ce4e334ee13031cf8"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1996,
+      "selected": {
+        "row_index": 10,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/10286778291956788434.wav",
+        "normalized_transcript_sha256": "9a929498e00ae555e7b0c747796bd0742a891a94eb518b11cdc12d195b17c12f"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1732,
+      "selected": {
+        "row_index": 20,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/10798430940133763019.wav",
+        "normalized_transcript_sha256": "bdfb8b017547495d12b58df94eeeb8e03ca4c2c4953f8cd0ee05eafc59f4f032"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 119,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/14624544296752786603.wav",
+          "normalized_transcript_sha256": "bdfb8b017547495d12b58df94eeeb8e03ca4c2c4953f8cd0ee05eafc59f4f032"
+        }
+      ]
+    },
+    {
+      "id": 1841,
+      "selected": {
+        "row_index": 187,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/17261544602668503036.wav",
+        "normalized_transcript_sha256": "26015988d3d0d26a90c4da7c034844704e054a13599e0d71938810d2d82e8aa6"
+      },
+      "excluded_sibling_records": []
+    },
+    {
+      "id": 1860,
+      "selected": {
+        "row_index": 302,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/5197619145693820946.wav",
+        "normalized_transcript_sha256": "02e6fef2735164de60c187aae9f98f4f3300f4a3342182755adb85375a3287a6"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 343,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/6452456317001922868.wav",
+          "normalized_transcript_sha256": "02e6fef2735164de60c187aae9f98f4f3300f4a3342182755adb85375a3287a6"
+        }
+      ]
+    },
+    {
+      "id": 1694,
+      "selected": {
+        "row_index": 172,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/1684304007849598848.wav",
+        "normalized_transcript_sha256": "4ecb2dbe965a71a06112bd87b59db99907034383c16739134ccb1646e78ccf03"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 204,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/17876469696694013955.wav",
+          "normalized_transcript_sha256": "4ecb2dbe965a71a06112bd87b59db99907034383c16739134ccb1646e78ccf03"
+        },
+        {
+          "row_index": 214,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/18229547637409880012.wav",
+          "normalized_transcript_sha256": "4ecb2dbe965a71a06112bd87b59db99907034383c16739134ccb1646e78ccf03"
+        }
+      ]
+    },
+    {
+      "id": 1958,
+      "selected": {
+        "row_index": 36,
+        "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/1137772989789278397.wav",
+        "normalized_transcript_sha256": "cdbe2d2a5978557f57770f7e12f370577d4503220c301ef8f221cc332cffb6d1"
+      },
+      "excluded_sibling_records": [
+        {
+          "row_index": 50,
+          "path": "/root/.cache/huggingface/datasets/downloads/extracted/704b1c3d70c207a2f33ca6eaf7bf405c876784cbe83f62d8e1444f76ca0251ad/11807096330378627515.wav",
+          "normalized_transcript_sha256": "cdbe2d2a5978557f57770f7e12f370577d4503220c301ef8f221cc332cffb6d1"
+        }
+      ]
+    }
+  ]
+}

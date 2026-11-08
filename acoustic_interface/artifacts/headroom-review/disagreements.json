@@ -1,0 +1,34 @@
+[
+  {
+    "case": "067570a1e8523a503f30",
+    "primary_correct": false,
+    "independent_correct": false,
+    "primary_hallucinated": true,
+    "independent_hallucinated": false,
+    "independent_reason": "Incomplete: omits tourists; भेजने may be corruption of sellers but does not recover the complete requested pair."
+  },
+  {
+    "case": "09c422a185a91f382ca8",
+    "primary_correct": false,
+    "independent_correct": false,
+    "primary_hallucinated": true,
+    "independent_hallucinated": false,
+    "independent_reason": "Tautological sound answer does not identify tourists and sellers."
+  },
+  {
+    "case": "8f281bb91adccc6eb684",
+    "primary_correct": true,
+    "independent_correct": false,
+    "primary_hallucinated": false,
+    "independent_hallucinated": false,
+    "independent_reason": "Schengen member countries are mentioned, but this fragment does not identify the required visa clearly."
+  },
+  {
+    "case": "f03ab3fa8985a4817cdb",
+    "primary_correct": false,
+    "independent_correct": false,
+    "primary_hallucinated": true,
+    "independent_hallucinated": false,
+    "independent_reason": "At best corrupted sellers alone, omitting tourists."
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "review_type": "Single assistant, arm-masked model review against publisher text",
+  "independently_reviewed": false,
+  "human_review": false,
+  "audio_listened": false,
+  "case_count": 40,
+  "response_count": 96,
+  "rubric": {
+    "correct": "Identifies the requested entity/relation or abstains when evidence is absent; recognizable spelling variants accepted; ambiguous cases flagged.",
+    "hallucinated": "Makes an identifiable factual assertion unsupported by publisher evidence. Abstentions, uninterpretable fragments and mere failure to answer are not automatically hallucinations."
+  },
+  "limitations": [
+    "Primary assistant implemented the experiment; this is not independent review.",
+    "Arm labels and clean/noisy labels omitted from review packet; assistant knew the overall design and aggregate EM.",
+    "Variant and truncated-answer acceptance is subjective; strict sensitivity rejects every flagged accepted case.",
+    "Reference text is not human listening validation. Question-only answers are judged against source evidence, so unsupported is not necessarily false in the world."
+  ]
+}

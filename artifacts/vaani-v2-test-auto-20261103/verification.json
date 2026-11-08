@@ -1,0 +1,8 @@
+{
+  "auto": {
+    "rows": 200,
+    "sources": 100,
+    "prediction_sha256": "51f5231412f795861cd3d34563c0e190711157ec5e6fdbf2c93262a1692cb949",
+    "peak_gpu_allocated_bytes": 3719866880
+  }
+}

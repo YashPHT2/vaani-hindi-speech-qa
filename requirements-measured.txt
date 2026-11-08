@@ -1,0 +1,8 @@
+# Recorded inference runtime: Python 3.13.14, CUDA 12.8, H200 MIG 1g.18gb.
+# Install the appropriate PyTorch 2.11.0 CUDA 12.8 build separately.
+transformers==4.57.2
+huggingface-hub==0.36.0
+tokenizers==0.22.2
+safetensors==0.8.0
+regex==2026.9.29
+numpy==2.4.6

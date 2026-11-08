@@ -1,0 +1,79 @@
+{
+  "status": "scientific GO conditional on independent input/code review; user authorized final evaluation",
+  "candidate": "ordinary Whisper-small Hindi ASR to Qwen2.5-1.5B-Instruct K0",
+  "input_sha256": {
+    "fresh_selection": "890ad93143c644a8dde28d3c30c5c77319d370a4ec21b602c44a544c1a5f70e2",
+    "fresh_qa": "8c3ea7780a8ea5a594dd09b8b8f6b94133a41a6497afe240ee024f87a6fd4937",
+    "fresh_view_specs": "af2319c2ac65ca6aea4f05bbbce5015e473126a77701bf5311d29b468376982e"
+  },
+  "asr_revision": "973afd24965f72e36ca33b3055d56a652f456b4d",
+  "asr_max_new_tokens": 224,
+  "llm_revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+  "llm_max_new_tokens": 48,
+  "pack_prompt_file_sha256": "39803bc3e46f4db213a911dae6438a8eb8d908f95c2d2efc36238fedf24e68db",
+  "normalizer_file_sha256": "e0734875a834647dd462fe05ba032c42362338aa8bd7b909c2471571bb8b01da",
+  "sources": 100,
+  "views": 200,
+  "answerable_per_condition": 80,
+  "unanswerable_per_condition": 20,
+  "conditions": [
+    "clean",
+    "noise_10db"
+  ],
+  "secondary_sources": [
+    1665,
+    1679,
+    1685,
+    1714,
+    1728,
+    1746,
+    1760,
+    1784,
+    1808,
+    1816,
+    1827,
+    1842,
+    1843,
+    1872,
+    1885,
+    1899,
+    1919,
+    1966,
+    1996,
+    2000
+  ],
+  "bootstrap": {
+    "replicates": 2000,
+    "seed": 17,
+    "resampling_unit": "source with clean and noisy views, ascending numeric ordering",
+    "interval": "percentile95",
+    "difference": "noise minus clean",
+    "metrics": [
+      "WER",
+      "CER",
+      "normalized EM",
+      "supported correctness",
+      "unsupported assertion",
+      "abstention",
+      "median completed-answer latency",
+      "aggregate pipeline RTF"
+    ]
+  },
+  "resources": {
+    "reservation_usd": 4,
+    "function_timeout_s": 7200,
+    "startup_s": 300,
+    "internal_work_s": 7000,
+    "queue_s": 120,
+    "idle_s": 2,
+    "retry_count": 0,
+    "gpu": "A10",
+    "cpu": 2,
+    "memory_gib": 16,
+    "conservative_usd_bound": 3.50863544
+  },
+  "task1": "retain existing Qwen3-Omni and PersonaPlex primary-source comparison",
+  "protocol_sha256": "a152786164f98f90e5caaf8d6e0ca55f22bb86a8f2f7f655327183376b0dbb52",
+  "latest_user_assessment_sha256": "8f7fbde3e8ab33152f69aa5b9df47317c609df1b876c4b08e7be7b7ea9e51233",
+  "semantic_review": "sourceID/question/exact-answer hash; primary all unique; independent all unique on frozen20; disagreements incorrect+ambiguous; unsupported OR; primary-only/reconciled/strict; strict ambiguous incorrect"
+}

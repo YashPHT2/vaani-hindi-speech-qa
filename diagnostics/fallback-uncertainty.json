@@ -1,0 +1,17 @@
+{
+  "unit": "source (12 clusters, 24 correlated views)",
+  "corpus_wer_delta": -0.16940789473684212,
+  "cluster_bootstrap_95": {
+    "lower": -0.4576923076923077,
+    "upper": 0.009933774834437087,
+    "replicates": 20000,
+    "seed": 17
+  },
+  "changed_views": 4,
+  "improved": 3,
+  "regressed": 1,
+  "exact_sign_test_p": 0.625,
+  "word_edits_removed": 103,
+  "reference_words": 608,
+  "note": "12 source clusters cannot support a precise interval. The bootstrap is reported to bound optimism, not to claim a population effect."
+}

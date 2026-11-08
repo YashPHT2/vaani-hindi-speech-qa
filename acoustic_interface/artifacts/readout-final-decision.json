@@ -1,0 +1,34 @@
+{
+  "decision": "stop current diagnostic expansion",
+  "availability_gate": true,
+  "automatic_answer_utility_gate": false,
+  "privileged_answer_utility_gate": false,
+  "independent_integrity_review": "pass",
+  "correct_responses": 0,
+  "responses": 12,
+  "sources": 1,
+  "views": 2,
+  "raw_result_sha256": "79a21866599e9befbfba747c34491ef5e115b5a3c8680fa156423877dfbdcef6",
+  "full_phrase_extent_verified": false,
+  "new_window_uncertainty_available": false,
+  "cache": {
+    "allowed": 224,
+    "available": 88,
+    "missing": 136,
+    "observed_sources": 44,
+    "empty_views": 12,
+    "empty_sources": 10
+  },
+  "causal_scale_defect_established": false,
+  "future_direction": "separately authorized one-positive-global-scalar calibration on historical training with frozen checkpoint, disjoint historical evaluation and matched wrong-audio/text controls",
+  "future_execution_authorized_by_this_decision": false,
+  "training_go": false,
+  "replication_go": false,
+  "fresh_test_go": false,
+  "decision_markdown_sha256": "c2fdc90f37a7bad102275ad0d8eb247656f2ef6209dd3fcb6e526c5d24950000",
+  "evidence_hashes": {
+    "artifacts\\readout-analysis.json": "4a1a07d54c57e59a7946fe597c39ce4e959c08f5cca4b5d600a0f701e151309d",
+    "artifacts\\readout-postrun-review.md": "83e0a0431f032a541da2a64260bb33d3752c965de3bae87cf430b1f57b601308",
+    "readout_case_report.md": "5fbeb8633c220e3e14986f08afafe5f318413afb2b816b8b631c1bd62df6a32c"
+  }
+}

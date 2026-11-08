@@ -1,0 +1,352 @@
+{
+ "n_questions": 11,
+ "n_arm_items": 33,
+ "cells": {
+  "PRESENT": {
+   "correct": 21,
+   "abstain": 4
+  },
+  "ABSENT": {
+   "abstain": 1
+  },
+  "MUTATED": {
+   "abstain": 3,
+   "wrong": 4
+  }
+ },
+ "p_wrong_given_corrupted": 0.5714285714285714,
+ "p_wrong_given_present": 0.0,
+ "p_wrong_given_absent": 0.0,
+ "n_corrupted": 7,
+ "n_present": 25,
+ "n_absent": 1,
+ "fisher_mutated_vs_present": {
+  "or": Infinity,
+  "p": 0.0009733036707452725,
+  "n_a": 7,
+  "n_b": 25,
+  "wrong_a": 4,
+  "wrong_b": 0
+ },
+ "fisher_mutated_vs_absent": {
+  "or": Infinity,
+  "p": 1.0,
+  "n_a": 7,
+  "n_b": 1,
+  "wrong_a": 4,
+  "wrong_b": 0
+ },
+ "which_test_supports_the_claim": "MUTATED vs PRESENT. The argument is that a wrong numeral is silently plausible while a missing one is visibly missing, so the contrast must be against correct preservation, not against deletion.",
+ "caveat": "development data; the pilot selected answerable questions, so corrupted and absent cells are small. This demonstrates the mechanism, it does not establish an effect size.",
+ "detail": [
+  {
+   "question_id": "q01",
+   "arm": "koyal",
+   "support": "PRESENT",
+   "outcome": "correct",
+   "value": [
+    40
+   ]
+  },
+  {
+   "question_id": "q01",
+   "arm": "qwen",
+   "support": "PRESENT",
+   "outcome": "correct",
+   "value": [
+    40
+   ]
+  },
+  {
+   "question_id": "q01",
+   "arm": "whisper",
+   "support": "PRESENT",
+   "outcome": "correct",
+   "value": [
+    40
+   ]
+  },
+  {
+   "question_id": "q02",
+   "arm": "koyal",
+   "support": "PRESENT",
+   "outcome": "correct",
+   "value": [
+    106
+   ]
+  },
+  {
+   "question_id": "q02",
+   "arm": "qwen",
+   "support": "PRESENT",
+   "outcome": "correct",
+   "value": [
+    106
+   ]
+  },
+  {
+   "question_id": "q02",
+   "arm": "whisper",
+   "support": "PRESENT",
+   "outcome": "correct",
+   "value": [
+    106
+   ]
+  },
+  {
+   "question_id": "q03",
+   "arm": "koyal",
+   "support": "PRESENT",
+   "outcome": "correct",
+   "value": [
+    7800
+   ]
+  },
+  {
+   "question_id": "q03",
+   "arm": "qwen",
+   "support": "PRESENT",
+   "outcome": "correct",
+   "value": [
+    7800
+   ]
+  },
+  {
+   "question_id": "q03",
+   "arm": "whisper",
+   "support": "ABSENT",
+   "outcome": "abstain",
+   "value": [
+    7800
+   ]
+  },
+  {
+   "question_id": "q04",
+   "arm": "koyal",
+   "support": "PRESENT",
+   "outcome": "correct",
+   "value": [
+    10000
+   ]
+  },
+  {
+   "question_id": "q04",
+   "arm": "qwen",
+   "support": "MUTATED",
+   "outcome": "abstain",
+   "value": [
+    10000
+   ]
+  },
+  {
+   "question_id": "q04",
+   "arm": "whisper",
+   "support": "MUTATED",
+   "outcome": "abstain",
+   "value": [
+    10000
+   ]
+  },
+  {
+   "question_id": "q05",
+   "arm": "koyal",
+   "support": "PRESENT",
+   "outcome": "correct",
+   "value": [
+    2003,
+    2009
+   ]
+  },
+  {
+   "question_id": "q05",
+   "arm": "qwen",
+   "support": "PRESENT",
+   "outcome": "correct",
+   "value": [
+    2003,
+    2009
+   ]
+  },
+  {
+   "question_id": "q05",
+   "arm": "whisper",
+   "support": "PRESENT",
+   "outcome": "correct",
+   "value": [
+    2003,
+    2009
+   ]
+  },
+  {
+   "question_id": "q06",
+   "arm": "koyal",
+   "support": "MUTATED",
+   "outcome": "wrong",
+   "value": [
+    418,
+    422
+   ]
+  },
+  {
+   "question_id": "q06",
+   "arm": "qwen",
+   "support": "PRESENT",
+   "outcome": "correct",
+   "value": [
+    418,
+    422
+   ]
+  },
+  {
+   "question_id": "q06",
+   "arm": "whisper",
+   "support": "PRESENT",
+   "outcome": "correct",
+   "value": [
+    418,
+    422
+   ]
+  },
+  {
+   "question_id": "q07",
+   "arm": "koyal",
+   "support": "PRESENT",
+   "outcome": "correct",
+   "value": [
+    2250
+   ]
+  },
+  {
+   "question_id": "q07",
+   "arm": "qwen",
+   "support": "MUTATED",
+   "outcome": "wrong",
+   "value": [
+    2250
+   ]
+  },
+  {
+   "question_id": "q07",
+   "arm": "whisper",
+   "support": "MUTATED",
+   "outcome": "wrong",
+   "value": [
+    2250
+   ]
+  },
+  {
+   "question_id": "q08",
+   "arm": "koyal",
+   "support": "PRESENT",
+   "outcome": "correct",
+   "value": [
+    39702
+   ]
+  },
+  {
+   "question_id": "q08",
+   "arm": "qwen",
+   "support": "MUTATED",
+   "outcome": "wrong",
+   "value": [
+    39702
+   ]
+  },
+  {
+   "question_id": "q08",
+   "arm": "whisper",
+   "support": "MUTATED",
+   "outcome": "abstain",
+   "value": [
+    39702
+   ]
+  },
+  {
+   "question_id": "q09",
+   "arm": "koyal",
+   "support": "PRESENT",
+   "outcome": "correct",
+   "value": [
+    8,
+    12
+   ]
+  },
+  {
+   "question_id": "q09",
+   "arm": "qwen",
+   "support": "PRESENT",
+   "outcome": "abstain",
+   "value": [
+    8,
+    12
+   ]
+  },
+  {
+   "question_id": "q09",
+   "arm": "whisper",
+   "support": "PRESENT",
+   "outcome": "abstain",
+   "value": [
+    8,
+    12
+   ]
+  },
+  {
+   "question_id": "q10",
+   "arm": "koyal",
+   "support": "PRESENT",
+   "outcome": "correct",
+   "value": [
+    422
+   ]
+  },
+  {
+   "question_id": "q10",
+   "arm": "qwen",
+   "support": "PRESENT",
+   "outcome": "abstain",
+   "value": [
+    422
+   ]
+  },
+  {
+   "question_id": "q10",
+   "arm": "whisper",
+   "support": "PRESENT",
+   "outcome": "correct",
+   "value": [
+    422
+   ]
+  },
+  {
+   "question_id": "q11",
+   "arm": "koyal",
+   "support": "PRESENT",
+   "outcome": "correct",
+   "value": [
+    8,
+    40
+   ]
+  },
+  {
+   "question_id": "q11",
+   "arm": "qwen",
+   "support": "PRESENT",
+   "outcome": "correct",
+   "value": [
+    8,
+    40
+   ]
+  },
+  {
+   "question_id": "q11",
+   "arm": "whisper",
+   "support": "PRESENT",
+   "outcome": "abstain",
+   "value": [
+    8,
+    40
+   ]
+  }
+ ]
+}

@@ -1,0 +1,260 @@
+{"qid": "q01", "source_id": "gramvaani-0250", "policy": "CASCADE", "answer": "40", "latency_s": 0.8389266010000007, "prompt_tokens": 130, "n_new_tokens": 3}
+{"qid": "q02", "source_id": "gramvaani-0250", "policy": "CASCADE", "answer": "106", "latency_s": 0.18232878799999952, "prompt_tokens": 143, "n_new_tokens": 4}
+{"qid": "q03", "source_id": "gramvaani-0337", "policy": "CASCADE", "answer": "7800", "latency_s": 0.222982, "prompt_tokens": 130, "n_new_tokens": 5}
+{"qid": "q04", "source_id": "gramvaani-0011", "policy": "CASCADE", "answer": "10000", "latency_s": 0.2613983290000004, "prompt_tokens": 145, "n_new_tokens": 6}
+{"qid": "q05", "source_id": "gramvaani-0833", "policy": "CASCADE", "answer": "2003 और 2009 के बीच", "latency_s": 0.5360231810000009, "prompt_tokens": 144, "n_new_tokens": 13}
+{"qid": "q06", "source_id": "gramvaani-1012", "policy": "CASCADE", "answer": "618 से 422 रुपये", "latency_s": 0.43913820899999934, "prompt_tokens": 123, "n_new_tokens": 10}
+{"qid": "q07", "source_id": "gramvaani-0325", "policy": "CASCADE", "answer": "2250 रुपये", "latency_s": 0.27484723899999963, "prompt_tokens": 151, "n_new_tokens": 6}
+{"qid": "q08", "source_id": "gramvaani-0089", "policy": "CASCADE", "answer": "39702", "latency_s": 0.2686274839999996, "prompt_tokens": 126, "n_new_tokens": 6}
+{"qid": "q09", "source_id": "gramvaani-0213", "policy": "CASCADE", "answer": "8 से 12 घंटे", "latency_s": 0.3928717860000006, "prompt_tokens": 124, "n_new_tokens": 9}
+{"qid": "q10", "source_id": "gramvaani-0158", "policy": "CASCADE", "answer": "422", "latency_s": 0.18512663599999968, "prompt_tokens": 123, "n_new_tokens": 4}
+{"qid": "q11", "source_id": "gramvaani-0861", "policy": "CASCADE", "answer": "शाम 8:40", "latency_s": 0.35648721799999983, "prompt_tokens": 129, "n_new_tokens": 8}
+{"qid": "q12", "source_id": "gramvaani-0062", "policy": "CASCADE", "answer": "18", "latency_s": 0.14394083399999857, "prompt_tokens": 127, "n_new_tokens": 3}
+{"qid": "q13", "source_id": "gramvaani-0403", "policy": "CASCADE", "answer": "अनुशासन की कमी", "latency_s": 0.3548499869999997, "prompt_tokens": 123, "n_new_tokens": 8}
+{"qid": "q14", "source_id": "gramvaani-0328", "policy": "CASCADE", "answer": "दवाई इतनी महंगी है कि खरीद नहीं पाते।", "latency_s": 0.7894363510000009, "prompt_tokens": 134, "n_new_tokens": 18}
+{"qid": "q15", "source_id": "gramvaani-0820", "policy": "CASCADE", "answer": "नहीं", "latency_s": 0.1547121880000013, "prompt_tokens": 133, "n_new_tokens": 3}
+{"qid": "q16", "source_id": "gramvaani-0812", "policy": "CASCADE", "answer": "नहीं", "latency_s": 0.154191572000002, "prompt_tokens": 131, "n_new_tokens": 3}
+{"qid": "q17", "source_id": "gramvaani-0861", "policy": "CASCADE", "answer": "सफीद रहमान", "latency_s": 0.2751681279999971, "prompt_tokens": 124, "n_new_tokens": 6}
+{"qid": "q18", "source_id": "gramvaani-0385", "policy": "CASCADE", "answer": "आलोक रंजन घोष", "latency_s": 0.3975331120000014, "prompt_tokens": 122, "n_new_tokens": 9}
+{"qid": "q19", "source_id": "gramvaani-0701", "policy": "CASCADE", "answer": "अखिलेश कुमार", "latency_s": 0.2725042500000008, "prompt_tokens": 148, "n_new_tokens": 6}
+{"qid": "q20", "source_id": "gramvaani-0442", "policy": "CASCADE", "answer": "बिपिन कुमार", "latency_s": 0.2736092170000006, "prompt_tokens": 132, "n_new_tokens": 6}
+{"qid": "q21", "source_id": "gramvaani-0795", "policy": "CASCADE", "answer": "संजीवन कुमार सिंह", "latency_s": 0.31304774900000254, "prompt_tokens": 146, "n_new_tokens": 7}
+{"qid": "q22", "source_id": "gramvaani-0667", "policy": "CASCADE", "answer": "विजय कुमार सिंह", "latency_s": 0.2732304560000003, "prompt_tokens": 159, "n_new_tokens": 6}
+{"qid": "q23", "source_id": "gramvaani-0260", "policy": "CASCADE", "answer": "अज्ञात", "latency_s": 0.22687372700000097, "prompt_tokens": 128, "n_new_tokens": 5}
+{"qid": "q24", "source_id": "gramvaani-0170", "policy": "CASCADE", "answer": "अज्ञात", "latency_s": 0.23305246400000001, "prompt_tokens": 135, "n_new_tokens": 5}
+{"qid": "q25", "source_id": "gramvaani-0134", "policy": "CASCADE", "answer": "अज्ञात", "latency_s": 0.23107873300000037, "prompt_tokens": 190, "n_new_tokens": 5}
+{"qid": "q26", "source_id": "gramvaani-0833", "policy": "CASCADE", "answer": "अज्ञात", "latency_s": 0.23266209700000218, "prompt_tokens": 140, "n_new_tokens": 5}
+{"qid": "q01", "source_id": "gramvaani-0250", "policy": "ENC_b25", "answer": "40", "latency_s": 0.14894067100000186, "prompt_tokens": 130, "n_new_tokens": 3}
+{"qid": "q02", "source_id": "gramvaani-0250", "policy": "ENC_b25", "answer": "106", "latency_s": 0.18854205099999888, "prompt_tokens": 143, "n_new_tokens": 4}
+{"qid": "q03", "source_id": "gramvaani-0337", "policy": "ENC_b25", "answer": "7800", "latency_s": 0.23210825700000015, "prompt_tokens": 130, "n_new_tokens": 5}
+{"qid": "q04", "source_id": "gramvaani-0011", "policy": "ENC_b25", "answer": "10000", "latency_s": 0.272007035999998, "prompt_tokens": 145, "n_new_tokens": 6}
+{"qid": "q05", "source_id": "gramvaani-0833", "policy": "ENC_b25", "answer": "2003 और 2009 के बीच", "latency_s": 0.5618806220000003, "prompt_tokens": 144, "n_new_tokens": 13}
+{"qid": "q06", "source_id": "gramvaani-1012", "policy": "ENC_b25", "answer": "618 से 422 रुपये", "latency_s": 0.4346429789999995, "prompt_tokens": 123, "n_new_tokens": 10}
+{"qid": "q07", "source_id": "gramvaani-0325", "policy": "ENC_b25", "answer": "2250 रुपये", "latency_s": 0.27311685200000113, "prompt_tokens": 151, "n_new_tokens": 6}
+{"qid": "q08", "source_id": "gramvaani-0089", "policy": "ENC_b25", "answer": "39702", "latency_s": 0.2684514500000006, "prompt_tokens": 126, "n_new_tokens": 6}
+{"qid": "q09", "source_id": "gramvaani-0213", "policy": "ENC_b25", "answer": "8 से 12 घंटे", "latency_s": 0.3928031929999989, "prompt_tokens": 124, "n_new_tokens": 9}
+{"qid": "q10", "source_id": "gramvaani-0158", "policy": "ENC_b25", "answer": "422", "latency_s": 0.18588121900000232, "prompt_tokens": 123, "n_new_tokens": 4}
+{"qid": "q11", "source_id": "gramvaani-0861", "policy": "ENC_b25", "answer": "शाम 8:40", "latency_s": 0.35684285399999993, "prompt_tokens": 129, "n_new_tokens": 8}
+{"qid": "q12", "source_id": "gramvaani-0062", "policy": "ENC_b25", "answer": "18", "latency_s": 0.14389343099999863, "prompt_tokens": 127, "n_new_tokens": 3}
+{"qid": "q13", "source_id": "gramvaani-0403", "policy": "ENC_b25", "answer": "अनुशासन की कमी", "latency_s": 0.35138287599999884, "prompt_tokens": 123, "n_new_tokens": 8}
+{"qid": "q14", "source_id": "gramvaani-0328", "policy": "ENC_b25", "answer": "दवाई इतनी महंगी है कि खरीद नहीं पाते।", "latency_s": 0.757955698, "prompt_tokens": 134, "n_new_tokens": 18}
+{"qid": "q15", "source_id": "gramvaani-0820", "policy": "ENC_b25", "answer": "नहीं", "latency_s": 0.1444188440000005, "prompt_tokens": 133, "n_new_tokens": 3}
+{"qid": "q16", "source_id": "gramvaani-0812", "policy": "ENC_b25", "answer": "नहीं", "latency_s": 0.14536195299999832, "prompt_tokens": 131, "n_new_tokens": 3}
+{"qid": "q17", "source_id": "gramvaani-0861", "policy": "ENC_b25", "answer": "सफीद रहमान", "latency_s": 0.256019306999999, "prompt_tokens": 124, "n_new_tokens": 6}
+{"qid": "q18", "source_id": "gramvaani-0385", "policy": "ENC_b25", "answer": "आलोक रंजन घोष", "latency_s": 0.37048197700000074, "prompt_tokens": 122, "n_new_tokens": 9}
+{"qid": "q19", "source_id": "gramvaani-0701", "policy": "ENC_b25", "answer": "अखिलेश कुमार", "latency_s": 0.26059919000000065, "prompt_tokens": 148, "n_new_tokens": 6}
+{"qid": "q20", "source_id": "gramvaani-0442", "policy": "ENC_b25", "answer": "बिपिन कुमार", "latency_s": 0.26290073599999886, "prompt_tokens": 132, "n_new_tokens": 6}
+{"qid": "q21", "source_id": "gramvaani-0795", "policy": "ENC_b25", "answer": "संजीवन कुमार सिंह", "latency_s": 0.30000804100000167, "prompt_tokens": 146, "n_new_tokens": 7}
+{"qid": "q22", "source_id": "gramvaani-0667", "policy": "ENC_b25", "answer": "विजय कुमार सिंह", "latency_s": 0.259528717000002, "prompt_tokens": 159, "n_new_tokens": 6}
+{"qid": "q23", "source_id": "gramvaani-0260", "policy": "ENC_b25", "answer": "अज्ञात", "latency_s": 0.21310723499999895, "prompt_tokens": 128, "n_new_tokens": 5}
+{"qid": "q24", "source_id": "gramvaani-0170", "policy": "ENC_b25", "answer": "अज्ञात", "latency_s": 0.22268704200000045, "prompt_tokens": 135, "n_new_tokens": 5}
+{"qid": "q25", "source_id": "gramvaani-0134", "policy": "ENC_b25", "answer": "अज्ञात", "latency_s": 0.21876673799999935, "prompt_tokens": 190, "n_new_tokens": 5}
+{"qid": "q26", "source_id": "gramvaani-0833", "policy": "ENC_b25", "answer": "अज्ञात", "latency_s": 0.22284394300000088, "prompt_tokens": 140, "n_new_tokens": 5}
+{"qid": "q01", "source_id": "gramvaani-0250", "policy": "HEADCONF_b25", "answer": "40", "latency_s": 0.14402562500000116, "prompt_tokens": 130, "n_new_tokens": 3}
+{"qid": "q02", "source_id": "gramvaani-0250", "policy": "HEADCONF_b25", "answer": "106", "latency_s": 0.18782854799999882, "prompt_tokens": 143, "n_new_tokens": 4}
+{"qid": "q03", "source_id": "gramvaani-0337", "policy": "HEADCONF_b25", "answer": "7800", "latency_s": 0.23247407599999903, "prompt_tokens": 130, "n_new_tokens": 5}
+{"qid": "q04", "source_id": "gramvaani-0011", "policy": "HEADCONF_b25", "answer": "10000", "latency_s": 0.2722531349999997, "prompt_tokens": 145, "n_new_tokens": 6}
+{"qid": "q05", "source_id": "gramvaani-0833", "policy": "HEADCONF_b25", "answer": "2003 और 2009 के बीच", "latency_s": 0.5610964120000013, "prompt_tokens": 144, "n_new_tokens": 13}
+{"qid": "q06", "source_id": "gramvaani-1012", "policy": "HEADCONF_b25", "answer": "618 से 422 रुपये", "latency_s": 0.43366829700000054, "prompt_tokens": 123, "n_new_tokens": 10}
+{"qid": "q07", "source_id": "gramvaani-0325", "policy": "HEADCONF_b25", "answer": "2250 रुपये", "latency_s": 0.27156237400000194, "prompt_tokens": 151, "n_new_tokens": 6}
+{"qid": "q08", "source_id": "gramvaani-0089", "policy": "HEADCONF_b25", "answer": "39702", "latency_s": 0.26791899700000243, "prompt_tokens": 126, "n_new_tokens": 6}
+{"qid": "q09", "source_id": "gramvaani-0213", "policy": "HEADCONF_b25", "answer": "8 से 12 घंटे", "latency_s": 0.3928718040000021, "prompt_tokens": 124, "n_new_tokens": 9}
+{"qid": "q10", "source_id": "gramvaani-0158", "policy": "HEADCONF_b25", "answer": "422", "latency_s": 0.18537560300000067, "prompt_tokens": 123, "n_new_tokens": 4}
+{"qid": "q11", "source_id": "gramvaani-0861", "policy": "HEADCONF_b25", "answer": "शाम 8:40", "latency_s": 0.3554046020000001, "prompt_tokens": 129, "n_new_tokens": 8}
+{"qid": "q12", "source_id": "gramvaani-0062", "policy": "HEADCONF_b25", "answer": "18", "latency_s": 0.1434492700000014, "prompt_tokens": 127, "n_new_tokens": 3}
+{"qid": "q13", "source_id": "gramvaani-0403", "policy": "HEADCONF_b25", "answer": "अनुशासन की कमी", "latency_s": 0.3550519109999968, "prompt_tokens": 123, "n_new_tokens": 8}
+{"qid": "q14", "source_id": "gramvaani-0328", "policy": "HEADCONF_b25", "answer": "दवाई इतनी महंगी है कि खरीद नहीं पाते।", "latency_s": 0.7727285140000006, "prompt_tokens": 134, "n_new_tokens": 18}
+{"qid": "q15", "source_id": "gramvaani-0820", "policy": "HEADCONF_b25", "answer": "नहीं", "latency_s": 0.14951129800000018, "prompt_tokens": 133, "n_new_tokens": 3}
+{"qid": "q16", "source_id": "gramvaani-0812", "policy": "HEADCONF_b25", "answer": "नहीं", "latency_s": 0.15029028900000085, "prompt_tokens": 131, "n_new_tokens": 3}
+{"qid": "q17", "source_id": "gramvaani-0861", "policy": "HEADCONF_b25", "answer": "सफीद रहमान", "latency_s": 0.2686472749999993, "prompt_tokens": 124, "n_new_tokens": 6}
+{"qid": "q18", "source_id": "gramvaani-0385", "policy": "HEADCONF_b25", "answer": "आलोक रंजन घोष", "latency_s": 0.3940974610000012, "prompt_tokens": 122, "n_new_tokens": 9}
+{"qid": "q19", "source_id": "gramvaani-0701", "policy": "HEADCONF_b25", "answer": "अखिलेश कुमार", "latency_s": 0.2727878729999986, "prompt_tokens": 148, "n_new_tokens": 6}
+{"qid": "q20", "source_id": "gramvaani-0442", "policy": "HEADCONF_b25", "answer": "बिपिन कुमार", "latency_s": 0.2733283419999992, "prompt_tokens": 132, "n_new_tokens": 6}
+{"qid": "q21", "source_id": "gramvaani-0795", "policy": "HEADCONF_b25", "answer": "संजीवन कुमार सिंह", "latency_s": 0.31374971800000395, "prompt_tokens": 146, "n_new_tokens": 7}
+{"qid": "q22", "source_id": "gramvaani-0667", "policy": "HEADCONF_b25", "answer": "विजय कुमार सिंह", "latency_s": 0.2730326430000005, "prompt_tokens": 159, "n_new_tokens": 6}
+{"qid": "q23", "source_id": "gramvaani-0260", "policy": "HEADCONF_b25", "answer": "अज्ञात", "latency_s": 0.22651096700000295, "prompt_tokens": 128, "n_new_tokens": 5}
+{"qid": "q24", "source_id": "gramvaani-0170", "policy": "HEADCONF_b25", "answer": "अज्ञात", "latency_s": 0.2325996900000007, "prompt_tokens": 135, "n_new_tokens": 5}
+{"qid": "q25", "source_id": "gramvaani-0134", "policy": "HEADCONF_b25", "answer": "अज्ञात", "latency_s": 0.23016191300000344, "prompt_tokens": 190, "n_new_tokens": 5}
+{"qid": "q26", "source_id": "gramvaani-0833", "policy": "HEADCONF_b25", "answer": "अज्ञात", "latency_s": 0.23347611799999868, "prompt_tokens": 140, "n_new_tokens": 5}
+{"qid": "q01", "source_id": "gramvaani-0250", "policy": "RANDOM_b25", "answer": "40", "latency_s": 0.14947269299999988, "prompt_tokens": 130, "n_new_tokens": 3}
+{"qid": "q02", "source_id": "gramvaani-0250", "policy": "RANDOM_b25", "answer": "106", "latency_s": 0.1893283499999967, "prompt_tokens": 143, "n_new_tokens": 4}
+{"qid": "q03", "source_id": "gramvaani-0337", "policy": "RANDOM_b25", "answer": "7800", "latency_s": 0.23226488300000625, "prompt_tokens": 130, "n_new_tokens": 5}
+{"qid": "q04", "source_id": "gramvaani-0011", "policy": "RANDOM_b25", "answer": "10000", "latency_s": 0.2723781449999976, "prompt_tokens": 145, "n_new_tokens": 6}
+{"qid": "q05", "source_id": "gramvaani-0833", "policy": "RANDOM_b25", "answer": "2003 और 2009 के बीच", "latency_s": 0.5619252689999996, "prompt_tokens": 144, "n_new_tokens": 13}
+{"qid": "q06", "source_id": "gramvaani-1012", "policy": "RANDOM_b25", "answer": "618 से 422 रुपये", "latency_s": 0.43462942900000456, "prompt_tokens": 123, "n_new_tokens": 10}
+{"qid": "q07", "source_id": "gramvaani-0325", "policy": "RANDOM_b25", "answer": "2250 रुपये", "latency_s": 0.2724696960000017, "prompt_tokens": 151, "n_new_tokens": 6}
+{"qid": "q08", "source_id": "gramvaani-0089", "policy": "RANDOM_b25", "answer": "39702", "latency_s": 0.2685632279999979, "prompt_tokens": 126, "n_new_tokens": 6}
+{"qid": "q09", "source_id": "gramvaani-0213", "policy": "RANDOM_b25", "answer": "8 से 12 घंटे", "latency_s": 0.39599434399999467, "prompt_tokens": 124, "n_new_tokens": 9}
+{"qid": "q10", "source_id": "gramvaani-0158", "policy": "RANDOM_b25", "answer": "422", "latency_s": 0.18904302899999692, "prompt_tokens": 123, "n_new_tokens": 4}
+{"qid": "q11", "source_id": "gramvaani-0861", "policy": "RANDOM_b25", "answer": "शाम 8:40", "latency_s": 0.3623973890000016, "prompt_tokens": 129, "n_new_tokens": 8}
+{"qid": "q12", "source_id": "gramvaani-0062", "policy": "RANDOM_b25", "answer": "18", "latency_s": 0.14649432000000218, "prompt_tokens": 127, "n_new_tokens": 3}
+{"qid": "q13", "source_id": "gramvaani-0403", "policy": "RANDOM_b25", "answer": "अनुशासन की कमी", "latency_s": 0.35756248199999874, "prompt_tokens": 123, "n_new_tokens": 8}
+{"qid": "q14", "source_id": "gramvaani-0328", "policy": "RANDOM_b25", "answer": "दवाई इतनी महंगी है कि खरीद नहीं पाते।", "latency_s": 0.7807771430000017, "prompt_tokens": 134, "n_new_tokens": 18}
+{"qid": "q15", "source_id": "gramvaani-0820", "policy": "RANDOM_b25", "answer": "नहीं", "latency_s": 0.15082467200000593, "prompt_tokens": 133, "n_new_tokens": 3}
+{"qid": "q16", "source_id": "gramvaani-0812", "policy": "RANDOM_b25", "answer": "नहीं", "latency_s": 0.1511811399999985, "prompt_tokens": 131, "n_new_tokens": 3}
+{"qid": "q17", "source_id": "gramvaani-0861", "policy": "RANDOM_b25", "answer": "सफीद रहमान", "latency_s": 0.27210140700000096, "prompt_tokens": 124, "n_new_tokens": 6}
+{"qid": "q18", "source_id": "gramvaani-0385", "policy": "RANDOM_b25", "answer": "आलोक रंजन घोष", "latency_s": 0.3996947270000035, "prompt_tokens": 122, "n_new_tokens": 9}
+{"qid": "q19", "source_id": "gramvaani-0701", "policy": "RANDOM_b25", "answer": "अखिलेश कुमार", "latency_s": 0.27620740200000427, "prompt_tokens": 148, "n_new_tokens": 6}
+{"qid": "q20", "source_id": "gramvaani-0442", "policy": "RANDOM_b25", "answer": "बिपिन कुमार", "latency_s": 0.2770238439999986, "prompt_tokens": 132, "n_new_tokens": 6}
+{"qid": "q21", "source_id": "gramvaani-0795", "policy": "RANDOM_b25", "answer": "संजीवन कुमार सिंह", "latency_s": 0.3180785949999958, "prompt_tokens": 146, "n_new_tokens": 7}
+{"qid": "q22", "source_id": "gramvaani-0667", "policy": "RANDOM_b25", "answer": "विजय कुमार सिंह", "latency_s": 0.2763333529999983, "prompt_tokens": 159, "n_new_tokens": 6}
+{"qid": "q23", "source_id": "gramvaani-0260", "policy": "RANDOM_b25", "answer": "अज्ञात", "latency_s": 0.2298348610000005, "prompt_tokens": 128, "n_new_tokens": 5}
+{"qid": "q24", "source_id": "gramvaani-0170", "policy": "RANDOM_b25", "answer": "अज्ञात", "latency_s": 0.23593274299999933, "prompt_tokens": 135, "n_new_tokens": 5}
+{"qid": "q25", "source_id": "gramvaani-0134", "policy": "RANDOM_b25", "answer": "अज्ञात", "latency_s": 0.23434798899999976, "prompt_tokens": 190, "n_new_tokens": 5}
+{"qid": "q26", "source_id": "gramvaani-0833", "policy": "RANDOM_b25", "answer": "अज्ञात", "latency_s": 0.2357506609999973, "prompt_tokens": 140, "n_new_tokens": 5}
+{"qid": "q01", "source_id": "gramvaani-0250", "policy": "ALWAYS_qwen", "answer": "40", "latency_s": 0.1510774380000015, "prompt_tokens": 129, "n_new_tokens": 3}
+{"qid": "q02", "source_id": "gramvaani-0250", "policy": "ALWAYS_qwen", "answer": "10", "latency_s": 0.15209507400000177, "prompt_tokens": 142, "n_new_tokens": 3}
+{"qid": "q03", "source_id": "gramvaani-0337", "policy": "ALWAYS_qwen", "answer": "7800", "latency_s": 0.2355024659999998, "prompt_tokens": 130, "n_new_tokens": 5}
+{"qid": "q04", "source_id": "gramvaani-0011", "policy": "ALWAYS_qwen", "answer": "10000", "latency_s": 0.2761483029999994, "prompt_tokens": 145, "n_new_tokens": 6}
+{"qid": "q05", "source_id": "gramvaani-0833", "policy": "ALWAYS_qwen", "answer": "2003 और 3 के बीच", "latency_s": 0.4465501130000007, "prompt_tokens": 142, "n_new_tokens": 10}
+{"qid": "q06", "source_id": "gramvaani-1012", "policy": "ALWAYS_qwen", "answer": "418 से 422 रुपये", "latency_s": 0.44268950200000035, "prompt_tokens": 123, "n_new_tokens": 10}
+{"qid": "q07", "source_id": "gramvaani-0325", "policy": "ALWAYS_qwen", "answer": "250000000 रुपये", "latency_s": 0.48685797600000313, "prompt_tokens": 156, "n_new_tokens": 11}
+{"qid": "q08", "source_id": "gramvaani-0089", "policy": "ALWAYS_qwen", "answer": "48702", "latency_s": 0.27232334500000377, "prompt_tokens": 126, "n_new_tokens": 6}
+{"qid": "q09", "source_id": "gramvaani-0213", "policy": "ALWAYS_qwen", "answer": "8 से 12 घंटे", "latency_s": 0.3979675300000025, "prompt_tokens": 124, "n_new_tokens": 9}
+{"qid": "q10", "source_id": "gramvaani-0158", "policy": "ALWAYS_qwen", "answer": "422", "latency_s": 0.18793389700000063, "prompt_tokens": 123, "n_new_tokens": 4}
+{"qid": "q11", "source_id": "gramvaani-0861", "policy": "ALWAYS_qwen", "answer": "शाम 8:40", "latency_s": 0.3629475520000014, "prompt_tokens": 129, "n_new_tokens": 8}
+{"qid": "q12", "source_id": "gramvaani-0062", "policy": "ALWAYS_qwen", "answer": "18", "latency_s": 0.1459032019999995, "prompt_tokens": 127, "n_new_tokens": 3}
+{"qid": "q13", "source_id": "gramvaani-0403", "policy": "ALWAYS_qwen", "answer": "अनुशासन की कमी", "latency_s": 0.3548259869999981, "prompt_tokens": 123, "n_new_tokens": 8}
+{"qid": "q14", "source_id": "gramvaani-0328", "policy": "ALWAYS_qwen", "answer": "दवाई इतनी महंगी है कि खरीद नहीं पाते।", "latency_s": 0.7910920029999957, "prompt_tokens": 134, "n_new_tokens": 18}
+{"qid": "q15", "source_id": "gramvaani-0820", "policy": "ALWAYS_qwen", "answer": "नहीं", "latency_s": 0.15040703199999683, "prompt_tokens": 133, "n_new_tokens": 3}
+{"qid": "q16", "source_id": "gramvaani-0812", "policy": "ALWAYS_qwen", "answer": "नहीं", "latency_s": 0.15302587400000078, "prompt_tokens": 131, "n_new_tokens": 3}
+{"qid": "q17", "source_id": "gramvaani-0861", "policy": "ALWAYS_qwen", "answer": "सफीद रहमान", "latency_s": 0.27563542100000404, "prompt_tokens": 124, "n_new_tokens": 6}
+{"qid": "q18", "source_id": "gramvaani-0385", "policy": "ALWAYS_qwen", "answer": "आलोक रंजन घोष", "latency_s": 0.40066011999999773, "prompt_tokens": 122, "n_new_tokens": 9}
+{"qid": "q19", "source_id": "gramvaani-0701", "policy": "ALWAYS_qwen", "answer": "अखिलेश कुमार", "latency_s": 0.2749011279999962, "prompt_tokens": 148, "n_new_tokens": 6}
+{"qid": "q20", "source_id": "gramvaani-0442", "policy": "ALWAYS_qwen", "answer": "बिपिन कुमार", "latency_s": 0.2763071299999993, "prompt_tokens": 132, "n_new_tokens": 6}
+{"qid": "q21", "source_id": "gramvaani-0795", "policy": "ALWAYS_qwen", "answer": "संजीवन कुमार सिंह", "latency_s": 0.31800976600000297, "prompt_tokens": 146, "n_new_tokens": 7}
+{"qid": "q22", "source_id": "gramvaani-0667", "policy": "ALWAYS_qwen", "answer": "विजय कुमार सिंह", "latency_s": 0.2773634310000048, "prompt_tokens": 166, "n_new_tokens": 6}
+{"qid": "q23", "source_id": "gramvaani-0260", "policy": "ALWAYS_qwen", "answer": "अज्ञात", "latency_s": 0.22856449899999376, "prompt_tokens": 128, "n_new_tokens": 5}
+{"qid": "q24", "source_id": "gramvaani-0170", "policy": "ALWAYS_qwen", "answer": "अज्ञात", "latency_s": 0.23548780499999822, "prompt_tokens": 135, "n_new_tokens": 5}
+{"qid": "q25", "source_id": "gramvaani-0134", "policy": "ALWAYS_qwen", "answer": "अज्ञात", "latency_s": 0.23241169499999614, "prompt_tokens": 190, "n_new_tokens": 5}
+{"qid": "q26", "source_id": "gramvaani-0833", "policy": "ALWAYS_qwen", "answer": "अज्ञात", "latency_s": 0.23509818200000154, "prompt_tokens": 138, "n_new_tokens": 5}
+{"qid": "q01", "source_id": "gramvaani-0250", "policy": "ORACLE_qwen", "answer": "40", "latency_s": 0.1505087139999972, "prompt_tokens": 130, "n_new_tokens": 3}
+{"qid": "q02", "source_id": "gramvaani-0250", "policy": "ORACLE_qwen", "answer": "106", "latency_s": 0.1912063370000041, "prompt_tokens": 143, "n_new_tokens": 4}
+{"qid": "q03", "source_id": "gramvaani-0337", "policy": "ORACLE_qwen", "answer": "7800", "latency_s": 0.23512214899999861, "prompt_tokens": 130, "n_new_tokens": 5}
+{"qid": "q04", "source_id": "gramvaani-0011", "policy": "ORACLE_qwen", "answer": "10000", "latency_s": 0.27596563099999827, "prompt_tokens": 145, "n_new_tokens": 6}
+{"qid": "q05", "source_id": "gramvaani-0833", "policy": "ORACLE_qwen", "answer": "2003 और 2009 के बीच", "latency_s": 0.5681405269999971, "prompt_tokens": 145, "n_new_tokens": 13}
+{"qid": "q06", "source_id": "gramvaani-1012", "policy": "ORACLE_qwen", "answer": "418 से 422 रुपये", "latency_s": 0.44189290999999997, "prompt_tokens": 123, "n_new_tokens": 10}
+{"qid": "q07", "source_id": "gramvaani-0325", "policy": "ORACLE_qwen", "answer": "2250 रुपये", "latency_s": 0.27500617100000113, "prompt_tokens": 151, "n_new_tokens": 6}
+{"qid": "q08", "source_id": "gramvaani-0089", "policy": "ORACLE_qwen", "answer": "39702", "latency_s": 0.2726389119999979, "prompt_tokens": 126, "n_new_tokens": 6}
+{"qid": "q09", "source_id": "gramvaani-0213", "policy": "ORACLE_qwen", "answer": "8 से 12 घंटे", "latency_s": 0.3975452570000044, "prompt_tokens": 124, "n_new_tokens": 9}
+{"qid": "q10", "source_id": "gramvaani-0158", "policy": "ORACLE_qwen", "answer": "422", "latency_s": 0.1873827499999976, "prompt_tokens": 123, "n_new_tokens": 4}
+{"qid": "q11", "source_id": "gramvaani-0861", "policy": "ORACLE_qwen", "answer": "शाम 8:40", "latency_s": 0.3598640169999996, "prompt_tokens": 129, "n_new_tokens": 8}
+{"qid": "q12", "source_id": "gramvaani-0062", "policy": "ORACLE_qwen", "answer": "18", "latency_s": 0.14590559100000178, "prompt_tokens": 127, "n_new_tokens": 3}
+{"qid": "q13", "source_id": "gramvaani-0403", "policy": "ORACLE_qwen", "answer": "अनुशासन की कमी", "latency_s": 0.3569009209999976, "prompt_tokens": 123, "n_new_tokens": 8}
+{"qid": "q14", "source_id": "gramvaani-0328", "policy": "ORACLE_qwen", "answer": "दवाई इतनी महंगी है कि खरीद नहीं पाते।", "latency_s": 0.7838004389999966, "prompt_tokens": 134, "n_new_tokens": 18}
+{"qid": "q15", "source_id": "gramvaani-0820", "policy": "ORACLE_qwen", "answer": "नहीं", "latency_s": 0.1516699370000012, "prompt_tokens": 133, "n_new_tokens": 3}
+{"qid": "q16", "source_id": "gramvaani-0812", "policy": "ORACLE_qwen", "answer": "नहीं", "latency_s": 0.15020571400000193, "prompt_tokens": 131, "n_new_tokens": 3}
+{"qid": "q17", "source_id": "gramvaani-0861", "policy": "ORACLE_qwen", "answer": "सफीद रहमान", "latency_s": 0.2725131230000031, "prompt_tokens": 124, "n_new_tokens": 6}
+{"qid": "q18", "source_id": "gramvaani-0385", "policy": "ORACLE_qwen", "answer": "आलोक रंजन घोष", "latency_s": 0.39911897399999674, "prompt_tokens": 122, "n_new_tokens": 9}
+{"qid": "q19", "source_id": "gramvaani-0701", "policy": "ORACLE_qwen", "answer": "अखिलेश कुमार", "latency_s": 0.2776807550000058, "prompt_tokens": 148, "n_new_tokens": 6}
+{"qid": "q20", "source_id": "gramvaani-0442", "policy": "ORACLE_qwen", "answer": "बिपिन कुमार", "latency_s": 0.27803025799999403, "prompt_tokens": 132, "n_new_tokens": 6}
+{"qid": "q21", "source_id": "gramvaani-0795", "policy": "ORACLE_qwen", "answer": "संजीवन कुमार सिंह", "latency_s": 0.31808065300000266, "prompt_tokens": 146, "n_new_tokens": 7}
+{"qid": "q22", "source_id": "gramvaani-0667", "policy": "ORACLE_qwen", "answer": "विजय कुमार सिंह", "latency_s": 0.2772012189999984, "prompt_tokens": 166, "n_new_tokens": 6}
+{"qid": "q23", "source_id": "gramvaani-0260", "policy": "ORACLE_qwen", "answer": "अज्ञात", "latency_s": 0.22935769500000447, "prompt_tokens": 128, "n_new_tokens": 5}
+{"qid": "q24", "source_id": "gramvaani-0170", "policy": "ORACLE_qwen", "answer": "अज्ञात", "latency_s": 0.23612337200000155, "prompt_tokens": 135, "n_new_tokens": 5}
+{"qid": "q25", "source_id": "gramvaani-0134", "policy": "ORACLE_qwen", "answer": "अज्ञात", "latency_s": 0.2350590559999972, "prompt_tokens": 190, "n_new_tokens": 5}
+{"qid": "q26", "source_id": "gramvaani-0833", "policy": "ORACLE_qwen", "answer": "अज्ञात", "latency_s": 0.23556107400000315, "prompt_tokens": 141, "n_new_tokens": 5}
+{"qid": "q01", "source_id": "gramvaani-0250", "policy": "ENC_b10", "answer": "40", "latency_s": 0.15091381699999573, "prompt_tokens": 130, "n_new_tokens": 3}
+{"qid": "q02", "source_id": "gramvaani-0250", "policy": "ENC_b10", "answer": "106", "latency_s": 0.19117109000000454, "prompt_tokens": 143, "n_new_tokens": 4}
+{"qid": "q03", "source_id": "gramvaani-0337", "policy": "ENC_b10", "answer": "7800", "latency_s": 0.23448531999999744, "prompt_tokens": 130, "n_new_tokens": 5}
+{"qid": "q04", "source_id": "gramvaani-0011", "policy": "ENC_b10", "answer": "10000", "latency_s": 0.27536742400000236, "prompt_tokens": 145, "n_new_tokens": 6}
+{"qid": "q05", "source_id": "gramvaani-0833", "policy": "ENC_b10", "answer": "2003 और 2009 के बीच", "latency_s": 0.566810205000003, "prompt_tokens": 144, "n_new_tokens": 13}
+{"qid": "q06", "source_id": "gramvaani-1012", "policy": "ENC_b10", "answer": "618 से 422 रुपये", "latency_s": 0.43901051200000296, "prompt_tokens": 123, "n_new_tokens": 10}
+{"qid": "q07", "source_id": "gramvaani-0325", "policy": "ENC_b10", "answer": "2250 रुपये", "latency_s": 0.275400292999997, "prompt_tokens": 151, "n_new_tokens": 6}
+{"qid": "q08", "source_id": "gramvaani-0089", "policy": "ENC_b10", "answer": "39702", "latency_s": 0.27078907500000327, "prompt_tokens": 126, "n_new_tokens": 6}
+{"qid": "q09", "source_id": "gramvaani-0213", "policy": "ENC_b10", "answer": "8 से 12 घंटे", "latency_s": 0.39845720699999987, "prompt_tokens": 124, "n_new_tokens": 9}
+{"qid": "q10", "source_id": "gramvaani-0158", "policy": "ENC_b10", "answer": "422", "latency_s": 0.1884928340000016, "prompt_tokens": 123, "n_new_tokens": 4}
+{"qid": "q11", "source_id": "gramvaani-0861", "policy": "ENC_b10", "answer": "शाम 8:40", "latency_s": 0.3590983940000001, "prompt_tokens": 129, "n_new_tokens": 8}
+{"qid": "q12", "source_id": "gramvaani-0062", "policy": "ENC_b10", "answer": "18", "latency_s": 0.14559661699999538, "prompt_tokens": 127, "n_new_tokens": 3}
+{"qid": "q13", "source_id": "gramvaani-0403", "policy": "ENC_b10", "answer": "अनुशासन की कमी", "latency_s": 0.35466913500000175, "prompt_tokens": 123, "n_new_tokens": 8}
+{"qid": "q14", "source_id": "gramvaani-0328", "policy": "ENC_b10", "answer": "दवाई इतनी महंगी है कि खरीद नहीं पाते।", "latency_s": 0.7758887649999977, "prompt_tokens": 134, "n_new_tokens": 18}
+{"qid": "q15", "source_id": "gramvaani-0820", "policy": "ENC_b10", "answer": "नहीं", "latency_s": 0.15079855900000183, "prompt_tokens": 133, "n_new_tokens": 3}
+{"qid": "q16", "source_id": "gramvaani-0812", "policy": "ENC_b10", "answer": "नहीं", "latency_s": 0.15071889600000077, "prompt_tokens": 131, "n_new_tokens": 3}
+{"qid": "q17", "source_id": "gramvaani-0861", "policy": "ENC_b10", "answer": "सफीद रहमान", "latency_s": 0.27049953899999934, "prompt_tokens": 124, "n_new_tokens": 6}
+{"qid": "q18", "source_id": "gramvaani-0385", "policy": "ENC_b10", "answer": "आलोक रंजन घोष", "latency_s": 0.3961465550000014, "prompt_tokens": 122, "n_new_tokens": 9}
+{"qid": "q19", "source_id": "gramvaani-0701", "policy": "ENC_b10", "answer": "अखिलेश कुमार", "latency_s": 0.2747221979999992, "prompt_tokens": 148, "n_new_tokens": 6}
+{"qid": "q20", "source_id": "gramvaani-0442", "policy": "ENC_b10", "answer": "बिपिन कुमार", "latency_s": 0.2761977300000069, "prompt_tokens": 132, "n_new_tokens": 6}
+{"qid": "q21", "source_id": "gramvaani-0795", "policy": "ENC_b10", "answer": "संजीवन कुमार सिंह", "latency_s": 0.31589789999999596, "prompt_tokens": 146, "n_new_tokens": 7}
+{"qid": "q22", "source_id": "gramvaani-0667", "policy": "ENC_b10", "answer": "विजय कुमार सिंह", "latency_s": 0.2749795120000016, "prompt_tokens": 159, "n_new_tokens": 6}
+{"qid": "q23", "source_id": "gramvaani-0260", "policy": "ENC_b10", "answer": "अज्ञात", "latency_s": 0.22818669999999486, "prompt_tokens": 128, "n_new_tokens": 5}
+{"qid": "q24", "source_id": "gramvaani-0170", "policy": "ENC_b10", "answer": "अज्ञात", "latency_s": 0.2346941060000063, "prompt_tokens": 135, "n_new_tokens": 5}
+{"qid": "q25", "source_id": "gramvaani-0134", "policy": "ENC_b10", "answer": "अज्ञात", "latency_s": 0.23225496199999895, "prompt_tokens": 190, "n_new_tokens": 5}
+{"qid": "q26", "source_id": "gramvaani-0833", "policy": "ENC_b10", "answer": "अज्ञात", "latency_s": 0.23434334599998863, "prompt_tokens": 140, "n_new_tokens": 5}
+{"qid": "q01", "source_id": "gramvaani-0250", "policy": "HEADCONF_b10", "answer": "40", "latency_s": 0.15068084700000384, "prompt_tokens": 130, "n_new_tokens": 3}
+{"qid": "q02", "source_id": "gramvaani-0250", "policy": "HEADCONF_b10", "answer": "106", "latency_s": 0.1910693729999906, "prompt_tokens": 143, "n_new_tokens": 4}
+{"qid": "q03", "source_id": "gramvaani-0337", "policy": "HEADCONF_b10", "answer": "7800", "latency_s": 0.23479412300000035, "prompt_tokens": 130, "n_new_tokens": 5}
+{"qid": "q04", "source_id": "gramvaani-0011", "policy": "HEADCONF_b10", "answer": "10000", "latency_s": 0.27515112899999394, "prompt_tokens": 145, "n_new_tokens": 6}
+{"qid": "q05", "source_id": "gramvaani-0833", "policy": "HEADCONF_b10", "answer": "2003 और 2009 के बीच", "latency_s": 0.571827056999993, "prompt_tokens": 144, "n_new_tokens": 13}
+{"qid": "q06", "source_id": "gramvaani-1012", "policy": "HEADCONF_b10", "answer": "618 से 422 रुपये", "latency_s": 0.43369876700000987, "prompt_tokens": 123, "n_new_tokens": 10}
+{"qid": "q07", "source_id": "gramvaani-0325", "policy": "HEADCONF_b10", "answer": "2250 रुपये", "latency_s": 0.2617804439999958, "prompt_tokens": 151, "n_new_tokens": 6}
+{"qid": "q08", "source_id": "gramvaani-0089", "policy": "HEADCONF_b10", "answer": "39702", "latency_s": 0.25623365999999237, "prompt_tokens": 126, "n_new_tokens": 6}
+{"qid": "q09", "source_id": "gramvaani-0213", "policy": "HEADCONF_b10", "answer": "8 से 12 घंटे", "latency_s": 0.38720545799999684, "prompt_tokens": 124, "n_new_tokens": 9}
+{"qid": "q10", "source_id": "gramvaani-0158", "policy": "HEADCONF_b10", "answer": "422", "latency_s": 0.17410622699999578, "prompt_tokens": 123, "n_new_tokens": 4}
+{"qid": "q11", "source_id": "gramvaani-0861", "policy": "HEADCONF_b10", "answer": "शाम 8:40", "latency_s": 0.33839962999999784, "prompt_tokens": 129, "n_new_tokens": 8}
+{"qid": "q12", "source_id": "gramvaani-0062", "policy": "HEADCONF_b10", "answer": "18", "latency_s": 0.13541480799999306, "prompt_tokens": 127, "n_new_tokens": 3}
+{"qid": "q13", "source_id": "gramvaani-0403", "policy": "HEADCONF_b10", "answer": "अनुशासन की कमी", "latency_s": 0.32529630799999154, "prompt_tokens": 123, "n_new_tokens": 8}
+{"qid": "q14", "source_id": "gramvaani-0328", "policy": "HEADCONF_b10", "answer": "दवाई इतनी महंगी है कि खरीद नहीं पाते।", "latency_s": 0.7395826980000066, "prompt_tokens": 134, "n_new_tokens": 18}
+{"qid": "q15", "source_id": "gramvaani-0820", "policy": "HEADCONF_b10", "answer": "नहीं", "latency_s": 0.14249412099999859, "prompt_tokens": 133, "n_new_tokens": 3}
+{"qid": "q16", "source_id": "gramvaani-0812", "policy": "HEADCONF_b10", "answer": "नहीं", "latency_s": 0.1444365600000026, "prompt_tokens": 131, "n_new_tokens": 3}
+{"qid": "q17", "source_id": "gramvaani-0861", "policy": "HEADCONF_b10", "answer": "सफीद रहमान", "latency_s": 0.2510893019999969, "prompt_tokens": 124, "n_new_tokens": 6}
+{"qid": "q18", "source_id": "gramvaani-0385", "policy": "HEADCONF_b10", "answer": "आलोक रंजन घोष", "latency_s": 0.3707167530000106, "prompt_tokens": 122, "n_new_tokens": 9}
+{"qid": "q19", "source_id": "gramvaani-0701", "policy": "HEADCONF_b10", "answer": "अखिलेश कुमार", "latency_s": 0.25668802899998866, "prompt_tokens": 148, "n_new_tokens": 6}
+{"qid": "q20", "source_id": "gramvaani-0442", "policy": "HEADCONF_b10", "answer": "बिपिन कुमार", "latency_s": 0.25980102699999463, "prompt_tokens": 132, "n_new_tokens": 6}
+{"qid": "q21", "source_id": "gramvaani-0795", "policy": "HEADCONF_b10", "answer": "संजीवन कुमार सिंह", "latency_s": 0.29828502899999876, "prompt_tokens": 146, "n_new_tokens": 7}
+{"qid": "q22", "source_id": "gramvaani-0667", "policy": "HEADCONF_b10", "answer": "विजय कुमार सिंह", "latency_s": 0.25911167399999613, "prompt_tokens": 159, "n_new_tokens": 6}
+{"qid": "q23", "source_id": "gramvaani-0260", "policy": "HEADCONF_b10", "answer": "अज्ञात", "latency_s": 0.21418012700000588, "prompt_tokens": 128, "n_new_tokens": 5}
+{"qid": "q24", "source_id": "gramvaani-0170", "policy": "HEADCONF_b10", "answer": "अज्ञात", "latency_s": 0.22394618900000296, "prompt_tokens": 135, "n_new_tokens": 5}
+{"qid": "q25", "source_id": "gramvaani-0134", "policy": "HEADCONF_b10", "answer": "अज्ञात", "latency_s": 0.21984979199999088, "prompt_tokens": 190, "n_new_tokens": 5}
+{"qid": "q26", "source_id": "gramvaani-0833", "policy": "HEADCONF_b10", "answer": "अज्ञात", "latency_s": 0.22380922399999292, "prompt_tokens": 140, "n_new_tokens": 5}
+{"qid": "q01", "source_id": "gramvaani-0250", "policy": "ENC_b50", "answer": "40", "latency_s": 0.14506503299999451, "prompt_tokens": 130, "n_new_tokens": 3}
+{"qid": "q02", "source_id": "gramvaani-0250", "policy": "ENC_b50", "answer": "106", "latency_s": 0.18302076400000544, "prompt_tokens": 143, "n_new_tokens": 4}
+{"qid": "q03", "source_id": "gramvaani-0337", "policy": "ENC_b50", "answer": "7800", "latency_s": 0.22496911900000782, "prompt_tokens": 130, "n_new_tokens": 5}
+{"qid": "q04", "source_id": "gramvaani-0011", "policy": "ENC_b50", "answer": "10000", "latency_s": 0.26350416699999357, "prompt_tokens": 145, "n_new_tokens": 6}
+{"qid": "q05", "source_id": "gramvaani-0833", "policy": "ENC_b50", "answer": "2003 और 2009 के बीच", "latency_s": 0.5428261670000012, "prompt_tokens": 144, "n_new_tokens": 13}
+{"qid": "q06", "source_id": "gramvaani-1012", "policy": "ENC_b50", "answer": "618 से 422 रुपये", "latency_s": 0.41825599799999225, "prompt_tokens": 123, "n_new_tokens": 10}
+{"qid": "q07", "source_id": "gramvaani-0325", "policy": "ENC_b50", "answer": "2250 रुपये", "latency_s": 0.26531509100000505, "prompt_tokens": 151, "n_new_tokens": 6}
+{"qid": "q08", "source_id": "gramvaani-0089", "policy": "ENC_b50", "answer": "39702", "latency_s": 0.2565340419999984, "prompt_tokens": 126, "n_new_tokens": 6}
+{"qid": "q09", "source_id": "gramvaani-0213", "policy": "ENC_b50", "answer": "8 से 12 घंटे", "latency_s": 0.3740959169999911, "prompt_tokens": 124, "n_new_tokens": 9}
+{"qid": "q10", "source_id": "gramvaani-0158", "policy": "ENC_b50", "answer": "422", "latency_s": 0.19046390799999813, "prompt_tokens": 123, "n_new_tokens": 4}
+{"qid": "q11", "source_id": "gramvaani-0861", "policy": "ENC_b50", "answer": "शाम 8:40", "latency_s": 0.3754285589999995, "prompt_tokens": 129, "n_new_tokens": 8}
+{"qid": "q12", "source_id": "gramvaani-0062", "policy": "ENC_b50", "answer": "18", "latency_s": 0.15218244099999367, "prompt_tokens": 127, "n_new_tokens": 3}
+{"qid": "q13", "source_id": "gramvaani-0403", "policy": "ENC_b50", "answer": "अनुशासन की कमी", "latency_s": 0.36352892600000075, "prompt_tokens": 123, "n_new_tokens": 8}
+{"qid": "q14", "source_id": "gramvaani-0328", "policy": "ENC_b50", "answer": "दवाई इतनी महंगी है कि खरीद नहीं पाते।", "latency_s": 0.8168666180000059, "prompt_tokens": 134, "n_new_tokens": 18}
+{"qid": "q15", "source_id": "gramvaani-0820", "policy": "ENC_b50", "answer": "नहीं", "latency_s": 0.15448479400001247, "prompt_tokens": 133, "n_new_tokens": 3}
+{"qid": "q16", "source_id": "gramvaani-0812", "policy": "ENC_b50", "answer": "नहीं", "latency_s": 0.15441045800000097, "prompt_tokens": 131, "n_new_tokens": 3}
+{"qid": "q17", "source_id": "gramvaani-0861", "policy": "ENC_b50", "answer": "सफीद रहमान", "latency_s": 0.27947815900000705, "prompt_tokens": 124, "n_new_tokens": 6}
+{"qid": "q18", "source_id": "gramvaani-0385", "policy": "ENC_b50", "answer": "आलोक रंजन घोष", "latency_s": 0.4080987010000001, "prompt_tokens": 122, "n_new_tokens": 9}
+{"qid": "q19", "source_id": "gramvaani-0701", "policy": "ENC_b50", "answer": "अखिलेश कुमार", "latency_s": 0.283674419999997, "prompt_tokens": 148, "n_new_tokens": 6}
+{"qid": "q20", "source_id": "gramvaani-0442", "policy": "ENC_b50", "answer": "बिपिन कुमार", "latency_s": 0.28388530899999864, "prompt_tokens": 132, "n_new_tokens": 6}
+{"qid": "q21", "source_id": "gramvaani-0795", "policy": "ENC_b50", "answer": "संजीवन कुमार सिंह", "latency_s": 0.3268884579999991, "prompt_tokens": 146, "n_new_tokens": 7}
+{"qid": "q22", "source_id": "gramvaani-0667", "policy": "ENC_b50", "answer": "विजय कुमार सिंह", "latency_s": 0.283913474000002, "prompt_tokens": 159, "n_new_tokens": 6}
+{"qid": "q23", "source_id": "gramvaani-0260", "policy": "ENC_b50", "answer": "अज्ञात", "latency_s": 0.2362653440000031, "prompt_tokens": 128, "n_new_tokens": 5}
+{"qid": "q24", "source_id": "gramvaani-0170", "policy": "ENC_b50", "answer": "अज्ञात", "latency_s": 0.241188441999995, "prompt_tokens": 135, "n_new_tokens": 5}
+{"qid": "q25", "source_id": "gramvaani-0134", "policy": "ENC_b50", "answer": "अज्ञात", "latency_s": 0.23966195199999163, "prompt_tokens": 190, "n_new_tokens": 5}
+{"qid": "q26", "source_id": "gramvaani-0833", "policy": "ENC_b50", "answer": "अज्ञात", "latency_s": 0.2409655769999972, "prompt_tokens": 140, "n_new_tokens": 5}
+{"qid": "q01", "source_id": "gramvaani-0250", "policy": "HEADCONF_b50", "answer": "40", "latency_s": 0.15449243300000148, "prompt_tokens": 130, "n_new_tokens": 3}
+{"qid": "q02", "source_id": "gramvaani-0250", "policy": "HEADCONF_b50", "answer": "106", "latency_s": 0.1971443900000054, "prompt_tokens": 143, "n_new_tokens": 4}
+{"qid": "q03", "source_id": "gramvaani-0337", "policy": "HEADCONF_b50", "answer": "7800", "latency_s": 0.2408098779999932, "prompt_tokens": 130, "n_new_tokens": 5}
+{"qid": "q04", "source_id": "gramvaani-0011", "policy": "HEADCONF_b50", "answer": "10000", "latency_s": 0.28175368600000184, "prompt_tokens": 145, "n_new_tokens": 6}
+{"qid": "q05", "source_id": "gramvaani-0833", "policy": "HEADCONF_b50", "answer": "2003 और 2009 के बीच", "latency_s": 0.5756863940000017, "prompt_tokens": 144, "n_new_tokens": 13}
+{"qid": "q06", "source_id": "gramvaani-1012", "policy": "HEADCONF_b50", "answer": "618 से 422 रुपये", "latency_s": 0.43750532600000724, "prompt_tokens": 123, "n_new_tokens": 10}
+{"qid": "q07", "source_id": "gramvaani-0325", "policy": "HEADCONF_b50", "answer": "2250 रुपये", "latency_s": 0.2747652279999926, "prompt_tokens": 151, "n_new_tokens": 6}
+{"qid": "q08", "source_id": "gramvaani-0089", "policy": "HEADCONF_b50", "answer": "39702", "latency_s": 0.2696307130000122, "prompt_tokens": 126, "n_new_tokens": 6}
+{"qid": "q09", "source_id": "gramvaani-0213", "policy": "HEADCONF_b50", "answer": "8 से 12 घंटे", "latency_s": 0.3959823610000086, "prompt_tokens": 124, "n_new_tokens": 9}
+{"qid": "q10", "source_id": "gramvaani-0158", "policy": "HEADCONF_b50", "answer": "422", "latency_s": 0.18775848800000006, "prompt_tokens": 123, "n_new_tokens": 4}
+{"qid": "q11", "source_id": "gramvaani-0861", "policy": "HEADCONF_b50", "answer": "शाम 8:40", "latency_s": 0.35980151600000454, "prompt_tokens": 129, "n_new_tokens": 8}
+{"qid": "q12", "source_id": "gramvaani-0062", "policy": "HEADCONF_b50", "answer": "18", "latency_s": 0.14499453599999867, "prompt_tokens": 127, "n_new_tokens": 3}
+{"qid": "q13", "source_id": "gramvaani-0403", "policy": "HEADCONF_b50", "answer": "अनुशासन की कमी", "latency_s": 0.35279536800000244, "prompt_tokens": 123, "n_new_tokens": 8}
+{"qid": "q14", "source_id": "gramvaani-0328", "policy": "HEADCONF_b50", "answer": "दवाई इतनी महंगी है कि खरीद नहीं पाते।", "latency_s": 0.7741977270000007, "prompt_tokens": 134, "n_new_tokens": 18}
+{"qid": "q15", "source_id": "gramvaani-0820", "policy": "HEADCONF_b50", "answer": "नहीं", "latency_s": 0.15039833499999133, "prompt_tokens": 133, "n_new_tokens": 3}
+{"qid": "q16", "source_id": "gramvaani-0812", "policy": "HEADCONF_b50", "answer": "नहीं", "latency_s": 0.15063154000000623, "prompt_tokens": 131, "n_new_tokens": 3}
+{"qid": "q17", "source_id": "gramvaani-0861", "policy": "HEADCONF_b50", "answer": "सफीद रहमान", "latency_s": 0.2697155159999909, "prompt_tokens": 124, "n_new_tokens": 6}
+{"qid": "q18", "source_id": "gramvaani-0385", "policy": "HEADCONF_b50", "answer": "आलोक रंजन घोष", "latency_s": 0.39463969699998813, "prompt_tokens": 122, "n_new_tokens": 9}
+{"qid": "q19", "source_id": "gramvaani-0701", "policy": "HEADCONF_b50", "answer": "अखिलेश कुमार", "latency_s": 0.27355600900000354, "prompt_tokens": 148, "n_new_tokens": 6}
+{"qid": "q20", "source_id": "gramvaani-0442", "policy": "HEADCONF_b50", "answer": "बिपिन कुमार", "latency_s": 0.27477827299999547, "prompt_tokens": 132, "n_new_tokens": 6}
+{"qid": "q21", "source_id": "gramvaani-0795", "policy": "HEADCONF_b50", "answer": "संजीवन कुमार सिंह", "latency_s": 0.31414598100001, "prompt_tokens": 146, "n_new_tokens": 7}
+{"qid": "q22", "source_id": "gramvaani-0667", "policy": "HEADCONF_b50", "answer": "विजय कुमार सिंह", "latency_s": 0.27560393800000327, "prompt_tokens": 159, "n_new_tokens": 6}
+{"qid": "q23", "source_id": "gramvaani-0260", "policy": "HEADCONF_b50", "answer": "अज्ञात", "latency_s": 0.22966959199999337, "prompt_tokens": 128, "n_new_tokens": 5}
+{"qid": "q24", "source_id": "gramvaani-0170", "policy": "HEADCONF_b50", "answer": "अज्ञात", "latency_s": 0.23584270599999968, "prompt_tokens": 135, "n_new_tokens": 5}
+{"qid": "q25", "source_id": "gramvaani-0134", "policy": "HEADCONF_b50", "answer": "अज्ञात", "latency_s": 0.2346635290000023, "prompt_tokens": 190, "n_new_tokens": 5}
+{"qid": "q26", "source_id": "gramvaani-0833", "policy": "HEADCONF_b50", "answer": "अज्ञात", "latency_s": 0.23488541399999008, "prompt_tokens": 140, "n_new_tokens": 5}

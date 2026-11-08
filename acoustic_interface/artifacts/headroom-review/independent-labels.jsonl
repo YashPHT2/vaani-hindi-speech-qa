@@ -1,0 +1,40 @@
+{"case": "067570a1e8523a503f30", "correct": false, "hallucinated": false, "reason": "Incomplete: omits tourists; भेजने may be corruption of sellers but does not recover the complete requested pair.", "ambiguous": true}
+{"case": "09c422a185a91f382ca8", "correct": false, "hallucinated": false, "reason": "Tautological sound answer does not identify tourists and sellers.", "ambiguous": false}
+{"case": "1102b03a5adb6ff0f3da", "correct": false, "hallucinated": false, "reason": "Abstains although year is explicitly supplied.", "ambiguous": false}
+{"case": "24344b6f7eb2a9864e62", "correct": true, "hallucinated": false, "reason": "Explicit correct year 1966, with harmless suffix.", "ambiguous": false}
+{"case": "281f38fc7683653ec7cd", "correct": false, "hallucinated": false, "reason": "रोस is an incomplete potentially recognizable stem, but does not reliably identify Rossby number.", "ambiguous": true}
+{"case": "3b9c5056fa3893bfb342", "correct": true, "hallucinated": false, "reason": "Exact supported destination.", "ambiguous": false}
+{"case": "3bf6bffec4b27e0d45ec", "correct": true, "hallucinated": false, "reason": "Recognizable spelling variant of Schengen.", "ambiguous": true}
+{"case": "4a515e7f6e00e1e04f5d", "correct": false, "hallucinated": true, "reason": "Invents a species count absent from evidence.", "ambiguous": false}
+{"case": "510916bbda5f8ff94bab", "correct": false, "hallucinated": false, "reason": "Repeats telescope rather than identifying remote areas.", "ambiguous": false}
+{"case": "51e3b3ec58014a5cb581", "correct": true, "hallucinated": false, "reason": "Identifies Schengen in a supported albeit truncated restatement of the visa rule.", "ambiguous": true}
+{"case": "530101b949a49ae6780d", "correct": false, "hallucinated": false, "reason": "Abstains although Earth is explicitly named.", "ambiguous": false}
+{"case": "5febf167fdc682ed94e6", "correct": false, "hallucinated": false, "reason": "Uninterpretable fragment; no recoverable side of river and no clear factual assertion.", "ambiguous": true}
+{"case": "60efdb4eb1b07a670790", "correct": false, "hallucinated": false, "reason": "Uninterpretable fragment does not recover toilet; no definite invented assertion.", "ambiguous": true}
+{"case": "70e18450f11b535ac223", "correct": false, "hallucinated": false, "reason": "Says small number without naming Rossby.", "ambiguous": false}
+{"case": "73bd5ded489ce3fa3115", "correct": false, "hallucinated": true, "reason": "Misnames the lion group as social group rather than pride.", "ambiguous": false}
+{"case": "7b60b8a038a877c9d30e", "correct": false, "hallucinated": true, "reason": "Misnames the lion group using a category description rather than pride.", "ambiguous": false}
+{"case": "8f281bb91adccc6eb684", "correct": false, "hallucinated": false, "reason": "Schengen member countries are mentioned, but this fragment does not identify the required visa clearly.", "ambiguous": true}
+{"case": "935c22ddb674e7d3f0e8", "correct": false, "hallucinated": false, "reason": "Abstains despite explicitly named pride.", "ambiguous": false}
+{"case": "9baeb3f1227477ddb71c", "correct": false, "hallucinated": false, "reason": "Abstains despite explicit across-the-river location.", "ambiguous": false}
+{"case": "9ef9870311dc87db36bf", "correct": false, "hallucinated": false, "reason": "Incomplete restatement never identifies Rossby; corruption is not automatically hallucination.", "ambiguous": false}
+{"case": "9f93b9fabccc2d4d3843", "correct": false, "hallucinated": false, "reason": "रोस alone is too incomplete to reliably identify Rossby, though possibly intended.", "ambiguous": true}
+{"case": "a56dbdd1aac4c6f0841d", "correct": false, "hallucinated": false, "reason": "Abstains despite explicit visa name.", "ambiguous": false}
+{"case": "ab91ee0a9ae46875241e", "correct": false, "hallucinated": false, "reason": "Truncated restatement gives no remote-area answer.", "ambiguous": false}
+{"case": "afd569011c3e2907991a", "correct": true, "hallucinated": false, "reason": "Correct abstention: no species count supplied.", "ambiguous": false}
+{"case": "b43d8067685ff4b39033", "correct": true, "hallucinated": false, "reason": "Truncated प्रकाश प्रदूष recognizably identifies light pollution in copied context; mark borderline completeness.", "ambiguous": true}
+{"case": "b70ba0b71e44a1f1e8af", "correct": false, "hallucinated": false, "reason": "Abstains despite explicit toilet destination.", "ambiguous": false}
+{"case": "c52989978354dca4f3a7", "correct": false, "hallucinated": true, "reason": "Invents numerical examples 1 and 0.5 and does not name Rossby.", "ambiguous": false}
+{"case": "c66185bfcf2fa0ce122f", "correct": false, "hallucinated": false, "reason": "Abstains despite explicit tourists and sellers.", "ambiguous": false}
+{"case": "ca80b5f77f3c260a3e46", "correct": false, "hallucinated": false, "reason": "Abstains despite explicit light pollution.", "ambiguous": false}
+{"case": "d860f23a0f3b9a00fd9d", "correct": true, "hallucinated": false, "reason": "Exact supported Rossby number.", "ambiguous": false}
+{"case": "e1604ca58e87c1de4914", "correct": true, "hallucinated": false, "reason": "शुचाले is a recognizable phonetic spelling of शौचालय.", "ambiguous": true}
+{"case": "e3cdc8ec1c07bfa2c273", "correct": false, "hallucinated": true, "reason": "Treats social cats as the group name, unsupported relation; answer should be pride.", "ambiguous": false}
+{"case": "e44a4753cdcf324f330d", "correct": false, "hallucinated": false, "reason": "Echoes the question without identifying remote areas.", "ambiguous": false}
+{"case": "e5120a00b27dd7db95c4", "correct": false, "hallucinated": false, "reason": "Abstains despite explicit remote areas.", "ambiguous": false}
+{"case": "e63cbebd5afa4a3fbf22", "correct": false, "hallucinated": false, "reason": "Abstains despite explicit toilet destination.", "ambiguous": false}
+{"case": "ed14b1f1cc8004870a10", "correct": false, "hallucinated": false, "reason": "Uninterpretable answer; no recoverable complete speaker pair or definite assertion.", "ambiguous": true}
+{"case": "f03ab3fa8985a4817cdb", "correct": false, "hallucinated": false, "reason": "At best corrupted sellers alone, omitting tourists.", "ambiguous": true}
+{"case": "f2c54fbfcb93ae7a377d", "correct": true, "hallucinated": false, "reason": "Correct abstention: height in metres is absent.", "ambiguous": false}
+{"case": "f4619cf180c2f0162c48", "correct": false, "hallucinated": true, "reason": "Confuses bus destinations with station location, inventing east/Jakar side of river.", "ambiguous": false}
+{"case": "f66585eb7d77b9a649d2", "correct": true, "hallucinated": false, "reason": "Truncated transcription explicitly retains नदी के उस पार and answers the side question.", "ambiguous": true}

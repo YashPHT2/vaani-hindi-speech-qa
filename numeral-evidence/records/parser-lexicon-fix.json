@@ -1,0 +1,347 @@
+{
+ "slot_counts": {
+  "correct": 453,
+  "corrupted": 38,
+  "deleted_by_hypothesis": 25,
+  "extra_in_hypothesis": 96
+ },
+ "reference_slots": 516,
+ "corruption_rate": 0.0736,
+ "deletion_rate": 0.0484,
+ "corrupted_slots": [
+  {
+   "source_id": "gramvaani-0051",
+   "ref_value": 4,
+   "hyp_value": 6,
+   "ref_surface": "चार",
+   "hyp_surface": "6"
+  },
+  {
+   "source_id": "gramvaani-0077",
+   "ref_value": 4,
+   "hyp_value": 6,
+   "ref_surface": "चार",
+   "hyp_surface": "6"
+  },
+  {
+   "source_id": "gramvaani-0194",
+   "ref_value": 70,
+   "hyp_value": 6070,
+   "ref_surface": "सत्तर",
+   "hyp_surface": "6070"
+  },
+  {
+   "source_id": "gramvaani-0210",
+   "ref_value": 33,
+   "hyp_value": 37,
+   "ref_surface": "तैंतीस",
+   "hyp_surface": "37"
+  },
+  {
+   "source_id": "gramvaani-0260",
+   "ref_value": 4,
+   "hyp_value": 6,
+   "ref_surface": "चार",
+   "hyp_surface": "6"
+  },
+  {
+   "source_id": "gramvaani-0266",
+   "ref_value": 1502,
+   "hyp_value": 26502,
+   "ref_surface": "हजार पाँच सौ दो",
+   "hyp_surface": "26502"
+  },
+  {
+   "source_id": "gramvaani-0316",
+   "ref_value": 186,
+   "hyp_value": 86,
+   "ref_surface": "एक सौ छियासी",
+   "hyp_surface": "86"
+  },
+  {
+   "source_id": "gramvaani-0339",
+   "ref_value": 4,
+   "hyp_value": 6,
+   "ref_surface": "चार",
+   "hyp_surface": "6"
+  },
+  {
+   "source_id": "gramvaani-0385",
+   "ref_value": 4,
+   "hyp_value": 6,
+   "ref_surface": "चार",
+   "hyp_surface": "6"
+  },
+  {
+   "source_id": "gramvaani-0400",
+   "ref_value": 4,
+   "hyp_value": 6,
+   "ref_surface": "चार",
+   "hyp_surface": "6"
+  },
+  {
+   "source_id": "gramvaani-0447",
+   "ref_value": 20000,
+   "hyp_value": 20,
+   "ref_surface": "बीस हज़ार",
+   "hyp_surface": "20"
+  },
+  {
+   "source_id": "gramvaani-0473",
+   "ref_value": 100,
+   "hyp_value": 150,
+   "ref_surface": "एक सौ",
+   "hyp_surface": "150"
+  },
+  {
+   "source_id": "gramvaani-0473",
+   "ref_value": 4,
+   "hyp_value": 6,
+   "ref_surface": "चार",
+   "hyp_surface": "6"
+  },
+  {
+   "source_id": "gramvaani-0482",
+   "ref_value": 70,
+   "hyp_value": 75,
+   "ref_surface": "सत्तर",
+   "hyp_surface": "75"
+  },
+  {
+   "source_id": "gramvaani-0501",
+   "ref_value": 4,
+   "hyp_value": 6,
+   "ref_surface": "चार",
+   "hyp_surface": "6"
+  },
+  {
+   "source_id": "gramvaani-0504",
+   "ref_value": 85000,
+   "hyp_value": 33000,
+   "ref_surface": "दस हजार बीस हजार पच्चीस हजार तीस हजार",
+   "hyp_surface": "33,000"
+  },
+  {
+   "source_id": "gramvaani-0529",
+   "ref_value": 33,
+   "hyp_value": 30,
+   "ref_surface": "तैंतीस",
+   "hyp_surface": "30"
+  },
+  {
+   "source_id": "gramvaani-0538",
+   "ref_value": 100000,
+   "hyp_value": 5700000,
+   "ref_surface": "लाख",
+   "hyp_surface": "57 लाख"
+  },
+  {
+   "source_id": "gramvaani-0543",
+   "ref_value": 2,
+   "hyp_value": 1,
+   "ref_surface": "दो",
+   "hyp_surface": "1"
+  },
+  {
+   "source_id": "gramvaani-0543",
+   "ref_value": 4,
+   "hyp_value": 6,
+   "ref_surface": "चार",
+   "hyp_surface": "6"
+  },
+  {
+   "source_id": "gramvaani-0609",
+   "ref_value": 1,
+   "hyp_value": 100000,
+   "ref_surface": "एक",
+   "hyp_surface": "100000"
+  },
+  {
+   "source_id": "gramvaani-0667",
+   "ref_value": 25000000,
+   "hyp_value": 10000000,
+   "ref_surface": "ढ़ाई करोड़",
+   "hyp_surface": "करोड़"
+  },
+  {
+   "source_id": "gramvaani-0670",
+   "ref_value": 4,
+   "hyp_value": 6,
+   "ref_surface": "चार",
+   "hyp_surface": "6"
+  },
+  {
+   "source_id": "gramvaani-0688",
+   "ref_value": 1256,
+   "hyp_value": 125,
+   "ref_surface": "बारह सौ छप्पन",
+   "hyp_surface": "125"
+  },
+  {
+   "source_id": "gramvaani-0745",
+   "ref_value": 6,
+   "hyp_value": 26,
+   "ref_surface": "छह",
+   "hyp_surface": "26"
+  },
+  {
+   "source_id": "gramvaani-0783",
+   "ref_value": 4,
+   "hyp_value": 6,
+   "ref_surface": "चार",
+   "hyp_surface": "6"
+  },
+  {
+   "source_id": "gramvaani-0811",
+   "ref_value": 30000,
+   "hyp_value": 20000,
+   "ref_surface": "दस हज़ार बीस हज़ार",
+   "hyp_surface": "20000"
+  },
+  {
+   "source_id": "gramvaani-0825",
+   "ref_value": 46,
+   "hyp_value": 40,
+   "ref_surface": "छियालीस",
+   "hyp_surface": "40"
+  },
+  {
+   "source_id": "gramvaani-0833",
+   "ref_value": 600000,
+   "hyp_value": 600061,
+   "ref_surface": "छह लाख",
+   "hyp_surface": "6 लाख 61"
+  },
+  {
+   "source_id": "gramvaani-0835",
+   "ref_value": 400,
+   "hyp_value": 425,
+   "ref_surface": "चार सौ",
+   "hyp_surface": "425"
+  },
+  {
+   "source_id": "gramvaani-0851",
+   "ref_value": 500000,
+   "hyp_value": 5000,
+   "ref_surface": "पांच सौ हजार",
+   "hyp_surface": "5000"
+  },
+  {
+   "source_id": "gramvaani-0858",
+   "ref_value": 300000,
+   "hyp_value": 22,
+   "ref_surface": "तीन लाख",
+   "hyp_surface": "22"
+  },
+  {
+   "source_id": "gramvaani-0863",
+   "ref_value": 2000,
+   "hyp_value": 2013,
+   "ref_surface": "दो हज़ार",
+   "hyp_surface": "2013"
+  },
+  {
+   "source_id": "gramvaani-0887",
+   "ref_value": 4,
+   "hyp_value": 6,
+   "ref_surface": "चार",
+   "hyp_surface": "6"
+  },
+  {
+   "source_id": "gramvaani-0910",
+   "ref_value": 20,
+   "hyp_value": 20000,
+   "ref_surface": "बीस",
+   "hyp_surface": "20,000"
+  },
+  {
+   "source_id": "gramvaani-0950",
+   "ref_value": 1,
+   "hyp_value": 1000,
+   "ref_surface": "एक",
+   "hyp_surface": "1000"
+  },
+  {
+   "source_id": "gramvaani-1005",
+   "ref_value": 4,
+   "hyp_value": 6,
+   "ref_surface": "चार",
+   "hyp_surface": "6"
+  },
+  {
+   "source_id": "gramvaani-1012",
+   "ref_value": 418,
+   "hyp_value": 618,
+   "ref_surface": "चार सौ अठारह",
+   "hyp_surface": "618"
+  }
+ ],
+ "listener_pack": {
+  "n_corrupt_items": 32,
+  "now_agree_after_lexicon_fix": 6,
+  "still_disagree": 26,
+  "items_no_longer_corrupt": [
+   {
+    "item_id": "item005",
+    "ref_value": 1,
+    "hyp_value": 1,
+    "was_recorded_as": [
+     4,
+     6
+    ],
+    "ref_surface": "एक"
+   },
+   {
+    "item_id": "item009",
+    "ref_value": 2533,
+    "hyp_value": 2533,
+    "was_recorded_as": [
+     133,
+     7
+    ],
+    "ref_surface": "पचीस सौ तैंतीस"
+   },
+   {
+    "item_id": "item013",
+    "ref_value": 2,
+    "hyp_value": 2,
+    "was_recorded_as": [
+     19,
+     2017
+    ],
+    "ref_surface": "दो"
+   },
+   {
+    "item_id": "item025",
+    "ref_value": 331,
+    "hyp_value": 331,
+    "was_recorded_as": [
+     300,
+     331
+    ],
+    "ref_surface": "तीन सौ इक्कतीस"
+   },
+   {
+    "item_id": "item026",
+    "ref_value": 2017,
+    "hyp_value": 2017,
+    "was_recorded_as": [
+     2000,
+     2017
+    ],
+    "ref_surface": "दो हज़ार सतरह"
+   },
+   {
+    "item_id": "item032",
+    "ref_value": 377,
+    "hyp_value": 377,
+    "was_recorded_as": [
+     300,
+     377
+    ],
+    "ref_surface": "तीन सौ सतत्तर"
+   }
+  ],
+  "residual_corruption_rate_of_pack": 0.8125
+ }
+}

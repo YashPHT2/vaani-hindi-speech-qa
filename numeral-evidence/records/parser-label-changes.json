@@ -1,0 +1,57 @@
+{
+ "old": {
+  "counts": {
+   "correct": 441,
+   "deleted_by_hypothesis": 28,
+   "corrupted": 51,
+   "insertion": 89
+  },
+  "reference_slots": 520,
+  "corruption_rate": 0.0981,
+  "deletion_rate": 0.0538
+ },
+ "new": {
+  "counts": {
+   "correct": 453,
+   "deleted_by_hypothesis": 25,
+   "insertion": 96,
+   "corrupted": 38
+  },
+  "reference_slots": 516,
+  "corruption_rate": 0.0736,
+  "deletion_rate": 0.0484
+ },
+ "slot_table_changes": {
+  "n_changed": 32,
+  "detail": {
+   "None__to__corrupted": 2,
+   "corrupted__to__insertion": 5,
+   "corrupted__to__correct": 9,
+   "insertion__to__correct": 3,
+   "corrupted__to__None": 2,
+   "None__to__insertion": 3,
+   "correct__to__correct": 1,
+   "correct__to__None": 1,
+   "deleted_by_hypothesis__to__correct": 1,
+   "deleted_by_hypothesis__to__insertion": 2,
+   "insertion__to__corrupted": 1,
+   "correct__to__insertion": 1,
+   "None__to__correct": 1
+  }
+ },
+ "scored_slots": {
+  "n_scored": 416,
+  "changes": {
+   "unchanged": 405,
+   "corrupted__to__insertion": 3,
+   "corrupted__to__correct": 3,
+   "insertion__to__correct": 1,
+   "correct__to__correct": 1,
+   "deleted_by_hypothesis__to__insertion": 1,
+   "insertion__to__corrupted": 1,
+   "correct__to__insertion": 1
+  },
+  "wrong_old": 28,
+  "wrong_new": 23
+ }
+}

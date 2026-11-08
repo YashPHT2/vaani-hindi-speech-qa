@@ -1,0 +1,62 @@
+{
+  "input_sha256": "713f094ecc7a11350878ccc903de9d4ac7d043da36ff6b2d5b5b712f98e0c4f4",
+  "case_count": 286,
+  "selected_count": 20,
+  "strata": [
+    {
+      "answerable": false,
+      "output_category": "abstention_or_empty",
+      "population": 12,
+      "selected": [
+        "1894b2a99e01fac1",
+        "1ccd480d20e9b4dd",
+        "1cdff393c150bccd",
+        "6eea255d662b25b6"
+      ]
+    },
+    {
+      "answerable": false,
+      "output_category": "other_nonempty",
+      "population": 32,
+      "selected": [
+        "020c00cc5a569e6f",
+        "0cdba3f1f5971023",
+        "0cf4367a390a417d",
+        "0e85282788301871"
+      ]
+    },
+    {
+      "answerable": true,
+      "output_category": "abstention_or_empty",
+      "population": 40,
+      "selected": [
+        "0316d751a5f3dd79",
+        "07bf97e91780fcf1",
+        "12b003dda7f6c3a5",
+        "14ad89752359eef2"
+      ]
+    },
+    {
+      "answerable": true,
+      "output_category": "exact_non_abstention",
+      "population": 47,
+      "selected": [
+        "0052c00abc282fd3",
+        "1a80d31779a38735",
+        "1a84b692edb6d9fb",
+        "3310a729ad7361d7"
+      ]
+    },
+    {
+      "answerable": true,
+      "output_category": "other_nonempty",
+      "population": 155,
+      "selected": [
+        "0126d68c895d75ec",
+        "01abd2f5abfb9b80",
+        "02fb727835664436",
+        "031a0f815321e5cb"
+      ]
+    }
+  ]
+}

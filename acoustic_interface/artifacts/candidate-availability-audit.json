@@ -1,0 +1,30 @@
+{
+  "source": "Frozenpilot result and archivedmetricdefinition",
+  "pilot_result_sha256": "e8ac333d7410e05b0753a3e7900794b1a1e43b9cfd0d5349b71e93658bc0644e",
+  "archived_training_sha256": "2de1b0ab535e081e3f454cde40499ab4ce0a8694ce3724fbbc063f8a212174ac",
+  "archived_metric_definition": "alignment_counts\": {c: {\"total\": sum(r[\"condition\"] == c for r in chosen),\r\n            \"aligned\": sum(r[\"condition\"] == c and bool(evidence[r[\"id\"]][\"frame_mask\"].any()) for r in chosen),\r\n            \"more_than_k\": sum(r[\"condition\"] == c and int(evidence[r[\"id\"]][\"span_mask\"].sum()) > 4 for r in chosen)} for c in (\"clean\", \"noise_10db\")},\r\n        \"",
+  "historical_sources": 44,
+  "views": 88,
+  "conditions": {
+    "clean": {
+      "views": 44,
+      "with_valid_frames": 39,
+      "no_valid_frames": 5
+    },
+    "noise_10db": {
+      "views": 44,
+      "with_valid_frames": 37,
+      "no_valid_frames": 7
+    }
+  },
+  "no_valid_frame_views": 12,
+  "historical_dev_no_valid_frame_ids": [
+    "fleurs-hi-1806-noise_10db"
+  ],
+  "training_zero_view_ids": "Not locally exported; aggregateonly",
+  "limits": [
+    "Views are correlated within44sources, not88independent cases.",
+    "Chosenhistoricalpilot sample is notpopulationprevalence.",
+    "5clean+7noisy failures notallsourceidentified fromlocalmetadata."
+  ]
+}

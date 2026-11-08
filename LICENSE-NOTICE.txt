@@ -1,0 +1,26 @@
+Licensing and data notice
+
+Code and prose are provided for research review.
+
+Source speech data
+
+FLEURS: Few-shot Learning Evaluation of Universal Representations of
+Speech (Conneau et al., 2022), Hindi hi_in, CC BY 4.0.
+<https://huggingface.co/datasets/google/fleurs>
+
+This repository ships no audio and no copy of the FLEURS corpus.
+It ships source identifiers, transcripts, derived question/answer
+records and acquisition scripts. Reproducing the evaluation requires
+obtaining the upstream shard from the publisher and complying with
+CC BY 4.0, including attribution.
+
+Model weights
+
+Whisper-small (MIT) and Qwen2.5-1.5B-Instruct (Apache-2.0) are
+referenced by pinned revision hash only. No weights are redistributed.
+
+Derived annotations
+
+Hindi questions, accepted answers and model review labels are
+project-generated annotations, not part of FLEURS and not
+human-adjudicated. They carry no warranty of correctness.

@@ -1,0 +1,859 @@
+{
+  "status": "alignment_complete",
+  "result_sha256": "0ae6009032f290081836c1626bbb173923fc86d13aae9437ab28ab25fd21bfc0",
+  "teacher_eligibility": {
+    "eligible_sources": 14,
+    "total_sources": 32,
+    "eligible_views": 28,
+    "total_views": 64,
+    "eligible_answerable_sources": 11,
+    "eligible_unanswerable_sources": 3,
+    "eligible_unanswerable_abstention_sources": 3,
+    "answerable_sources": 25,
+    "minimum_eligible_answerable_sources": 4,
+    "passed": true,
+    "eligible_supervised_tokens": 250,
+    "total_supervised_tokens": 628,
+    "eligible_views_by_condition": {
+      "clean": 14,
+      "noise_10db": 14
+    },
+    "eligible_supervised_tokens_by_condition": {
+      "clean": 125,
+      "noise_10db": 125
+    },
+    "rule": "frozen score.py norm, nonempty exact match against any alias"
+  },
+  "new_distinct_review_cases": 37,
+  "normalized_em": {
+    "text": 4,
+    "ce_real": 2,
+    "ce_wrong": 2,
+    "kl_real": 4,
+    "kl_wrong": 3
+  },
+  "mean_nll": {
+    "text": 1.7242764444513754,
+    "ce_real": 1.4966837281191891,
+    "ce_wrong": 1.4626068845391273,
+    "kl_real": 1.4510390897366134,
+    "kl_wrong": 1.4765685183758086
+  },
+  "output_counts": {
+    "text": {
+      "empty": 0,
+      "abstained": 13,
+      "finish": {
+        "stop": 18,
+        "length": 4
+      },
+      "unsupported_assertions": 2,
+      "ambiguous": 5
+    },
+    "ce_real": {
+      "empty": 0,
+      "abstained": 5,
+      "finish": {
+        "length": 3,
+        "stop": 19
+      },
+      "unsupported_assertions": 4,
+      "ambiguous": 6
+    },
+    "ce_wrong": {
+      "empty": 0,
+      "abstained": 6,
+      "finish": {
+        "stop": 19,
+        "length": 3
+      },
+      "unsupported_assertions": 5,
+      "ambiguous": 6
+    },
+    "kl_real": {
+      "empty": 0,
+      "abstained": 7,
+      "finish": {
+        "length": 1,
+        "stop": 21
+      },
+      "unsupported_assertions": 7,
+      "ambiguous": 3
+    },
+    "kl_wrong": {
+      "empty": 0,
+      "abstained": 9,
+      "finish": {
+        "stop": 19,
+        "length": 3
+      },
+      "unsupported_assertions": 6,
+      "ambiguous": 7
+    }
+  },
+  "reconciled": {
+    "passed": false,
+    "strict": false,
+    "sources": [
+      {
+        "source_id": "fleurs-hi-1712",
+        "views": [
+          {
+            "id": "fleurs-hi-1712-clean",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          },
+          {
+            "id": "fleurs-hi-1712-noise_10db",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          }
+        ],
+        "actual_delta": 0,
+        "donor_delta": 0
+      },
+      {
+        "source_id": "fleurs-hi-1730",
+        "views": [
+          {
+            "id": "fleurs-hi-1730-clean",
+            "correct": {
+              "text": true,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          },
+          {
+            "id": "fleurs-hi-1730-noise_10db",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          }
+        ],
+        "actual_delta": 0,
+        "donor_delta": 0
+      },
+      {
+        "source_id": "fleurs-hi-1737",
+        "views": [
+          {
+            "id": "fleurs-hi-1737-clean",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": true,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": -1
+          },
+          {
+            "id": "fleurs-hi-1737-noise_10db",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          }
+        ],
+        "actual_delta": 0,
+        "donor_delta": -0.5
+      },
+      {
+        "source_id": "fleurs-hi-1744",
+        "views": [
+          {
+            "id": "fleurs-hi-1744-clean",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          },
+          {
+            "id": "fleurs-hi-1744-noise_10db",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          }
+        ],
+        "actual_delta": 0,
+        "donor_delta": 0
+      },
+      {
+        "source_id": "fleurs-hi-1761",
+        "views": [
+          {
+            "id": "fleurs-hi-1761-clean",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          },
+          {
+            "id": "fleurs-hi-1761-noise_10db",
+            "correct": {
+              "text": true,
+              "ce_real": false,
+              "ce_wrong": true,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": -1
+          }
+        ],
+        "actual_delta": 0,
+        "donor_delta": -0.5
+      },
+      {
+        "source_id": "fleurs-hi-1882",
+        "views": [
+          {
+            "id": "fleurs-hi-1882-clean",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          },
+          {
+            "id": "fleurs-hi-1882-noise_10db",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          }
+        ],
+        "actual_delta": 0,
+        "donor_delta": 0
+      },
+      {
+        "source_id": "fleurs-hi-1890",
+        "views": [
+          {
+            "id": "fleurs-hi-1890-clean",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": true,
+              "kl_real": false,
+              "kl_wrong": true
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          },
+          {
+            "id": "fleurs-hi-1890-noise_10db",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          }
+        ],
+        "actual_delta": 0,
+        "donor_delta": 0
+      },
+      {
+        "source_id": "fleurs-hi-1911",
+        "views": [
+          {
+            "id": "fleurs-hi-1911-clean",
+            "correct": {
+              "text": false,
+              "ce_real": true,
+              "ce_wrong": false,
+              "kl_real": true,
+              "kl_wrong": true
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 1
+          },
+          {
+            "id": "fleurs-hi-1911-noise_10db",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          }
+        ],
+        "actual_delta": 0,
+        "donor_delta": 0.5
+      },
+      {
+        "source_id": "fleurs-hi-1934",
+        "views": [
+          {
+            "id": "fleurs-hi-1934-clean",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          },
+          {
+            "id": "fleurs-hi-1934-noise_10db",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          }
+        ],
+        "actual_delta": 0,
+        "donor_delta": 0
+      },
+      {
+        "source_id": "fleurs-hi-1949",
+        "views": [
+          {
+            "id": "fleurs-hi-1949-clean",
+            "correct": {
+              "text": true,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": true,
+              "kl_wrong": false
+            },
+            "specific_rescue": true,
+            "actual_delta": 1,
+            "donor_delta": 0
+          },
+          {
+            "id": "fleurs-hi-1949-noise_10db",
+            "correct": {
+              "text": true,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": true,
+              "kl_wrong": true
+            },
+            "specific_rescue": false,
+            "actual_delta": 1,
+            "donor_delta": 1
+          }
+        ],
+        "actual_delta": 1,
+        "donor_delta": 0.5
+      },
+      {
+        "source_id": "fleurs-hi-1952",
+        "views": [
+          {
+            "id": "fleurs-hi-1952-clean",
+            "correct": {
+              "text": true,
+              "ce_real": true,
+              "ce_wrong": true,
+              "kl_real": false,
+              "kl_wrong": true
+            },
+            "specific_rescue": false,
+            "actual_delta": -1,
+            "donor_delta": 0
+          },
+          {
+            "id": "fleurs-hi-1952-noise_10db",
+            "correct": {
+              "text": true,
+              "ce_real": true,
+              "ce_wrong": true,
+              "kl_real": true,
+              "kl_wrong": true
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          }
+        ],
+        "actual_delta": -0.5,
+        "donor_delta": 0
+      }
+    ],
+    "primary_views": 22,
+    "correct": {
+      "text": 6,
+      "ce_real": 3,
+      "ce_wrong": 5,
+      "kl_real": 4,
+      "kl_wrong": 5
+    },
+    "positive_actual_over_donor_sources": 1,
+    "regressed_sources": 1,
+    "actual_source_equivalents": 0.5,
+    "actual_minus_donor_source_equivalents": 0.5,
+    "unambiguous_specific_rescue_sources": 1
+  },
+  "strict": {
+    "passed": false,
+    "strict": true,
+    "sources": [
+      {
+        "source_id": "fleurs-hi-1712",
+        "views": [
+          {
+            "id": "fleurs-hi-1712-clean",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          },
+          {
+            "id": "fleurs-hi-1712-noise_10db",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          }
+        ],
+        "actual_delta": 0,
+        "donor_delta": 0
+      },
+      {
+        "source_id": "fleurs-hi-1730",
+        "views": [
+          {
+            "id": "fleurs-hi-1730-clean",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          },
+          {
+            "id": "fleurs-hi-1730-noise_10db",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          }
+        ],
+        "actual_delta": 0,
+        "donor_delta": 0
+      },
+      {
+        "source_id": "fleurs-hi-1737",
+        "views": [
+          {
+            "id": "fleurs-hi-1737-clean",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": true,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": -1
+          },
+          {
+            "id": "fleurs-hi-1737-noise_10db",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          }
+        ],
+        "actual_delta": 0,
+        "donor_delta": -0.5
+      },
+      {
+        "source_id": "fleurs-hi-1744",
+        "views": [
+          {
+            "id": "fleurs-hi-1744-clean",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          },
+          {
+            "id": "fleurs-hi-1744-noise_10db",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          }
+        ],
+        "actual_delta": 0,
+        "donor_delta": 0
+      },
+      {
+        "source_id": "fleurs-hi-1761",
+        "views": [
+          {
+            "id": "fleurs-hi-1761-clean",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          },
+          {
+            "id": "fleurs-hi-1761-noise_10db",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          }
+        ],
+        "actual_delta": 0,
+        "donor_delta": 0
+      },
+      {
+        "source_id": "fleurs-hi-1882",
+        "views": [
+          {
+            "id": "fleurs-hi-1882-clean",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          },
+          {
+            "id": "fleurs-hi-1882-noise_10db",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          }
+        ],
+        "actual_delta": 0,
+        "donor_delta": 0
+      },
+      {
+        "source_id": "fleurs-hi-1890",
+        "views": [
+          {
+            "id": "fleurs-hi-1890-clean",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": true,
+              "kl_real": false,
+              "kl_wrong": true
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          },
+          {
+            "id": "fleurs-hi-1890-noise_10db",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          }
+        ],
+        "actual_delta": 0,
+        "donor_delta": 0
+      },
+      {
+        "source_id": "fleurs-hi-1911",
+        "views": [
+          {
+            "id": "fleurs-hi-1911-clean",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": true,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 1,
+            "donor_delta": 0
+          },
+          {
+            "id": "fleurs-hi-1911-noise_10db",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          }
+        ],
+        "actual_delta": 0.5,
+        "donor_delta": 0
+      },
+      {
+        "source_id": "fleurs-hi-1934",
+        "views": [
+          {
+            "id": "fleurs-hi-1934-clean",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          },
+          {
+            "id": "fleurs-hi-1934-noise_10db",
+            "correct": {
+              "text": false,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": false,
+              "kl_wrong": false
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          }
+        ],
+        "actual_delta": 0,
+        "donor_delta": 0
+      },
+      {
+        "source_id": "fleurs-hi-1949",
+        "views": [
+          {
+            "id": "fleurs-hi-1949-clean",
+            "correct": {
+              "text": true,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": true,
+              "kl_wrong": false
+            },
+            "specific_rescue": true,
+            "actual_delta": 1,
+            "donor_delta": 0
+          },
+          {
+            "id": "fleurs-hi-1949-noise_10db",
+            "correct": {
+              "text": true,
+              "ce_real": false,
+              "ce_wrong": false,
+              "kl_real": true,
+              "kl_wrong": true
+            },
+            "specific_rescue": false,
+            "actual_delta": 1,
+            "donor_delta": 1
+          }
+        ],
+        "actual_delta": 1,
+        "donor_delta": 0.5
+      },
+      {
+        "source_id": "fleurs-hi-1952",
+        "views": [
+          {
+            "id": "fleurs-hi-1952-clean",
+            "correct": {
+              "text": true,
+              "ce_real": true,
+              "ce_wrong": true,
+              "kl_real": false,
+              "kl_wrong": true
+            },
+            "specific_rescue": false,
+            "actual_delta": -1,
+            "donor_delta": 0
+          },
+          {
+            "id": "fleurs-hi-1952-noise_10db",
+            "correct": {
+              "text": true,
+              "ce_real": true,
+              "ce_wrong": true,
+              "kl_real": true,
+              "kl_wrong": true
+            },
+            "specific_rescue": false,
+            "actual_delta": 0,
+            "donor_delta": 0
+          }
+        ],
+        "actual_delta": -0.5,
+        "donor_delta": 0
+      }
+    ],
+    "primary_views": 22,
+    "correct": {
+      "text": 4,
+      "ce_real": 2,
+      "ce_wrong": 4,
+      "kl_real": 4,
+      "kl_wrong": 4
+    },
+    "positive_actual_over_donor_sources": 2,
+    "regressed_sources": 1,
+    "actual_source_equivalents": 1.0,
+    "actual_minus_donor_source_equivalents": 1.0,
+    "unambiguous_specific_rescue_sources": 1
+  },
+  "utility_gate_passed": false
+}

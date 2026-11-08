@@ -1,0 +1,578 @@
+{
+  "all": {
+    "views": 200,
+    "sources": 100,
+    "correct": {
+      "counts": {
+        "auto": 52,
+        "hint": 56,
+        "oracle": 144
+      },
+      "delta_intervention_minus_baseline": 0.02,
+      "ci95": [
+        -0.01,
+        0.055
+      ]
+    },
+    "hallucinated": {
+      "counts": {
+        "auto": 41,
+        "hint": 36,
+        "oracle": 16
+      },
+      "delta_intervention_minus_baseline": -0.025,
+      "ci95": [
+        -0.06,
+        0.01
+      ]
+    },
+    "baseline_to_oracle": {
+      "rescued_views": 100,
+      "reversed_views": 8,
+      "rescued_ids": [
+        "fleurs-hi-1660-clean",
+        "fleurs-hi-1660-noise_10db",
+        "fleurs-hi-1669-clean",
+        "fleurs-hi-1669-noise_10db",
+        "fleurs-hi-1676-clean",
+        "fleurs-hi-1676-noise_10db",
+        "fleurs-hi-1677-clean",
+        "fleurs-hi-1677-noise_10db",
+        "fleurs-hi-1678-noise_10db",
+        "fleurs-hi-1684-clean",
+        "fleurs-hi-1684-noise_10db",
+        "fleurs-hi-1702-noise_10db",
+        "fleurs-hi-1710-clean",
+        "fleurs-hi-1710-noise_10db",
+        "fleurs-hi-1716-noise_10db",
+        "fleurs-hi-1721-clean",
+        "fleurs-hi-1721-noise_10db",
+        "fleurs-hi-1722-clean",
+        "fleurs-hi-1722-noise_10db",
+        "fleurs-hi-1723-clean",
+        "fleurs-hi-1723-noise_10db",
+        "fleurs-hi-1729-noise_10db",
+        "fleurs-hi-1736-clean",
+        "fleurs-hi-1736-noise_10db",
+        "fleurs-hi-1741-noise_10db",
+        "fleurs-hi-1757-clean",
+        "fleurs-hi-1757-noise_10db",
+        "fleurs-hi-1759-clean",
+        "fleurs-hi-1759-noise_10db",
+        "fleurs-hi-1762-clean",
+        "fleurs-hi-1764-noise_10db",
+        "fleurs-hi-1776-clean",
+        "fleurs-hi-1776-noise_10db",
+        "fleurs-hi-1788-clean",
+        "fleurs-hi-1788-noise_10db",
+        "fleurs-hi-1794-clean",
+        "fleurs-hi-1794-noise_10db",
+        "fleurs-hi-1797-noise_10db",
+        "fleurs-hi-1807-clean",
+        "fleurs-hi-1807-noise_10db",
+        "fleurs-hi-1813-clean",
+        "fleurs-hi-1813-noise_10db",
+        "fleurs-hi-1826-clean",
+        "fleurs-hi-1826-noise_10db",
+        "fleurs-hi-1831-noise_10db",
+        "fleurs-hi-1835-clean",
+        "fleurs-hi-1835-noise_10db",
+        "fleurs-hi-1839-clean",
+        "fleurs-hi-1839-noise_10db",
+        "fleurs-hi-1840-noise_10db",
+        "fleurs-hi-1844-clean",
+        "fleurs-hi-1844-noise_10db",
+        "fleurs-hi-1847-clean",
+        "fleurs-hi-1847-noise_10db",
+        "fleurs-hi-1854-clean",
+        "fleurs-hi-1854-noise_10db",
+        "fleurs-hi-1862-clean",
+        "fleurs-hi-1862-noise_10db",
+        "fleurs-hi-1866-clean",
+        "fleurs-hi-1866-noise_10db",
+        "fleurs-hi-1871-noise_10db",
+        "fleurs-hi-1876-clean",
+        "fleurs-hi-1877-noise_10db",
+        "fleurs-hi-1880-noise_10db",
+        "fleurs-hi-1884-noise_10db",
+        "fleurs-hi-1889-clean",
+        "fleurs-hi-1889-noise_10db",
+        "fleurs-hi-1893-clean",
+        "fleurs-hi-1893-noise_10db",
+        "fleurs-hi-1910-clean",
+        "fleurs-hi-1910-noise_10db",
+        "fleurs-hi-1912-clean",
+        "fleurs-hi-1912-noise_10db",
+        "fleurs-hi-1915-clean",
+        "fleurs-hi-1915-noise_10db",
+        "fleurs-hi-1923-clean",
+        "fleurs-hi-1923-noise_10db",
+        "fleurs-hi-1931-clean",
+        "fleurs-hi-1931-noise_10db",
+        "fleurs-hi-1935-clean",
+        "fleurs-hi-1935-noise_10db",
+        "fleurs-hi-1956-clean",
+        "fleurs-hi-1956-noise_10db",
+        "fleurs-hi-1967-noise_10db",
+        "fleurs-hi-1970-clean",
+        "fleurs-hi-1970-noise_10db",
+        "fleurs-hi-1975-clean",
+        "fleurs-hi-1975-noise_10db",
+        "fleurs-hi-1981-noise_10db",
+        "fleurs-hi-1987-noise_10db",
+        "fleurs-hi-1993-clean",
+        "fleurs-hi-1993-noise_10db",
+        "fleurs-hi-1995-clean",
+        "fleurs-hi-1995-noise_10db",
+        "fleurs-hi-1997-clean",
+        "fleurs-hi-1997-noise_10db",
+        "fleurs-hi-2006-clean",
+        "fleurs-hi-2006-noise_10db",
+        "fleurs-hi-2007-clean",
+        "fleurs-hi-2007-noise_10db"
+      ],
+      "reversed_ids": [
+        "fleurs-hi-1720-noise_10db",
+        "fleurs-hi-1770-noise_10db",
+        "fleurs-hi-1815-clean",
+        "fleurs-hi-1821-clean",
+        "fleurs-hi-1821-noise_10db",
+        "fleurs-hi-1873-clean",
+        "fleurs-hi-1944-noise_10db",
+        "fleurs-hi-1953-clean"
+      ]
+    }
+  },
+  "clean": {
+    "views": 100,
+    "sources": 100,
+    "correct": {
+      "counts": {
+        "auto": 33,
+        "hint": 35,
+        "oracle": 72
+      },
+      "delta_intervention_minus_baseline": 0.02,
+      "ci95": [
+        -0.02,
+        0.06
+      ]
+    },
+    "hallucinated": {
+      "counts": {
+        "auto": 17,
+        "hint": 15,
+        "oracle": 8
+      },
+      "delta_intervention_minus_baseline": -0.02,
+      "ci95": [
+        -0.07,
+        0.02
+      ]
+    },
+    "baseline_to_oracle": {
+      "rescued_views": 43,
+      "reversed_views": 4,
+      "rescued_ids": [
+        "fleurs-hi-1660-clean",
+        "fleurs-hi-1669-clean",
+        "fleurs-hi-1676-clean",
+        "fleurs-hi-1677-clean",
+        "fleurs-hi-1684-clean",
+        "fleurs-hi-1710-clean",
+        "fleurs-hi-1721-clean",
+        "fleurs-hi-1722-clean",
+        "fleurs-hi-1723-clean",
+        "fleurs-hi-1736-clean",
+        "fleurs-hi-1757-clean",
+        "fleurs-hi-1759-clean",
+        "fleurs-hi-1762-clean",
+        "fleurs-hi-1776-clean",
+        "fleurs-hi-1788-clean",
+        "fleurs-hi-1794-clean",
+        "fleurs-hi-1807-clean",
+        "fleurs-hi-1813-clean",
+        "fleurs-hi-1826-clean",
+        "fleurs-hi-1835-clean",
+        "fleurs-hi-1839-clean",
+        "fleurs-hi-1844-clean",
+        "fleurs-hi-1847-clean",
+        "fleurs-hi-1854-clean",
+        "fleurs-hi-1862-clean",
+        "fleurs-hi-1866-clean",
+        "fleurs-hi-1876-clean",
+        "fleurs-hi-1889-clean",
+        "fleurs-hi-1893-clean",
+        "fleurs-hi-1910-clean",
+        "fleurs-hi-1912-clean",
+        "fleurs-hi-1915-clean",
+        "fleurs-hi-1923-clean",
+        "fleurs-hi-1931-clean",
+        "fleurs-hi-1935-clean",
+        "fleurs-hi-1956-clean",
+        "fleurs-hi-1970-clean",
+        "fleurs-hi-1975-clean",
+        "fleurs-hi-1993-clean",
+        "fleurs-hi-1995-clean",
+        "fleurs-hi-1997-clean",
+        "fleurs-hi-2006-clean",
+        "fleurs-hi-2007-clean"
+      ],
+      "reversed_ids": [
+        "fleurs-hi-1815-clean",
+        "fleurs-hi-1821-clean",
+        "fleurs-hi-1873-clean",
+        "fleurs-hi-1953-clean"
+      ]
+    }
+  },
+  "clean/answerable": {
+    "views": 80,
+    "sources": 80,
+    "correct": {
+      "counts": {
+        "auto": 24,
+        "hint": 26,
+        "oracle": 62
+      },
+      "delta_intervention_minus_baseline": 0.025,
+      "ci95": [
+        -0.025,
+        0.075
+      ]
+    },
+    "hallucinated": {
+      "counts": {
+        "auto": 10,
+        "hint": 8,
+        "oracle": 3
+      },
+      "delta_intervention_minus_baseline": -0.025,
+      "ci95": [
+        -0.0875,
+        0.0375
+      ]
+    },
+    "baseline_to_oracle": {
+      "rescued_views": 41,
+      "reversed_views": 3,
+      "rescued_ids": [
+        "fleurs-hi-1660-clean",
+        "fleurs-hi-1669-clean",
+        "fleurs-hi-1676-clean",
+        "fleurs-hi-1677-clean",
+        "fleurs-hi-1684-clean",
+        "fleurs-hi-1710-clean",
+        "fleurs-hi-1721-clean",
+        "fleurs-hi-1722-clean",
+        "fleurs-hi-1723-clean",
+        "fleurs-hi-1736-clean",
+        "fleurs-hi-1757-clean",
+        "fleurs-hi-1759-clean",
+        "fleurs-hi-1762-clean",
+        "fleurs-hi-1776-clean",
+        "fleurs-hi-1788-clean",
+        "fleurs-hi-1794-clean",
+        "fleurs-hi-1807-clean",
+        "fleurs-hi-1813-clean",
+        "fleurs-hi-1826-clean",
+        "fleurs-hi-1835-clean",
+        "fleurs-hi-1839-clean",
+        "fleurs-hi-1844-clean",
+        "fleurs-hi-1847-clean",
+        "fleurs-hi-1854-clean",
+        "fleurs-hi-1862-clean",
+        "fleurs-hi-1866-clean",
+        "fleurs-hi-1889-clean",
+        "fleurs-hi-1893-clean",
+        "fleurs-hi-1910-clean",
+        "fleurs-hi-1912-clean",
+        "fleurs-hi-1915-clean",
+        "fleurs-hi-1923-clean",
+        "fleurs-hi-1931-clean",
+        "fleurs-hi-1935-clean",
+        "fleurs-hi-1956-clean",
+        "fleurs-hi-1975-clean",
+        "fleurs-hi-1993-clean",
+        "fleurs-hi-1995-clean",
+        "fleurs-hi-1997-clean",
+        "fleurs-hi-2006-clean",
+        "fleurs-hi-2007-clean"
+      ],
+      "reversed_ids": [
+        "fleurs-hi-1815-clean",
+        "fleurs-hi-1873-clean",
+        "fleurs-hi-1953-clean"
+      ]
+    }
+  },
+  "clean/unanswerable": {
+    "views": 20,
+    "sources": 20,
+    "correct": {
+      "counts": {
+        "auto": 9,
+        "hint": 9,
+        "oracle": 10
+      },
+      "delta_intervention_minus_baseline": 0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    "hallucinated": {
+      "counts": {
+        "auto": 7,
+        "hint": 7,
+        "oracle": 5
+      },
+      "delta_intervention_minus_baseline": 0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    "baseline_to_oracle": {
+      "rescued_views": 2,
+      "reversed_views": 1,
+      "rescued_ids": [
+        "fleurs-hi-1876-clean",
+        "fleurs-hi-1970-clean"
+      ],
+      "reversed_ids": [
+        "fleurs-hi-1821-clean"
+      ]
+    }
+  },
+  "noise_10db": {
+    "views": 100,
+    "sources": 100,
+    "correct": {
+      "counts": {
+        "auto": 19,
+        "hint": 21,
+        "oracle": 72
+      },
+      "delta_intervention_minus_baseline": 0.02,
+      "ci95": [
+        -0.02,
+        0.06
+      ]
+    },
+    "hallucinated": {
+      "counts": {
+        "auto": 24,
+        "hint": 21,
+        "oracle": 8
+      },
+      "delta_intervention_minus_baseline": -0.03,
+      "ci95": [
+        -0.08,
+        0.01
+      ]
+    },
+    "baseline_to_oracle": {
+      "rescued_views": 57,
+      "reversed_views": 4,
+      "rescued_ids": [
+        "fleurs-hi-1660-noise_10db",
+        "fleurs-hi-1669-noise_10db",
+        "fleurs-hi-1676-noise_10db",
+        "fleurs-hi-1677-noise_10db",
+        "fleurs-hi-1678-noise_10db",
+        "fleurs-hi-1684-noise_10db",
+        "fleurs-hi-1702-noise_10db",
+        "fleurs-hi-1710-noise_10db",
+        "fleurs-hi-1716-noise_10db",
+        "fleurs-hi-1721-noise_10db",
+        "fleurs-hi-1722-noise_10db",
+        "fleurs-hi-1723-noise_10db",
+        "fleurs-hi-1729-noise_10db",
+        "fleurs-hi-1736-noise_10db",
+        "fleurs-hi-1741-noise_10db",
+        "fleurs-hi-1757-noise_10db",
+        "fleurs-hi-1759-noise_10db",
+        "fleurs-hi-1764-noise_10db",
+        "fleurs-hi-1776-noise_10db",
+        "fleurs-hi-1788-noise_10db",
+        "fleurs-hi-1794-noise_10db",
+        "fleurs-hi-1797-noise_10db",
+        "fleurs-hi-1807-noise_10db",
+        "fleurs-hi-1813-noise_10db",
+        "fleurs-hi-1826-noise_10db",
+        "fleurs-hi-1831-noise_10db",
+        "fleurs-hi-1835-noise_10db",
+        "fleurs-hi-1839-noise_10db",
+        "fleurs-hi-1840-noise_10db",
+        "fleurs-hi-1844-noise_10db",
+        "fleurs-hi-1847-noise_10db",
+        "fleurs-hi-1854-noise_10db",
+        "fleurs-hi-1862-noise_10db",
+        "fleurs-hi-1866-noise_10db",
+        "fleurs-hi-1871-noise_10db",
+        "fleurs-hi-1877-noise_10db",
+        "fleurs-hi-1880-noise_10db",
+        "fleurs-hi-1884-noise_10db",
+        "fleurs-hi-1889-noise_10db",
+        "fleurs-hi-1893-noise_10db",
+        "fleurs-hi-1910-noise_10db",
+        "fleurs-hi-1912-noise_10db",
+        "fleurs-hi-1915-noise_10db",
+        "fleurs-hi-1923-noise_10db",
+        "fleurs-hi-1931-noise_10db",
+        "fleurs-hi-1935-noise_10db",
+        "fleurs-hi-1956-noise_10db",
+        "fleurs-hi-1967-noise_10db",
+        "fleurs-hi-1970-noise_10db",
+        "fleurs-hi-1975-noise_10db",
+        "fleurs-hi-1981-noise_10db",
+        "fleurs-hi-1987-noise_10db",
+        "fleurs-hi-1993-noise_10db",
+        "fleurs-hi-1995-noise_10db",
+        "fleurs-hi-1997-noise_10db",
+        "fleurs-hi-2006-noise_10db",
+        "fleurs-hi-2007-noise_10db"
+      ],
+      "reversed_ids": [
+        "fleurs-hi-1720-noise_10db",
+        "fleurs-hi-1770-noise_10db",
+        "fleurs-hi-1821-noise_10db",
+        "fleurs-hi-1944-noise_10db"
+      ]
+    }
+  },
+  "noise_10db/answerable": {
+    "views": 80,
+    "sources": 80,
+    "correct": {
+      "counts": {
+        "auto": 10,
+        "hint": 12,
+        "oracle": 62
+      },
+      "delta_intervention_minus_baseline": 0.025,
+      "ci95": [
+        -0.025,
+        0.075
+      ]
+    },
+    "hallucinated": {
+      "counts": {
+        "auto": 16,
+        "hint": 13,
+        "oracle": 3
+      },
+      "delta_intervention_minus_baseline": -0.0375,
+      "ci95": [
+        -0.0875,
+        0.0125
+      ]
+    },
+    "baseline_to_oracle": {
+      "rescued_views": 54,
+      "reversed_views": 2,
+      "rescued_ids": [
+        "fleurs-hi-1660-noise_10db",
+        "fleurs-hi-1669-noise_10db",
+        "fleurs-hi-1676-noise_10db",
+        "fleurs-hi-1677-noise_10db",
+        "fleurs-hi-1678-noise_10db",
+        "fleurs-hi-1684-noise_10db",
+        "fleurs-hi-1702-noise_10db",
+        "fleurs-hi-1710-noise_10db",
+        "fleurs-hi-1716-noise_10db",
+        "fleurs-hi-1721-noise_10db",
+        "fleurs-hi-1722-noise_10db",
+        "fleurs-hi-1723-noise_10db",
+        "fleurs-hi-1729-noise_10db",
+        "fleurs-hi-1736-noise_10db",
+        "fleurs-hi-1757-noise_10db",
+        "fleurs-hi-1759-noise_10db",
+        "fleurs-hi-1764-noise_10db",
+        "fleurs-hi-1776-noise_10db",
+        "fleurs-hi-1788-noise_10db",
+        "fleurs-hi-1794-noise_10db",
+        "fleurs-hi-1797-noise_10db",
+        "fleurs-hi-1807-noise_10db",
+        "fleurs-hi-1813-noise_10db",
+        "fleurs-hi-1826-noise_10db",
+        "fleurs-hi-1831-noise_10db",
+        "fleurs-hi-1835-noise_10db",
+        "fleurs-hi-1839-noise_10db",
+        "fleurs-hi-1840-noise_10db",
+        "fleurs-hi-1844-noise_10db",
+        "fleurs-hi-1847-noise_10db",
+        "fleurs-hi-1854-noise_10db",
+        "fleurs-hi-1862-noise_10db",
+        "fleurs-hi-1866-noise_10db",
+        "fleurs-hi-1871-noise_10db",
+        "fleurs-hi-1877-noise_10db",
+        "fleurs-hi-1884-noise_10db",
+        "fleurs-hi-1889-noise_10db",
+        "fleurs-hi-1893-noise_10db",
+        "fleurs-hi-1910-noise_10db",
+        "fleurs-hi-1912-noise_10db",
+        "fleurs-hi-1915-noise_10db",
+        "fleurs-hi-1923-noise_10db",
+        "fleurs-hi-1931-noise_10db",
+        "fleurs-hi-1935-noise_10db",
+        "fleurs-hi-1956-noise_10db",
+        "fleurs-hi-1967-noise_10db",
+        "fleurs-hi-1975-noise_10db",
+        "fleurs-hi-1981-noise_10db",
+        "fleurs-hi-1987-noise_10db",
+        "fleurs-hi-1993-noise_10db",
+        "fleurs-hi-1995-noise_10db",
+        "fleurs-hi-1997-noise_10db",
+        "fleurs-hi-2006-noise_10db",
+        "fleurs-hi-2007-noise_10db"
+      ],
+      "reversed_ids": [
+        "fleurs-hi-1720-noise_10db",
+        "fleurs-hi-1944-noise_10db"
+      ]
+    }
+  },
+  "noise_10db/unanswerable": {
+    "views": 20,
+    "sources": 20,
+    "correct": {
+      "counts": {
+        "auto": 9,
+        "hint": 9,
+        "oracle": 10
+      },
+      "delta_intervention_minus_baseline": 0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    "hallucinated": {
+      "counts": {
+        "auto": 8,
+        "hint": 8,
+        "oracle": 5
+      },
+      "delta_intervention_minus_baseline": 0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    "baseline_to_oracle": {
+      "rescued_views": 3,
+      "reversed_views": 2,
+      "rescued_ids": [
+        "fleurs-hi-1741-noise_10db",
+        "fleurs-hi-1880-noise_10db",
+        "fleurs-hi-1970-noise_10db"
+      ],
+      "reversed_ids": [
+        "fleurs-hi-1770-noise_10db",
+        "fleurs-hi-1821-noise_10db"
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "event": "fresh_qa_freeze",
+  "date": "2026-11-06",
+  "path": "data/qa-v1.jsonl",
+  "sha256": "8c3ea7780a8ea5a594dd09b8b8f6b94133a41a6497afe240ee024f87a6fd4937",
+  "source_selection_sha256": "890ad93143c644a8dde28d3c30c5c77319d370a4ec21b602c44a544c1a5f70e2",
+  "sources": 100,
+  "answerable": 80,
+  "unanswerable": 20,
+  "author_category": "model",
+  "reviewer": "independent native interface_reviewer agent",
+  "reviewer_category": "model",
+  "review_scope": "all 100 publisher transcript/question/alias records; evidence support and missing detail; cached publisher metadata and recording path",
+  "review_limitations": [
+    "no audio listening",
+    "no independent waveform rehash",
+    "topic overlap remains",
+    "speaker separation unknown",
+    "question-only baseline required to assess question cues"
+  ],
+  "revisions": 0,
+  "fresh_inference_rows_at_freeze": 0,
+  "test_unlock_condition": "paired historical pilot gate passes"
+}

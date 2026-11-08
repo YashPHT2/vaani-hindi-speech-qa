@@ -1,0 +1,123 @@
+{
+  "status": "verified",
+  "result_sha256": "8877c11b117f3db234fd49e505c39877fdd4be65d4b7340b3f3050acebdf12f7",
+  "independent_sources": 1,
+  "conditions": 2,
+  "input_audio_records": 6,
+  "candidate_forward_scores": 12,
+  "training_updates": 0,
+  "fresh_predictions": 0,
+  "lexical_token_counts": {
+    "plus": 192,
+    "minus": 172
+  },
+  "token_regions": {
+    "common_prefix_lexical_tokens": 33,
+    "common_suffix_lexical_tokens": 139,
+    "plus_differing_span": [
+      33,
+      53
+    ],
+    "minus_differing_span": [
+      33,
+      33
+    ]
+  },
+  "comparisons": [
+    {
+      "condition": "clean",
+      "actual_preference": {
+        "lexical_sum_logp": 0.4653778076171875,
+        "lexical_mean_logp": 0.08908843994140625,
+        "sequence_sum_logp": 0.5228729248046875,
+        "sequence_mean_logp": 0.08913791179656982,
+        "differing_span_sum_logp": -13.676445007324219,
+        "first_divergent_token_logp": 6.8667958453297615
+      },
+      "silence_preference": {
+        "lexical_sum_logp": -50.3555908203125,
+        "lexical_mean_logp": -0.017331600189208984,
+        "sequence_sum_logp": -50.270294189453125,
+        "sequence_mean_logp": -0.016547203063964844,
+        "differing_span_sum_logp": -45.1065673828125,
+        "first_divergent_token_logp": -0.27417540550231934
+      },
+      "mismatch_preference": {
+        "lexical_sum_logp": -50.13922119140625,
+        "lexical_mean_logp": -0.017623424530029297,
+        "sequence_sum_logp": -49.993072509765625,
+        "sequence_mean_logp": -0.016416311264038086,
+        "differing_span_sum_logp": -45.85247039794922,
+        "first_divergent_token_logp": -0.21973633766174316
+      },
+      "actual_minus_silence": {
+        "lexical_sum_logp": 50.82096862792969,
+        "lexical_mean_logp": 0.10642004013061523,
+        "sequence_sum_logp": 50.79316711425781,
+        "sequence_mean_logp": 0.10568511486053467,
+        "differing_span_sum_logp": 31.43012237548828,
+        "first_divergent_token_logp": 7.140971250832081
+      },
+      "actual_minus_mismatch": {
+        "lexical_sum_logp": 50.60459899902344,
+        "lexical_mean_logp": 0.10671186447143555,
+        "sequence_sum_logp": 50.51594543457031,
+        "sequence_mean_logp": 0.10555422306060791,
+        "differing_span_sum_logp": 32.176025390625,
+        "first_divergent_token_logp": 7.086532182991505
+      }
+    },
+    {
+      "condition": "noise_10db",
+      "actual_preference": {
+        "lexical_sum_logp": 3.1148529052734375,
+        "lexical_mean_logp": 0.11225903034210205,
+        "sequence_sum_logp": 3.184844970703125,
+        "sequence_mean_logp": 0.11221975088119507,
+        "differing_span_sum_logp": -12.249767303466797,
+        "first_divergent_token_logp": 7.668069377541542
+      },
+      "silence_preference": {
+        "lexical_sum_logp": -50.3555908203125,
+        "lexical_mean_logp": -0.017331600189208984,
+        "sequence_sum_logp": -50.270294189453125,
+        "sequence_mean_logp": -0.016547203063964844,
+        "differing_span_sum_logp": -45.1065673828125,
+        "first_divergent_token_logp": -0.27417540550231934
+      },
+      "mismatch_preference": {
+        "lexical_sum_logp": -51.529876708984375,
+        "lexical_mean_logp": -0.023020267486572266,
+        "sequence_sum_logp": -51.371612548828125,
+        "sequence_mean_logp": -0.022109508514404297,
+        "differing_span_sum_logp": -47.1651611328125,
+        "first_divergent_token_logp": -0.09352302551269531
+      },
+      "actual_minus_silence": {
+        "lexical_sum_logp": 53.47044372558594,
+        "lexical_mean_logp": 0.12959063053131104,
+        "sequence_sum_logp": 53.45513916015625,
+        "sequence_mean_logp": 0.1287669539451599,
+        "differing_span_sum_logp": 32.8568000793457,
+        "first_divergent_token_logp": 7.942244783043861
+      },
+      "actual_minus_mismatch": {
+        "lexical_sum_logp": 54.64472961425781,
+        "lexical_mean_logp": 0.13527929782867432,
+        "sequence_sum_logp": 54.55645751953125,
+        "sequence_mean_logp": 0.13432925939559937,
+        "differing_span_sum_logp": 34.9153938293457,
+        "first_divergent_token_logp": 7.761592403054237
+      }
+    }
+  ],
+  "elapsed_s": 11.566379973,
+  "peak_cuda_bytes": 593957888,
+  "interpretation": "Exploratory frozen-decoder synthetic-deletion sensitivity only",
+  "limitations": [
+    "Negative is synthetic omission, not literal ASRalternative; token lengths differ.",
+    "Full-recording controls alter all acoustic content; no target-localization proof.",
+    "User confirmed target phrase only; publisher context not fully transcribed by human.",
+    "No encoder-absence, learned-interface, QA-improvement or generalization conclusion from one source."
+  ]
+}

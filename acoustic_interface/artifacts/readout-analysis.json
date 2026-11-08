@@ -1,0 +1,498 @@
+{
+  "status": "verified_guards_pass",
+  "result_sha256": "79a21866599e9befbfba747c34491ef5e115b5a3c8680fa156423877dfbdcef6",
+  "sources": 1,
+  "views": 2,
+  "responses": 12,
+  "training_updates": 0,
+  "fresh_predictions": 0,
+  "new_distinct_review_cases": 1,
+  "comparisons": [
+    {
+      "condition": "clean",
+      "arms": [
+        {
+          "arm": "A_text",
+          "answer": "अज्ञात",
+          "K": 0,
+          "candidate_count": 0,
+          "selected_frames": [],
+          "nll": 1.7985724210739136,
+          "nll_improvement_over_text": 0.0,
+          "exact_match": false,
+          "memory_norm_ratio": null
+        },
+        {
+          "arm": "B_existing_DTW",
+          "answer": "अज्ञात",
+          "K": 4,
+          "candidate_count": 46,
+          "selected_frames": [
+            [
+              88,
+              98
+            ],
+            [
+              126,
+              147
+            ],
+            [
+              152,
+              160
+            ],
+            [
+              494,
+              502
+            ]
+          ],
+          "nll": 1.2841796875,
+          "nll_improvement_over_text": 0.5143927335739136,
+          "exact_match": false,
+          "memory_norm_ratio": 21.551008224487305
+        },
+        {
+          "arm": "C_reported_window",
+          "answer": "अज्ञात",
+          "K": 4,
+          "candidate_count": 4,
+          "selected_frames": [
+            [
+              145,
+              160
+            ],
+            [
+              160,
+              175
+            ],
+            [
+              175,
+              190
+            ],
+            [
+              190,
+              205
+            ]
+          ],
+          "nll": 1.323631763458252,
+          "nll_improvement_over_text": 0.4749406576156616,
+          "exact_match": false,
+          "memory_norm_ratio": 16.70555305480957
+        },
+        {
+          "arm": "D_hybrid_fallback",
+          "answer": "अज्ञात",
+          "K": 4,
+          "candidate_count": 46,
+          "selected_frames": [
+            [
+              88,
+              98
+            ],
+            [
+              126,
+              147
+            ],
+            [
+              152,
+              160
+            ],
+            [
+              494,
+              502
+            ]
+          ],
+          "nll": 1.2841796875,
+          "nll_improvement_over_text": 0.5143927335739136,
+          "exact_match": false,
+          "memory_norm_ratio": 21.551008224487305
+        },
+        {
+          "arm": "E_oracle_mismatch",
+          "answer": "नहीं",
+          "K": 4,
+          "candidate_count": 4,
+          "selected_frames": [
+            [
+              145,
+              160
+            ],
+            [
+              160,
+              175
+            ],
+            [
+              175,
+              190
+            ],
+            [
+              190,
+              205
+            ]
+          ],
+          "nll": 1.1945973634719849,
+          "nll_improvement_over_text": 0.6039750576019287,
+          "exact_match": false,
+          "memory_norm_ratio": 17.479705810546875
+        },
+        {
+          "arm": "E_fallback_mismatch",
+          "answer": "नहीं",
+          "K": 4,
+          "candidate_count": 46,
+          "selected_frames": [
+            [
+              81,
+              89
+            ],
+            [
+              88,
+              98
+            ],
+            [
+              119,
+              127
+            ],
+            [
+              126,
+              147
+            ]
+          ],
+          "nll": 1.232313632965088,
+          "nll_improvement_over_text": 0.5662587881088257,
+          "exact_match": false,
+          "memory_norm_ratio": 21.416114807128906
+        }
+      ],
+      "availability_gate": null,
+      "semantic": {
+        "A_text": {
+          "case": "ca80b5f77f3c260a3e46",
+          "correct": false,
+          "hallucinated": false,
+          "reason": "Abstains despite explicit light pollution.",
+          "ambiguous": false
+        },
+        "B_existing_DTW": {
+          "case": "ca80b5f77f3c260a3e46",
+          "correct": false,
+          "hallucinated": false,
+          "reason": "Abstains despite explicit light pollution.",
+          "ambiguous": false
+        },
+        "C_reported_window": {
+          "case": "ca80b5f77f3c260a3e46",
+          "correct": false,
+          "hallucinated": false,
+          "reason": "Abstains despite explicit light pollution.",
+          "ambiguous": false
+        },
+        "D_hybrid_fallback": {
+          "case": "ca80b5f77f3c260a3e46",
+          "correct": false,
+          "hallucinated": false,
+          "reason": "Abstains despite explicit light pollution.",
+          "ambiguous": false
+        },
+        "E_oracle_mismatch": {
+          "case": "04adbd8d168d2349eea7",
+          "correct": false,
+          "hallucinated": false,
+          "ambiguous": false,
+          "reason": "नहीं alone does not identify the requested problem (light pollution). It is an incomplete negative response, not a specific unsupported factual assertion.",
+          "reviewer": "independent model reviewer",
+          "human_review": false,
+          "audio_listened": false
+        },
+        "E_fallback_mismatch": {
+          "case": "04adbd8d168d2349eea7",
+          "correct": false,
+          "hallucinated": false,
+          "ambiguous": false,
+          "reason": "नहीं alone does not identify the requested problem (light pollution). It is an incomplete negative response, not a specific unsupported factual assertion.",
+          "reviewer": "independent model reviewer",
+          "human_review": false,
+          "audio_listened": false
+        }
+      },
+      "automatic_specificity_ambiguous": false,
+      "privileged_specificity_ambiguous": false,
+      "automatic_specific_rescue": false,
+      "privileged_specific_rescue": false,
+      "automatic_regression_vs_text": false,
+      "privileged_regression_vs_text": false
+    },
+    {
+      "condition": "noise_10db",
+      "arms": [
+        {
+          "arm": "A_text",
+          "answer": "अज्ञात",
+          "K": 0,
+          "candidate_count": 0,
+          "selected_frames": [],
+          "nll": 2.340650796890259,
+          "nll_improvement_over_text": 0.0,
+          "exact_match": false,
+          "memory_norm_ratio": null
+        },
+        {
+          "arm": "B_existing_DTW",
+          "answer": "अज्ञात",
+          "K": 0,
+          "candidate_count": 0,
+          "selected_frames": [],
+          "nll": 2.340650796890259,
+          "nll_improvement_over_text": 0.0,
+          "exact_match": false,
+          "memory_norm_ratio": null
+        },
+        {
+          "arm": "C_reported_window",
+          "answer": "अज्ञात",
+          "K": 4,
+          "candidate_count": 4,
+          "selected_frames": [
+            [
+              145,
+              160
+            ],
+            [
+              160,
+              175
+            ],
+            [
+              175,
+              190
+            ],
+            [
+              190,
+              205
+            ]
+          ],
+          "nll": 2.1292436122894287,
+          "nll_improvement_over_text": 0.21140718460083008,
+          "exact_match": false,
+          "memory_norm_ratio": 16.844816207885742
+        },
+        {
+          "arm": "D_hybrid_fallback",
+          "answer": "अज्ञात",
+          "K": 4,
+          "candidate_count": 35,
+          "selected_frames": [
+            [
+              80,
+              100
+            ],
+            [
+              100,
+              120
+            ],
+            [
+              120,
+              140
+            ],
+            [
+              140,
+              160
+            ]
+          ],
+          "nll": 1.9484108686447144,
+          "nll_improvement_over_text": 0.39223992824554443,
+          "exact_match": false,
+          "memory_norm_ratio": 20.582422256469727
+        },
+        {
+          "arm": "E_oracle_mismatch",
+          "answer": "अज्ञात",
+          "K": 4,
+          "candidate_count": 4,
+          "selected_frames": [
+            [
+              145,
+              160
+            ],
+            [
+              160,
+              175
+            ],
+            [
+              175,
+              190
+            ],
+            [
+              190,
+              205
+            ]
+          ],
+          "nll": 2.05759596824646,
+          "nll_improvement_over_text": 0.28305482864379883,
+          "exact_match": false,
+          "memory_norm_ratio": 16.771408081054688
+        },
+        {
+          "arm": "E_fallback_mismatch",
+          "answer": "अज्ञात",
+          "K": 4,
+          "candidate_count": 35,
+          "selected_frames": [
+            [
+              80,
+              100
+            ],
+            [
+              100,
+              120
+            ],
+            [
+              120,
+              140
+            ],
+            [
+              160,
+              180
+            ]
+          ],
+          "nll": 2.0715208053588867,
+          "nll_improvement_over_text": 0.26912999153137207,
+          "exact_match": false,
+          "memory_norm_ratio": 19.5455265045166
+        }
+      ],
+      "availability_gate": true,
+      "semantic": {
+        "A_text": {
+          "case": "ca80b5f77f3c260a3e46",
+          "correct": false,
+          "hallucinated": false,
+          "reason": "Abstains despite explicit light pollution.",
+          "ambiguous": false
+        },
+        "B_existing_DTW": {
+          "case": "ca80b5f77f3c260a3e46",
+          "correct": false,
+          "hallucinated": false,
+          "reason": "Abstains despite explicit light pollution.",
+          "ambiguous": false
+        },
+        "C_reported_window": {
+          "case": "ca80b5f77f3c260a3e46",
+          "correct": false,
+          "hallucinated": false,
+          "reason": "Abstains despite explicit light pollution.",
+          "ambiguous": false
+        },
+        "D_hybrid_fallback": {
+          "case": "ca80b5f77f3c260a3e46",
+          "correct": false,
+          "hallucinated": false,
+          "reason": "Abstains despite explicit light pollution.",
+          "ambiguous": false
+        },
+        "E_oracle_mismatch": {
+          "case": "ca80b5f77f3c260a3e46",
+          "correct": false,
+          "hallucinated": false,
+          "reason": "Abstains despite explicit light pollution.",
+          "ambiguous": false
+        },
+        "E_fallback_mismatch": {
+          "case": "ca80b5f77f3c260a3e46",
+          "correct": false,
+          "hallucinated": false,
+          "reason": "Abstains despite explicit light pollution.",
+          "ambiguous": false
+        }
+      },
+      "automatic_specificity_ambiguous": false,
+      "privileged_specificity_ambiguous": false,
+      "automatic_specific_rescue": false,
+      "privileged_specific_rescue": false,
+      "automatic_regression_vs_text": false,
+      "privileged_regression_vs_text": false
+    }
+  ],
+  "cache_audit_groups": [
+    {
+      "historical_split": "dev",
+      "condition": "clean",
+      "allowed_views": 12,
+      "available": 12,
+      "missing": 0,
+      "empty_ids": [],
+      "empty_distinct_source_ids": [],
+      "median_wer_empty": null,
+      "median_wer_nonempty": 0.5761217948717949,
+      "median_coverage": 0.9339094650205761
+    },
+    {
+      "historical_split": "dev",
+      "condition": "noise_10db",
+      "allowed_views": 12,
+      "available": 12,
+      "missing": 0,
+      "empty_ids": [
+        "fleurs-hi-1806-noise_10db"
+      ],
+      "empty_distinct_source_ids": [
+        "fleurs-hi-1806"
+      ],
+      "median_wer_empty": 2.027027027027027,
+      "median_wer_nonempty": 0.7619047619047619,
+      "median_coverage": 0.913778099101632
+    },
+    {
+      "historical_split": "test",
+      "condition": "clean",
+      "allowed_views": 100,
+      "available": 32,
+      "missing": 68,
+      "empty_ids": [
+        "fleurs-hi-1866-clean",
+        "fleurs-hi-1794-clean",
+        "fleurs-hi-1997-clean",
+        "fleurs-hi-2007-clean",
+        "fleurs-hi-1829-clean"
+      ],
+      "empty_distinct_source_ids": [
+        "fleurs-hi-1794",
+        "fleurs-hi-1829",
+        "fleurs-hi-1866",
+        "fleurs-hi-1997",
+        "fleurs-hi-2007"
+      ],
+      "median_wer_empty": 1.0,
+      "median_wer_nonempty": 0.53125,
+      "median_coverage": 0.9218145912719384
+    },
+    {
+      "historical_split": "test",
+      "condition": "noise_10db",
+      "allowed_views": 100,
+      "available": 32,
+      "missing": 68,
+      "empty_ids": [
+        "fleurs-hi-1997-noise_10db",
+        "fleurs-hi-2007-noise_10db",
+        "fleurs-hi-1670-noise_10db",
+        "fleurs-hi-1880-noise_10db",
+        "fleurs-hi-1797-noise_10db",
+        "fleurs-hi-1676-noise_10db"
+      ],
+      "empty_distinct_source_ids": [
+        "fleurs-hi-1670",
+        "fleurs-hi-1676",
+        "fleurs-hi-1797",
+        "fleurs-hi-1880",
+        "fleurs-hi-1997",
+        "fleurs-hi-2007"
+      ],
+      "median_wer_empty": 1.0,
+      "median_wer_nonempty": 0.6525241675617615,
+      "median_coverage": 0.9309520005680406
+    }
+  ],
+  "unique_cached_sources": 44,
+  "unique_empty_sources": 10,
+  "limitation": "Existing checkpoint, new candidate distribution, one source; NLL/coverage do not establish generated-answer utility."
+}
